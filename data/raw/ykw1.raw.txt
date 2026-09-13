@@ -1,0 +1,2022 @@
+A list of [[Yo-kai]] that debuted in ''[[Yo-kai Watch (video game)|Yo-kai Watch]]'', and organized in order of appearance in the [[Yo-kai Medallium]].
+
+<!-- Do NOT add Ukiukipedia Renders or official art of Yo-kai to the page. Medal icons from their respective in-game medallium are only allowed. -->
+
+== List of Yo-kai by Medallium Number ==
+
+=== 001 - 027 Brave ===
+{| class="main roundy" align="center" style="border: 1px solid #54B3D8; width: 60%; text-align:center;"
+!No.
+!Icon
+!Yo-kai
+!Rank
+!Tribe
+!Attri.
+!Fav. Food
+|-
+|001
+|[[File:Pandicon.png|30px|link=]]
+|[[Pandle]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[Image:Fire icon.PNG|30px|link=Fire (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Rice_Balls Rice Balls]
+|-
+|002
+|[[File:Undicon.png|30px|link=]]
+|[[Undy]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Fire_icon.PNG|30px|link=Fire (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Rice_Balls Rice Balls]
+|-
+|003
+|[[File:Tanbicon.png|30px|link=]]
+|[[Tanbo]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Earth_icon.PNG|30px|link=Earth (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Rice_Balls Rice Balls]
+|-
+|004
+|[[File:Cuttaicon.png|30px|link=]]
+|[[Cutta-nah]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Wind_icon.PNG|30px|link=Wind (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Juice Juice]
+|-
+|005
+|[[File:Cuttanahicon.png|30px|link=]]
+|[[Cutta-nah-nah]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Wind_icon.PNG|30px|link=Wind (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Juice Juice]
+|-
+|006
+|[[File:Slackaicon.png|30px|link=]]
+|[[Slacka-slash]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Ice_icon.PNG|30px|link=Ice (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Juice Juice]
+|-
+|007
+|[[File:Mochicon.png|30px|link=]]
+|[[Mochismo]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Earth_icon.PNG|30px|link=Earth (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Rice_Balls Rice Balls]
+|-
+|008
+|[[File:Minoicon.png|30px|link=]]
+|[[Minochi]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Fire_icon.PNG|30px|link=Fire (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Rice_Balls Rice Balls]
+|-
+|009
+|[[File:Helmsicon.png|30px|link=]]
+|[[Helmsman]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Lightning_icon.PNG|30px|link=Lightning (attribute)]]
+|[[List of Yo-kai by Medallium Number (Yo-kai Watch 3)|Vegetables]]
+|-
+|010
+|[[File:Reuknicon.png|30px|link=]]
+|[[Reuknight]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Lightning_icon.PNG|30px|link=Lightning (attribute)]]
+|[[List of Yo-kai by Medallium Number (Yo-kai Watch 3)|Vegetables]]
+|-
+|011
+|[[File:Corptaicon.png|30px|link=]]
+|[[Corptain]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Drain_icon.PNG|30px|link=Drain (attribute)]]
+|[[List of Yo-kai by Medallium Number (Yo-kai Watch 3)|Vegetables]]
+|-
+|012
+|[[File:Blazicon.png|30px|link=]]
+|[[Blazion]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Fire_icon.PNG|30px|link=Fire (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Meat Meat]
+|-
+|013
+|[[File:Quakicon.png|30px|link=]]
+|[[Quaken]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Earth_icon.PNG|30px|link=Earth (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Meat Meat]
+|-
+|014
+|[[File:Siroicon.png|30px|link=]]
+|[[Siro]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Lightning_icon.PNG|30px|link=Lightning (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Meat Meat]
+|-
+|015
+|[[File:Chansicon.png|30px|link=]]
+|[[Chansin]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Fire_icon.PNG|30px|link=Fire (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Seafood Seafood]
+|-
+|016
+|[[File:Sheeicon.png|30px|link=]]
+|[[Sheen]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Wind_icon.PNG|30px|link=Wind (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Seafood Seafood]
+|-
+|017
+|[[File:Sneeicon.png|30px|link=]]
+|[[Snee]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Drain_icon.PNG|30px|link=Drain (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Seafood Seafood]
+|-
+|018
+|[[File:Gleaicon.png|30px|link=]]
+|[[Gleam]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Lightning_icon.PNG|30px|link=Lightning (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Seafood Seafood]
+|-
+|019
+|[[File:Benkeicon.png|30px|link=]]
+|[[Benkei]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Ice_icon.PNG|30px|link=Ice (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Chinese_Food Chinese Food]
+|-
+|020
+|[[File:B3icon.png|30px|link=]]
+|[[B3-NK1]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Lightning_icon.PNG|30px|link=Lightning (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Chinese_Food Chinese Food]
+|-
+|021
+|[[File:Susyamicon.png|30px|link=]]
+|[[Sushiyama]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Ice_icon.PNG|30px|link=Ice (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Rice_Balls Rice Balls]
+|-
+|022
+|[[File:Kapunkicon.png|30px|link=]]
+|[[Kapunki]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Fire_icon.PNG|30px|link=Fire (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Rice_Balls Rice Balls]
+|-
+|023
+|[[File:Beetlicon.png|30px|link=]]
+|[[Beetler]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Earth_icon.PNG|30px|link=Earth (attribute)]]
+|[[List of Yo-kai by Medallium Number (Yo-kai Watch 3)|Vegetables]]
+|-
+|024
+|[[File:Beeticon.png|30px|link=]]
+|[[Beetall]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Ice_icon.PNG|30px|link=Ice (attribute)]]
+|[[List of Yo-kai by Medallium Number (Yo-kai Watch 3)|Vegetables]]
+|-
+|025
+|[[File:Crunchicon.png|30px|link=]]
+|[[Cruncha]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Lightning_icon.PNG|30px|link=Lightning (attribute)]]
+|[[List of Yo-kai by Medallium Number (Yo-kai Watch 3)|Vegetables]]
+|-
+|026
+|[[File:Zerbericon.png|30px|link=]]
+|[[Zerberker]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Fire_icon.PNG|30px|link=Fire (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Meat Meat]
+|-
+|027
+|[[File:Snarticon.png|30px|link=]]
+|[[Snartle]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Ice_icon.PNG|30px|link=Ice (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Meat Meat]
+|}
+
+=== 028 - 056 Mysterious ===
+{| class="main roundy" align="center" style="border: 1px solid #54B3D8; width: 60%; text-align:center;"
+!No.
+!Icon
+!Yo-kai
+!Rank
+!Tribe
+!Attri.
+!Fav. Food
+|-
+|028
+|[[File:Snotsicon.png|30px|link=]]
+|[[Snotsolong]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Water_icon.PNG|30px|link=Water]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Seafood Seafood]
+|-
+|029
+|[[File:Duchicon.png|30px|link=]]
+|[[Duchoo]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Ice_icon.PNG|30px|link=Water]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Seafood Seafood]
+|-
+|030
+|[[File:Wazzicon.png|30px|link=]]
+|[[Wazzat]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Wind_icon.PNG|30px|link=Wind]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Candy Candy]
+|-
+|031
+|[[File:Dummicon.png|30px|link=]]
+|[[Dummkap]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Lightning_icon.PNG|30px|link=Lightning]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Candy Candy]
+|-
+|032
+|[[File:Dwanicon.png|30px|link=]]
+|[[D'wanna]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Restoration_icon.PNG|30px|link=Restoration]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Hamburgers Hamburgers]
+|-
+|033
+|[[File:Nmoricon.png|30px|link=]]
+|[[N'more]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Restoration_icon.PNG|30px|link=Restoration]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Hamburgers Hamburgers]
+|-
+|034
+|[[File:Qwiticon.png|30px|link=]]
+|[[Q'wit]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Earth_icon.PNG|30px|link=Earth]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Hamburgers Hamburgers]
+|-
+|035
+|[[File:Lafaicon.png|30px|link=]]
+|[[Lafalotta]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Drain_icon.PNG|30px|link=Drain]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Hamburgers Hamburgers]
+|-
+|036
+|[[File:Blipicon.png|30px|link=]]
+|[[Blips]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Drain_icon.PNG|30px|link=Drain]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Hamburgers Hamburgers]
+|-
+|037
+|[[File:Tatttellicon.png|30px|link=]]
+|[[Tattletell]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Restoration_icon.PNG|30px|link=Restoration]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Ramen Ramen]
+|-
+|038
+|[[File:Tattcasticon.png|30px|link=]]
+|[[Tattlecast]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Restoration_icon.PNG|30px|link=Restoration]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Ramen Ramen]
+|-
+|039
+|[[File:Skranicon.png|30px|link=]]
+|[[Skranny]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Restoration_icon.PNG|30px|link=Restoration]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Ramen Ramen]
+|-
+|040
+|[[File:Cupisicon.png|30px|link=]]
+|[[Cupistol]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Wind_icon.PNG|30px|link=Wind]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Bread Bread]
+|-
+|041
+|[[File:Casnuicon.png|30px|link=]]
+|[[Casanuva]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Wind_icon.PNG|30px|link=Wind]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Bread Bread]
+|-
+|042
+|[[File:Casnoicon.png|30px|link=]]
+|[[Casanono]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Fire_icon.PNG|30px|link=Fire]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Bread Bread]
+|-
+|043
+|[[File:Signibicon.png|30px|link=]]
+|[[Signibble]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Lightning_icon.PNG|30px|link=Lightning]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Rice_Balls Rice Balls]
+|-
+|044
+|[[File:Signiticon.png|30px|link=]]
+|[[Signiton]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Lightning_icon.PNG|30px|link=Lightning]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Rice_Balls Rice Balls]
+|-
+|045
+|[[File:Statikinicon.png|30px|link=]]
+|[[Statiking]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Lightning_icon.PNG|30px|link=Lightning]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Rice_Balls Rice Balls]
+|-
+|046
+|[[File:Mirapicon.png|30px|link=]]
+|[[Mirapo]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Drain_icon.PNG|30px|link=Drain]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Chinese_Food Chinese Food]
+|-
+|047
+|[[File:Mirclicon.png|30px|link=]]
+|[[Mircle]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Drain_icon.PNG|30px|link=Drain]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Chinese_Food Chinese Food]
+|-
+|048
+|[[File:Illicon.png|30px|link=]]
+|[[Illoo]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Water_icon.PNG|30px|link=Water]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Chinese_Food Chinese Food]
+|-
+|049
+|[[File:Ellicon.png|30px|link=]]
+|[[Elloo]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Ice_icon.PNG|30px|link=Ice]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Chinese_Food Chinese Food]
+|-
+|050
+|[[File:Allicon.png|30px|link=]]
+|[[Alloo]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Lightning_icon.PNG|30px|link=Lightning]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Chinese_Food Chinese Food]
+|-
+|051
+|[[File:Espicon.png|30px|link=]]
+|[[Espy]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Earth_icon.PNG|30px|link=Earth]]
+|[[List of Yo-kai by Medallium Number (Yo-kai Watch 3)|Vegetables]]
+|-
+|052
+|[[File:Infoicon.png|30px|link=]]
+|[[Infour]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Drain_icon.PNG|30px|link=Drain]]
+|[[List of Yo-kai by Medallium Number (Yo-kai Watch 3)|Vegetables]]
+|-
+|053
+|[[File:Tengicon.png|30px|link=]]
+|[[Tengu]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Wind_icon.PNG|30px|link=Wind]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Candy Candy]
+|-
+|054
+|[[File:Flengicon.png|30px|link=]]
+|[[Flengu]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Fire_icon.PNG|30px|link=Fire]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Candy Candy]
+|-
+|055
+|[[File:Kyubicon.png|30px|link=]]
+|[[Kyubi]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Fire_icon.PNG|30px|link=Fire]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Seafood Seafood]
+|-
+|056
+|[[File:Frostaicon.png|30px|link=]]
+|[[Frostail]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Ice_icon.PNG|30px|link=Ice]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Seafood Seafood]
+|}
+
+=== 057 - 083 Tough ===
+{| class="main roundy" align="center" style="border: 1px solid #54B3D8; width: 60%; text-align:center;"
+!No.
+!Icon
+!Yo-kai
+!Rank
+!Tribe
+!Attri.
+!Fav. Food
+|-
+|057
+|[[File:Dullicon.png|30px|link=]]
+|[[Dulluma]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Earth_icon.PNG|30px|link=Earth]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Bread Bread]
+|-
+|058
+|[[File:Daruicon.png|30px|link=]]
+|[[Darumacho]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Earth_icon.PNG|30px|link=Earth]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Bread Bread]
+|-
+|059
+|[[File:Goruicon.png|30px|link=]]
+|[[Goruma]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Wind_icon.PNG|30px|link=Wind]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Bread Bread]
+|-
+|060
+|[[File:Nowaicon.png|30px|link=]]
+|[[Noway]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Earth_icon.PNG|30px|link=Earth]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Ramen Ramen]
+|-
+|061
+|[[File:Impaicon.png|30px|link=]]
+|[[Impass]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Earth_icon.PNG|30px|link=Earth]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Ramen Ramen]
+|-
+|062
+|[[File:Walldicon.png|30px|link=]]
+|[[Walldin]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Earth_icon.PNG|30px|link=Earth]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Ramen Ramen]
+|-
+|063
+|[[File:Armsicon.png|30px|link=]]
+|[[Armsman]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Ice_icon.PNG|30px|link=Ice]]
+|[[List of Yo-kai by Medallium Number (Yo-kai Watch 3)|Vegetables]]
+|-
+|064
+|[[File:Fidgeicon.png|30px|link=]]
+|[[Fidgephant]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Water_icon.PNG|30px|link=Water]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Rice_Balls Rice Balls]
+|-
+|065
+|[[File:Toupicon.png|30px|link=]]
+|[[Touphant]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Water_icon.PNG|30px|link=Water]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Rice_Balls Rice Balls]
+|-
+|066
+|[[File:Blowkicon.png|30px|link=]]
+|[[Blowkade]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Water_icon.PNG|30px|link=Water]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Milk Milk]
+|-
+|067
+|[[File:Ledballicon.png|30px|link=]]
+|[[Ledballoon]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Water_icon.PNG|30px|link=Water]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Milk Milk]
+|-
+|068
+|[[File:Madmounicon.png|30px|link=]]
+|[[Mad Mountain]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Ice_icon.PNG|30px|link=Ice]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Rice_Balls Rice Balls]
+|-
+|069
+|[[File:Lavloricon.png|30px|link=]]
+|[[Lava Lord]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Lightning_icon.PNG|30px|link=Lightning]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Rice_Balls Rice Balls]
+|-
+|070
+|[[File:Roughricon.png|30px|link=]]
+|[[Roughraff]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Earth_icon.PNG|30px|link=Earth]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Ramen Ramen]
+|-
+|071
+|[[File:Baduicon.png|30px|link=]]
+|[[Badude]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Earth_icon.PNG|30px|link=Earth]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Ramen Ramen]
+|-
+|072
+|[[File:Bruficon.png|30px|link=]]
+|[[Bruff]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Earth_icon.PNG|30px|link=Earth]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Ramen Ramen]
+|-
+|073
+|[[File:Rhinogicon.png|30px|link=]]
+|[[Rhinoggin]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Earth_icon.PNG|30px|link=Earth]]
+|[[List of Yo-kai by Medallium Number (Yo-kai Watch 3)|Vegetables]]
+|-
+|074
+|[[File:Rhinoricon.png|30px|link=]]
+|[[Rhinormous]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Earth_icon.PNG|30px|link=Earth]]
+|[[List of Yo-kai by Medallium Number (Yo-kai Watch 3)|Vegetables]]
+|-
+|075
+|[[File:Hornaicon.png|30px|link=]]
+|[[Hornaplenty]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Earth_icon.PNG|30px|link=Earth]]
+|[[List of Yo-kai by Medallium Number (Yo-kai Watch 3)|Vegetables]]
+|-
+|076
+|[[File:Castiiiicon.png|30px|link=]]
+|[[Castelius III]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Earth_icon.PNG|30px|link=Earth]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Milk Milk]
+|-
+|077
+|[[File:Castiiicon.png|30px|link=]]
+|[[Castelius II]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Ice_icon.PNG|30px|link=Ice]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Milk Milk]
+|-
+|078
+|[[File:Castiicon.png|30px|link=]]
+|[[Castelius I]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Lightning_icon.PNG|30px|link=Lightning]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Milk Milk]
+|-
+|079
+|[[File:Castmaxicon.png|30px|link=]]
+|[[Castelius Max]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Wind_icon.PNG|30px|link=Wind]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Milk Milk]
+|-
+|080
+|[[File:Robonyicon.png|30px|link=]]
+|[[Robonyan]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Ice_icon.PNG|30px|link=Ice]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Seafood Seafood]
+|-
+|081
+|[[File:Goldenyicon.png|30px|link=]]
+|[[Goldenyan]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Lightning_icon.PNG|30px|link=Lightning]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Seafood Seafood]
+|-
+|082
+|[[File:Dromicon.png|30px|link=]]
+|[[Dromp]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Earth_icon.PNG|30px|link=Earth]]
+|[[List of Yo-kai by Medallium Number (Yo-kai Watch 3)|Vegetables]]
+|-
+|083
+|[[File:Swosicon.png|30px|link=]]
+|[[Swosh]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Water_icon.PNG|30px|link=Water]]
+|[[List of Yo-kai by Medallium Number (Yo-kai Watch 3)|Vegetables]]
+|}
+
+=== 084 - 110 Charming ===
+{| class="main roundy" align="center" style="border: 1px solid #54B3D8; width: 60%; text-align:center;"
+!No.
+!Icon
+!Yo-kai
+!Rank
+!Tribe
+!Attri.
+!Fav. Food
+|-
+|084
+|[[File:Dazzaicon.png|30px|link=]]
+|[[Dazzabel]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Fire_icon.PNG|30px|link=Fire]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Hamburgers Hamburgers]
+|-
+|085
+|[[File:Ratteicon.png|30px|link=]]
+|[[Rattelle]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Fire_icon.PNG|30px|link=Fire]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Hamburgers Hamburgers]
+|-
+|086
+|[[File:Skelebicon.png|30px|link=]]
+|[[Skelebella]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Water_icon.PNG|30px|link=Water]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Hamburgers Hamburgers]
+|-
+|087
+|[[File:Cadinicon.png|30px|link=]]
+|[[Cadin]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Wind_icon.PNG|30px|link=Wind]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Juice Juice]
+|-
+|088
+|[[File:Cadabicon.png|30px|link=]]
+|[[Cadable]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Wind_icon.PNG|30px|link=Wind]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Juice Juice]
+|-
+|089
+|[[File:Singcaicon.png|30px|link=]]
+|[[Singcada]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Fire_icon.PNG|30px|link=Fire]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Juice Juice]
+|-
+|090
+|[[File:Pupsicon.png|30px|link=]]
+|[[Pupsicle]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Ice_icon.PNG|30px|link=Ice]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Ramen Ramen]
+|-
+|091
+|[[File:Chilhuicon.png|30px|link=]]
+|[[Chilhuahua]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Ice_icon.PNG|30px|link=Ice]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Ramen Ramen]
+|-
+|092
+|[[File:Swelteicon.png|30px|link=]]
+|[[Swelterrier]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Fire_icon.PNG|30px|link=Fire]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Ramen Ramen]
+|-
+|093
+|[[File:Jibanicon.png|30px|link=]]
+|[[Jibanyan]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Fire_icon.PNG|30px|link=Fire]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Seafood Seafood]
+|-
+|094
+|[[File:Thornicon.png|30px|link=]]
+|[[Thornyan]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Wind_icon.PNG|30px|link=Wind]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Seafood Seafood]
+|-
+|095
+|[[File:Baddicon.png|30px|link=]]
+|[[Baddinyan]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Fire_icon.PNG|30px|link=Fire]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Seafood Seafood]
+|-
+|096
+|[[File:Walkaicon.png|30px|link=]]
+|[[Walkappa]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Water_icon.PNG|30px|link=Water]]
+|[[List of Yo-kai by Medallium Number (Yo-kai Watch 3)|Vegetables]]
+|-
+|097
+|[[File:Appakicon.png|30px|link=]]
+|[[Appak]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Water_icon.PNG|30px|link=Water]]
+|[[List of Yo-kai by Medallium Number (Yo-kai Watch 3)|Vegetables]]
+|-
+|098
+|[[File:Supyicon.png|30px|link=]]
+|[[Supyo]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Water_icon.PNG|30px|link=Water]]
+|[[List of Yo-kai by Medallium Number (Yo-kai Watch 3)|Vegetables]]
+|-
+|099
+|[[File:YW1Komsan.png|30px|link=]]
+|[[Komasan]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Fire_icon.PNG|30px|link=Fire]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Milk Milk]
+|-
+|100
+|[[File:YW1Koman.png|30px|link=]]
+|[[Komane]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Fire_icon.PNG|30px|link=Fire]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Milk Milk]
+|-
+|101
+|[[File:Komajicon.png|30px|link=]]
+|[[Komajiro]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Lightning_icon.PNG|30px|link=Lightning]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Milk Milk]
+|-
+|102
+|[[File:Komiicon.png|30px|link=]]
+|[[Komiger]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Lightning_icon.PNG|30px|link=Lightning]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Milk Milk]
+|-
+|103
+|[[File:Bakuicon.png|30px|link=]]
+|[[Baku]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Drain_icon.PNG|30px|link=Drain]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Juice Juice]
+|-
+|104
+|[[File:Whapicon.png|30px|link=]]
+|[[Whapir]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Drain_icon.PNG|30px|link=Drain]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Juice Juice]
+|-
+|105
+|[[File:Shmoicon.png|30px|link=]]
+|[[Shmoopie]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Restoration_icon.PNG|30px|link=Restoration]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Hamburgers Hamburgers]
+|-
+|106
+|[[File:Pinkicon.png|30px|link=]]
+|[[Pinkipoo]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Restoration_icon.PNG|30px|link=Restoration]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Hamburgers Hamburgers]
+|-
+|107
+|[[File:Pookicon.png|30px|link=]]
+|[[Pookivil]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Drain_icon.PNG|30px|link=Drain]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Hamburgers Hamburgers]
+|-
+|108
+|[[File:Frosticon.png|30px|link=]]
+|[[Frostina]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Ice_icon.PNG|30px|link=Ice]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Candy Candy]
+|-
+|109
+|[[File:Blizzicon.png|30px|link=]]
+|[[Blizzaria]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Ice_icon.PNG|30px|link=Ice]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Candy Candy]
+|-
+|110
+|[[File:Damoicon.png|30px|link=]]
+|[[Damona]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Ice_icon.PNG|30px|link=Ice]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Candy Candy]
+|}
+
+=== 111 - 135 Heartful ===
+{| class="main roundy" align="center" style="border: 1px solid #54B3D8; width: 60%; text-align:center;"
+!No.
+!Icon
+!Yo-kai
+!Rank
+!Tribe
+!Attri.
+!Fav. Food
+|-
+|111
+|[[File:Wiglicon.png|30px|link=]]
+|[[Wiglin]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration_icon.PNG|30px|link=Restoration]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Ramen Ramen]
+|-
+|112
+|[[File:Steppicon.png|30px|link=]]
+|[[Steppa]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration_icon.PNG|30px|link=Restoration]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Ramen Ramen]
+|-
+|113
+|[[File:Rhythicon.png|30px|link=]]
+|[[Rhyth]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration_icon.PNG|30px|link=Restoration]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Ramen Ramen]
+|-
+|114
+|[[File:Wantsicon.png|30px|link=]]
+|[[Wantston]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Lightning_icon.PNG|30px|link=Lightning]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Ramen Ramen]
+|-
+|115
+|[[File:Grubsnicon.png|30px|link=]]
+|[[Grubsnitch]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Earth_icon.PNG|30px|link=Earth]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Ramen Ramen]
+|-
+|116
+|[[File:Hungricon.png|30px|link=]]
+|[[Hungramps]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration_icon.PNG|30px|link=Restoration]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Rice_Balls Rice Balls]
+|-
+|117
+|[[File:Hungoicon.png|30px|link=]]
+|[[Hungorge]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Drain_icon.PNG|30px|link=Drain]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Rice_Balls Rice Balls]
+|-
+|118
+|[[File:Graicon.png|30px|link=]]
+|[[Grainpa]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration_icon.PNG|30px|link=Restoration]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Rice_Balls Rice Balls]
+|-
+|119
+|[[File:Lodoicon.png|30px|link=]]
+|[[Lodo]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Wind_icon.PNG|30px|link=Wind]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Milk Milk]
+|-
+|120
+|[[File:Chippicon.png|30px|link=]]
+|[[Chippa]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Water_icon.PNG|30px|link=Water]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Milk Milk]
+|-
+|121
+|[[File:Enericon.png|30px|link=]]
+|[[Enerfly]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration_icon.PNG|30px|link=Restoration]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Juice Juice]
+|-
+|122
+|[[File:Eneicon.png|30px|link=]]
+|[[Enefly]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Drain_icon.PNG|30px|link=Drain]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Juice Juice]
+|-
+|123
+|[[File:Bettericon.png|30px|link=]]
+|[[Betterfly]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration_icon.PNG|30px|link=Restoration]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Juice Juice]
+|-
+|124
+|[[File:Peppicon.png|30px|link=]]
+|[[Peppillon]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration_icon.PNG|30px|link=Restoration]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Juice Juice]
+|-
+|125
+|[[File:Happieicon.png|30px|link=]]
+|[[Happierre]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration_icon.PNG|30px|link=Restoration]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Bread Bread]
+|-
+|126
+|[[File:Revericon.png|30px|link=]]
+|[[Reversa]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration_icon.PNG|30px|link=Restoration]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Bread Bread]
+|-
+|127
+|[[File:Reversicon.png|30px|link=]]
+|[[Reversette]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Wind_icon.PNG|30px|link=Wind]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Bread Bread]
+|-
+|128
+|[[File:Olsaicon.png|30px|link=]]
+|[[Ol' Saint Trick]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration_icon.PNG|30px|link=Restoration]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Milk Milk]
+|-
+|129
+|[[File:Olforicon.png|30px|link=]]
+|[[Ol' Fortune]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Lightning_icon.PNG|30px|link=Lightning]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Milk Milk]
+|-
+|130
+|[[File:Rollicon.png|30px|link=]]
+|[[Rollen]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Water_icon.PNG|30px|link=Water]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Candy Candy]
+|-
+|131
+|[[File:Dubbicon.png|30px|link=]]
+|[[Dubbles]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Water_icon.PNG|30px|link=Water]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Candy Candy]
+|-
+|132
+|[[File:Papbolicon.png|30px|link=]]
+|[[Papa Bolt]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Lightning_icon.PNG|30px|link=Lightning]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Meat Meat]
+|-
+|133
+|[[File:Uncinficon.png|30px|link=]]
+|[[Uncle Infinite]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Lightning_icon.PNG|30px|link=Lightning (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Meat Meat]
+|-
+|134
+|[[File:Mamauricon.png|30px|link=]]
+|[[Mama Aura]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration_icon.PNG|30px|link=Restoration (attribute)]]
+|[[List of Yo-kai by Medallium Number (Yo-kai Watch 3)|Vegetables]]
+|-
+|135
+|[[File:Aunheaicon.png|30px|link=]]
+|[[Auntie Heart]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration_icon.PNG|30px|link=Restoration (attribute)]]
+|[[List of Yo-kai by Medallium Number (Yo-kai Watch 3)|Vegetables]]
+|}
+
+=== 136 - 161 Shady ===
+{| class="main roundy" align="center" style="border: 1px solid #54B3D8; width: 60%; text-align:center;"
+!No.
+!Icon
+!Yo-kai
+!Rank
+!Tribe
+!Attri.
+!Fav. Food
+|-
+|136
+|[[File:Leadonicon.png|30px|link=]]
+|[[Leadoni]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Ice_icon.PNG|30px|link=Ice (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Candy Candy]
+|-
+|137
+|[[File:Mynicon.png|30px|link=]]
+|[[Mynimo]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Drain_icon.PNG|30px|link=Drain]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Candy Candy]
+|-
+|138
+|[[File:Akeicon.png|30px|link=]]
+|[[Ake]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Earth_icon.PNG|30px|link=Earth]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Candy Candy]
+|-
+|139
+|[[File:Payicon.png|30px|link=]]
+|[[Payn]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Earth_icon.PNG|30px|link=Earth]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Candy Candy]
+|-
+|140
+|[[File:Agoicon.png|30px|link=]]
+|[[Agon]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Earth_icon.PNG|30px|link=Earth (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Candy Candy]
+|-
+|141
+|[[File:Negaticon.png|30px|link=]]
+|[[Negatibuzz]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Drain_icon.PNG|30px|link=Drain (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Juice Juice]
+|-
+|142
+|[[File:Moskicon.png|30px|link=]]
+|[[Moskevil]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Drain_icon.PNG|30px|link=Drain (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Juice Juice]
+|-
+|143
+|[[File:Scricon.png|30px|link=]]
+|[[Scritchy]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Lightning_icon.PNG|30px|link=Lightning (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Juice Juice]
+|-
+|144
+|[[File:Dimmicon.png|30px|link=]]
+|[[Dimmy]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Wind_icon.PNG|30px|link=Wind (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Rice_Balls Rice Balls]
+|-
+|145
+|[[File:Blanicon.png|30px|link=]]
+|[[Blandon]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Wind_icon.PNG|30px|link=Wind]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Rice_Balls Rice Balls]
+|-
+|146
+|[[File:Nulicon.png|30px|link=]]
+|[[Nul]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Wind_icon.PNG|30px|link=Wind]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Rice_Balls Rice Balls]
+|-
+|147
+|[[File:Hidaicon.png|30px|link=]]
+|[[Hidabat]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Wind_icon.PNG|30px|link=Wind]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Meat Meat]
+|-
+|148
+|[[File:Abodicon.png|30px|link=]]
+|[[Abodabat]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Wind_icon.PNG|30px|link=Wind]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Meat Meat]
+|-
+|149
+|[[File:Belfricon.png|30px|link=]]
+|[[Belfree]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Wind_icon.PNG|30px|link=Wind]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Meat Meat]
+|-
+|150
+|[[File:Suspicion.png|30px|link=]]
+|[[Suspicioni]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Water_icon.PNG|30px|link=Water]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Chinese_Food Chinese Food]
+|-
+|151
+|[[File:Tantricon.png|30px|link=]]
+|[[Tantroni]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Fire_icon.PNG|30px|link=Fire]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Chinese_Food Chinese Food]
+|-
+|152
+|[[File:Contraricon.png|30px|link=]]
+|[[Contrarioni]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Lightning_icon.PNG|30px|link=Lightning]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Chinese_Food Chinese Food]
+|-
+|153
+|[[File:Tenglicon.png|30px|link=]]
+|[[Tengloom]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Wind_icon.PNG|30px|link=Wind]]
+|[[List of Yo-kai by Medallium Number (Yo-kai Watch 3)|Vegetables]]
+|-
+|154
+|[[File:Nirdicon.png|30px|link=]]
+|[[Nird]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Wind_icon.PNG|30px|link=Wind]]
+|[[List of Yo-kai by Medallium Number (Yo-kai Watch 3)|Vegetables]]
+|-
+|155
+|[[File:Negaicon.png|30px|link=]]
+|[[Negasus]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Wind_icon.PNG|30px|link=Wind]]
+|[[List of Yo-kai by Medallium Number (Yo-kai Watch 3)|Vegetables]]
+|-
+|156
+|[[File:Neighficon.png|30px|link=]]
+|[[Neighfarious]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Drain_icon.PNG|30px|link=Drain]]
+|[[List of Yo-kai by Medallium Number (Yo-kai Watch 3)|Vegetables]]
+|-
+|157
+|[[File:Timidicon.png|30px|link=]]
+|[[Timidevil]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Fire_icon.PNG|30px|link=Fire]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Ramen Ramen]
+|-
+|158
+|[[File:Beelzeicon.png|30px|link=]]
+|[[Beelzebold]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Fire_icon.PNG|30px|link=Fire]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Ramen Ramen]
+|-
+|159
+|[[File:Count_cavicon.png|30px|link=]]
+|[[Count Cavity]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Fire_icon.PNG|30px|link=Fire]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Ramen Ramen]
+|-
+|160
+|[[File:Greesicon.png|30px|link=]]
+|[[Greesel]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Fire_icon.PNG|30px|link=Fire]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Meat Meat]
+|-
+|161
+|[[File:Awevicon.png|30px|link=]]
+|[[Awevil]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Water_icon.PNG|30px|link=Water]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Meat Meat]
+|}
+
+=== 162 - 188 Eerie ===
+{| class="main roundy" align="center" style="border: 1px solid #54B3D8; width: 60%; text-align:center;"
+!No.
+!Icon
+!Yo-kai
+!Rank
+!Tribe
+!Attri.
+!Fav. Food
+|-
+|162
+|[[File:Coughicon.png|30px|link=]]
+|[[Coughkoff]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Water_icon.PNG|30px|link=Water]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Bread Bread]
+|-
+|163
+|[[File:Hurchicon.png|30px|link=]]
+|[[Hurchin]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Ice_icon.PNG|30px|link=Ice]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Bread Bread]
+|-
+|164
+|[[File:Peckpoicon.png|30px|link=]]
+|[[Peckpocket]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Drain_icon.PNG|30px|link=Drain]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Hamburgers Hamburgers]
+|-
+|165
+|[[File:Rockabicon.png|30px|link=]]
+|[[Rockabelly]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Drain_icon.PNG|30px|link=Drain]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Hamburgers Hamburgers]
+|-
+|166
+|[[File:Buhuicon.png|30px|link=]]
+|[[Buhu]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Wind_icon.PNG|30px|link=Wind]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Bread Bread]
+|-
+|167
+|[[File:Flumicon.png|30px|link=]]
+|[[Flumpy]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Wind_icon.PNG|30px|link=Wind]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Bread Bread]
+|-
+|168
+|[[File:Skreicon.png|30px|link=]]
+|[[Skreek]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Wind_icon.PNG|30px|link=Wind]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Bread Bread]
+|-
+|169
+|[[File:Manjicon.png|30px|link=]]
+|[[Manjimutt]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Fire_icon.PNG|30px|link=Wind]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Chinese_Food Chinese Food]
+|-
+|170
+|[[File:Multimicon.png|30px|link=]]
+|[[Multimutt]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Fire_icon.PNG|30px|link=Wind]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Chinese_Food Chinese Food]
+|-
+|171
+|[[File:Sirbericon.png|30px|link=]]
+|[[Sir Berus]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Earth_icon.PNG|30px|link=Earth]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Chinese_Food Chinese Food]
+|-
+|172
+|[[File:Droplicon.png|30px|link=]]
+|[[Droplette]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Water_icon.PNG|30px|link=Water]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Juice Juice]
+|-
+|173
+|[[File:Dricon.png|30px|link=]]
+|[[Drizzle]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Water_icon.PNG|30px|link=Water]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Juice Juice]
+|-
+|174
+|[[File:Slusicon.png|30px|link=]]
+|[[Slush]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Ice_icon.PNG|30px|link=Ice]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Juice Juice]
+|-
+|175
+|[[File:Alhaicon.png|30px|link=]]
+|[[Alhail]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Ice_icon.PNG|30px|link=Ice]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Juice Juice]
+|-
+|176
+|[[File:Gushicon.png|30px|link=]]
+|[[Gush]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Fire_icon.PNG|30px|link=Fire]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Juice Juice]
+|-
+|177
+|[[File:Chatlicon.png|30px|link=]]
+|[[Chatalie]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Lightning_icon.PNG|30px|link=Lightning]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Bread Bread]
+|-
+|178
+|[[File:Nagaicon.png|30px|link=]]
+|[[Nagatha]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Drain_icon.PNG|30px|link=Drain]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Bread Bread]
+|-
+|179
+|[[File:Dismaricon.png|30px|link=]]
+|[[Dismarelda]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Earth_icon.PNG|30px|link=Earth]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Bread Bread]
+|-
+|180
+|[[File:Ceeseeicon.png|30px|link=]]
+|[[Cheeksqueek]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Ice_icon.PNG|30px|link=Ice]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Milk Milk]
+|-
+|181
+|[[File:Cttceeicon.png|30px|link=]]
+|[[Cuttincheez]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Ice_icon.PNG|30px|link=Ice]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Milk Milk]
+|-
+|182
+|[[File:Compunicon.png|30px|link=]]
+|[[Compunzer]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Drain_icon.PNG|30px|link=Drain]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Chinese_Food Chinese Food]
+|-
+|183
+|[[File:Lamdicon.png|30px|link=]]
+|[[Lamedian]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Drain_icon.PNG|30px|link=Drain]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Chinese_Food Chinese Food]
+|-
+|184
+|[[File:Grumpicon.png|30px|link=]]
+|[[Grumples]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Drain_icon.PNG|30px|link=Drain]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Milk Milk]
+|-
+|185
+|[[File:Eveforicon.png|30px|link=]]
+|[[Everfore]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Drain_icon.PNG|30px|link=Drain]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Milk Milk]
+|-
+|186
+|[[File:Etericon.png|30px|link=]]
+|[[Eterna]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Drain_icon.PNG|30px|link=Drain]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Milk Milk]
+|-
+|187
+|[[File:Insoicon.png|30px|link=]]
+|[[Insomni]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Ice_icon.PNG|30px|link=Ice]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Candy Candy]
+|-
+|188
+|[[File:Sandicon.png|30px|link=]]
+|[[Sandi]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Drain_icon.PNG|30px|link=Drain]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Candy Candy]
+|}
+
+=== 189 - 213 Slippery ===
+{| class="main roundy" align="center" style="border: 1px solid #54B3D8; width: 60%; text-align:center;"
+!No.
+!Icon
+!Yo-kai
+!Rank
+!Tribe
+!Attri.
+!Fav. Food
+|-
+|189
+|[[File:322 128313.png|30x30px]]
+|[[Noko]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Earth_icon.PNG|30px|link=Earth (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Hamburgers Hamburgers]
+|-
+|190
+|[[File:YW1Blonok.png|30px|link=]]
+|[[Bloominoko]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Earth_icon.PNG|30px|link=Earth (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Hamburgers Hamburgers]
+|-
+|191
+|[[File:Pannokicon.png|30px|link=]]
+|[[Pandanoko]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Ice_icon.PNG|30px|link=Ice (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Hamburgers Hamburgers]
+|-
+|192
+|[[File:Heheeicon.png|30px|link=]]
+|[[Heheheel]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Restoration_icon.PNG|30px|link=Restoration (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Meat Meat]
+|-
+|193
+|[[File:Croonicon.png|30px|link=]]
+|[[Croonger]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Drain_icon.PNG|30px|link=Drain (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Meat Meat]
+|-
+|194
+|[[File:Urnacicon.png|30px|link=]]
+|[[Urnaconda]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Restoration_icon.PNG|30px|link=Restoration (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Meat Meat]
+|-
+|195
+|[[File:Fishpicon.png|30px|link=]]
+|[[Fishpicable]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Lightning_icon.PNG|30px|link=Lightning (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Meat Meat]
+|-
+|196
+|[[File:Rageicon.png|30px|link=]]
+|[[Rageon]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Lightning_icon.PNG|30px|link=Lightning (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Meat Meat]
+|-
+|197
+|[[File:Tunaticon.png|30px|link=]]
+|[[Tunatic]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Fire_icon.PNG|30px|link=Fire (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Meat Meat]
+|-
+|198
+|[[File:Draggicon.png|30px|link=]]
+|[[Draggie]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Earth_icon.PNG|30px|link=Earth (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Chinese_Food Chinese Food]
+|-
+|199
+|[[File:Draloricon.png|30px|link=]]
+|[[Dragon Lord]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Earth_icon.PNG|30px|link=Earth (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Chinese_Food Chinese Food]
+|-
+|200
+|[[File:Azudraicon.png|30px|link=]]
+|[[Azure Dragon]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Water_icon.PNG|30px|link=Water (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Chinese_Food Chinese Food]
+|-
+|201
+|[[File:Daicon.png|30px|link=]]
+|[[Daiz]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Drain_icon.PNG|30px|link=Drain (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Candy Candy]
+|-
+|202
+|[[File:Couzicon.png|30px|link=]]
+|[[Confuze]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Drain_icon.PNG|30px|link=Drain (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Candy Candy]
+|-
+|203
+|[[File:Chumicon.png|30px|link=]]
+|[[Chummer]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Water_icon.PNG|30px|link=Water (attribute)]]
+|[[List of Yo-kai by Medallium Number (Yo-kai Watch 3)|Vegetables]]
+|-
+|204
+|[[File:Shroicon.png|30px|link=]]
+|[[Shrook]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Water_icon.PNG|30px|link=Water (attribute)]]
+|[[List of Yo-kai by Medallium Number (Yo-kai Watch 3)|Vegetables]]
+|-
+|205
+|[[File:Spenpicon.png|30px|link=]]
+|[[Spenp]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Wind_icon.PNG|30px|link=Wind (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Bread Bread]
+|-
+|206
+|[[File:Almicon.png|30px|link=]]
+|[[Almi]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Water_icon.PNG|30px|link=Water (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Bread Bread]
+|-
+|207
+|[[File:Babblicon.png|30px|link=]]
+|[[Babblong]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Water_icon.PNG|30px|link=Water (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Candy Candy]
+|-
+|208
+|[[File:Banoicon.png|30px|link=]]
+|[[Bananose]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Water_icon.PNG|30px|link=Water (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Candy Candy]
+|-
+|209
+|[[File:Coperlicon.png|30px|link=]]
+|[[Copperled]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Fire_icon.PNG|30px|link=Fire (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Seafood Seafood]
+|-
+|210
+|[[File:Cynakicon.png|30px|link=]]
+|[[Cynake]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Water_icon.PNG|30px|link=Water (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Seafood Seafood]
+|-
+|211
+|[[File:Slithicon.png|30px|link=]]
+|[[Slitheref]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Lightning_icon.PNG|30px|link=Lightning (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Seafood Seafood]
+|-
+|212
+|[[File:Venocticon.png|30px|link=]]
+|[[Venoct]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Lightning_icon.PNG|30px|link=Lightning (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Seafood Seafood]
+|-
+|213
+|[[File:Shavenicon.png|30px|link=]]
+|[[Shadow Venoct|Shad. Venoct]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Restoration_icon.PNG|30px|link=Restoration (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Seafood Seafood]
+|}
+
+=== 214 - 218 Legendary Yo-kai ===
+{| class="main roundy" align="center" style="border: 1px solid #54B3D8; width: 60%; text-align:center;"
+!No.
+!Icon
+!Yo-kai
+!Rank
+!Tribe
+!Attri.
+!Fav. Food
+|-
+|214
+|[[File:Shoguicon.png|30px|link=]]
+|[[Shogunyan]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Wind_icon.PNG|30px|link=Wind (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Seafood Seafood]
+|-
+|215
+|[[File:Shuraicon.png|30px|link=]]
+|[[Komashura]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Fire_icon.PNG|30px|link=Fire (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Milk Milk]
+|-
+|216
+|[[File:Dandicon.png|30px|link=]]
+|[[Dandoodle]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Restoration_icon.PNG|30px|link=Restoration (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Chinese_Food Chinese Food]
+|-
+|217
+|[[File:Eldblooicon.png|30px|link=]]
+|[[Elder Bloom]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration_icon.PNG|30px|link=Restoration (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Rice_Balls Rice Balls]
+|-
+|218
+|[[File:Gilgaricon.png|30px|link=]]
+|[[Gilgaros]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Lightning_icon.PNG|30px|link=Lightning (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Meat Meat]
+|}
+
+=== 219 - 223 Gemnyans ===
+{| class="main roundy" align="center" style="border: 1px solid #54B3D8; width: 60%; text-align:center;"
+!No.
+!Icon
+!Yo-kai
+!Rank
+!Tribe
+!Attri.
+!Fav. Food
+|-
+|219
+|[[File:Sapphicon.png|30px|link=]]
+|[[Sapphinyan]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Water_icon.PNG|30px|link=Water (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Seafood Seafood]
+|-
+|220
+|[[File:Emeicon.png|30px|link=]]
+|[[Emenyan]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Restoration_icon.PNG|30px|link=Restoration (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Seafood Seafood]
+|-
+|221
+|[[File:Rubicon.png|30px|link=]]
+|[[Rubinyan]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Fire_icon.PNG|30px|link=Fire (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Seafood Seafood]
+|-
+|222
+|[[File:Topaicon.png|30px|link=]]
+|[[Topanyan]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Lightning_icon.PNG|30px|link=Lightning (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Seafood Seafood]
+|-
+|223
+|[[File:Diaicon.png|30px|link=]]
+|[[Dianyan]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Ice_icon.PNG|30px|link=Ice (attribute)]]
+|[https://yokaiwatch.fandom.com/wiki/Food#Seafood Seafood]
+|}
+
+=== 224 - 245 Boss Yo-kai ===
+{| class="main roundy" align="center" style="border: 1px solid #54B3D8; width: 50%; text-align:center;"
+!No.
+!Icon
+!Yo-kai
+!Tribe
+|-
+|224
+|[[File:Bosslimicon.png|30px|link=]]
+|[[Slimamander]]
+|[[File:Boss_medal.PNG|35px|link=Boss]]
+|-
+|225
+|[[File:Bosspricon.png|30px|link=]]
+|[[Sproink]]
+|[[File:Boss_medal.PNG|35px|link=Boss]]
+|-
+|226
+|[[File:Bossvicon.png|30px|link=]]
+|[[SV Snaggerjag]]
+|[[File:Boss_medal.PNG|35px|link=Boss]]
+|-
+|227
+|[[File:Bosmassicon.png|30px|link=]]
+|[[Massiface]]
+|[[File:Boss_medal.PNG|35px|link=Boss]]
+|-
+|228
+|[[File:Bosphanticon.png|30px|link=]]
+|[[Phantasmurai]]
+|[[File:Boss_medal.PNG|35px|link=Boss]]
+|-
+|229
+|[[File:Bostaraicon.png|30px|link=]]
+|[[Tarantutor]]
+|[[File:Boss_medal.PNG|35px|link=Boss]]
+|-
+|230
+|[[File:Bosmaddicon.png|30px|link=]]
+|[[Dr. Maddiman]]
+|[[File:Boss_medal.PNG|35px|link=Boss]]
+|-
+|231
+|[[File:Bosmckricon.png|30px|link=]]
+|[[McKraken]]
+|[[File:Boss_medal.PNG|35px|link=Boss]]
+|-
+|232
+|[[File:Bosmckr2icon.png|30px|link=]]
+|[[McKraken]] (2nd Form)
+|[[File:Boss_medal.PNG|35px|link=Boss]]
+|-
+|233
+|[[File:Bosduwhicon.png|30px|link=]]
+|[[Duwheel]]
+|[[File:Boss_medal.PNG|35px|link=Boss]]
+|-
+|234
+|[[File:Boschiricon.png|30px|link=]]
+|[[Chirpster]]
+|[[File:Boss_medal.PNG|35px|link=Boss]]
+|-
+|235
+|[[File:Boseyeicon.png|30px|link=]]
+|[[Eyedra]]
+|[[File:Boss_medal.PNG|35px|link=Boss]]
+|-
+|236
+|[[File:Boshoggicon.png|30px|link=]]
+|[[Hoggles]]
+|[[File:Boss_medal.PNG|35px|link=Boss]]
+|-
+|237
+|[[File:Bostyxicon.png|30px|link=]]
+|[[Styx Mk.VI]]
+|[[File:Boss_medal.PNG|35px|link=Boss]]
+|-
+|238
+|[[File:Bosclipsicon.png|30px|link=]]
+|[[Clipso]]
+|[[File:Boss_medal.PNG|35px|link=Boss]]
+|-
+|239
+|[[File:Bosnoguicon.png|30px|link=]]
+|[[Dr. Nogut]]
+|[[File:Boss_medal.PNG|35px|link=Boss]]
+|-
+|240
+|[[File:Bospookicon.png|30px|link=]]
+|[[Spooklunk]]
+|[[File:Boss_medal.PNG|35px|link=Boss]]
+|-
+|241
+|[[File:Bosquisicon.png|30px|link=]]
+|[[Squisker]]
+|[[File:Boss_medal.PNG|35px|link=Boss]]
+|-
+|242
+|[[File:Boswobbleicon.png|30px|link=]]
+|[[Wobblewok]]
+|[[File:Boss_medal.PNG|35px|link=Boss]]
+|-
+|243
+|[[File:Bosgaricon.png|30px|link=]]
+|[[Gargaros]]
+|[[File:Boss_medal.PNG|35px|link=Boss]]
+|-
+|244
+|[[File:Bosogricon.png|30px|link=]]
+|[[Ogralus]]
+|[[File:Boss_medal.PNG|35px|link=Boss]]
+|-
+|245
+|[[File:Bosorcicon.png|30px|link=]]
+|[[Orcanos]]
+|[[File:Boss_medal.PNG|35px|link=Boss]]
+|}
+
+[[Category:Lists of Yo-kai by Medallium Number]]
+[[Category:Lists]]
+[[zh:妖怪手表 妖怪列表]]
+[[es:Lista de Yo-kai de Yo-kai Watch]]

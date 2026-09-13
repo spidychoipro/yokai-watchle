@@ -1,0 +1,6748 @@
+A list of [[Yo-kai]] that debuted and returned in ''[[Yo-kai Watch 3|Yo-kai Watch 3: Sushi and Tempura]]'' and ''[[Yo-kai Watch 3|Yo-kai Watch 3: Sukiyaki]]'', organized by their appearance in the [[Yo-kai Medallium]].
+
+<!-- Do NOT add Ukiukipedia Renders or official art of Yo-kai to the page. Medal icons from their respective in-game medallium are only allowed. -->
+
+== List of Yo-kai by Medallium Number ==
+
+==== 001 - 067 Brave ====
+{| class="main roundy" align="center" style="border: 1px solid #54B3D8; width: 70%; text-align:center;"
+!No.
+!Icon
+!Yo-kai
+!Rank
+!Tribe
+!Attri.
+!Blasters Role
+!Fav. Food
+|-
+|001
+|[[File:YW3SigDur.png|30px|link=]]
+|[[Sigh-Durr]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Vegetables
+|-
+|002
+|[[File:YW3Flippi.png|30px|link=]]
+|[[Flippit]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Rice Balls
+|-
+|003
+|[[File:YW3Pandl.png|30px|link=]]
+|[[Pandle]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Rice Balls
+|-
+|004
+|[[File:YW3Undy.png|30px|link=]]
+|[[Undy]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Rice Balls
+|-
+|005
+|[[File:YW3Tanbo.png|30px|link=]]
+|[[Tanbo]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Rice Balls
+|-
+|006
+|[[File:YW3Cutnah.png|30px|link=]]
+|[[Cutta-nah]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Juice
+|-
+|007
+|[[File:YW3Cutnahnah.png|30px|link=]]
+|[[Cutta-nah-nah]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Juice
+|-
+|008
+|[[File:YW3Slacsla.png|30px|link=]]
+|[[Slacka-slash]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Juice
+|-
+|009
+|[[File:YW3Brushid.png|30px|link=]]
+|[[Brushido]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Sweets
+|-
+|010
+|[[File:YW3Washogu.png|30px|link=]]
+|[[Washogun]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Sweets
+|-
+|011
+|[[File:YW3Liein.png|30px|link=]]
+|[[Lie-in]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Chinese Food
+|-
+|012
+|[[File:YW3LieHea.png|30px|link=]]
+|[[Lie-in Heart]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Chinese Food
+|-
+|013
+|[[File:YW3Hissfi.png|30px|link=]]
+|[[Hissfit]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Meats
+|-
+|014
+|[[File:YW3Zerber.png|30px|link=]]
+|[[Zerberker]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Meats
+|-
+|015
+|[[File:YW3Snartl.png|30px|link=]]
+|[[Snartle]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Meats
+|-
+|016
+|[[File:YW3Brutle.png|30px|link=]]
+|[[Brutle]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Meats
+|-
+|017
+|[[File:YW3Mochism.png|30px|link=]]
+|[[Mochismo]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Rice Balls
+|-
+|018
+|[[File:YW3Minoch.png|30px|link=]]
+|[[Minochi]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Rice Balls
+|-
+|019
+|[[File:YW3Minimot.png|30px|link=]]
+|[[Minimoto]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Ice Cream
+|-
+|020
+|[[File:YW3Slumhog.png|30px|link=]]
+|[[Slumberhog]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Curry
+|-
+|021
+|[[File:YW3Snorhog.png|30px|link=]]
+|[[Snortlehog]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Curry
+|-
+|022
+|[[File:YW3Samuree.png|30px|link=]]
+|[[Samureel]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Seafood
+|-
+|023
+|[[File:YW3TimKee.png|30px|link=]]
+|[[Time Keeler]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Seafood
+|-
+|024
+|[[File:YW3Goofba.png|30px|link=]]
+|[[Goofball]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Hot Dogs
+|-
+|025
+|[[File:YW3Slugge.png|30px|link=]]
+|[[Slugger]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Hot Dogs
+|-
+|026
+|[[File:YW3Helsma.png|30px|link=]]
+|[[Helmsman]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Vegetables
+|-
+|027
+|[[File:YW3Reuknig.png|30px|link=]]
+|[[Reuknight]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Vegetables
+|-
+|028
+|[[File:YW3Corptai.png|30px|link=]]
+|[[Corptain]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Vegetables
+|-
+|029
+|[[File:YW3Slicenri.png|30px|link=]]
+|[[Slicenrice]]{{Versionlink|S}}
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Rice Balls
+|-
+|030
+|[[File:YW3Flamuri.png|30px|link=]]
+|[[Flamurice]]{{Versionlink|S}}
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Rice Balls
+|-
+|031
+|[[File:YW3Tubblap.png|30px|link=]]
+|[[Tublappa]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Oden
+|-
+|032
+|[[File:YW3Lappinit.png|30px|link=]]
+|[[Lappinitup]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Oden
+|-
+|033
+|[[File:YW3ElGut.png|30px|link=]]
+|[[El Gutso]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Meats
+|-
+|034
+|[[File:YW3GutGra.png|30px|link=]]
+|[[El Gutso Grande|Gutso Grande]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Meats
+|-
+|035
+|[[File:YW3Mudmun.png|30px|link=]]
+|[[Mudmunch]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Oden
+|-
+|036
+|[[File:YW3BBQvi.png|30px|link=]]
+|[[BBQvil]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Meats
+|-
+|037
+|[[File:YW3Liarbir.png|30px|link=]]
+|[[Liarbird]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Tempura
+|-
+|038
+|[[File:YW3Benke.png|30px|link=]]
+|[[Benkei]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Chinese Food
+|-
+|039
+|[[File:YW3B3NK.png|30px|link=]]
+|[[B3-NK1]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Chinese Food
+|-
+|040
+|[[File:YW3Blazio.png|30px|link=]]
+|[[Blazion]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Meats
+|-
+|041
+|[[File:YW3Quake.png|30px|link=]]
+|[[Quaken]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Meats
+|-
+|042
+|[[File:YW3Siro.png|30px|link=]]
+|[[Siro]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Meats
+|-
+|043
+|[[File:YW3Chansi.png|30px|link=]]
+|[[Chansin]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Seafood
+|-
+|044
+|[[File:YW3Shee.png|30px|link=]]
+|[[Sheen]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Seafood
+|-
+|045
+|[[File:YW3Snee.png|30px|link=]]
+|[[Snee]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Seafood
+|-
+|046
+|[[File:YW3Gleam.png|30px|link=]]
+|[[Gleam]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Seafood
+|-
+|047
+|[[File:YW3Hovnya.png|30px|link=]]
+|[[Hovernyan]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Seafood
+|-
+|048
+|[[File:YW3MoxiN.png|30px|link=]]
+|[[Moximous N]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Snacks
+|-
+|049
+|[[File:YW3MoxiK.png|30px|link=]]
+|[[Moximous K]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Snacks
+|-
+|050
+|[[File:YW3HotAirBuff.png|30px|link=]]
+|[[Hot Air Buffoon]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Hot Dogs
+|-
+|051
+|[[File:YW3Sushyam.png|30px|link=]]
+|[[Sushiyama]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Soba Noodles
+|-
+|052
+|[[File:YW3Kapunk.png|30px|link=]]
+|[[Kapunki]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Soba Noodles
+|-
+|053
+|[[File:YW3Beetle.png|30px|link=]]
+|[[Beetler]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Vegetables
+|-
+|054
+|[[File:YW3Beetal.png|30px|link=]]
+|[[Beetall]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Vegetables
+|-
+|055
+|[[File:YW3Crucha.png|30px|link=]]
+|[[Cruncha]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Vegetables
+|-
+|056
+|[[File:YW3Macnya.png|30px|link=]]
+|[[Machonyan]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Chocobars
+|-
+|057
+|[[File:YW3Momnya.png|30px|link=]]
+|[[Momonyan]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Sushi
+|-
+|058
+|[[File:YW3SirNya.png|30px|link=]]
+|[[Sir Nyansalot]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Snacks
+|-
+|059
+|[[File:YW3SgtBur.png|30px|link=]]
+|[[Sgt. Burly]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Hamburgers
+|-
+|060
+|[[File:YW3BisBur.png|30px|link=]]
+|[[Bison Burly]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Hamburgers
+|-
+|061
+|[[File:YW3Demunch.png|30px|link=]]
+|[[Demuncher]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Meats
+|-
+|062
+|[[File:YW3Devour.png|30px|link=]]
+|[[Devourer]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Sweets
+|-
+|063
+|[[File:YW3Illumino.png|30px|link=]]
+|[[Illuminoct]]{{Versionlink|T}}
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Seafood
+|-
+|064
+|[[File:YW3Arachnevi.png|30px|link=]]
+|[[Arachnevil]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Tempura
+|-
+|065
+|[[File:YW3Shuriken.png|30px|link=]]
+|[[Shurikenny]]{{Versionlink|S}}
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Sushi
+|-
+|066
+|[[File:YW3Nunchu.png|30px|link=]]
+|[[Nunchucky]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Sushi
+|-
+|067
+|[[File:YW3Camelli.png|30px|link=]]
+|[[Camellia]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Soba Noodles
+|}
+
+==== 068 - 138 Mysterious ====
+{| class="main roundy" align="center" style="border: 1px solid #54B3D8; width: 70%; text-align:center;"
+!No.
+!Icon
+!Yo-kai
+!Rank
+!Tribe
+!Attri.
+!Blasters Role
+!Fav. Food
+|-
+|068
+|[[File:YW3Brokbrel.png|30px|link=]]
+|[[Brokenbrella]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Snacks
+|-
+|069
+|[[File:YW3Pitpat.png|30px|link=]]
+|[[Pittapatt]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Snacks
+|-
+|070
+|[[File:YW3ZipUn.png|30px|link=]]
+|[[Zip Unlock]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters ranger.png|100px|link=]]
+|Donuts
+|-
+|071
+|[[File:YW3Slippu.png|30px|link=]]
+|[[Slippup]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Hot Dogs
+|-
+|072
+|[[File:YW3Snotso.png|30px|link=]]
+|[[Snotsolong]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters ranger.png|100px|link=]]
+|Seafood
+|-
+|073
+|[[File:YW3Ducho.png|30px|link=]]
+|[[Duchoo]]
+|[[File:Rank_D icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters ranger.png|100px|link=]]
+|Seafood
+|-
+|074
+|[[File:YW3Dwann.png|30px|link=]]
+|[[D'wanna]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters healer.png|100px|link=]]
+|Hamburgers
+|-
+|075
+|[[File:YW3Nmore.png|30px|link=]]
+|[[N'more]]
+|[[File:Rank_C icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters healer.png|100px|link=]]
+|Hamburgers
+|-
+|076
+|[[File:YW3Qwit.png|30px|link=]]
+|[[Q'wit]]
+|[[File:Rank_C icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Hamburgers
+|-
+|077
+|[[File:YW3Wazza.png|30px|link=]]
+|[[Wazzat]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters ranger.png|100px|link=]]
+|Candy
+|-
+|078
+|[[File:YW3Houzza.png|30px|link=]]
+|[[Houzzat]]
+|[[File:Rank_B icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Candy
+|-
+|079
+|[[File:YW3Dummka.png|30px|link=]]
+|[[Dummkap]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Candy
+|-
+|080
+|[[File:YW3WhoMe.png|30px|link=]]
+|[[Who-Me]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Pasta
+|-
+|081
+|[[File:YW3ToMuToTa.png|30px|link=]]
+|[[Too-Much-To-Take|2-Much-2-Take]]
+|[[File:Rank_A icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Pasta
+|-
+|082
+|[[File:YW3WhNaa.png|30px|link=]]
+|[[Why Naant]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Curry
+|-
+|083
+|[[File:YW3Naand.png|30px|link=]]
+|[[Naandhi]]
+|[[File:Rank_A icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters ranger.png|100px|link=]]
+|Curry
+|-
+|084
+|[[File:YW3Faysof.png|30px|link=]]
+|[[Faysoff]]
+|[[File:Rank_D icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Oden
+|-
+|085
+|[[File:YW3Snottl.png|30px|link=]]
+|[[Snottle]]
+|[[File:Rank_D icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters ranger.png|100px|link=]]
+|Snacks
+|-
+|086
+|[[File:YW3Legsit.png|30px|link=]]
+|[[Legsit]]
+|[[File:Rank_D icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters ranger.png|100px|link=]]
+|Pasta
+|-
+|087
+|[[File:YW3ChiChu.png|30px|link=]]
+|[[Chicken Chukket|Chukket]]
+|[[File:Rank_D icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Ice Cream
+|-
+|088
+|[[File:YW3Cornfus.png|30px|link=]]
+|[[Cornfused]]
+|[[File:Rank_D icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters ranger.png|100px|link=]]
+|Donuts
+|-
+|089
+|[[File:YW3Unshellt.png|30px|link=]]
+|[[Unshelltered]]
+|[[File:Rank_D icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters ranger.png|100px|link=]]
+|Bread
+|-
+|090
+|[[File:YW3Lafalott.png|30px|link=]]
+|[[Lafalotta]]
+|[[File:Rank_D icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters healer.png|100px|link=]]
+|Hamburgers
+|-
+|091
+|[[File:YW3Blips.png|30px|link=]]
+|[[Blips]]
+|[[File:Rank_C icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters healer.png|100px|link=]]
+|Hamburgers
+|-
+|092
+|[[File:YW3Tattlete.png|30px|link=]]
+|[[Tattletell]]
+|[[File:Rank_D icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Ramen
+|-
+|093
+|[[File:YW3Tattleca.png|30px|link=]]
+|[[Tattlecast]]
+|[[File:Rank_B icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters healer.png|100px|link=]]
+|Ramen
+|-
+|094
+|[[File:YW3Skrann.png|30px|link=]]
+|[[Skranny]]
+|[[File:Rank_C icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters healer.png|100px|link=]]
+|Ramen
+|-
+|095
+|[[File:YW3Cupist.png|30px|link=]]
+|[[Cupistol]]
+|[[File:Rank_D icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Sweets
+|-
+|096
+|[[File:YW3Casanu.png|30px|link=]]
+|[[Casanuva]]
+|[[File:Rank_A icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters healer.png|100px|link=]]
+|Sweets
+|-
+|097
+|[[File:YW3Casano.png|30px|link=]]
+|[[Casanono]]
+|[[File:Rank_A icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Sweets
+|-
+|098
+|[[File:YW3SoSorr.png|30px|link=]]
+|[[So-Sorree]]
+|[[File:Rank_D icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters ranger.png|100px|link=]]
+|Curry
+|-
+|099
+|[[File:YW3Bowmin.png|30px|link=]]
+|[[Bowminos]]
+|[[File:Rank_A icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters ranger.png|100px|link=]]
+|Curry
+|-
+|100
+|[[File:YW3Smoglin.png|30px|link=]]
+|[[Smogling]]
+|[[File:Rank_D icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Sweets
+|-
+|101
+|[[File:YW3Smogmell.png|30px|link=]]
+|[[Smogmella]]
+|[[File:Rank_A icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Sweets
+|-
+|102
+|[[File:YW3Signibb.png|30px|link=]]
+|[[Signibble]]
+|[[File:Rank_D icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Snacks
+|-
+|103
+|[[File:YW3Signito.png|30px|link=]]
+|[[Signiton]]
+|[[File:Rank_A icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Oden
+|-
+|104
+|[[File:YW3MasOde.png|30px|link=]]
+|[[Master Oden]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters healer.png|100px|link=]]
+|Oden
+|-
+|105
+|[[File:YW3Statking.png|30px|link=]]
+|[[Statiking]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Oden
+|-
+|106
+|[[File:YW3Failia.png|30px|link=]]
+|[[Failian]]
+|[[File:Rank_C icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Sushi
+|-
+|107
+|[[File:YW3Apelica.png|30px|link=]]
+|[[Apelican]]
+|[[File:Rank_C icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Hamburgers
+|-
+|108
+|[[File:YW3Fuu2.png|30px|link=]]
+|[[Fuu 2]]
+|[[File:Rank_C icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Bread
+|-
+|109
+|[[File:YW3Shrillit.png|30px|link=]]
+|[[Lord Shrillington|Shrillington]]
+|[[File:Rank_C icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Donuts
+|-
+|110
+|[[File:YW3HouPar.png|30px|link=]]
+|[[House Partay]]{{Versionlink|S}}
+|[[File:Rank_C icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters tank.png|100px|link=]]
+|Pizza
+|-
+|111
+|[[File:YW3Skulleido.png|30px|link=]]
+|[[Skulleidoscope]]{{Versionlink|T}}
+|[[File:Rank_C icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Ice Cream
+|-
+|112
+|[[File:YW3Liongu.png|30px|link=]]
+|[[Lionguist]]
+|[[File:Rank_C icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Pizza
+|-
+|113
+|[[File:YW3Illoo.png|30px|link=]]
+|[[Illoo]]
+|[[File:Rank_C icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Bread
+|-
+|114
+|[[File:YW3Elloo.png|30px|link=]]
+|[[Elloo]]
+|[[File:Rank_C icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Bread
+|-
+|115
+|[[File:YW3Alloo.png|30px|link=]]
+|[[Alloo]]
+|[[File:Rank_B icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Bread
+|-
+|116
+|[[File:YW3Espy.png|30px|link=]]
+|[[Espy]]
+|[[File:Rank_C icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Vegetables
+|-
+|117
+|[[File:YW3Infour.png|30px|link=]]
+|[[Infour]]
+|[[File:Rank_B icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Vegetables
+|-
+|118
+|[[File:YW3Mirapo.png|30px|link=]]
+|[[Mirapo]]
+|[[File:Rank_C icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters tank.png|100px|link=]]
+|Chinese Food
+|-
+|119
+|[[File:YW3Mirado.png|30px|link=]]
+|[[Miradox]]
+|[[File:Rank_A icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters tank.png|100px|link=]]
+|Chinese Food
+|-
+|120
+|[[File:YW3Mircle.png|30px|link=]]
+|[[Mircle]]
+|[[File:Rank_A icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters tank.png|100px|link=]]
+|Chinese Food
+|-
+|121
+|[[File:YW3Verygoo.png|30px|link=]]
+|[[Verygoodsir]]
+|[[File:Rank_B icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Soba Noodles
+|-
+|122
+|[[File:YW3Statkid.png|30px|link=]]
+|[[Statikid]]
+|[[File:Rank_B icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Snacks
+|-
+|123
+|[[File:YW3ProfPlum.png|30px|link=]]
+|[[Professor Plumage|Prof. Plumage]]
+|[[File:Rank_B icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Seafood
+|-
+|124
+|[[File:YW3ThroWipe.png|30px|link=]]
+|[[Throne Wiper]]
+|[[File:Rank_B icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Tempura
+|-
+|125
+|[[File:YW3Imageni.png|30px|link=]]
+|[[Imagenius]]
+|[[File:Rank_B icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Ice Cream
+|-
+|126
+|[[File:YW3MisTer.png|30px|link=]]
+|[[Miss Teri]]
+|[[File:Rank_B icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Pasta
+|-
+|127
+|[[File:YW3Maginya.png|30px|link=]]
+|[[Maginyan]]
+|[[File:Rank_A icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Sweets
+|-
+|128
+|[[File:YW3Squande.png|30px|link=]]
+|[[Squandeer]]{{Versionlink|S}}
+|[[File:Rank_A icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Pasta
+|-
+|129
+|[[File:YW3Tengu.png|30px|link=]]
+|[[Tengu]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Candy
+|-
+|130
+|[[File:YW3Flengu.png|30px|link=]]
+|[[Flengu]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Candy
+|-
+|131
+|[[File:YW3Kyubi.png|30px|link=]]
+|[[Kyubi]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Oden
+|-
+|132
+|[[File:YW3Frostai.png|30px|link=]]
+|[[Frostail]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Oden
+|-
+|133
+|[[File:YW3Chymer.png|30px|link=]]
+|[[Chymera]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Chinese Food
+|-
+|134
+|[[File:YW3Kingmer.png|30px|link=]]
+|[[Kingmera]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Sushi
+|-
+|135
+|[[File:YW3TodDem.png|30px|link=]]
+|[[Toadal Demon]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Sushi
+|-
+|136
+|[[File:YW3Thursto.png|30px|link=]]
+|[[Thurston]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Tempura
+|-
+|137
+|[[File:YW3AgSpeHa.png|30px|link=]]
+|[[Agent Spect-hare|Spect-hare]]{{Versionlink|S}}
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Sweets
+|-
+|138
+|[[File:YW3SnSpeHar.png|30px|link=]]
+|[[Snow Spect-hare|Sn. Spect-hare]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Sweets
+|}
+
+==== 139 - 208 Tough ====
+{| class="main roundy" align="center" style="border: 1px solid #54B3D8; width: 70%; text-align:center;"
+!No.
+!Icon
+!Yo-kai
+!Rank
+!Tribe
+!Attri.
+!Blasters Role
+!Fav. Food
+|-
+|139
+|[[File:YW3OhWhe.png|30px|link=]]
+|[[Oh Wheel]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Fire_icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Donuts
+|-
+|140
+|[[File:YW3Dullum.png|30px|link=]]
+|[[Dulluma]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Earth_icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Curry
+|-
+|141
+|[[File:YW3Darumach.png|30px|link=]]
+|[[Darumacho]]
+|[[File:Rank_B icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Earth_icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Curry
+|-
+|142
+|[[File:YW3Goruma.png|30px|link=]]
+|[[Goruma]]
+|[[File:Rank_B icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Curry
+|-
+|143
+|[[File:YW3Wotchag.png|30px|link=]]
+|[[Wotchagot]]{{Versionlink|T}}
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Chinese Food
+|-
+|144
+|[[File:YW3PriShr.png|30px|link=]]
+|[[Pride Shrimp]]{{Versionlink|T}}
+|[[File:Rank_B icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Restoration_icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Seafood
+|-
+|145
+|[[File:YW3NoGoKar.png|30px|link=]]
+|[[No-Go Kart]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Earth_icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Rice Balls
+|-
+|146
+|[[File:YW3Mistan.png|30px|link=]]
+|[[Mistank]]
+|[[File:Rank_B icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Earth_icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Rice Balls
+|-
+|147
+|[[File:YW3Terpot.png|30px|link=]]
+|[[Terrorpotta]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Earth_icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Snacks
+|-
+|148
+|[[File:YW3Blowhisto.png|30px|link=]]
+|[[Blownhistoppa]]
+|[[File:Rank_B icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Earth_icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Snacks
+|-
+|149
+|[[File:YW3Noway.png|30px|link=]]
+|[[Noway]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Earth_icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Ramen
+|-
+|150
+|[[File:YW3Impass.png|30px|link=]]
+|[[Impass]]
+|[[File:Rank_B icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Earth_icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Ramen
+|-
+|151
+|[[File:YW3Walldin.png|30px|link=]]
+|[[Walldin]]
+|[[File:Rank_A icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Earth_icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Ramen
+|-
+|152
+|[[File:YW3Roughraf.png|30px|link=]]
+|[[Roughraff]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Earth_icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Ramen
+|-
+|153
+|[[File:YW3Badud.png|30px|link=]]
+|[[Badude]]
+|[[File:Rank_B icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Earth_icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Ramen
+|-
+|154
+|[[File:YW3Bruff.png|30px|link=]]
+|[[Bruff]]
+|[[File:Rank_A icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Earth_icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Ramen
+|-
+|155
+|[[File:YW3Roughgra.png|30px|link=]]
+|[[Roughgraff]]
+|[[File:Rank_B icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Earth_icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Hot Dogs
+|-
+|156
+|[[File:YW3ChiCow.png|30px|link=]]
+|[[Chilled Cowcao]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Earth_icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Candy
+|-
+|157
+|[[File:YW3StirStu.png|30px|link=]]
+|[[Stircrazy Stu]]
+|[[File:Rank_A icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Earth_icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Meats
+|-
+|158
+|[[File:YW3Nummsku.png|30px|link=]]
+|[[Nummskull]]{{Versionlink|T}}
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Earth_icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Milk
+|-
+|159
+|[[File:YW3Skillskul.png|30px|link=]]
+|[[Skillskull]]{{Versionlink|T}}
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Earth_icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Milk
+|-
+|160
+|[[File:YW3Armsma.png|30px|link=]]
+|[[Armsman]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Ice_icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Vegetables
+|-
+|161
+|[[File:YW3Mimikin.png|30px|link=]]
+|[[Mimikin]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Ice_icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Candy
+|-
+|162
+|[[File:YW3OhBaGa.png|30px|link=]]
+|[[Oh Bah Gah!]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Lightning_icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Hamburgers
+|-
+|163
+|[[File:YW3Speedem.png|30px|link=]]
+|[[Speedemountain|Sp mountain]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Earth_icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Curry
+|-
+|164
+|[[File:YW3Blowkad.png|30px|link=]]
+|[[Blowkade]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Water_icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Milk
+|-
+|165
+|[[File:YW3Ledballo.png|30px|link=]]
+|[[Ledballoon]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Water_icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Milk
+|-
+|166
+|[[File:YW3Sumodo.png|30px|link=]]
+|[[Sumodon]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Restoration_icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Soba Noodles
+|-
+|167
+|[[File:YW3Yokozud.png|30px|link=]]
+|[[Yokozudon]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Restoration_icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Soba Noodles
+|-
+|168
+|[[File:YW3Whateve.png|30px|link=]]
+|[[Whateverest]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Fire_icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Meats
+|-
+|169
+|[[File:YW3Whatupt.png|30px|link=]]
+|[[Whatuption]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Fire_icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Meats
+|-
+|170
+|[[File:YW3Fidgepha.png|30px|link=]]
+|[[Fidgephant]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Water_icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Rice Balls
+|-
+|171
+|[[File:YW3Toupha.png|30px|link=]]
+|[[Touphant]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Water_icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Rice Balls
+|-
+|172
+|[[File:YW3Endurip.png|30px|link=]]
+|[[Enduriphant]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Water_icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Rice Balls
+|-
+|173
+|[[File:YW3Zappar.png|30px|link=]]
+|[[Zappary]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Lightning_icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Chinese Food
+|-
+|174
+|[[File:YW3Frazz.png|30px|link=]]
+|[[Frazzel]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Lightning_icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Chinese Food
+|-
+|175
+|[[File:YW3ShipSail.png|30px|link=]]
+|[[Shipshape Sailor|Ship. Sailor]]{{Versionlink|S}}
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Water_icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Donuts
+|-
+|176
+|[[File:YW3AdmAdm.png|30px|link=]]
+|[[Admirable Admiral|Adm. Admiral]]{{Versionlink|S}}
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Water_icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Donuts
+|-
+|177
+|[[File:YW3Swelto.png|30px|link=]]
+|[[Swelton]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Fire_icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Curry
+|-
+|178
+|[[File:YW3SinKon.png|30px|link=]]
+|[[Sing Kong]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Lightning_icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Hot Dogs
+|-
+|179
+|[[File:YW3Slippy.png|30px|link=]]
+|[[Slippy]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Water_icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Vegetables
+|-
+|180
+|[[File:YW3Reposs.png|30px|link=]]
+|[[Repossessor]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Earth_icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Oden
+|-
+|181
+|[[File:YW3MrBlock.png|30px|link=]]
+|[[Mr. Blockhead]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Fire_icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Sushi
+|-
+|182
+|[[File:YW3MadMou.png|30px|link=]]
+|[[Mad Mountain]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Ice_icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Sushi
+|-
+|183
+|[[File:YW3LavLor.png|30px|link=]]
+|[[Lava Lord]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Lightning_icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Sushi
+|-
+|184
+|[[File:YW3CastIII.png|30px|link=]]
+|[[Castelius III]]
+|[[File:Rank_C_icon.PNG|30px]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Earth_icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Milk
+|-
+|185
+|[[File:YW3CastII.png|30px|link=]]
+|[[Castelius II]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Ice_icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Milk
+|-
+|186
+|[[File:YW3CastI.png|30px|link=]]
+|[[Castelius I]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Lightning_icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Milk
+|-
+|187
+|[[File:YW3CastMax.png|30px|link=]]
+|[[Castelius Max]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Wind_icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Milk
+|-
+|188
+|[[File:YW3Puppnya.png|30px|link=]]
+|[[Puppynyan]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Earth_icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Chocobars
+|-
+|189
+|[[File:YW3Rhinogg.png|30px|link=]]
+|[[Rhinoggin]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Earth_icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Vegetables
+|-
+|190
+|[[File:YW3Rhinormo.png|30px|link=]]
+|[[Rhinormous]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Earth_icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Vegetables
+|-
+|191
+|[[File:YW3Hornaplen.png|30px|link=]]
+|[[Hornaplenty]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Earth_icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Vegetables
+|-
+|192
+|[[File:YW3Kitaronya.png|30px|link=]]
+|[[Kintaronyan]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Earth_icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Meats
+|-
+|193
+|[[File:YW3Steakin.png|30px|link=]]
+|[[Steaking]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Fire_icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Meats
+|-
+|194
+|[[File:YW3Robnya.png|30px|link=]]
+|[[Robonyan]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Chocobars
+|-
+|195
+|[[File:YW3RobnyaF.png|30px|link=]]
+|[[Robonyan F]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Fire  icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Chocobars
+|-
+|196
+|[[File:YW3Showbonya.png|30px|link=]]
+|[[Showbonyan]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Chocobars
+|-
+|197
+|[[File:YW3Golnya.png|30px|link=]]
+|[[Goldenyan]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Lightning_icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Chocobars
+|-
+|198
+|[[File:YW3Dromp.png|30px|link=]]
+|[[Dromp]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Earth_icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Vegetables
+|-
+|199
+|[[File:YW3Swosh.png|30px|link=]]
+|[[Swosh]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Water_icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Vegetables
+|-
+|200
+|[[File:YW3ToaDud.png|30px|link=]]
+|[[Toadal Dude]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Water_icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Soba Noodles
+|-
+|201
+|[[File:YW3UbeGee.png|30px|link=]]
+|[[Uber Geeko]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Fire_icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Soba Noodles
+|-
+|202
+|[[File:YW3Gargar.png|30px|link=]]
+|[[Gargaros]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Fire_icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Meats
+|-
+|203
+|[[File:YW3Ogralu.png|30px|link=]]
+|[[Ogralus]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Water_icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Meats
+|-
+|204
+|[[File:YW3Orcan.png|30px|link=]]
+|[[Orcanos]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Drain_icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Meats
+|-
+|205
+|[[File:YW3Kabukin.png|30px|link=]]
+|[[Kabuking]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Tempura
+|-
+|206
+|[[File:YW3JawsoKid.png|30px|link=]]
+|[[The Jawsome Kid|Jawsome Kid]]{{Versionlink|T}}
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Water_icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Hot Dogs
+|-
+|207
+|[[File:YW3ElShark.png|30px|link=]]
+|[[El Sharkador]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Water_icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Hot Dogs
+|-
+|208
+|[[File:YW3SilLin.png|30px|link=]]
+|[[Silver Lining]]{{Versionlink|S}}
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Water_icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Sushi
+|}
+
+==== 209 - 305 Charming ====
+{| class="main roundy" align="center" style="border: 1px solid #54B3D8; width: 70%; text-align:center;"
+!No.
+!Icon
+!Yo-kai
+!Rank
+!Tribe
+!Attri.
+!Blasters Role
+!Fav. Food
+|-
+|209
+|[[File:YW3Leggl.png|30px|link=]]
+|[[Leggly]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Restoration_icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Sweets
+|-
+|210
+|[[File:YW3TwiPie.png|30px|link=]]
+|[[Twirly Pie]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Juice
+|-
+|211
+|[[File:YW3PetCak.png|30px|link=]]
+|[[Petty-Cake]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Restoration_icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Sweets
+|-
+|212
+|[[File:YW3Hoppy.png|30px|link=]]
+|[[Hoppy-go-Lucky|Hoppy.]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Vegetables
+|-
+|213
+|[[File:YW3Dazzab.png|30px|link=]]
+|[[Dazzabel]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Sweets
+|-
+|214
+|[[File:YW3Rattel.png|30px|link=]]
+|[[Rattelle]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Sweets
+|-
+|215
+|[[File:YW3Skeleb.png|30px|link=]]
+|[[Skelebella]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Sweets
+|-
+|216
+|[[File:YW3Cadin.png|30px|link=]]
+|[[Cadin]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Juice
+|-
+|217
+|[[File:YW3Cadabl.png|30px|link=]]
+|[[Cadable]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Juice
+|-
+|218
+|[[File:YW3Singcad.png|30px|link=]]
+|[[Singcada]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Juice
+|-
+|219
+|[[File:YW3ButterBlue.png|30px|link=]]
+|[[Buttered Blue]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Milk
+|-
+|220
+|[[File:YW3PchBagu.png|30px|link=]]
+|[[Punching Baguette|Pch. Baguette]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Milk
+|-
+|221
+|[[File:YW3Pupsic.png|30px|link=]]
+|[[Pupsicle]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Ramen
+|-
+|222
+|[[File:YW3Chilhua.png|30px|link=]]
+|[[Chilhuahua]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Ramen
+|-
+|223
+|[[File:YW3Swelterr.png|30px|link=]]
+|[[Swelterrier]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Ramen
+|-
+|224
+|[[File:YW3Unbeliva.png|30px|link=]]
+|[[Unbelievaboy!]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Snacks
+|-
+|225
+|[[File:YW3Unbeara.png|30px|link=]]
+|[[Unbearaboy!]]{{Versionlink|T}}
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Snacks
+|-
+|226
+|[[File:YW3Inflamma.png|30px|link=]]
+|[[Inflammaboy!]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Snacks
+|-
+|227
+|[[File:YW3Jumbeli.png|30px|link=]]
+|[[Jumbelina]]
+|[[File:Rank_D icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Sweets
+|-
+|228
+|[[File:YW3Boyclo.png|30px|link=]]
+|[[Boyclops]]
+|[[File:Rank_D icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Oden
+|-
+|229
+|[[File:YW3KrysFox.png|30px|link=]]
+|[[Krystal Fox]]{{Versionlink|S}}
+|[[File:Rank_D icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Restoration_icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Tempura
+|-
+|230
+|[[File:YW3Runsur.png|30px|link=]]
+|[[Runsure]]
+|[[File:Rank_D icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Hot Dogs
+|-
+|231
+|[[File:YW3Kittylumb.png|30px|link=]]
+|[[Kittylumbus]]
+|[[File:Rank_D icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Seafood
+|-
+|232
+|[[File:YW3ZestaMinu.png|30px|link=]]
+|[[Zest-a-Minute]]
+|[[File:Rank_D icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Water_icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Sweets
+|-
+|233
+|[[File:YW3Baku.png|30px|link=]]
+|[[Baku]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Drain_icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Juice
+|-
+|234
+|[[File:YW3Whapi.png|30px|link=]]
+|[[Whapir]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Drain_icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Juice
+|-
+|235
+|[[File:YW3Bakuli.png|30px|link=]]
+|[[Bakulia]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Drain_icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Juice
+|-
+|236
+|[[File:YW3PanPup.png|30px|link=]]
+|[[Panja Pupil]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Sushi
+|-
+|237
+|[[File:YW3PanPro.png|30px|link=]]
+|[[Panja Pro]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Sushi
+|-
+|238
+|[[File:YW3CueTee.png|30px|link=]]
+|[[Cue-Tee]]
+|[[File:Rank_D icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Restoration_icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Pasta
+|-
+|239
+|[[File:YW3Demandi.png|30px|link=]]
+|[[Demandi]]
+|[[File:Rank_B icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Restoration_icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Pasta
+|-
+|240
+|[[File:YW3Walkapp.png|30px|link=]]
+|[[Walkappa]]
+|[[File:Rank_D icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Sushi
+|-
+|241
+|[[File:YW3Appak.png|30px|link=]]
+|[[Appak]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Sushi
+|-
+|242
+|[[File:YW3Supyo.png|30px|link=]]
+|[[Supyo]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Sushi
+|-
+|243
+|[[File:YW3Jibanya.png|30px|link=]]
+|[[Jibanyan]]
+|[[File:Rank_D icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Chocobars
+|-
+|244
+|[[File:YW3JibaB.png|30px|link=]]
+|[[Jibanyan B]]
+|[[File:Rank_B icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Chocobars
+|-
+|245
+|[[File:Jibaicon-s_YW3.png|30px|link=]]
+|[[Jibanyan S]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Chocobars
+|-
+|246
+|[[File:Jlbicon_YW3.png|30px|link=]]
+|[[Jibanyan Liu Bei|Jiban. Liu Bei]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Chocobars
+|-
+|247
+|[[File:YW3Rudy.png|30px|link=]]
+|[[Rudy]]
+|[[File:Rank_C icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Chocobars
+|-
+|248
+|[[File:YW3Thornya.png|30px|link=]]
+|[[Thornyan]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Chocobars
+|-
+|249
+|[[File:YW3Baddinya.png|30px|link=]]
+|[[Baddinyan]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Chocobars
+|-
+|250
+|[[File:YW3Buchinya.png|30px|link=]]
+|[[Buchinyan]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Chocobars
+|-
+|251
+|[[File:YW3Komsan.png|30px|link=]]
+|[[Komasan]]
+|[[File:Rank_D icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Ice Cream
+|-
+|252
+|[[File:YW3Koman.png|30px|link=]]
+|[[Komane]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Ice Cream
+|-
+|253
+|[[File:YW3KomaB.png|30px|link=]]
+|[[Komasan B]]
+|[[File:Rank_B icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Ice Cream
+|-
+|254
+|[[File:Komaicon-s_YW3.png|30px|link=]]
+|[[Komasan S]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Ice Cream
+|-
+|255
+|[[File:Kscicon_YW3.png|30px|link=]]
+|[[Komasan Sun Ce|Koma. Sun Ce]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Ice Cream
+|-
+|256
+|[[File:YW3Jibkom.png|30px|link=]]
+|[[Jibakoma]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Chocobars
+|-
+|257
+|[[File:YW3Komjir.png|30px|link=]]
+|[[Komajiro]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Milk
+|-
+|258
+|[[File:YW3Komiger.png|30px|link=]]
+|[[Komiger]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Milk
+|-
+|259
+|[[File:Jiroicon-s_YW3.png|30px|link=]]
+|[[Komajiro S]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Milk
+|-
+|260
+|[[File:YW3Drizzel.png|30px|link=]]
+|[[Drizzelda]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Juice
+|-
+|261
+|[[File:YW3Nekidspe.png|30px|link=]]
+|[[Nekidspeed]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Curry
+|-
+|262
+|[[File:YW3Stinkey.png|30px|link=]]
+|[[Stinkeye]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Pizza
+|-
+|263
+|[[File:YW3Slackoo.png|30px|link=]]
+|[[Slackoon]]{{Versionlink|T}}
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Juice
+|-
+|264
+|[[File:YW3Puppicc.png|30px|link=]]
+|[[Puppiccino]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Juice
+|-
+|265
+|[[File:YW3Ballin.png|30px|link=]]
+|[[Ballin]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Sushi
+|-
+|266
+|[[File:YW3Shmoopi.png|30px|link=]]
+|[[Shmoopie]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Hamburgers
+|-
+|267
+|[[File:YW3Pinkipo.png|30px|link=]]
+|[[Pinkipoo]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Hamburgers
+|-
+|268
+|[[File:YW3Pookiv.png|30px|link=]]
+|[[Pookivil]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Hamburgers
+|-
+|269
+|[[File:YW3HarBar.png|30px|link=]]
+|[[Harry Barry]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Meats
+|-
+|270
+|[[File:YW3Wondnya.png|30px|link=]]
+|[[Wondernyan]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Chocobars
+|-
+|271
+|[[File:YW3Jetnya.png|30px|link=]]
+|[[Jetnyan]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Chocobars
+|-
+|272
+|[[File:YW3Chimpnya.png|30px|link=]]
+|[[Chimpanyan]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Chocobars
+|-
+|273
+|[[File:Tomicon_YW3.png|30px|link=]]
+|[[Tomnyan]]{{Versionlink|T}}
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Mega Tasty Bar
+|-
+|274
+|[[File:Knomicon.png|30px|link=]]
+|[[Koma Knomads]]{{Versionlink|S}}
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Ice Cream
+|-
+|275
+|[[File:YW3Frostin.png|30px|link=]]
+|[[Frostina]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Candy
+|-
+|276
+|[[File:YW3Blizzari.png|30px|link=]]
+|[[Blizzaria]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Candy
+|-
+|277
+|[[File:YW3Damona.png|30px|link=]]
+|[[Damona]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Candy
+|-
+|278
+|[[File:YW3Melonya.png|30px|link=]]
+|[[Melonyan]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Chocobars
+|-
+|279
+|[[File:YW3Oranya.png|30px|link=]]
+|[[Oranyan]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Chocobars
+|-
+|280
+|[[File:YW3Kiwinya.png|30px|link=]]
+|[[Kiwinyan]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Chocobars
+|-
+|281
+|[[File:YW3Grapenya.png|30px|link=]]
+|[[Grapenyan]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Chocobars
+|-
+|282
+|[[File:YW3Strawbnya.png|30px|link=]]
+|[[Strawbnyan]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Fire_icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Chocobars
+|-
+|283
+|[[File:YW3Watmelnya.png|30px|link=]]
+|[[Watermelnyan]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Chocobars
+|-
+|284
+|[[File:YW3Sappnya.png|30px|link=]]
+|[[Sapphinyan]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Chocobars
+|-
+|285
+|[[File:YW3Emenya.png|30px|link=]]
+|[[Emenyan]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Chocobars
+|-
+|286
+|[[File:YW3Rubinya.png|30px|link=]]
+|[[Rubinyan]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Fire_icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Chocobars
+|-
+|287
+|[[File:YW3Topanya.png|30px|link=]]
+|[[Topanyan]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Chocobars
+|-
+|288
+|[[File:YW3Dianya.png|30px|link=]]
+|[[Dianyan]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Chocobars
+|-
+|289
+|[[File:YW3Robkap.png|30px|link=]]
+|[[Robokapp]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Sushi
+|-
+|290
+|[[File:YW3Robkom.png|30px|link=]]
+|[[Robokoma]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Fire_icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Ice Cream
+|-
+|291
+|[[File:YW3Sailnya.png|30px|link=]]
+|[[Sailornyan]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Chocobars
+|-
+|292
+|[[File:YW3RubeJ.png|30px|link=]]
+|[[Rubeus J]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Chocobars
+|-
+|293
+|[[File:YW3HarHou.png|30px|link=]]
+|[[Hardy Hound]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Ice Cream
+|-
+|294
+|[[File:YW3Whirlwea.png|30px|link=]]
+|[[Whirlweasel]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Soba Noodles
+|-
+|295
+|[[File:Chocoboicon.png|30px|link=]]
+|[[Chocobonyan]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Vegetables
+|-
+|296
+|[[File:Moogleicon.png|30px|link=]]
+|[[Mooglenyan]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Ice Cream
+|-
+|297
+|[[File:Wobnyanicon.png|30px|link=]]
+|[[Wobblenyan]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Chocobars
+|-
+|298
+|[[File:Wibkomaicon.png|30px|link=]]
+|[[Wibblekoma]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Ice Cream
+|-
+|299
+|[[File:Sushnyanicon.png|30px|link=]]
+|[[Sushinyan]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Sushi
+|-
+|300
+|[[File:Tempsanicon.png|30px|link=]]
+|[[Tempurasan]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Tempura
+|-
+|301
+|[[File:YW3FauKap.png|30px|link=]]
+|[[Faux Kappa]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Vegetables
+|-
+|302
+|[[File:YW3Tigapp.png|30px|link=]]
+|[[Tigappa]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Chinese Food
+|-
+|303
+|[[File:YW3MasNya.png|30px|link=]]
+|[[Master Nyada]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Seafood
+|-
+|304
+|[[File:YW3Tengurigi.png|30px|link=]]
+|[[Tenguriginal]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Tempura
+|-
+|305
+|[[File:YW3Tengulight.png|30px|link=]]
+|[[Tengulightened]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Tempura
+|}
+
+==== 306 - 374 Heartful ====
+{| class="main roundy" align="center" style="border: 1px solid #54B3D8; width: 70%; text-align:center;"
+!No.
+!Icon
+!Yo-kai
+!Rank
+!Tribe
+!Attri.
+!Blasters Role
+!Fav. Food
+|-
+|306
+|[[File:YW3Pallyso.png|30px|link=]]
+|[[Pallysol]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Oden
+|-
+|307
+|[[File:YW3Bumbleja.png|30px|link=]]
+|[[Bumblejack]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Rice Balls
+|-
+|308
+|[[File:YW3InTun.png|30px|link=]]
+|[[In-Tune]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Pasta
+|-
+|309
+|[[File:YW3Wantst.png|30px|link=]]
+|[[Wantston]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Ramen
+|-
+|310
+|[[File:YW3Grubsni.png|30px|link=]]
+|[[Grubsnitch]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Ramen
+|-
+|311
+|[[File:YW3Wigli.png|30px|link=]]
+|[[Wiglin]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Ramen
+|-
+|312
+|[[File:YW3Kelpaca.png|30px|link=]]
+|[[Kelpacabana]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Ramen
+|-
+|313
+|[[File:YW3Steppa.png|30px|link=]]
+|[[Steppa]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Ramen
+|-
+|314
+|[[File:YW3Rhyth.png|30px|link=]]
+|[[Rhyth]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Ramen
+|-
+|315
+|[[File:YW3SeaweSen.png|30px|link=]]
+|[[Seaweed Sensei|Seaweed Sns.]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Soba Noodles
+|-
+|316
+|[[File:YW3Hungram.png|30px|link=]]
+|[[Hungramps]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Rice Balls
+|-
+|317
+|[[File:YW3Hungorg.png|30px|link=]]
+|[[Hungorge]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Rice Balls
+|-
+|318
+|[[File:YW3Grainp.png|30px|link=]]
+|[[Grainpa]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Rice Balls
+|-
+|319
+|[[File:YW3SupersiGram.png|30px|link=]]
+|[[Supersize Gramps|Supersize G.]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Meats
+|-
+|320
+|[[File:YW3Tongus.png|30px|link=]]
+|[[Tongus]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Vegetables
+|-
+|321
+|[[File:YW3NurTon.png|30px|link=]]
+|[[Nurse Tongus]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Vegetables
+|-
+|322
+|[[File:YW3Sandme.png|30px|link=]]
+|[[Sandmeh]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Oden
+|-
+|323
+|[[File:YW3MisSandm.png|30px|link=]]
+|[[Mister Sandmeh|Mr. Sandmeh]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Oden
+|-
+|324
+|[[File:YW3LilBluHood.png|30px|link=]]
+|[[Lil Blue Bathing Hood|Lil Blue Hood]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Ice Cream
+|-
+|325
+|[[File:YW3BubbBeth.png|30px|link=]]
+|[[Bubble Beth]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Ice Cream
+|-
+|326
+|[[File:YW3Afronau.png|30px|link=]]
+|[[Afronaut]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Donuts
+|-
+|327
+|[[File:YW3CerSpill.png|30px|link=]]
+|[[Cereal Spiller]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Rice Balls
+|-
+|328
+|[[File:YW3TommGal.png|30px|link=]]
+|[[Tomorrow Gal]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Ice Cream
+|-
+|329
+|[[File:YW3Swaycor.png|30px|link=]]
+|[[Swaycorn]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Vegetables
+|-
+|330
+|[[File:YW3PusPup.png|30px|link=]]
+|[[Push Pup]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Hot Dogs
+|-
+|331
+|[[File:YW3Happcane.png|30px|link=]]
+|[[Happycane]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Snacks
+|-
+|332
+|[[File:YW3Starrcan.png|30px|link=]]
+|[[Starrycane]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Snacks
+|-
+|333
+|[[File:YW3Lodo.png|30px|link=]]
+|[[Lodo]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Milk
+|-
+|334
+|[[File:YW3SupoHer.png|30px|link=]]
+|[[Supoor Hero]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Milk
+|-
+|335
+|[[File:YW3Chipp.png|30px|link=]]
+|[[Chippa]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Milk
+|-
+|336
+|[[File:YW3Gnome.png|30px|link=]]
+|[[Gnomey]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Snacks
+|-
+|337
+|[[File:YW3HigGno.png|30px|link=]]
+|[[High Gnomey]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Snacks
+|-
+|338
+|[[File:YW3Enerfl.png|30px|link=]]
+|[[Enerfly]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Juice
+|-
+|339
+|[[File:YW3Enefl.png|30px|link=]]
+|[[Enefly]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Juice
+|-
+|340
+|[[File:YW3Betterfl.png|30px|link=]]
+|[[Betterfly]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Juice
+|-
+|341
+|[[File:YW3Peppill.png|30px|link=]]
+|[[Peppillon]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Juice
+|-
+|342
+|[[File:YW3Predbull.png|30px|link=]]
+|[[Predictabull]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Sushi
+|-
+|343
+|[[File:YW3Smashibu.png|30px|link=]]
+|[[Smashibull]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Sushi
+|-
+|344
+|[[File:YW3DonCha.png|30px|link=]]
+|[[Don Chan|DON-CHAN]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Snacks
+|-
+|345
+|[[File:YW3RayOLig.png|30px|link=]]
+|[[Ray O'Light]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Sweets
+|-
+|346
+|[[File:YW3OlSaiTri.png|30px|link=]]
+|[[Ol' Saint Trick]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Curry
+|-
+|347
+|[[File:YW3OlFortu.png|30px|link=]]
+|[[Ol' Fortune]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Curry
+|-
+|348
+|[[File:YW3Pondero.png|30px|link=]]
+|[[Ponderoo]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Ice Cream
+|-
+|349
+|[[File:YW3TonTwi.png|30px|link=]]
+|[[Tongue-Twister]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Curry
+|-
+|350
+|[[File:YW3LazSun.png|30px|link=]]
+|[[Lazy Sundae]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Ice Cream
+|-
+|351
+|[[File:YW3GotItMai.png|30px|link=]]
+|[[Got It Maid]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Pasta
+|-
+|352
+|[[File:YW3Greengra.png|30px|link=]]
+|[[Greengramps]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Vegetables
+|-
+|353
+|[[File:YW3RighBro.png|30px|link=]]
+|[[Right Brothers]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Hot Dogs
+|-
+|354
+|[[File:YW3Tattlecak.png|30px|link=]]
+|[[Tattlecakes]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Milk
+|-
+|355
+|[[File:YW3Happier.png|30px|link=]]
+|[[Happierre]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Bread
+|-
+|356
+|[[File:YW3Reversa.png|30px|link=]]
+|[[Reversa]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Bread
+|-
+|357
+|[[File:YW3Reverset.png|30px|link=]]
+|[[Reversette]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Bread
+|-
+|358
+|[[File:YW3Pheasanya.png|30px|link=]]
+|[[Pheasanyan]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Chocobars
+|-
+|359
+|[[File:YW3Fandang.png|30px|link=]]
+|[[Fundango]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Pizza
+|-
+|360
+|[[File:YW3PearWhit.png|30px|link=]]
+|[[Pearly White]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Tempura
+|-
+|361
+|[[File:YW3Robgra.png|30px|link=]]
+|[[Robogramps]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Rice Balls
+|-
+|362
+|[[File:YW3Rolle.png|30px|link=]]
+|[[Rollen]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Candy
+|-
+|363
+|[[File:YW3Dubb.png|30px|link=]]
+|[[Dubbles]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Candy
+|-
+|364
+|[[File:YW3Scaraso.png|30px|link=]]
+|[[Scarasol]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Sushi
+|-
+|365
+|[[File:YW3Odysseynya.png|30px|link=]]
+|[[Odysseynyan]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Seafood
+|-
+|366
+|[[File:YW3Ghostes.png|30px|link=]]
+|[[Ghostess]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Tempura
+|-
+|367
+|[[File:YW3PapBol.png|30px|link=]]
+|[[Papa Bolt]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Sushi
+|-
+|368
+|[[File:YW3UncInf.png|30px|link=]]
+|[[Uncle Infinite]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Sushi
+|-
+|369
+|[[File:YW3MamAur.png|30px|link=]]
+|[[Mama Aura]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Vegetables
+|-
+|370
+|[[File:YW3AuntHear.png|30px|link=]]
+|[[Auntie Heart]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Vegetables
+|-
+|371
+|[[File:YW3Kyryn.png|30px|link=]]
+|[[Kyryn]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Chinese Food
+|-
+|372
+|[[File:YW3Unikir.png|30px|link=]]
+|[[Unikirin]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Soba Noodles
+|-
+|373
+|[[File:YW3DouTim.png|30px|link=]]
+|[[Double Time]]{{Versionlink|T}}
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Pizza
+|-
+|374
+|[[File:YW3SoniBam.png|30px|link=]]
+|[[Sonic Bam]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Pizza
+|}
+
+==== 375 - 445 Shady ====
+{| class="main roundy" align="center" style="border: 1px solid #54B3D8; width: 70%; text-align:center;"
+!No.
+!Icon
+!Yo-kai
+!Rank
+!Tribe
+!Attri.
+!Blasters Role
+!Fav. Food
+|-
+|375
+|[[File:YW3Neggpla.png|30px|link=]]
+|[[Neggplant]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Pasta
+|-
+|376
+|[[File:YW3Snitch.png|30px|link=]]
+|[[Snitchin]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Juice
+|-
+|377
+|[[File:YW3Messyra.png|30px|link=]]
+|[[Messyrai]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Donuts
+|-
+|378
+|[[File:YW3Leadoni.png|30px|link=]]
+|[[Leadoni]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Candy
+|-
+|379
+|[[File:YW3Mynim.png|30px|link=]]
+|[[Mynimo]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Candy
+|-
+|380
+|[[File:YW3Ake.png|30px|link=]]
+|[[Ake]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Candy
+|-
+|381
+|[[File:YW3Payn.png|30px|link=]]
+|[[Payn]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Candy
+|-
+|382
+|[[File:YW3Agon.png|30px|link=]]
+|[[Agon]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Candy
+|-
+|383
+|[[File:YW3Herbibo.png|30px|link=]]
+|[[Herbiboy]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Vegetables
+|-
+|384
+|[[File:YW3Carnibo.png|30px|link=]]
+|[[Carniboy]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Meats
+|-
+|385
+|[[File:YW3Wydeaw.png|30px|link=]]
+|[[Wydeawake]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Hamburgers
+|-
+|386
+|[[File:YW3Allnyta.png|30px|link=]]
+|[[Allnyta]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Hamburgers
+|-
+|387
+|[[File:YW3Treette.png|30px|link=]]
+|[[Treetter]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Pizza
+|-
+|388
+|[[File:YW3Retreet.png|30px|link=]]
+|[[Retreeter]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Pizza
+|-
+|389
+|[[File:YW3Negatibu.png|30px|link=]]
+|[[Negatibuzz]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Juice
+|-
+|390
+|[[File:YW3Moskiv.png|30px|link=]]
+|[[Moskevil]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Juice
+|-
+|391
+|[[File:YW3Scritch.png|30px|link=]]
+|[[Scritchy]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Juice
+|-
+|392
+|[[File:YW3Dimmy.png|30px|link=]]
+|[[Dimmy]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Rice Balls
+|-
+|393
+|[[File:YW3Blando.png|30px|link=]]
+|[[Blandon]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Rice Balls
+|-
+|394
+|[[File:YW3Nul.png|30px|link=]]
+|[[Nul]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Rice Balls
+|-
+|395
+|[[File:YW3SalBac.png|30px|link=]]
+|[[Salty Bacon]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Hot Dogs
+|-
+|396
+|[[File:YW3Suspioni.png|30px|link=]]
+|[[Suspicioni]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Chinese Food
+|-
+|397
+|[[File:YW3Tantoni.png|30px|link=]]
+|[[Tantroni]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Chinese Food
+|-
+|398
+|[[File:YW3Contraoni.png|30px|link=]]
+|[[Contrarioni]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Chinese Food
+|-
+|399
+|[[File:YW3GrumKhan.png|30px|link=]]
+|[[Grumpus Khan]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Meats
+|-
+|400
+|[[File:YW3GrouKhan.png|30px|link=]]
+|[[Groupus Khan]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Meats
+|-
+|401
+|[[File:YW3Hidaba.png|30px|link=]]
+|[[Hidabat]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Meats
+|-
+|402
+|[[File:YW3Abodaba.png|30px|link=]]
+|[[Abodabat]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Meats
+|-
+|403
+|[[File:YW3Belfre.png|30px|link=]]
+|[[Belfree]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Meats
+|-
+|404
+|[[File:YW3Yoink.png|30px|link=]]
+|[[Yoink]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Sushi
+|-
+|405
+|[[File:YW3Gimme.png|30px|link=]]
+|[[Gimme]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Sushi
+|-
+|406
+|[[File:YW3Indext.png|30px|link=]]
+|[[Indexter]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Pizza
+|-
+|407
+|[[File:YW3HacKin.png|30px|link=]]
+|[[Hack King]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Pizza
+|-
+|408
+|[[File:YW3Yoodoo.png|30px|link=]]
+|[[Yoodooit]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Sushi
+|-
+|409
+|[[File:YW3CouZap.png|30px|link=]]
+|[[Count Zapaway]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Hamburgers
+|-
+|410
+|[[File:YW3Tyrat.png|30px|link=]]
+|[[Tyrat]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Milk
+|-
+|411
+|[[File:YW3DisliK.png|30px|link=]]
+|[[DisliKing]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Sushi
+|-
+|412
+|[[File:YW3CroADoo.png|30px|link=]]
+|[[Crook-a-doodle]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Pizza
+|-
+|413
+|[[File:YW3RocBad.png|30px|link=]]
+|[[Rocky Badboya]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Hot Dogs
+|-
+|414
+|[[File:YW3Injurn.png|30px|link=]]
+|[[Injurnalist]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Ice Cream
+|-
+|415
+|[[File:YW3MisTyp.png|30px|link=]]
+|[[Misterr Typoo]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Tempura
+|-
+|416
+|[[File:YW3Tengloo.png|30px|link=]]
+|[[Tengloom]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Bread
+|-
+|417
+|[[File:YW3Nird.png|30px|link=]]
+|[[Nird]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Bread
+|-
+|418
+|[[File:YW3Kmon.png|30px|link=]]
+|[[K'mon-K'mon]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Curry
+|-
+|419
+|[[File:YW3Snobett.png|30px|link=]]
+|[[Snobetty]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Sushi
+|-
+|420
+|[[File:YW3Dracunya.png|30px|link=]]
+|[[Dracunyan]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Chocobars
+|-
+|421
+|[[File:YW3LilKap.png|30px|link=]]
+|[[Lil Kappa]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Hamburgers
+|-
+|422
+|[[File:YW3Horizontai.png|30px|link=]]
+|[[Horizontail]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Donuts
+|-
+|423
+|[[File:YW3Usapyo.png|30px|link=]]
+|[[Usapyon]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Donuts
+|-
+|424
+|[[File:YW3UsaFoot.png|30px|link=]]
+|[[Usapyon|Usapyon Foot.]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Donuts
+|-
+|425
+|[[File:YW3UsaScub.png|30px|link=]]
+|[[Usapyon|Usapyon Scub.]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Donuts
+|-
+|426
+|[[File:YW3UsaGI.png|30px|link=]]
+|[[Usapyon|Usapyon G.I.]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Donuts
+|-
+|427
+|[[File:YW3UsaRac.png|30px|link=]]
+|[[Usapyon|Usapyon Race.]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Donuts
+|-
+|428
+|[[File:YW3UsaB.png|30px|link=]]
+|[[Usapyon B]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Donuts
+|-
+|429
+|[[File:Usazhoicon_YW3.png|30px|link=]]
+|[[Usapyon Zhongda|Usa. Zhongda]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Donuts
+|-
+|430
+|[[File:YW3Slimam.png|30px|link=]]
+|[[Slimamander]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Oden
+|-
+|431
+|[[File:YW3Negasu.png|30px|link=]]
+|[[Negasus]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Vegetables
+|-
+|432
+|[[File:YW3Neighfar.png|30px|link=]]
+|[[Neighfarious]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Vegetables
+|-
+|433
+|[[File:YW3GutBon.png|30px|link=]]
+|[[Gutsy Bones]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Milk
+|-
+|434
+|[[File:YW3Timidev.png|30px|link=]]
+|[[Timidevil]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Ramen
+|-
+|435
+|[[File:YW3Beelzebo.png|30px|link=]]
+|[[Beelzebold]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Ramen
+|-
+|436
+|[[File:YW3CouCav.png|30px|link=]]
+|[[Count Cavity]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Ramen
+|-
+|437
+|[[File:YW3Eyesoa.png|30px|link=]]
+|[[Eyesoar]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Meats
+|-
+|438
+|[[File:YW3Eyellu.png|30px|link=]]
+|[[Eyellure]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Sweets
+|-
+|439
+|[[File:YW3Greese.png|30px|link=]]
+|[[Greesel]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Meats
+|-
+|440
+|[[File:YW3Awevi.png|30px|link=]]
+|[[Awevil]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Meats
+|-
+|441
+|[[File:YW3Wobwok.png|30px|link=]]
+|[[Wobblewok]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Soba Noodles
+|-
+|442
+|[[File:YW3Darkyu.png|30px|link=]]
+|[[Darkyubi]]{{Versionlink|S}}
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Oden
+|-
+|443
+|[[File:YW3DrERas.png|30px|link=]]
+|[[Dr. E. Raser]]{{Versionlink|T}}
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Tempura
+|-
+|444
+|[[File:YW3DrNoc.png|30px|link=]]
+|[[Dr. Nocturne]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Tempura
+|-
+|445
+|[[File:YW3TutKmon.png|30px|link=]]
+|[[Tut 'n' K'mon]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Curry
+|}
+
+==== 446 - 510 Eerie ====
+{| class="main roundy" align="center" style="border: 1px solid #54B3D8; width: 70%; text-align:center;"
+!No.
+!Icon
+!Yo-kai
+!Rank
+!Tribe
+!Attri.
+!Blasters Role
+!Fav. Food
+|-
+|446
+|[[File:YW3Tiered.png|30px|link=]]
+|[[Tie-red]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Fire_icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Milk
+|-
+|447
+|[[File:YW3LovTor.png|30px|link=]]
+|[[Love-Torn]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Hamburgers
+|-
+|448
+|[[File:YW3Shakey.png|30px|link=]]
+|[[Shakey]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Hot Dogs
+|-
+|449
+|[[File:YW3Quagmi.png|30px|link=]]
+|[[Quagmira]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Ice Cream
+|-
+|450
+|[[File:YW3Coughko.png|30px|link=]]
+|[[Coughkoff]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Bread
+|-
+|451
+|[[File:YW3Hurchin.png|30px|link=]]
+|[[Hurchin]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Bread
+|-
+|452
+|[[File:YW3Droplett.png|30px|link=]]
+|[[Droplette]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Juice
+|-
+|453
+|[[File:YW3Drizzle.png|30px|link=]]
+|[[Drizzle]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Juice
+|-
+|454
+|[[File:YW3Slush.png|30px|link=]]
+|[[Slush]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Juice
+|-
+|455
+|[[File:YW3Alhail.png|30px|link=]]
+|[[Alhail]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Juice
+|-
+|456
+|[[File:YW3Gush.png|30px|link=]]
+|[[Gush]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Fire_icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Juice
+|-
+|457
+|[[File:YW3Peckpoc.png|30px|link=]]
+|[[Peckpocket]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Hamburgers
+|-
+|458
+|[[File:YW3Robbiny.png|30px|link=]]
+|[[Robbinyu]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Hamburgers
+|-
+|459
+|[[File:YW3Rockabel.png|30px|link=]]
+|[[Rockabelly]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Hamburgers
+|-
+|460
+|[[File:YW3Squeeky.png|30px|link=]]
+|[[Squeeky]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Curry
+|-
+|461
+|[[File:YW3Rawry.png|30px|link=]]
+|[[Rawry]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Curry
+|-
+|462
+|[[File:YW3Buhu.png|30px|link=]]
+|[[Buhu]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Bread
+|-
+|463
+|[[File:YW3Flumpy.png|30px|link=]]
+|[[Flumpy]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Bread
+|-
+|464
+|[[File:YW3Skreek.png|30px|link=]]
+|[[Skreek]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Bread
+|-
+|465
+|[[File:YW3Manjim.png|30px|link=]]
+|[[Manjimutt]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Fire_icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Curry
+|-
+|466
+|[[File:YW3Multimu.png|30px|link=]]
+|[[Multimutt]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Fire_icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Curry
+|-
+|467
+|[[File:YW3SirBer.png|30px|link=]]
+|[[Sir Berus]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Earth_icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Curry
+|-
+|468
+|[[File:YW3Furgus.png|30px|link=]]
+|[[Furgus]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Earth_icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Rice Balls
+|-
+|469
+|[[File:YW3Furdina.png|30px|link=]]
+|[[Furdinand]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Earth_icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Rice Balls
+|-
+|470
+|[[File:YW3Pergush.png|30px|link=]]
+|[[Pergushin]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Rice Balls
+|-
+|471
+|[[File:YW3Percrush.png|30px|link=]]
+|[[Percrushionists]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Rice Balls
+|-
+|472
+|[[File:YW3Nosirs.png|30px|link=]]
+|[[Nosirs]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Hamburgers
+|-
+|473
+|[[File:YW3Grubbl.png|30px|link=]]
+|[[Grubbles]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Ice Cream
+|-
+|474
+|[[File:YW3NerRex.png|30px|link=]]
+|[[Nervous Rex]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Hot Dogs
+|-
+|475
+|[[File:YW3RinRep.png|30px|link=]]
+|[[Rinsin Repete]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Earth_icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Tempura
+|-
+|476
+|[[File:YW3Chatali.png|30px|link=]]
+|[[Chatalie]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Bread
+|-
+|477
+|[[File:YW3Nagath.png|30px|link=]]
+|[[Nagatha]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Bread
+|-
+|478
+|[[File:YW3Dismarel.png|30px|link=]]
+|[[Dismarelda]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Earth_icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Bread
+|-
+|479
+|[[File:YW3Drenchet.png|30px|link=]]
+|[[Drenchetta]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Sweets
+|-
+|480
+|[[File:YW3DanSan.png|30px|link=]]
+|[[Danke Sand]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Earth_icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Oden
+|-
+|481
+|[[File:YW3NoSan.png|30px|link=]]
+|[[No Sandkyu]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Earth_icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Oden
+|-
+|482
+|[[File:YW3PapWin.png|30px|link=]]
+|[[Papa Windbag]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Lightning_icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Soba Noodles
+|-
+|483
+|[[File:YW3BenTov.png|30px|link=]]
+|[[Ben Tover]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Wind_icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Seafood
+|-
+|484
+|[[File:YW3Compun.png|30px|link=]]
+|[[Compunzer]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Snacks
+|-
+|485
+|[[File:YW3Lamedia.png|30px|link=]]
+|[[Lamedian]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Snacks
+|-
+|486
+|[[File:YW3Soloman.png|30px|link=]]
+|[[Soloman]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Oden
+|-
+|487
+|[[File:YW3Rhumbas.png|30px|link=]]
+|[[Rhumbastiltskin]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Seafood
+|-
+|488
+|[[File:YW3Slax.png|30px|link=]]
+|[[Slax]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Water_icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Pizza
+|-
+|489
+|[[File:YW3Cheeksq.png|30px|link=]]
+|[[Cheeksqueek]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Milk
+|-
+|490
+|[[File:YW3Cuttinch.png|30px|link=]]
+|[[Cuttincheez]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Milk
+|-
+|491
+|[[File:YW3Toilett.png|30px|link=]]
+|[[Toiletta]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Snacks
+|-
+|492
+|[[File:YW3Foilett.png|30px|link=]]
+|[[Foiletta]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Snacks
+|-
+|493
+|[[File:YW3Robmut.png|30px|link=]]
+|[[Robomutt]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Curry
+|-
+|494
+|[[File:YW3Shedwin.png|30px|link=]]
+|[[Shedwin]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Vegetables
+|-
+|495
+|[[File:YW3Glumdan.png|30px|link=]]
+|[[Glumdango]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Pizza
+|-
+|496
+|[[File:YW3Spewart.png|30px|link=]]
+|[[Spewart]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Pasta
+|-
+|497
+|[[File:YW3Grumple.png|30px|link=]]
+|[[Grumples]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Milk
+|-
+|498
+|[[File:YW3Everfor.png|30px|link=]]
+|[[Everfore]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Milk
+|-
+|499
+|[[File:YW3Eterna.png|30px|link=]]
+|[[Eterna]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Milk
+|-
+|500
+|[[File:YW3Sproin.png|30px|link=]]
+|[[Sproink]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Fire_icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Curry
+|-
+|501
+|[[File:YW3Darknya.png|30px|link=]]
+|[[Darknyan]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Seafood
+|-
+|502
+|[[File:YW3Decidevib.png|30px|link=]]
+|[[Decidevible]]{{Versionlink|T}}
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Sushi
+|-
+|503
+|[[File:YW3HairScar.png|30px|link=]]
+|[[Hairum Scarum]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Earth_icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Tempura
+|-
+|504
+|[[File:YW3Insom.png|30px|link=]]
+|[[Insomni]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Candy
+|-
+|505
+|[[File:YW3Sandi.png|30px|link=]]
+|[[Sandi]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Candy
+|-
+|506
+|[[File:YW3Arachnu.png|30px|link=]]
+|[[Arachnus]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Soba Noodles
+|-
+|507
+|[[File:YW3Arachni.png|30px|link=]]
+|[[Arachnia]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Soba Noodles
+|-
+|508
+|[[File:YW3Oridiji.png|30px|link=]]
+|[[Oridjinn]]{{Versionlink|S}}
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Pizza
+|-
+|509
+|[[File:YW3Horridj.png|30px|link=]]
+|[[Horridjinn]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Pizza
+|-
+|510
+|[[File:YW3LittChar.png|30px|link=]]
+|[[Little Charrmer]]{{Versionlink|T}}
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Fire_icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Tempura
+|}
+
+==== 511 - 572 Slippery ====
+{| class="main roundy" align="center" style="border: 1px solid #54B3D8; width: 70%; text-align:center;"
+|-
+! No.
+! Icon
+! Yo-kai
+! Rank
+! Tribe
+! Attri.
+! Blasters Role
+! Fav. Food
+|-
+|511
+|[[File:YW3Cricky.png|30px|link=]]
+|[[Cricky]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Water_icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Sushi
+|-
+|512
+|[[File:YW3HumJum.png|30px|link=]]
+|[[Humtea Jumtea]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Water_icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Juice
+|-
+|513
+|[[File:YW3Snailsp.png|30px|link=]]
+|[[Snailspace]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Water_icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Seafood
+|-
+|514
+|[[File:YW3Putasoc.png|30px|link=]]
+|[[Putasockinit]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Pasta
+|-
+|515
+|[[File:YW3Snidewin.png|30px|link=]]
+|[[Snidewinder]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Pasta
+|-
+|516
+|[[File:YW3Noko.png|30px|link=]]
+|[[Noko]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Hamburgers
+|-
+|517
+|[[File:YW3Bloominok.png|30px|link=]]
+|[[Bloominoko]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Hamburgers
+|-
+|518
+|[[File:YW3Pandanok.png|30px|link=]]
+|[[Pandanoko]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Hamburgers
+|-
+|519
+|[[File:YW3StarNoko.png|30px|link=]]
+|[[Starry Noko]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Donuts
+|-
+|520
+|[[File:YW3Snaggl.png|30px|link=]]
+|[[Snaggly]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Sweets
+|-
+|521
+|[[File:YW3Whinon.png|30px|link=]]
+|[[Whinona]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Sweets
+|-
+|522
+|[[File:YW3OMGat.png|30px|link=]]
+|[[OMGator]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Water_icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Meats
+|-
+|523
+|[[File:YW3Nauta.png|30px|link=]]
+|[[Nautaloss]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Water_icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Seafood
+|-
+|524
+|[[File:YW3Shellebr.png|30px|link=]]
+|[[Shellebrity]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Water_icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Tempura
+|-
+|525
+|[[File:YW3Heheel.png|30px|link=]]
+|[[Heheheel]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Meats
+|-
+|526
+|[[File:YW3Croong.png|30px|link=]]
+|[[Croonger]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Meats
+|-
+|527
+|[[File:YW3Urnacon.png|30px|link=]]
+|[[Urnaconda]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Meats
+|-
+|528
+|[[File:YW3Takid.png|30px|link=]]
+|[[Takoyakid]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Fire_icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Oden
+|-
+|529
+|[[File:YW3Taking.png|30px|link=]]
+|[[Takoyaking]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Fire_icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Oden
+|-
+|530
+|[[File:YW3Fishpic.png|30px|link=]]
+|[[Fishpicable]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Lightning_icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Meats
+|-
+|531
+|[[File:YW3Rageon.png|30px|link=]]
+|[[Rageon]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Lightning_icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Meats
+|-
+|532
+|[[File:YW3Tunatic.png|30px|link=]]
+|[[Tunatic]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Fire_icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Meats
+|-
+|533
+|[[File:YW3Flushba.png|30px|link=]]
+|[[Flushback]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Soba Noodles
+|-
+|534
+|[[File:YW3Vaccuumo.png|30px|link=]]
+|[[Vacuumory]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Soba Noodles
+|-
+|535
+|[[File:YW3Irewig.png|30px|link=]]
+|[[Irewig]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Fire_icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Hamburgers
+|-
+|536
+|[[File:YW3Firewi.png|30px|link=]]
+|[[Firewig]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Fire_icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Hamburgers
+|-
+|537
+|[[File:YW3Draggi.png|30px|link=]]
+|[[Draggie]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Earth_icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Chinese Food
+|-
+|538
+|[[File:YW3DraLor.png|30px|link=]]
+|[[Dragon Lord]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Earth_icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Chinese Food
+|-
+|539
+|[[File:YW3AzuDra.png|30px|link=]]
+|[[Azure Dragon]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Water_icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Chinese Food
+|-
+|540
+|[[File:YW3Merdyn.png|30px|link=]]
+|[[Mermaidyn]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Water_icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Sweets
+|-
+|541
+|[[File:YW3Mermadon.png|30px|link=]]
+|[[Mermadonna]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Water_icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Sweets
+|-
+|542
+|[[File:YW3Mermot.png|30px|link=]]
+|[[Mermother]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Water_icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Sweets
+|-
+|543
+|[[File:YW3TWre.png|30px|link=]]
+|[[T-Wrecks]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Earth_icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Hot Dogs
+|-
+|544
+|[[File:YW3DStr.png|30px|link=]]
+|[[D-Stroy]]{{Versionlink|S}}
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Earth_icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Hot Dogs
+|-
+|545
+|[[File:YW3Clodzil.png|30px|link=]]
+|[[Clodzilla]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Earth_icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Hot Dogs
+|-
+|546
+|[[File:YW3LadLon.png|30px|link=]]
+|[[Lady Longnek]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Sweets
+|-
+|547
+|[[File:YW3Whisp.png|30px|link=]]
+|[[Whisper]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Ice Cream
+|-
+|548
+|[[File:YW3Whispo.png|30px|link=]]
+|[[Whispocrates]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Ice Cream
+|-
+|549
+|[[File:YW3SnipCric.png|30px|link=]]
+|[[Snippity Cricket]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Candy
+|-
+|550
+|[[File:YW3Flockto.png|30px|link=]]
+|[[Flocktopus]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Water_icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Seafood
+|-
+|551
+|[[File:YW3BittBatt.png|30px|link=]]
+|[[Bitter Batter]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Fire_icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Seafood
+|-
+|552
+|[[File:YW3Daiz.png|30px|link=]]
+|[[Daiz]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Candy
+|-
+|553
+|[[File:YW3Confuz.png|30px|link=]]
+|[[Confuze]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Candy
+|-
+|554
+|[[File:YW3Chumme.png|30px|link=]]
+|[[Chummer]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Water_icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Vegetables
+|-
+|555
+|[[File:YW3Shrook.png|30px|link=]]
+|[[Shrook]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Water_icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Vegetables
+|-
+|556
+|[[File:YW3Spenp.png|30px|link=]]
+|[[Spenp]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Bread
+|-
+|557
+|[[File:YW3Almi.png|30px|link=]]
+|[[Almi]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Water_icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Bread
+|-
+|558
+|[[File:YW3Babblo.png|30px|link=]]
+|[[Babblong]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Water_icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Candy
+|-
+|559
+|[[File:YW3Bananos.png|30px|link=]]
+|[[Bananose]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Water_icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Candy
+|-
+|560
+|[[File:YW3Cocobana.png|30px|link=]]
+|[[Cocobanana]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Lightning_icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Sweets
+|-
+|561
+|[[File:YW3Draaagi.png|30px|link=]]
+|[[Draaagin]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Ramen
+|-
+|562
+|[[File:YW3Robnok.png|30px|link=]]
+|[[Robonoko]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Earth_icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Hamburgers
+|-
+|563
+|[[File:YW3Robdra.png|30px|link=]]
+|[[Robodraggie]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Fire_icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Chinese Food
+|-
+|564
+|[[File:YW3OozeZat.png|30px|link=]]
+|[[Ooze Zat]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Tempura
+|-
+|565
+|[[File:YW3Copperl.png|30px|link=]]
+|[[Copperled]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Fire_icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Seafood
+|-
+|566
+|[[File:YW3Cynake.png|30px|link=]]
+|[[Cynake]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Water_icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Seafood
+|-
+|567
+|[[File:YW3Slither.png|30px|link=]]
+|[[Slitheref]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Lightning_icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Seafood
+|-
+|568
+|[[File:YW3SVSnagg.png|30px|link=]]
+|[[SV Snaggerjag]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Water_icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Oden
+|-
+|569
+|[[File:YW3Mytho.png|30px|link=]]
+|[[Mython]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Water_icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Sushi
+|-
+|570
+|[[File:YW3Venoct.png|30px|link=]]
+|[[Venoct]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Lightning_icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Seafood
+|-
+|571
+|[[File:YW3ShaVen.png|30px|link=]]
+|[[Shadow Venoct|Shad. Venoct]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Seafood
+|-
+|572
+|[[File:YW3Frogetm.png|30px|link=]]
+|[[Frogetmenot]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Sushi
+|}
+
+==== 573 - 600 Wicked Yo-kai and Others ====
+{| class="main roundy" align="center" style="border: 1px solid #54B3D8; width: 70%; text-align:center;"
+|-
+! No.
+! Icon
+! Yo-kai
+! Rank
+! Tribe
+! Attri.
+! Blasters Role
+! Fav. Food
+|-
+|573
+|[[File:Orignyanicon.png|30px|link=]]
+|[[Originyan]]
+|[[File:Rank_E_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Chocobars
+|-
+|574
+|[[File:Sighicon.png|30px|link=]]
+|[[Sighborg Y]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:WandroidIcon.png|30x30px]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Curry
+|-
+|575
+|[[File:YW3Unfai.png|30px|link=]]
+|[[Unfairy]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Wicked_Tribe.png|30px|link=Wicked]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Snacks
+|-
+|576
+|[[File:YW3Unkai.png|30px|link=]]
+|[[Unkaind]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Wicked_Tribe.png|30px|link=Wicked]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Seafood
+|-
+|577
+|[[File:YW3Untid.png|30px|link=]]
+|[[Untidy]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Wicked_Tribe.png|30px|link=Wicked]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Meats
+|-
+|578
+|[[File:YW3Unplea.png|30px|link=]]
+|[[Unpleasant]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Wicked_Tribe.png|30px|link=Wicked]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Oden
+|-
+|579
+|[[File:YW3Unkee.png|30px|link=]]
+|[[Unkeen]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Wicked_Tribe.png|30px|link=Wicked]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Curry
+|-
+|580
+|[[File:YW3Grublap.png|30px|link=]]
+|[[Grublappa]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Wicked_Tribe.png|30px|link=Wicked]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Oden
+|-
+|581
+|[[File:YW3Madmun.png|30px|link=]]
+|[[Madmunch]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Wicked_Tribe.png|30px|link=Wicked]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Oden
+|-
+|582
+|[[File:YW3Badsmell.png|30px|link=]]
+|[[Badsmella]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Wicked_Tribe.png|30px|link=Wicked]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Sweets
+|-
+|583
+|[[File:YW3MadKap.png|30px|link=]]
+|[[Mad Kappa]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Wicked_Tribe.png|30px|link=Wicked]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Vegetables
+|-
+|584
+|[[File:YW3Shamas.png|30px|link=]]
+|[[Shamasol]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Wicked_Tribe.png|30px|link=Wicked]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Oden
+|-
+|585
+|[[File:YW3Gnomin.png|30px|link=]]
+|[[Gnomine]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Wicked_Tribe.png|30px|link=Wicked]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Snacks
+|-
+|586
+|[[File:YW3Defectab.png|30px|link=]]
+|[[Defectabull]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Wicked_Tribe.png|30px|link=Wicked]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Snacks
+|-
+|587
+|[[File:YW3Feargu.png|30px|link=]]
+|[[Feargus]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Wicked_Tribe.png|30px|link=Wicked]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Rice Balls
+|-
+|588
+|[[File:YW3Scaremaid.png|30px|link=]]
+|[[Scaremaiden]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Wicked_Tribe.png|30px|link=Wicked]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Sweets
+|-
+|589
+|[[File:YW3Wrongne.png|30px|link=]]
+|[[Wrongnek]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Wicked_Tribe.png|30px|link=Wicked]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Sweets
+|-
+|590
+|[[File:YW3KJiba.png|30px|link=]]
+|[[King Jibanyan]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Chocobars
+|-
+|591
+|[[File:YW3QUsa.png|30px|link=]]
+|[[Queen Usapyon|Qn. Usapyon]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Donuts
+|-
+|592
+|[[File:YW3JKoma.png|30px|link=]]
+|[[Jackomasan]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Ice Cream
+|-
+|593
+|[[File:YW3KomaT.png|30px|link=]]
+|[[Komajiro Ten]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Milk
+|-
+|594
+|[[File:YW3Acenya.png|30px|link=]]
+|[[Acenyan]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Seafood
+|-
+|595
+|[[File:YW3Josper.png|30px|link=]]
+|[[Josper]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Ice Cream
+|-
+|596
+|[[File:YW3Benzai.png|30px|link=]]
+|[[Benzaiten]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Curry
+|-
+|597
+|[[File:YW3Hotei.png|30px|link=]]
+|[[Hotei]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Soba Noodles
+|-
+|598
+|[[File:YW3Daikoku.png|30px|link=]]
+|[[Daikokuten]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Oden
+|-
+|599
+|[[File:YW3Ebisu.png|30px|link=]]
+|[[Ebisu]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Seafood
+|-
+|600
+|[[File:YW3Bishamon.png|30px|link=]]
+|[[Bishamonten]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Fire icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Meats
+|}
+
+==== 601 - 618 Legendary Yo-kai ====
+{| class="main roundy" align="center" style="border: 1px solid #54B3D8; width: 70%; text-align:center;"
+|-
+! No.
+! Icon
+! Yo-kai
+! Rank
+! Tribe
+! Attri.
+! Blasters Role
+! Fav. Food
+|-
+|601
+|[[File:YW3Columbak.png|30px|link=]]
+|[[Columbakat]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Pasta
+|-
+|602
+|[[File:YW3TEner.png|30px|link=]]
+|[[T. Energison]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Hamburgers
+|-
+|603
+|[[File:YW3Starwi.png|30px|link=]]
+|[[Starwin]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Pizza
+|-
+|604
+|[[File:YW3LasNya.png|30px|link=]]
+|[[The Last Nyanmurai|Last Nyanmurai]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Fire_icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Tempura
+|-
+|605
+|[[File:YW3KomSta.png|30px|link=]]
+|[[Koma Star]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Ice Cream
+|-
+|606
+|[[File:YW3Platino.png|30px|link=]]
+|[[Platinos]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters tank.png|100px|link=]]
+|Pizza
+|-
+|607
+|[[File:YW3FlaTCas.png|30px|link=]]
+|[[Flash T. Cash]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Sushi
+|-
+|608
+|[[File:YW3Shogunya.png|30px|link=]]
+|[[Shogunyan]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Seafood
+|-
+|609
+|[[File:YW3Komashu.png|30px|link=]]
+|[[Komashura]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Fire_icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Ice Cream
+|-
+|610
+|[[File:YW3Gilgar.png|30px|link=]]
+|[[Gilgaros]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters tank.png|100px|link=]]
+|Meats
+|-
+|611
+|[[File:YW3Spoilerin.png|30px|link=]]
+|[[Spoilerina]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Sweets
+|-
+|612
+|[[File:YW3EldBlo.png|30px|link=]]
+|[[Elder Bloom]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Rice Balls
+|-
+|613
+|[[File:YW3Poofess.png|30px|link=]]
+|[[Poofessor]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Curry
+|-
+|614
+|[[File:YW3Dandood.png|30px|link=]]
+|[[Dandoodle]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Chinese Food
+|-
+|615
+|[[File:YW3Slurpen.png|30px|link=]]
+|[[Slurpent]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters tank.png|100px|link=]]
+|Meats
+|-
+|616
+|[[File:YW3ReQPer.png|30px|link=]]
+|[[Re-Q-Perate]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters ranger.png|100px|link=]]
+|Oden
+|-
+|617
+|[[File:YW3PrincPear.png|30px|link=]]
+|[[Princess Pearl]]{{Versionlink|S}}
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Sushi
+|-
+|618
+|[[File:YW3Asura.png|30px|link=]]
+|[[Asura]]{{Versionlink|T}}
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Fire_icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Meats
+|}
+
+==== 619 - 657 Dream Yo-kai, Sangokushi Yo-kai, and others ====
+{| class="main roundy" align="center" style="border: 1px solid #54B3D8; width: 70%; text-align:center;"
+|-
+! No.
+! Icon
+! Yo-kai
+! Rank
+! Tribe
+! Attri.
+! Blasters Role
+! Fav. Food
+|-
+
+|619
+|[[File:Terminicon.png|30px|link=]]
+|[[Terminyanator]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Fire_icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Chocobars
+|-
+|620
+|[[File:Supericon.png|30px|link=]]
+|[[Supernyan]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Chocobars
+|-
+|621
+|[[File:Hoversicon.png|30px|link=]]
+|[[Hovernyan S]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Seafood
+|-
+|622
+|[[File:Hovercaoicon.png|30px|link=]]
+|[[Hovernyan Cao Cao|Hover. Cao Cao]]{{Versionlink|Sk}}
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Seafood
+|-
+|623
+|[[File:YW3Yogana.png|30px|link=]]
+|[[Yoganalisten]]{{Versionlink|Sk}}
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Curry
+|-
+|624
+|[[File:YW3Judgebri.png|30px|link=]]
+|[[Judgebrick]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Sushi
+|-
+|625
+|[[File:YW3Urnfulfi.png|30px|link=]]
+|[[Urnfulfilled]]{{Versionlink|Sk}}
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Sukiyaki
+|-
+|626
+|[[File:YW3Sad2TBon.png|30px|link=]]
+|[[Sad to the Bone|Sad 2 the Bone]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Milk
+|-
+|627
+|[[File:Venboticon.png|30px|link=]]
+|[[Venoctobot]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Seafood
+|-
+|628
+|[[File:Orcalubuicon.png|30px|link=]]
+|[[Orcanos Lu Bu]]{{Versionlink|Sk}}
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Meats
+|-
+|629
+|[[File:Kyuboticon.png|30px|link=]]
+|[[Kyubot]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Oden
+|-
+|630
+|[[File:Ultroboicon.png|30px|link=]]
+|[[Ultimate Robonyan|Ult. Robonyan]]{{Versionlink|Sk}}
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Chocobars
+|-
+|631
+|[[File:YW3MolPet.png|30px|link=]]
+|[[Molar Petite]]
+|[[File:Rank_D_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Vegetables
+|-
+|632
+|[[File:YW3LifisPar.png|30px|link=]]
+|[[Life-is-Parfait]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Sweets
+|-
+|633
+|[[File:Mee2icon.png|30px|link=]]
+|[[Mee 2]]{{Versionlink|Sk}}
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Sweets
+|-
+|634
+|[[File:Koalaicon.png|30px|link=]]
+|[[Koalanyan]]{{Versionlink|Sk}}
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Sushi
+|-
+|635
+|[[File:Jibaticon.png|30px|link=]]
+|[[Jibanyan T]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Chocobars
+|-
+|636
+|[[File:Komaticon.png|30px|link=]]
+|[[Komasan T]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Ice Cream
+|-
+|637
+|[[File:Eggceicon.png|30px|link=]]
+|[[Her Eggcelency|Eggcelency]]{{Versionlink|Sk}}
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Sukiyaki
+|-
+|638
+|[[File:YW3Deadco.png|30px|link=]]
+|[[Deadcool]]{{Versionlink|Sk}}
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Sukiyaki
+|-
+|639
+|[[File:YW3Sweatt.png|30px|link=]]
+|[[Sweattuce]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Vegetables
+|-
+|640
+|[[File:YW3MrBlueShy.png|30px|link=]]
+|[[Mr. Blue-Shy]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Snacks
+|-
+|641
+|[[File:YW3Amplif.png|30px|link=]]
+|[[Amplifly]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Snacks
+|-
+|642
+|[[File:YW3Ulteria.png|30px|link=]]
+|[[Ulteria]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Donuts
+|-
+|643
+|[[File:YW3MyBaaad.png|30px|link=]]
+|[[My-Baaad]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Ice Cream
+|-
+|644
+|[[File:YW3SunnSou.png|30px|link=]]
+|[[Sunk'nsoul]]{{Versionlink|Sk}}
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Sukiyaki
+|-
+|645
+|[[File:YW3CrumMumm.png|30px|link=]]
+|[[Crummy Mummy|Crummy Mum.]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Soba Noodles
+|-
+|646
+|[[File:Kapedicon.png|30px|link=]]
+|[[Kaped Komander|Kaped Koma.]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Ice Cream
+|-
+|647
+|[[File:Tofupicon.png|30px|link=]]
+|[[Tofupyon]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Sukiyaki
+|-
+|648
+|[[File:YW3EdZoff.png|30px|link=]]
+|[[Ed Zoff]]{{Versionlink|Sk}}
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Sukiyaki
+|-
+|649
+|[[File:YW3GorgeAmb.png|30px|link=]]
+|[[Gorgeous Ambassador|Gorgeous Amb.]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Tempura
+|-
+|650
+|[[File:YW3Hinoza.png|30px|link=]]
+|[[Hinozall]]{{Versionlink|Sk}}
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Meats
+|-
+|651
+|[[File:Zazicon.png|30px|link=]]
+|[[Zazel]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Chinese Food
+|-
+|652
+|[[File:YW3Procrast.png|30px|link=]]
+|[[Procrastinocchio|Procrastino.]]{{Versionlink|Sk}}
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Juice
+|-
+|653
+|[[File:Treapesticon.png|30px|link=]]
+|[[Treasure Pest]]
+|[[File:Rank_C_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Hot Dogs
+|-
+|654
+|[[File:YW3JNSais.png|30px|link=]]
+|[[Jeanne Ne-Sais-Quoi|J. Ne-Sais-Quoi]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Snacks
+|-
+|655
+|[[File:Whikomicon.png|30px|link=]]
+|[[Whisper Kongming|Whi. Kongming]]{{Versionlink|Sk}}
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Ice Cream
+|-
+|656
+|[[File:YW3Jurojin.png|30px|link=]]
+|[[Jurojin]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Ramen
+|-
+|657
+|[[File:YW3Fukurok.png|30px|link=]]
+|[[Fukurokuju]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Sushi
+|}
+
+==== 658 - 675 Legendary Yo-kai, Enma Tribe, and Dream Yo-kai ====
+{| class="main roundy" align="center" style="border: 1px solid #54B3D8; width: 70%; text-align:center;"
+|-
+! No.
+! Icon
+! Yo-kai
+! Rank
+! Tribe
+! Attri.
+! Blasters Role
+! Fav. Food
+|-
+|658
+|[[File:YW3Sarcopha.png|30px|link=]]
+|[[Sarcophacurse]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Curry
+|-
+|659
+|[[File:YW3KingDead.png|30px|link=]]
+|[[King Deadward]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Soba Noodles
+|-
+|660
+|[[File:YW3Pandora.png|30px|link=]]
+|[[Pandora]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Sukiyaki
+|-
+|661
+|[[File:YW3ComGen.png|30px|link=]]
+|[[Comic Genieus]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Sukiyaki
+|-
+|662
+|[[File:YW3Bastnya.png|30px|link=]]
+|[[Bastnetnyan]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Seafood
+|-
+|663
+|[[File:YW3Komanu.png|30px|link=]]
+|[[Komanubis]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Bread
+|-
+|664
+|[[File:YW3Gabby.png|30px|link=]]
+|[[Gabby]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Wind icon.PNG|30px|link=Wind (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Sweets
+|-
+|665
+|[[File:YW3Teducat.png|30px|link=]]
+|[[Teducator]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Milk
+|-
+|666
+|[[File:YW3Gentlemu.png|30px|link=]]
+|[[Gentlemutt]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Soba Noodles
+|-
+|667
+|[[File:YW3CityLick.png|30px|link=]]
+|[[City Licker]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Fire_icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Tempura
+|-
+|668
+|[[File:YW3WhyvKing.png|30px|link=]]
+|[[Whyvern King]]{{Versionlink|Sk}}
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Meats
+|-
+|669
+|[[File:YW3LordEm.png|30px|link=]]
+|[[Lord Enma]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:King_Tribe.png|30px|link=Enma]]
+|[[File:Fire_icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Candy
+|-
+|670
+|[[File:Rgtzazicon.png|30px|link=]]
+|[[Righteous Zazel|Rgt. Zazel]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Tempura
+|-
+|671
+|[[File:Hinoawkicon.png|30px|link=]]
+|[[Hinozall Awoken|Hinozall Awk.]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Meats
+|-
+|672
+|[[File:YW3AnciEnma.png|30px|link=]]
+|[[Ancient Enma]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:King_Tribe.png|30px|link=Enma]]
+|[[File:Fire_icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Chinese Food
+|-
+|673
+|[[File:YW3EnmAwk.png|30px|link=]]
+|[[Lord Enma Awoken|Lord Enma Awk.]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:King_Tribe.png|30px|link=Enma]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Sukiyaki
+|-
+|674
+|[[File:YW3Boracle.png|30px|link=]]
+|[[The Boracle]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Soba Noodles
+|-
+|675
+|[[File:YW3Rampaj.png|30px|link=]]
+|[[Rampajah]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Fire_icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Sukiyaki
+|}
+
+==== 676 - 698 Classic Yo-kai, Dream Yo-kai, Treasure Yo-kai, and Others ====
+{| class="main roundy" align="center" style="border: 1px solid #54B3D8; width: 70%; text-align:center;"
+|-
+! No.
+! Icon
+! Yo-kai
+! Rank
+! Tribe
+! Attri.
+! Blasters Role
+! Fav. Food
+|-
+|676
+|[[File:YW3Cymbalin.png|30px|link=]]
+|[[Cymbalina]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Soba Noodles
+|-
+|677
+|[[File:YW3Mumbles.png|30px|link=]]
+|[[Mumbles]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Meats
+|-
+|678
+|[[File:YW3Roary.png|30px|link=]]
+|[[Roary]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Tough_Tribe.png|30px|link=Tough]]
+|[[File:Fire_icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Seafood
+|-
+|679
+|[[File:YW3Letsbif.png|30px|link=]]
+|[[Letsbifrenz]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Sukiyaki
+|-
+|680
+|[[File:YW3WackOLan.png|30px|link=]]
+|[[Wack o' Lantern]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Fire_icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Sukiyaki
+|-
+|681
+|[[File:YW3Moolind.png|30px|link=]]
+|[[Moolinda]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Sweets
+|-
+|682
+|[[File:YW3Neightha.png|30px|link=]]
+|[[Neighthan]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Soba Noodles
+|-
+|683
+|[[File:YW3BigFis.png|30px|link=]]
+|[[Big Fish]]{{Versionlink|S}}
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Seafood
+|-
+|684
+|[[File:Alpicon.png|30px|link=]]
+|[[Alpina]]{{Versionlink|T}}
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Vegetables
+|-
+|685
+|[[File:Lunicon.png|30px|link=]]
+|[[Lunie]]{{Versionlink|Sk}}
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Shady_Tribe.png|30px|link=Shady]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Pizza
+|-
+|686
+|[[File:YW3Blizzie.png|30px|link=]]
+|[[Blizzie]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Ice icon.PNG|30px|link=Ice (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Candy
+|-
+|687
+|[[File:Kjicon.png|30px|link=]]
+|[[KJ]]
+|[[File:Rank_B_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Milk
+|-
+|688
+|[[File:YW3SolEnm.png|30px|link=]]
+|[[Solar Enma]]{{Versionlink|S}}
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:King_Tribe.png|30px|link=Enma]]
+|[[File:Fire_icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Sushi
+|-
+|689
+|[[File:YW3InfEnm.png|30px|link=]]
+|[[Infinite Enma]]{{Versionlink|T}}
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:King_Tribe.png|30px|link=Enma]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Tempura
+|-
+|690
+|[[File:YW3UmbEnm.png|30px|link=]]
+|[[Umbral Enma]]{{Versionlink|Sk}}
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:King_Tribe.png|30px|link=Enma]]
+|[[File:Drain icon.PNG|30px|link=Drain (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Sukiyaki
+|-
+|691
+|[[File:Indicon.png|30px|link=]]
+|[[Indiana Jaws]]{{Versionlink|S}}
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Water icon.PNG|30px|link=Water (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Seafood
+|-
+|692
+|[[File:Shovicon.png|30px|link=]]
+|[[Shovulcan]]
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Mysterious_Tribe.png|30px|link=Mysterious]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_ranger.png|100px|link=]]
+|Sushi
+|-
+|693
+|[[File:Zomboicon.png|30px|link=]]
+|[[Zomboy]]{{Versionlink|Sk}}
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Eerie_Tribe.png|30px|link=Eerie]]
+|[[File:Fire_icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Meats
+|-
+|694
+|[[File:Nyaniicon.png|30px|link=]]
+|[[Nyanses II]]{{Versionlink|T}}
+|[[File:Rank_A_icon.PNG|30px|link=]]
+|[[File:Heartful_Tribe.png|30px|link=Heartful]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Milk
+|-
+|695
+|[[File:YW3Meopatr.png|30px|link=]]
+|[[Meopatra]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Charming_Tribe.png|30px|link=Charming]]
+|[[File:Restoration icon.PNG|30px|link=Restoration (Attribute)]]
+|[[File:Blasters_healer.png|100px|link=]]
+|Vegetables
+|-
+|696
+|[[File:YW3Fitwit.png|30px|link=]]
+|[[Fitwit]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Slippery_Tribe.png|30px|link=Slippery]]
+|[[File:Earth icon.PNG|30px|link=Earth (Attribute)]]
+|[[File:Blasters_tank.png|100px|link=]]
+|Rice Balls
+|-
+|697
+|[[File:YW3ElDora.png|30px|link=]]
+|[[El Dorago]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Lightning icon.PNG|30px|link=Lightning (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Curry
+|-
+|698
+|[[File:YW3TheHin.png|30px|link=]]
+|[[The Hinix]]
+|[[File:Rank_S_icon.PNG|30px|link=]]
+|[[File:Brave_Tribe.png|30px|link=Brave]]
+|[[File:Fire_icon.PNG|30px|link=Fire (Attribute)]]
+|[[File:Blasters_fighter.png|100px|link=]]
+|Meats
+|}
+
+=== Boss Yo-kai ===
+==== B-001 - B-031 ====
+{| class="main roundy" align="center" style="border: 1px solid #54B3D8; width: 50%; text-align:center;"
+!No.
+!Icon
+!Yo-kai
+!Tribe
+|-
+|B-001
+|[[File:YW3BossJunkau.png|30px|link=]]
+|[[Junkernaut]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-002
+|[[File:YW3BossSuperman.png|30px|link=]]
+|[[Supermanager]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-003
+|[[File:YW3BossHoaxy.png|30px|link=]]
+|[[Hoaxy-Coaxy]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-004
+|[[File:YW3BossAgnX.png|30px|link=]]
+|[[Agent X]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-005
+|[[File:YW3BossTheExc.png|30px|link=]]
+|[[Agent X|The Executor]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-006
+|[[File:YW3BossSlacjack.png|30px|link=]]
+|[[Slackerjack]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-007
+|[[File:YW3BossMeganya.png|30px|link=]]
+|[[Meganyan]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-008
+|[[File:YW3BossDrMadd.png|30px|link=]]
+|[[Dr. Maddiman]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-009
+|[[File:YW3BossKaiju.png|30px|link=]]
+|[[Yo-kaiju]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-010
+|[[File:YW3BossYopbot.png|30px|link=]]
+|[[Yopple-Bot]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-011
+|[[File:YW3BossNoBot.png|30px|link=]]
+|[[No-Bot]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-012
+|[[File:YW3BossBedEyes.png|30px|link=]]
+|[[Beddy-Byes]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-013
+|[[File:YW3BossRonSwi.png|30px|link=]]
+|[[Rongo Swirll]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-014
+|[[File:YW3BossTheGhofa.png|30px|link=]]
+|[[The Ghoulfather]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-015
+|[[File:YW3BossDonSpi.png|30px|link=]]
+|[[The Ghoulfather|Don Spiracy]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-016
+|[[File:YW3BossSlackoy.png|30px|link=]]
+|[[Slackolyte]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-017
+|[[File:YW3BossDuwhe.png|30px|link=]]
+|[[Duwheel]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-018
+|[[File:YW3BossDuolye.png|30px|link=]]
+|[[Duolyte]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-019
+|[[File:YW3BossChirpst.png|30px|link=]]
+|[[Chirpster]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-020
+|[[File:YW3BossChirpylte.png|30px|link=]]
+|[[Chirpolyte]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-021
+|[[File:YW3BossTorneye.png|30px|link=]]
+|[[Torneyedo]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-022
+|[[File:YW3BossMasMut.png|30px|link=]]
+|[[Mass Mutterer]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-023
+|[[File:YW3BossHinoz.png|30px|link=]]
+|[[Hinozall]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-024
+|[[File:YW3BossHollGuar.png|30px|link=]]
+|[[Hollow Guard]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-025
+|[[File:YW3BossSkulk.png|30px|link=]]
+|[[Skulk]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-026
+|[[File:YW3BossGargar.png|30px|link=]]
+|[[Gargaros]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-027
+|[[File:YW3BossOgra.png|30px|link=]]
+|[[Ogralus]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-028
+|[[File:YW3BossOrcan.png|30px|link=]]
+|[[Orcanos]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-029
+|[[File:YW3BossOrcalyte.png|30px|link=]]
+|[[Orcalyte]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-030
+|[[File:YW3BossTheZen.png|30px|link=]]
+|[[The Zenlightener|Zenlightener]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-031
+|[[File:YW3BossPlund.png|30px|link=]]
+|[[Plundros]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|}
+
+==== B-032 - B-049 ====
+{| class="main roundy" align="center" style="border: 1px solid #54B3D8; width: 50%; text-align:center;"
+!No.
+!Icon
+!Yo-kai
+!Tribe
+|-
+|B-032
+|[[File:YW3BossSproi.png|30px|link=]]
+|[[Sproink]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-033
+|[[File:YW3BossHogg.png|30px|link=]]
+|[[Hoggles]]{{Versionlink|S}}
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-034
+|[[File:YW3BossTatterr.png|30px|link=]]
+|[[Tattleterror]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-035
+|[[File:YW3BossHansFull.png|30px|link=]]
+|[[Hans Full]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-036
+|[[File:YW3BossHanGal.png|30px|link=]]
+|[[Hans Galore]]{{Versionlink|T}}
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-037
+|[[File:YW3BossMcKra2.png|30px|link=]]
+|[[McKraken]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-038
+|[[File:YW3BossHarHou.png|30px|link=]]
+|[[Hardy Hound]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-039
+|[[File:YW3BossRubeJ.png|30px|link=]]
+|[[Rubeus J]]{{Versionlink|S}}
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-040
+|[[File:YW3BossHinAwk.png|30px|link=]]
+|[[Hinozall Awoken|Hinozall Awk.]]{{Versionlink|Sk}}
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-041
+|[[File:YW3BossRobnya28.png|30px|link=]]
+|[[Robonyan 28]]{{Versionlink|Sk}}
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-042
+|[[File:YW3BossYellskit.png|30px|link=]]
+|[[Yellskitchen]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-043
+|[[File:YW3BossMaidRuin.png|30px|link=]]
+|[[Maiden Ruin]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-044
+|[[File:YW3BossTheWoe.png|30px|link=]]
+|[[The Woebra]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-045
+|[[File:YW3BossTheGold.png|30px|link=]]
+|[[The Goldfather]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-046
+|[[File:YW3BossIcarOS.png|30px|link=]]
+|[[IcarOS]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-047
+|[[File:YW3BossNarwai.png|30px|link=]]
+|[[Narwail]]{{Versionlink|Sk}}
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-048
+|[[File:YW3BossWhalem.png|30px|link=]]
+|[[Whaleman]]{{Versionlink|Sk}}
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-049
+|[[File:YW3BossSoulcle.png|30px|link=]]
+|[[Soulcleaver]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|}
+
+==== B-050 - B-054 Additional Boss Yo-kai ====
+{| class="main roundy" align="center" style="border: 1px solid #54B3D8; width: 50%; text-align:center;"
+!No.
+!Icon
+!Yo-kai
+!Tribe
+|-
+|B-050
+|[[File:YW3BossCptThu.png|30px|link=]]
+|[[Captain Thunder|Cpt. Thunder]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-051
+|[[File:YW3BossCptThu2.png|30px|link=]]
+|[[Captain Thunder|Cpt. Thunder (Serious Form)]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-052
+|[[File:YW3BossShoKin.png|30px|link=]]
+|[[Shogun King]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-053
+|[[File:YW3BossHolMol.png|30px|link=]]
+|[[Holey Moley]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|-
+|B-054
+|[[File:YW3BossLasNya.png|30px|link=]]
+|[[The Lastest Nyanmurai|Lastest Nyan.]]
+|[[File:Boss_medal.PNG|30px|link=Boss]]
+|}[[Category:Lists of Yo-kai by Medallium Number]]
+[[de:Liste der Yo-kai nach dem Yo-kai-Medaillium (Yo-kai Watch 3)]]
+
+[[Category:Lists]]

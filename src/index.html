@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>요괴워치 즐 (Yo-kai Watchle)</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='46' fill='%23ffd54a'/><circle cx='50' cy='50' r='20' fill='%23fff'/></svg>" />
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<header>
+  <div class="brand">
+    <span class="logo">👻</span>
+    <span><b>요괴워치 즐</b><small id="subtitle-en">Yo-kai Watchle</small></span>
+  </div>
+  <div class="topbar">
+    <label id="lang-label" class="toggle">
+      <span id="lang-title">한국어</span>
+      <input type="checkbox" id="lang" />
+      <span class="slider"></span>
+    </label>
+    <button id="help-btn" type="button" class="ghost">?</button>
+  </div>
+</header>
+
+<main>
+  <section id="config" class="card">
+    <div class="cfg-row">
+      <select id="game" class="select"></select>
+      <select id="version" class="select"></select>
+      <select id="mode" class="select"></select>
+    </div>
+    <div class="cfg-row">
+      <label id="mode-info" class="hint"></label>
+      <button id="new-game" type="button" class="primary"></button>
+    </div>
+  </section>
+
+  <section id="board" class="card" hidden>
+    <div id="answers" class="answers">
+      <div class="answer-row head">
+        <span class="c-num">№</span>
+        <span class="c-name"></span>
+        <span class="c-rank">랭크</span>
+        <span class="c-tribe">부족</span>
+        <span class="c-attr">속성</span>
+      </div>
+    </div>
+    <form id="guess-form" class="guess" autocomplete="off">
+      <div class="combo">
+        <input id="guess" class="text" placeholder="" list="nl" autocomplete="off" />
+        <datalist id="nl"></datalist>
+        <ul id="suggest" class="suggest" hidden></ul>
+      </div>
+      <button id="submit" type="submit" class="primary"></button>
+    </form>
+  </section>
+
+  <section id="result" class="card center" hidden>
+    <div id="win-title" class="big"></div>
+    <div id="win-num" class="num-badge"></div>
+    <div class="row chips">
+      <span id="win-rank"></span>
+      <span id="win-tribe"></span>
+      <span id="win-attr"></span>
+    </div>
+    <p id="win-name" class="answer-name"></p>
+    <button id="again" type="button" class="primary"></button>
+  </section>
+
+  <section id="help" class="card" hidden>
+    <h3 id="help-h"></h3>
+    <p id="help-p1"></p>
+    <p id="help-p2"></p>
+    <p id="help-p3"></p>
+    <p id="help-p4"></p>
+  </section>
+
+  <section id="pokedex" class="card">
+    <div class="cfg-row">
+      <h3 id="dex-title">요괴 도감</h3>
+      <input id="dex-search" class="text" type="search" placeholder="" />
+    </div>
+    <div id="dex" class="dex"></div>
+  </section>
+</main>
+
+<footer>
+  <span id="foot"></span>
+</footer>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,2207 @@
+[
+ {
+  "num": 1,
+  "name": "Pandle",
+  "rank": "E",
+  "tribe": "Brave",
+  "attr": "Fire",
+  "excl": "",
+  "section": "001 - 027 Brave"
+ },
+ {
+  "num": 2,
+  "name": "Undy",
+  "rank": "C",
+  "tribe": "Brave",
+  "attr": "Fire",
+  "excl": "",
+  "section": "001 - 027 Brave"
+ },
+ {
+  "num": 3,
+  "name": "Tanbo",
+  "rank": "B",
+  "tribe": "Brave",
+  "attr": "Earth",
+  "excl": "",
+  "section": "001 - 027 Brave"
+ },
+ {
+  "num": 4,
+  "name": "Cutta-nah",
+  "rank": "E",
+  "tribe": "Brave",
+  "attr": "Wind",
+  "excl": "",
+  "section": "001 - 027 Brave"
+ },
+ {
+  "num": 5,
+  "name": "Cutta-nah-nah",
+  "rank": "C",
+  "tribe": "Brave",
+  "attr": "Wind",
+  "excl": "",
+  "section": "001 - 027 Brave"
+ },
+ {
+  "num": 6,
+  "name": "Slacka-slash",
+  "rank": "B",
+  "tribe": "Brave",
+  "attr": "Ice",
+  "excl": "",
+  "section": "001 - 027 Brave"
+ },
+ {
+  "num": 7,
+  "name": "Mochismo",
+  "rank": "D",
+  "tribe": "Brave",
+  "attr": "Earth",
+  "excl": "",
+  "section": "001 - 027 Brave"
+ },
+ {
+  "num": 8,
+  "name": "Minochi",
+  "rank": "D",
+  "tribe": "Brave",
+  "attr": "Fire",
+  "excl": "",
+  "section": "001 - 027 Brave"
+ },
+ {
+  "num": 9,
+  "name": "Helmsman",
+  "rank": "D",
+  "tribe": "Brave",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "001 - 027 Brave"
+ },
+ {
+  "num": 10,
+  "name": "Reuknight",
+  "rank": "A",
+  "tribe": "Brave",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "001 - 027 Brave"
+ },
+ {
+  "num": 11,
+  "name": "Corptain",
+  "rank": "S",
+  "tribe": "Brave",
+  "attr": "Drain",
+  "excl": "",
+  "section": "001 - 027 Brave"
+ },
+ {
+  "num": 12,
+  "name": "Blazion",
+  "rank": "C",
+  "tribe": "Brave",
+  "attr": "Fire",
+  "excl": "",
+  "section": "001 - 027 Brave"
+ },
+ {
+  "num": 13,
+  "name": "Quaken",
+  "rank": "B",
+  "tribe": "Brave",
+  "attr": "Earth",
+  "excl": "",
+  "section": "001 - 027 Brave"
+ },
+ {
+  "num": 14,
+  "name": "Siro",
+  "rank": "A",
+  "tribe": "Brave",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "001 - 027 Brave"
+ },
+ {
+  "num": 15,
+  "name": "Chansin",
+  "rank": "C",
+  "tribe": "Brave",
+  "attr": "Fire",
+  "excl": "",
+  "section": "001 - 027 Brave"
+ },
+ {
+  "num": 16,
+  "name": "Sheen",
+  "rank": "A",
+  "tribe": "Brave",
+  "attr": "Wind",
+  "excl": "",
+  "section": "001 - 027 Brave"
+ },
+ {
+  "num": 17,
+  "name": "Snee",
+  "rank": "A",
+  "tribe": "Brave",
+  "attr": "Drain",
+  "excl": "",
+  "section": "001 - 027 Brave"
+ },
+ {
+  "num": 18,
+  "name": "Gleam",
+  "rank": "S",
+  "tribe": "Brave",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "001 - 027 Brave"
+ },
+ {
+  "num": 19,
+  "name": "Benkei",
+  "rank": "B",
+  "tribe": "Brave",
+  "attr": "Ice",
+  "excl": "",
+  "section": "001 - 027 Brave"
+ },
+ {
+  "num": 20,
+  "name": "B3-NK1",
+  "rank": "B",
+  "tribe": "Brave",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "001 - 027 Brave"
+ },
+ {
+  "num": 21,
+  "name": "Sushiyama",
+  "rank": "B",
+  "tribe": "Brave",
+  "attr": "Ice",
+  "excl": "",
+  "section": "001 - 027 Brave"
+ },
+ {
+  "num": 22,
+  "name": "Kapunki",
+  "rank": "A",
+  "tribe": "Brave",
+  "attr": "Fire",
+  "excl": "",
+  "section": "001 - 027 Brave"
+ },
+ {
+  "num": 23,
+  "name": "Beetler",
+  "rank": "B",
+  "tribe": "Brave",
+  "attr": "Earth",
+  "excl": "",
+  "section": "001 - 027 Brave"
+ },
+ {
+  "num": 24,
+  "name": "Beetall",
+  "rank": "S",
+  "tribe": "Brave",
+  "attr": "Ice",
+  "excl": "",
+  "section": "001 - 027 Brave"
+ },
+ {
+  "num": 25,
+  "name": "Cruncha",
+  "rank": "S",
+  "tribe": "Brave",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "001 - 027 Brave"
+ },
+ {
+  "num": 26,
+  "name": "Zerberker",
+  "rank": "S",
+  "tribe": "Brave",
+  "attr": "Fire",
+  "excl": "",
+  "section": "001 - 027 Brave"
+ },
+ {
+  "num": 27,
+  "name": "Snartle",
+  "rank": "S",
+  "tribe": "Brave",
+  "attr": "Ice",
+  "excl": "",
+  "section": "001 - 027 Brave"
+ },
+ {
+  "num": 28,
+  "name": "Snotsolong",
+  "rank": "E",
+  "tribe": "Mysterious",
+  "attr": "Water",
+  "excl": "",
+  "section": "028 - 056 Mysterious"
+ },
+ {
+  "num": 29,
+  "name": "Duchoo",
+  "rank": "D",
+  "tribe": "Mysterious",
+  "attr": "Water",
+  "excl": "",
+  "section": "028 - 056 Mysterious"
+ },
+ {
+  "num": 30,
+  "name": "Wazzat",
+  "rank": "E",
+  "tribe": "Mysterious",
+  "attr": "Wind",
+  "excl": "",
+  "section": "028 - 056 Mysterious"
+ },
+ {
+  "num": 31,
+  "name": "Dummkap",
+  "rank": "E",
+  "tribe": "Mysterious",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "028 - 056 Mysterious"
+ },
+ {
+  "num": 32,
+  "name": "D'wanna",
+  "rank": "E",
+  "tribe": "Mysterious",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "028 - 056 Mysterious"
+ },
+ {
+  "num": 33,
+  "name": "N'more",
+  "rank": "C",
+  "tribe": "Mysterious",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "028 - 056 Mysterious"
+ },
+ {
+  "num": 34,
+  "name": "Q'wit",
+  "rank": "C",
+  "tribe": "Mysterious",
+  "attr": "Earth",
+  "excl": "",
+  "section": "028 - 056 Mysterious"
+ },
+ {
+  "num": 35,
+  "name": "Lafalotta",
+  "rank": "D",
+  "tribe": "Mysterious",
+  "attr": "Drain",
+  "excl": "",
+  "section": "028 - 056 Mysterious"
+ },
+ {
+  "num": 36,
+  "name": "Blips",
+  "rank": "C",
+  "tribe": "Mysterious",
+  "attr": "Drain",
+  "excl": "",
+  "section": "028 - 056 Mysterious"
+ },
+ {
+  "num": 37,
+  "name": "Tattletell",
+  "rank": "D",
+  "tribe": "Mysterious",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "028 - 056 Mysterious"
+ },
+ {
+  "num": 38,
+  "name": "Tattlecast",
+  "rank": "B",
+  "tribe": "Mysterious",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "028 - 056 Mysterious"
+ },
+ {
+  "num": 39,
+  "name": "Skranny",
+  "rank": "C",
+  "tribe": "Mysterious",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "028 - 056 Mysterious"
+ },
+ {
+  "num": 40,
+  "name": "Cupistol",
+  "rank": "D",
+  "tribe": "Mysterious",
+  "attr": "Wind",
+  "excl": "",
+  "section": "028 - 056 Mysterious"
+ },
+ {
+  "num": 41,
+  "name": "Casanuva",
+  "rank": "A",
+  "tribe": "Mysterious",
+  "attr": "Wind",
+  "excl": "",
+  "section": "028 - 056 Mysterious"
+ },
+ {
+  "num": 42,
+  "name": "Casanono",
+  "rank": "A",
+  "tribe": "Mysterious",
+  "attr": "Fire",
+  "excl": "",
+  "section": "028 - 056 Mysterious"
+ },
+ {
+  "num": 43,
+  "name": "Signibble",
+  "rank": "D",
+  "tribe": "Mysterious",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "028 - 056 Mysterious"
+ },
+ {
+  "num": 44,
+  "name": "Signiton",
+  "rank": "A",
+  "tribe": "Mysterious",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "028 - 056 Mysterious"
+ },
+ {
+  "num": 45,
+  "name": "Statiking",
+  "rank": "S",
+  "tribe": "Mysterious",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "028 - 056 Mysterious"
+ },
+ {
+  "num": 46,
+  "name": "Mirapo",
+  "rank": "C",
+  "tribe": "Mysterious",
+  "attr": "Drain",
+  "excl": "",
+  "section": "028 - 056 Mysterious"
+ },
+ {
+  "num": 47,
+  "name": "Mircle",
+  "rank": "A",
+  "tribe": "Mysterious",
+  "attr": "Drain",
+  "excl": "",
+  "section": "028 - 056 Mysterious"
+ },
+ {
+  "num": 48,
+  "name": "Illoo",
+  "rank": "C",
+  "tribe": "Mysterious",
+  "attr": "Water",
+  "excl": "",
+  "section": "028 - 056 Mysterious"
+ },
+ {
+  "num": 49,
+  "name": "Elloo",
+  "rank": "C",
+  "tribe": "Mysterious",
+  "attr": "Ice",
+  "excl": "",
+  "section": "028 - 056 Mysterious"
+ },
+ {
+  "num": 50,
+  "name": "Alloo",
+  "rank": "B",
+  "tribe": "Mysterious",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "028 - 056 Mysterious"
+ },
+ {
+  "num": 51,
+  "name": "Espy",
+  "rank": "B",
+  "tribe": "Mysterious",
+  "attr": "Earth",
+  "excl": "",
+  "section": "028 - 056 Mysterious"
+ },
+ {
+  "num": 52,
+  "name": "Infour",
+  "rank": "B",
+  "tribe": "Mysterious",
+  "attr": "Drain",
+  "excl": "",
+  "section": "028 - 056 Mysterious"
+ },
+ {
+  "num": 53,
+  "name": "Tengu",
+  "rank": "S",
+  "tribe": "Mysterious",
+  "attr": "Wind",
+  "excl": "",
+  "section": "028 - 056 Mysterious"
+ },
+ {
+  "num": 54,
+  "name": "Flengu",
+  "rank": "S",
+  "tribe": "Mysterious",
+  "attr": "Fire",
+  "excl": "",
+  "section": "028 - 056 Mysterious"
+ },
+ {
+  "num": 55,
+  "name": "Kyubi",
+  "rank": "S",
+  "tribe": "Mysterious",
+  "attr": "Fire",
+  "excl": "",
+  "section": "028 - 056 Mysterious"
+ },
+ {
+  "num": 56,
+  "name": "Frostail",
+  "rank": "S",
+  "tribe": "Mysterious",
+  "attr": "Ice",
+  "excl": "",
+  "section": "028 - 056 Mysterious"
+ },
+ {
+  "num": 57,
+  "name": "Dulluma",
+  "rank": "E",
+  "tribe": "Tough",
+  "attr": "Earth",
+  "excl": "",
+  "section": "057 - 083 Tough"
+ },
+ {
+  "num": 58,
+  "name": "Darumacho",
+  "rank": "B",
+  "tribe": "Tough",
+  "attr": "Earth",
+  "excl": "",
+  "section": "057 - 083 Tough"
+ },
+ {
+  "num": 59,
+  "name": "Goruma",
+  "rank": "B",
+  "tribe": "Tough",
+  "attr": "Wind",
+  "excl": "",
+  "section": "057 - 083 Tough"
+ },
+ {
+  "num": 60,
+  "name": "Noway",
+  "rank": "E",
+  "tribe": "Tough",
+  "attr": "Earth",
+  "excl": "",
+  "section": "057 - 083 Tough"
+ },
+ {
+  "num": 61,
+  "name": "Impass",
+  "rank": "A",
+  "tribe": "Tough",
+  "attr": "Earth",
+  "excl": "",
+  "section": "057 - 083 Tough"
+ },
+ {
+  "num": 62,
+  "name": "Walldin",
+  "rank": "A",
+  "tribe": "Tough",
+  "attr": "Earth",
+  "excl": "",
+  "section": "057 - 083 Tough"
+ },
+ {
+  "num": 63,
+  "name": "Armsman",
+  "rank": "D",
+  "tribe": "Tough",
+  "attr": "Ice",
+  "excl": "",
+  "section": "057 - 083 Tough"
+ },
+ {
+  "num": 64,
+  "name": "Fidgephant",
+  "rank": "C",
+  "tribe": "Tough",
+  "attr": "Water",
+  "excl": "",
+  "section": "057 - 083 Tough"
+ },
+ {
+  "num": 65,
+  "name": "Touphant",
+  "rank": "C",
+  "tribe": "Tough",
+  "attr": "Water",
+  "excl": "",
+  "section": "057 - 083 Tough"
+ },
+ {
+  "num": 66,
+  "name": "Blowkade",
+  "rank": "D",
+  "tribe": "Tough",
+  "attr": "Water",
+  "excl": "",
+  "section": "057 - 083 Tough"
+ },
+ {
+  "num": 67,
+  "name": "Ledballoon",
+  "rank": "D",
+  "tribe": "Tough",
+  "attr": "Water",
+  "excl": "",
+  "section": "057 - 083 Tough"
+ },
+ {
+  "num": 68,
+  "name": "Mad Mountain",
+  "rank": "C",
+  "tribe": "Tough",
+  "attr": "Ice",
+  "excl": "",
+  "section": "057 - 083 Tough"
+ },
+ {
+  "num": 69,
+  "name": "Lava Lord",
+  "rank": "B",
+  "tribe": "Tough",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "057 - 083 Tough"
+ },
+ {
+  "num": 70,
+  "name": "Roughraff",
+  "rank": "E",
+  "tribe": "Tough",
+  "attr": "Earth",
+  "excl": "",
+  "section": "057 - 083 Tough"
+ },
+ {
+  "num": 71,
+  "name": "Badude",
+  "rank": "B",
+  "tribe": "Tough",
+  "attr": "Earth",
+  "excl": "",
+  "section": "057 - 083 Tough"
+ },
+ {
+  "num": 72,
+  "name": "Bruff",
+  "rank": "A",
+  "tribe": "Tough",
+  "attr": "Earth",
+  "excl": "",
+  "section": "057 - 083 Tough"
+ },
+ {
+  "num": 73,
+  "name": "Rhinoggin",
+  "rank": "B",
+  "tribe": "Tough",
+  "attr": "Earth",
+  "excl": "",
+  "section": "057 - 083 Tough"
+ },
+ {
+  "num": 74,
+  "name": "Rhinormous",
+  "rank": "S",
+  "tribe": "Tough",
+  "attr": "Earth",
+  "excl": "",
+  "section": "057 - 083 Tough"
+ },
+ {
+  "num": 75,
+  "name": "Hornaplenty",
+  "rank": "S",
+  "tribe": "Tough",
+  "attr": "Earth",
+  "excl": "",
+  "section": "057 - 083 Tough"
+ },
+ {
+  "num": 76,
+  "name": "Castelius III",
+  "rank": "C",
+  "tribe": "Tough",
+  "attr": "Earth",
+  "excl": "",
+  "section": "057 - 083 Tough"
+ },
+ {
+  "num": 77,
+  "name": "Castelius II",
+  "rank": "B",
+  "tribe": "Tough",
+  "attr": "Ice",
+  "excl": "",
+  "section": "057 - 083 Tough"
+ },
+ {
+  "num": 78,
+  "name": "Castelius I",
+  "rank": "A",
+  "tribe": "Tough",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "057 - 083 Tough"
+ },
+ {
+  "num": 79,
+  "name": "Castelius Max",
+  "rank": "S",
+  "tribe": "Tough",
+  "attr": "Wind",
+  "excl": "",
+  "section": "057 - 083 Tough"
+ },
+ {
+  "num": 80,
+  "name": "Robonyan",
+  "rank": "A",
+  "tribe": "Tough",
+  "attr": "Ice",
+  "excl": "",
+  "section": "057 - 083 Tough"
+ },
+ {
+  "num": 81,
+  "name": "Goldenyan",
+  "rank": "S",
+  "tribe": "Tough",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "057 - 083 Tough"
+ },
+ {
+  "num": 82,
+  "name": "Dromp",
+  "rank": "S",
+  "tribe": "Tough",
+  "attr": "Earth",
+  "excl": "",
+  "section": "057 - 083 Tough"
+ },
+ {
+  "num": 83,
+  "name": "Swosh",
+  "rank": "S",
+  "tribe": "Tough",
+  "attr": "Water",
+  "excl": "",
+  "section": "057 - 083 Tough"
+ },
+ {
+  "num": 84,
+  "name": "Dazzabel",
+  "rank": "E",
+  "tribe": "Charming",
+  "attr": "Fire",
+  "excl": "",
+  "section": "084 - 110 Charming"
+ },
+ {
+  "num": 85,
+  "name": "Rattelle",
+  "rank": "C",
+  "tribe": "Charming",
+  "attr": "Fire",
+  "excl": "",
+  "section": "084 - 110 Charming"
+ },
+ {
+  "num": 86,
+  "name": "Skelebella",
+  "rank": "B",
+  "tribe": "Charming",
+  "attr": "Water",
+  "excl": "",
+  "section": "084 - 110 Charming"
+ },
+ {
+  "num": 87,
+  "name": "Cadin",
+  "rank": "E",
+  "tribe": "Charming",
+  "attr": "Wind",
+  "excl": "",
+  "section": "084 - 110 Charming"
+ },
+ {
+  "num": 88,
+  "name": "Cadable",
+  "rank": "C",
+  "tribe": "Charming",
+  "attr": "Wind",
+  "excl": "",
+  "section": "084 - 110 Charming"
+ },
+ {
+  "num": 89,
+  "name": "Singcada",
+  "rank": "B",
+  "tribe": "Charming",
+  "attr": "Fire",
+  "excl": "",
+  "section": "084 - 110 Charming"
+ },
+ {
+  "num": 90,
+  "name": "Pupsicle",
+  "rank": "E",
+  "tribe": "Charming",
+  "attr": "Ice",
+  "excl": "",
+  "section": "084 - 110 Charming"
+ },
+ {
+  "num": 91,
+  "name": "Chilhuahua",
+  "rank": "S",
+  "tribe": "Charming",
+  "attr": "Ice",
+  "excl": "",
+  "section": "084 - 110 Charming"
+ },
+ {
+  "num": 92,
+  "name": "Swelterrier",
+  "rank": "S",
+  "tribe": "Charming",
+  "attr": "Fire",
+  "excl": "",
+  "section": "084 - 110 Charming"
+ },
+ {
+  "num": 93,
+  "name": "Jibanyan",
+  "rank": "D",
+  "tribe": "Charming",
+  "attr": "Fire",
+  "excl": "",
+  "section": "084 - 110 Charming"
+ },
+ {
+  "num": 94,
+  "name": "Thornyan",
+  "rank": "B",
+  "tribe": "Charming",
+  "attr": "Wind",
+  "excl": "",
+  "section": "084 - 110 Charming"
+ },
+ {
+  "num": 95,
+  "name": "Baddinyan",
+  "rank": "B",
+  "tribe": "Charming",
+  "attr": "Fire",
+  "excl": "",
+  "section": "084 - 110 Charming"
+ },
+ {
+  "num": 96,
+  "name": "Walkappa",
+  "rank": "D",
+  "tribe": "Charming",
+  "attr": "Water",
+  "excl": "",
+  "section": "084 - 110 Charming"
+ },
+ {
+  "num": 97,
+  "name": "Appak",
+  "rank": "A",
+  "tribe": "Charming",
+  "attr": "Water",
+  "excl": "",
+  "section": "084 - 110 Charming"
+ },
+ {
+  "num": 98,
+  "name": "Supyo",
+  "rank": "A",
+  "tribe": "Charming",
+  "attr": "Water",
+  "excl": "",
+  "section": "084 - 110 Charming"
+ },
+ {
+  "num": 99,
+  "name": "Komasan",
+  "rank": "D",
+  "tribe": "Charming",
+  "attr": "Fire",
+  "excl": "",
+  "section": "084 - 110 Charming"
+ },
+ {
+  "num": 100,
+  "name": "Komane",
+  "rank": "A",
+  "tribe": "Charming",
+  "attr": "Fire",
+  "excl": "",
+  "section": "084 - 110 Charming"
+ },
+ {
+  "num": 101,
+  "name": "Komajiro",
+  "rank": "D",
+  "tribe": "Charming",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "084 - 110 Charming"
+ },
+ {
+  "num": 102,
+  "name": "Komiger",
+  "rank": "A",
+  "tribe": "Charming",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "084 - 110 Charming"
+ },
+ {
+  "num": 103,
+  "name": "Baku",
+  "rank": "D",
+  "tribe": "Charming",
+  "attr": "Drain",
+  "excl": "",
+  "section": "084 - 110 Charming"
+ },
+ {
+  "num": 104,
+  "name": "Whapir",
+  "rank": "C",
+  "tribe": "Charming",
+  "attr": "Drain",
+  "excl": "",
+  "section": "084 - 110 Charming"
+ },
+ {
+  "num": 105,
+  "name": "Shmoopie",
+  "rank": "C",
+  "tribe": "Charming",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "084 - 110 Charming"
+ },
+ {
+  "num": 106,
+  "name": "Pinkipoo",
+  "rank": "B",
+  "tribe": "Charming",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "084 - 110 Charming"
+ },
+ {
+  "num": 107,
+  "name": "Pookivil",
+  "rank": "A",
+  "tribe": "Charming",
+  "attr": "Drain",
+  "excl": "",
+  "section": "084 - 110 Charming"
+ },
+ {
+  "num": 108,
+  "name": "Frostina",
+  "rank": "B",
+  "tribe": "Charming",
+  "attr": "Ice",
+  "excl": "",
+  "section": "084 - 110 Charming"
+ },
+ {
+  "num": 109,
+  "name": "Blizzaria",
+  "rank": "S",
+  "tribe": "Charming",
+  "attr": "Ice",
+  "excl": "",
+  "section": "084 - 110 Charming"
+ },
+ {
+  "num": 110,
+  "name": "Damona",
+  "rank": "S",
+  "tribe": "Charming",
+  "attr": "Ice",
+  "excl": "",
+  "section": "084 - 110 Charming"
+ },
+ {
+  "num": 111,
+  "name": "Wiglin",
+  "rank": "E",
+  "tribe": "Heartful",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "111 - 135 Heartful"
+ },
+ {
+  "num": 112,
+  "name": "Steppa",
+  "rank": "E",
+  "tribe": "Heartful",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "111 - 135 Heartful"
+ },
+ {
+  "num": 113,
+  "name": "Rhyth",
+  "rank": "D",
+  "tribe": "Heartful",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "111 - 135 Heartful"
+ },
+ {
+  "num": 114,
+  "name": "Wantston",
+  "rank": "E",
+  "tribe": "Heartful",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "111 - 135 Heartful"
+ },
+ {
+  "num": 115,
+  "name": "Grubsnitch",
+  "rank": "D",
+  "tribe": "Heartful",
+  "attr": "Earth",
+  "excl": "",
+  "section": "111 - 135 Heartful"
+ },
+ {
+  "num": 116,
+  "name": "Hungramps",
+  "rank": "E",
+  "tribe": "Heartful",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "111 - 135 Heartful"
+ },
+ {
+  "num": 117,
+  "name": "Hungorge",
+  "rank": "B",
+  "tribe": "Heartful",
+  "attr": "Drain",
+  "excl": "",
+  "section": "111 - 135 Heartful"
+ },
+ {
+  "num": 118,
+  "name": "Grainpa",
+  "rank": "B",
+  "tribe": "Heartful",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "111 - 135 Heartful"
+ },
+ {
+  "num": 119,
+  "name": "Lodo",
+  "rank": "D",
+  "tribe": "Heartful",
+  "attr": "Wind",
+  "excl": "",
+  "section": "111 - 135 Heartful"
+ },
+ {
+  "num": 120,
+  "name": "Chippa",
+  "rank": "C",
+  "tribe": "Heartful",
+  "attr": "Water",
+  "excl": "",
+  "section": "111 - 135 Heartful"
+ },
+ {
+  "num": 121,
+  "name": "Enerfly",
+  "rank": "D",
+  "tribe": "Heartful",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "111 - 135 Heartful"
+ },
+ {
+  "num": 122,
+  "name": "Enefly",
+  "rank": "D",
+  "tribe": "Heartful",
+  "attr": "Drain",
+  "excl": "",
+  "section": "111 - 135 Heartful"
+ },
+ {
+  "num": 123,
+  "name": "Betterfly",
+  "rank": "A",
+  "tribe": "Heartful",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "111 - 135 Heartful"
+ },
+ {
+  "num": 124,
+  "name": "Peppillon",
+  "rank": "S",
+  "tribe": "Heartful",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "111 - 135 Heartful"
+ },
+ {
+  "num": 125,
+  "name": "Happierre",
+  "rank": "C",
+  "tribe": "Heartful",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "111 - 135 Heartful"
+ },
+ {
+  "num": 126,
+  "name": "Reversa",
+  "rank": "A",
+  "tribe": "Heartful",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "111 - 135 Heartful"
+ },
+ {
+  "num": 127,
+  "name": "Reversette",
+  "rank": "A",
+  "tribe": "Heartful",
+  "attr": "Wind",
+  "excl": "",
+  "section": "111 - 135 Heartful"
+ },
+ {
+  "num": 128,
+  "name": "Ol' Saint Trick",
+  "rank": "B",
+  "tribe": "Heartful",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "111 - 135 Heartful"
+ },
+ {
+  "num": 129,
+  "name": "Ol' Fortune",
+  "rank": "B",
+  "tribe": "Heartful",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "111 - 135 Heartful"
+ },
+ {
+  "num": 130,
+  "name": "Rollen",
+  "rank": "A",
+  "tribe": "Heartful",
+  "attr": "Water",
+  "excl": "",
+  "section": "111 - 135 Heartful"
+ },
+ {
+  "num": 131,
+  "name": "Dubbles",
+  "rank": "A",
+  "tribe": "Heartful",
+  "attr": "Water",
+  "excl": "",
+  "section": "111 - 135 Heartful"
+ },
+ {
+  "num": 132,
+  "name": "Papa Bolt",
+  "rank": "A",
+  "tribe": "Heartful",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "111 - 135 Heartful"
+ },
+ {
+  "num": 133,
+  "name": "Uncle Infinite",
+  "rank": "S",
+  "tribe": "Heartful",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "111 - 135 Heartful"
+ },
+ {
+  "num": 134,
+  "name": "Mama Aura",
+  "rank": "S",
+  "tribe": "Heartful",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "111 - 135 Heartful"
+ },
+ {
+  "num": 135,
+  "name": "Auntie Heart",
+  "rank": "S",
+  "tribe": "Heartful",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "111 - 135 Heartful"
+ },
+ {
+  "num": 136,
+  "name": "Leadoni",
+  "rank": "E",
+  "tribe": "Shady",
+  "attr": "Ice",
+  "excl": "",
+  "section": "136 - 161 Shady"
+ },
+ {
+  "num": 137,
+  "name": "Mynimo",
+  "rank": "D",
+  "tribe": "Shady",
+  "attr": "Drain",
+  "excl": "",
+  "section": "136 - 161 Shady"
+ },
+ {
+  "num": 138,
+  "name": "Ake",
+  "rank": "E",
+  "tribe": "Shady",
+  "attr": "Earth",
+  "excl": "",
+  "section": "136 - 161 Shady"
+ },
+ {
+  "num": 139,
+  "name": "Payn",
+  "rank": "C",
+  "tribe": "Shady",
+  "attr": "Earth",
+  "excl": "",
+  "section": "136 - 161 Shady"
+ },
+ {
+  "num": 140,
+  "name": "Agon",
+  "rank": "B",
+  "tribe": "Shady",
+  "attr": "Earth",
+  "excl": "",
+  "section": "136 - 161 Shady"
+ },
+ {
+  "num": 141,
+  "name": "Negatibuzz",
+  "rank": "E",
+  "tribe": "Shady",
+  "attr": "Drain",
+  "excl": "",
+  "section": "136 - 161 Shady"
+ },
+ {
+  "num": 142,
+  "name": "Moskevil",
+  "rank": "C",
+  "tribe": "Shady",
+  "attr": "Drain",
+  "excl": "",
+  "section": "136 - 161 Shady"
+ },
+ {
+  "num": 143,
+  "name": "Scritchy",
+  "rank": "A",
+  "tribe": "Shady",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "136 - 161 Shady"
+ },
+ {
+  "num": 144,
+  "name": "Dimmy",
+  "rank": "E",
+  "tribe": "Shady",
+  "attr": "Wind",
+  "excl": "",
+  "section": "136 - 161 Shady"
+ },
+ {
+  "num": 145,
+  "name": "Blandon",
+  "rank": "B",
+  "tribe": "Shady",
+  "attr": "Wind",
+  "excl": "",
+  "section": "136 - 161 Shady"
+ },
+ {
+  "num": 146,
+  "name": "Nul",
+  "rank": "A",
+  "tribe": "Shady",
+  "attr": "Wind",
+  "excl": "",
+  "section": "136 - 161 Shady"
+ },
+ {
+  "num": 147,
+  "name": "Hidabat",
+  "rank": "D",
+  "tribe": "Shady",
+  "attr": "Wind",
+  "excl": "",
+  "section": "136 - 161 Shady"
+ },
+ {
+  "num": 148,
+  "name": "Abodabat",
+  "rank": "A",
+  "tribe": "Shady",
+  "attr": "Wind",
+  "excl": "",
+  "section": "136 - 161 Shady"
+ },
+ {
+  "num": 149,
+  "name": "Belfree",
+  "rank": "A",
+  "tribe": "Shady",
+  "attr": "Wind",
+  "excl": "",
+  "section": "136 - 161 Shady"
+ },
+ {
+  "num": 150,
+  "name": "Suspicioni",
+  "rank": "D",
+  "tribe": "Shady",
+  "attr": "Water",
+  "excl": "",
+  "section": "136 - 161 Shady"
+ },
+ {
+  "num": 151,
+  "name": "Tantroni",
+  "rank": "D",
+  "tribe": "Shady",
+  "attr": "Fire",
+  "excl": "",
+  "section": "136 - 161 Shady"
+ },
+ {
+  "num": 152,
+  "name": "Contrarioni",
+  "rank": "B",
+  "tribe": "Shady",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "136 - 161 Shady"
+ },
+ {
+  "num": 153,
+  "name": "Tengloom",
+  "rank": "C",
+  "tribe": "Shady",
+  "attr": "Wind",
+  "excl": "",
+  "section": "136 - 161 Shady"
+ },
+ {
+  "num": 154,
+  "name": "Nird",
+  "rank": "B",
+  "tribe": "Shady",
+  "attr": "Wind",
+  "excl": "",
+  "section": "136 - 161 Shady"
+ },
+ {
+  "num": 155,
+  "name": "Negasus",
+  "rank": "A",
+  "tribe": "Shady",
+  "attr": "Wind",
+  "excl": "",
+  "section": "136 - 161 Shady"
+ },
+ {
+  "num": 156,
+  "name": "Neighfarious",
+  "rank": "A",
+  "tribe": "Shady",
+  "attr": "Drain",
+  "excl": "",
+  "section": "136 - 161 Shady"
+ },
+ {
+  "num": 157,
+  "name": "Timidevil",
+  "rank": "A",
+  "tribe": "Shady",
+  "attr": "Fire",
+  "excl": "",
+  "section": "136 - 161 Shady"
+ },
+ {
+  "num": 158,
+  "name": "Beelzebold",
+  "rank": "S",
+  "tribe": "Shady",
+  "attr": "Fire",
+  "excl": "",
+  "section": "136 - 161 Shady"
+ },
+ {
+  "num": 159,
+  "name": "Count Cavity",
+  "rank": "S",
+  "tribe": "Shady",
+  "attr": "Fire",
+  "excl": "",
+  "section": "136 - 161 Shady"
+ },
+ {
+  "num": 160,
+  "name": "Greesel",
+  "rank": "S",
+  "tribe": "Shady",
+  "attr": "Fire",
+  "excl": "",
+  "section": "136 - 161 Shady"
+ },
+ {
+  "num": 161,
+  "name": "Awevil",
+  "rank": "S",
+  "tribe": "Shady",
+  "attr": "Water",
+  "excl": "",
+  "section": "136 - 161 Shady"
+ },
+ {
+  "num": 162,
+  "name": "Coughkoff",
+  "rank": "E",
+  "tribe": "Eerie",
+  "attr": "Water",
+  "excl": "",
+  "section": "162 - 188 Eerie"
+ },
+ {
+  "num": 163,
+  "name": "Hurchin",
+  "rank": "D",
+  "tribe": "Eerie",
+  "attr": "Ice",
+  "excl": "",
+  "section": "162 - 188 Eerie"
+ },
+ {
+  "num": 164,
+  "name": "Peckpocket",
+  "rank": "E",
+  "tribe": "Eerie",
+  "attr": "Drain",
+  "excl": "",
+  "section": "162 - 188 Eerie"
+ },
+ {
+  "num": 165,
+  "name": "Rockabelly",
+  "rank": "D",
+  "tribe": "Eerie",
+  "attr": "Drain",
+  "excl": "",
+  "section": "162 - 188 Eerie"
+ },
+ {
+  "num": 166,
+  "name": "Buhu",
+  "rank": "E",
+  "tribe": "Eerie",
+  "attr": "Wind",
+  "excl": "",
+  "section": "162 - 188 Eerie"
+ },
+ {
+  "num": 167,
+  "name": "Flumpy",
+  "rank": "C",
+  "tribe": "Eerie",
+  "attr": "Wind",
+  "excl": "",
+  "section": "162 - 188 Eerie"
+ },
+ {
+  "num": 168,
+  "name": "Skreek",
+  "rank": "A",
+  "tribe": "Eerie",
+  "attr": "Wind",
+  "excl": "",
+  "section": "162 - 188 Eerie"
+ },
+ {
+  "num": 169,
+  "name": "Manjimutt",
+  "rank": "E",
+  "tribe": "Eerie",
+  "attr": "Wind",
+  "excl": "",
+  "section": "162 - 188 Eerie"
+ },
+ {
+  "num": 170,
+  "name": "Multimutt",
+  "rank": "B",
+  "tribe": "Eerie",
+  "attr": "Wind",
+  "excl": "",
+  "section": "162 - 188 Eerie"
+ },
+ {
+  "num": 171,
+  "name": "Sir Berus",
+  "rank": "A",
+  "tribe": "Eerie",
+  "attr": "Earth",
+  "excl": "",
+  "section": "162 - 188 Eerie"
+ },
+ {
+  "num": 172,
+  "name": "Droplette",
+  "rank": "E",
+  "tribe": "Eerie",
+  "attr": "Water",
+  "excl": "",
+  "section": "162 - 188 Eerie"
+ },
+ {
+  "num": 173,
+  "name": "Drizzle",
+  "rank": "B",
+  "tribe": "Eerie",
+  "attr": "Water",
+  "excl": "",
+  "section": "162 - 188 Eerie"
+ },
+ {
+  "num": 174,
+  "name": "Slush",
+  "rank": "E",
+  "tribe": "Eerie",
+  "attr": "Ice",
+  "excl": "",
+  "section": "162 - 188 Eerie"
+ },
+ {
+  "num": 175,
+  "name": "Alhail",
+  "rank": "B",
+  "tribe": "Eerie",
+  "attr": "Ice",
+  "excl": "",
+  "section": "162 - 188 Eerie"
+ },
+ {
+  "num": 176,
+  "name": "Gush",
+  "rank": "D",
+  "tribe": "Eerie",
+  "attr": "Fire",
+  "excl": "",
+  "section": "162 - 188 Eerie"
+ },
+ {
+  "num": 177,
+  "name": "Chatalie",
+  "rank": "D",
+  "tribe": "Eerie",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "162 - 188 Eerie"
+ },
+ {
+  "num": 178,
+  "name": "Nagatha",
+  "rank": "C",
+  "tribe": "Eerie",
+  "attr": "Drain",
+  "excl": "",
+  "section": "162 - 188 Eerie"
+ },
+ {
+  "num": 179,
+  "name": "Dismarelda",
+  "rank": "D",
+  "tribe": "Eerie",
+  "attr": "Earth",
+  "excl": "",
+  "section": "162 - 188 Eerie"
+ },
+ {
+  "num": 180,
+  "name": "Cheeksqueek",
+  "rank": "C",
+  "tribe": "Eerie",
+  "attr": "Ice",
+  "excl": "",
+  "section": "162 - 188 Eerie"
+ },
+ {
+  "num": 181,
+  "name": "Cuttincheez",
+  "rank": "A",
+  "tribe": "Eerie",
+  "attr": "Ice",
+  "excl": "",
+  "section": "162 - 188 Eerie"
+ },
+ {
+  "num": 182,
+  "name": "Compunzer",
+  "rank": "A",
+  "tribe": "Eerie",
+  "attr": "Drain",
+  "excl": "",
+  "section": "162 - 188 Eerie"
+ },
+ {
+  "num": 183,
+  "name": "Lamedian",
+  "rank": "A",
+  "tribe": "Eerie",
+  "attr": "Drain",
+  "excl": "",
+  "section": "162 - 188 Eerie"
+ },
+ {
+  "num": 184,
+  "name": "Grumples",
+  "rank": "B",
+  "tribe": "Eerie",
+  "attr": "Drain",
+  "excl": "",
+  "section": "162 - 188 Eerie"
+ },
+ {
+  "num": 185,
+  "name": "Everfore",
+  "rank": "S",
+  "tribe": "Eerie",
+  "attr": "Drain",
+  "excl": "",
+  "section": "162 - 188 Eerie"
+ },
+ {
+  "num": 186,
+  "name": "Eterna",
+  "rank": "S",
+  "tribe": "Eerie",
+  "attr": "Drain",
+  "excl": "",
+  "section": "162 - 188 Eerie"
+ },
+ {
+  "num": 187,
+  "name": "Insomni",
+  "rank": "S",
+  "tribe": "Eerie",
+  "attr": "Ice",
+  "excl": "",
+  "section": "162 - 188 Eerie"
+ },
+ {
+  "num": 188,
+  "name": "Sandi",
+  "rank": "S",
+  "tribe": "Eerie",
+  "attr": "Drain",
+  "excl": "",
+  "section": "162 - 188 Eerie"
+ },
+ {
+  "num": 189,
+  "name": "Noko",
+  "rank": "E",
+  "tribe": "Slippery",
+  "attr": "Earth",
+  "excl": "",
+  "section": "189 - 213 Slippery"
+ },
+ {
+  "num": 190,
+  "name": "Bloominoko",
+  "rank": "A",
+  "tribe": "Slippery",
+  "attr": "Earth",
+  "excl": "",
+  "section": "189 - 213 Slippery"
+ },
+ {
+  "num": 191,
+  "name": "Pandanoko",
+  "rank": "A",
+  "tribe": "Slippery",
+  "attr": "Ice",
+  "excl": "",
+  "section": "189 - 213 Slippery"
+ },
+ {
+  "num": 192,
+  "name": "Heheheel",
+  "rank": "D",
+  "tribe": "Slippery",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "189 - 213 Slippery"
+ },
+ {
+  "num": 193,
+  "name": "Croonger",
+  "rank": "C",
+  "tribe": "Slippery",
+  "attr": "Drain",
+  "excl": "",
+  "section": "189 - 213 Slippery"
+ },
+ {
+  "num": 194,
+  "name": "Urnaconda",
+  "rank": "C",
+  "tribe": "Slippery",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "189 - 213 Slippery"
+ },
+ {
+  "num": 195,
+  "name": "Fishpicable",
+  "rank": "D",
+  "tribe": "Slippery",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "189 - 213 Slippery"
+ },
+ {
+  "num": 196,
+  "name": "Rageon",
+  "rank": "B",
+  "tribe": "Slippery",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "189 - 213 Slippery"
+ },
+ {
+  "num": 197,
+  "name": "Tunatic",
+  "rank": "A",
+  "tribe": "Slippery",
+  "attr": "Fire",
+  "excl": "",
+  "section": "189 - 213 Slippery"
+ },
+ {
+  "num": 198,
+  "name": "Draggie",
+  "rank": "D",
+  "tribe": "Slippery",
+  "attr": "Earth",
+  "excl": "",
+  "section": "189 - 213 Slippery"
+ },
+ {
+  "num": 199,
+  "name": "Dragon Lord",
+  "rank": "S",
+  "tribe": "Slippery",
+  "attr": "Earth",
+  "excl": "",
+  "section": "189 - 213 Slippery"
+ },
+ {
+  "num": 200,
+  "name": "Azure Dragon",
+  "rank": "S",
+  "tribe": "Slippery",
+  "attr": "Water",
+  "excl": "",
+  "section": "189 - 213 Slippery"
+ },
+ {
+  "num": 201,
+  "name": "Daiz",
+  "rank": "C",
+  "tribe": "Slippery",
+  "attr": "Drain",
+  "excl": "",
+  "section": "189 - 213 Slippery"
+ },
+ {
+  "num": 202,
+  "name": "Confuze",
+  "rank": "B",
+  "tribe": "Slippery",
+  "attr": "Drain",
+  "excl": "",
+  "section": "189 - 213 Slippery"
+ },
+ {
+  "num": 203,
+  "name": "Chummer",
+  "rank": "C",
+  "tribe": "Slippery",
+  "attr": "Water",
+  "excl": "",
+  "section": "189 - 213 Slippery"
+ },
+ {
+  "num": 204,
+  "name": "Shrook",
+  "rank": "B",
+  "tribe": "Slippery",
+  "attr": "Water",
+  "excl": "",
+  "section": "189 - 213 Slippery"
+ },
+ {
+  "num": 205,
+  "name": "Spenp",
+  "rank": "C",
+  "tribe": "Slippery",
+  "attr": "Wind",
+  "excl": "",
+  "section": "189 - 213 Slippery"
+ },
+ {
+  "num": 206,
+  "name": "Almi",
+  "rank": "B",
+  "tribe": "Slippery",
+  "attr": "Water",
+  "excl": "",
+  "section": "189 - 213 Slippery"
+ },
+ {
+  "num": 207,
+  "name": "Babblong",
+  "rank": "C",
+  "tribe": "Slippery",
+  "attr": "Water",
+  "excl": "",
+  "section": "189 - 213 Slippery"
+ },
+ {
+  "num": 208,
+  "name": "Bananose",
+  "rank": "A",
+  "tribe": "Slippery",
+  "attr": "Water",
+  "excl": "",
+  "section": "189 - 213 Slippery"
+ },
+ {
+  "num": 209,
+  "name": "Copperled",
+  "rank": "B",
+  "tribe": "Slippery",
+  "attr": "Fire",
+  "excl": "",
+  "section": "189 - 213 Slippery"
+ },
+ {
+  "num": 210,
+  "name": "Cynake",
+  "rank": "B",
+  "tribe": "Slippery",
+  "attr": "Water",
+  "excl": "",
+  "section": "189 - 213 Slippery"
+ },
+ {
+  "num": 211,
+  "name": "Slitheref",
+  "rank": "A",
+  "tribe": "Slippery",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "189 - 213 Slippery"
+ },
+ {
+  "num": 212,
+  "name": "Venoct",
+  "rank": "S",
+  "tribe": "Slippery",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "189 - 213 Slippery"
+ },
+ {
+  "num": 213,
+  "name": "Shad. Venoct",
+  "rank": "S",
+  "tribe": "Slippery",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "189 - 213 Slippery"
+ },
+ {
+  "num": 214,
+  "name": "Shogunyan",
+  "rank": "S",
+  "tribe": "Brave",
+  "attr": "Wind",
+  "excl": "",
+  "section": "214 - 218 Legendary Yo-kai"
+ },
+ {
+  "num": 215,
+  "name": "Komashura",
+  "rank": "S",
+  "tribe": "Mysterious",
+  "attr": "Fire",
+  "excl": "",
+  "section": "214 - 218 Legendary Yo-kai"
+ },
+ {
+  "num": 216,
+  "name": "Dandoodle",
+  "rank": "S",
+  "tribe": "Eerie",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "214 - 218 Legendary Yo-kai"
+ },
+ {
+  "num": 217,
+  "name": "Elder Bloom",
+  "rank": "S",
+  "tribe": "Heartful",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "214 - 218 Legendary Yo-kai"
+ },
+ {
+  "num": 218,
+  "name": "Gilgaros",
+  "rank": "S",
+  "tribe": "Tough",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "214 - 218 Legendary Yo-kai"
+ },
+ {
+  "num": 219,
+  "name": "Sapphinyan",
+  "rank": "A",
+  "tribe": "Charming",
+  "attr": "Water",
+  "excl": "",
+  "section": "219 - 223 Gemnyans"
+ },
+ {
+  "num": 220,
+  "name": "Emenyan",
+  "rank": "A",
+  "tribe": "Charming",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "219 - 223 Gemnyans"
+ },
+ {
+  "num": 221,
+  "name": "Rubinyan",
+  "rank": "A",
+  "tribe": "Charming",
+  "attr": "Fire",
+  "excl": "",
+  "section": "219 - 223 Gemnyans"
+ },
+ {
+  "num": 222,
+  "name": "Topanyan",
+  "rank": "A",
+  "tribe": "Charming",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "219 - 223 Gemnyans"
+ },
+ {
+  "num": 223,
+  "name": "Dianyan",
+  "rank": "A",
+  "tribe": "Charming",
+  "attr": "Ice",
+  "excl": "",
+  "section": "219 - 223 Gemnyans"
+ },
+ {
+  "num": 224,
+  "name": "Slimamander",
+  "rank": null,
+  "tribe": null,
+  "attr": null,
+  "excl": "",
+  "section": "224 - 245 Boss Yo-kai"
+ },
+ {
+  "num": 225,
+  "name": "Sproink",
+  "rank": null,
+  "tribe": null,
+  "attr": null,
+  "excl": "",
+  "section": "224 - 245 Boss Yo-kai"
+ },
+ {
+  "num": 226,
+  "name": "SV Snaggerjag",
+  "rank": null,
+  "tribe": null,
+  "attr": null,
+  "excl": "",
+  "section": "224 - 245 Boss Yo-kai"
+ },
+ {
+  "num": 227,
+  "name": "Massiface",
+  "rank": null,
+  "tribe": null,
+  "attr": null,
+  "excl": "",
+  "section": "224 - 245 Boss Yo-kai"
+ },
+ {
+  "num": 228,
+  "name": "Phantasmurai",
+  "rank": null,
+  "tribe": null,
+  "attr": null,
+  "excl": "",
+  "section": "224 - 245 Boss Yo-kai"
+ },
+ {
+  "num": 229,
+  "name": "Tarantutor",
+  "rank": null,
+  "tribe": null,
+  "attr": null,
+  "excl": "",
+  "section": "224 - 245 Boss Yo-kai"
+ },
+ {
+  "num": 230,
+  "name": "Dr. Maddiman",
+  "rank": null,
+  "tribe": null,
+  "attr": null,
+  "excl": "",
+  "section": "224 - 245 Boss Yo-kai"
+ },
+ {
+  "num": 231,
+  "name": "McKraken",
+  "rank": null,
+  "tribe": null,
+  "attr": null,
+  "excl": "",
+  "section": "224 - 245 Boss Yo-kai"
+ },
+ {
+  "num": 232,
+  "name": "McKraken (2nd Form)",
+  "rank": null,
+  "tribe": null,
+  "attr": null,
+  "excl": "",
+  "section": "224 - 245 Boss Yo-kai"
+ },
+ {
+  "num": 233,
+  "name": "Duwheel",
+  "rank": null,
+  "tribe": null,
+  "attr": null,
+  "excl": "",
+  "section": "224 - 245 Boss Yo-kai"
+ },
+ {
+  "num": 234,
+  "name": "Chirpster",
+  "rank": null,
+  "tribe": null,
+  "attr": null,
+  "excl": "",
+  "section": "224 - 245 Boss Yo-kai"
+ },
+ {
+  "num": 235,
+  "name": "Eyedra",
+  "rank": null,
+  "tribe": null,
+  "attr": null,
+  "excl": "",
+  "section": "224 - 245 Boss Yo-kai"
+ },
+ {
+  "num": 236,
+  "name": "Hoggles",
+  "rank": null,
+  "tribe": null,
+  "attr": null,
+  "excl": "",
+  "section": "224 - 245 Boss Yo-kai"
+ },
+ {
+  "num": 237,
+  "name": "Styx Mk.VI",
+  "rank": null,
+  "tribe": null,
+  "attr": null,
+  "excl": "",
+  "section": "224 - 245 Boss Yo-kai"
+ },
+ {
+  "num": 238,
+  "name": "Clipso",
+  "rank": null,
+  "tribe": null,
+  "attr": null,
+  "excl": "",
+  "section": "224 - 245 Boss Yo-kai"
+ },
+ {
+  "num": 239,
+  "name": "Dr. Nogut",
+  "rank": null,
+  "tribe": null,
+  "attr": null,
+  "excl": "",
+  "section": "224 - 245 Boss Yo-kai"
+ },
+ {
+  "num": 240,
+  "name": "Spooklunk",
+  "rank": null,
+  "tribe": null,
+  "attr": null,
+  "excl": "",
+  "section": "224 - 245 Boss Yo-kai"
+ },
+ {
+  "num": 241,
+  "name": "Squisker",
+  "rank": null,
+  "tribe": null,
+  "attr": null,
+  "excl": "",
+  "section": "224 - 245 Boss Yo-kai"
+ },
+ {
+  "num": 242,
+  "name": "Wobblewok",
+  "rank": null,
+  "tribe": null,
+  "attr": null,
+  "excl": "",
+  "section": "224 - 245 Boss Yo-kai"
+ },
+ {
+  "num": 243,
+  "name": "Gargaros",
+  "rank": null,
+  "tribe": null,
+  "attr": null,
+  "excl": "",
+  "section": "224 - 245 Boss Yo-kai"
+ },
+ {
+  "num": 244,
+  "name": "Ogralus",
+  "rank": null,
+  "tribe": null,
+  "attr": null,
+  "excl": "",
+  "section": "224 - 245 Boss Yo-kai"
+ },
+ {
+  "num": 245,
+  "name": "Orcanos",
+  "rank": null,
+  "tribe": null,
+  "attr": null,
+  "excl": "",
+  "section": "224 - 245 Boss Yo-kai"
+ }
+]
