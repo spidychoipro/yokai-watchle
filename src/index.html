@@ -3,91 +3,131 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>요괴워치 즐 (Yo-kai Watchle)</title>
+<title>요괴워치 Watchle - 요괴 맞추기 게임</title>
+<meta name="description" content="요괴워치 캐릭터를 맞추는 Wordle 스타일 게임. 매일 새로운 요괴가 등장합니다!" />
+<meta name="theme-color" content="#0f1220" />
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='46' fill='%23ffd54a'/><circle cx='50' cy='50' r='20' fill='%23fff'/></svg>" />
 <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-<header>
-  <div class="brand">
-    <span class="logo">👻</span>
-    <span><b>요괴워치 즐</b><small id="subtitle-en">Yo-kai Watchle</small></span>
-  </div>
-  <div class="topbar">
-    <label id="lang-label" class="toggle">
-      <span id="lang-title">한국어</span>
-      <input type="checkbox" id="lang" />
-      <span class="slider"></span>
-    </label>
-    <button id="help-btn" type="button" class="ghost">?</button>
-  </div>
-</header>
-
-<main>
-  <section id="config" class="card">
-    <div class="cfg-row">
-      <select id="game" class="select"></select>
-      <select id="version" class="select"></select>
-      <select id="mode" class="select"></select>
-    </div>
-    <div class="cfg-row">
-      <label id="mode-info" class="hint"></label>
-      <button id="new-game" type="button" class="primary"></button>
-    </div>
-  </section>
-
-  <section id="board" class="card" hidden>
-    <div id="answers" class="answers">
-      <div class="answer-row head">
-        <span class="c-num">№</span>
-        <span class="c-name"></span>
-        <span class="c-rank">랭크</span>
-        <span class="c-tribe">부족</span>
-        <span class="c-attr">속성</span>
+<div class="layout">
+  <header>
+    <div class="header-content">
+      <div class="brand">
+        <span class="logo">👻</span>
+        <div class="brand-text">
+          <h1>요괴워치</h1>
+          <p class="subtitle">Yo-kai Watchle</p>
+        </div>
+      </div>
+      <div class="header-controls">
+        <a href="https://github.com/spidychoipro/yokai-watchle" class="btn-github" title="GitHub 저장소" target="_blank">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v 3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg>
+          GitHub
+        </a>
+        <label class="lang-toggle">
+          <input type="checkbox" id="lang-toggle" />
+          <span class="toggle-label" id="lang-label">EN</span>
+        </label>
+        <button id="help-btn" class="btn-help" title="게임 설명">?</button>
       </div>
     </div>
-    <form id="guess-form" class="guess" autocomplete="off">
-      <div class="combo">
-        <input id="guess" class="text" placeholder="" list="nl" autocomplete="off" />
-        <datalist id="nl"></datalist>
-        <ul id="suggest" class="suggest" hidden></ul>
+  </header>
+
+  <main class="container">
+    <!-- 게임 설정 -->
+    <section class="card config-section">
+      <div class="config-row">
+        <select id="game-select" class="select-input"></select>
+        <select id="version-select" class="select-input"></select>
+        <select id="mode-select" class="select-input"></select>
       </div>
-      <button id="submit" type="submit" class="primary"></button>
-    </form>
-  </section>
+      <div class="config-row">
+        <span id="mode-info" class="mode-info"></span>
+        <button id="new-game-btn" class="btn-primary">새 게임</button>
+      </div>
+    </section>
 
-  <section id="result" class="card center" hidden>
-    <div id="win-title" class="big"></div>
-    <div id="win-num" class="num-badge"></div>
-    <div class="row chips">
-      <span id="win-rank"></span>
-      <span id="win-tribe"></span>
-      <span id="win-attr"></span>
-    </div>
-    <p id="win-name" class="answer-name"></p>
-    <button id="again" type="button" class="primary"></button>
-  </section>
+    <!-- 게임 보드 -->
+    <section id="game-board" class="card game-board hidden">
+      <div id="guesses-container" class="guesses-container">
+        <div class="guess-header">
+          <span class="col-num">№</span>
+          <span class="col-name">요괴</span>
+          <span class="col-rank">랭크</span>
+          <span class="col-tribe">부족</span>
+          <span class="col-attr">속성</span>
+        </div>
+      </div>
+      
+      <form id="guess-form" class="guess-form" autocomplete="off">
+        <div class="input-wrapper">
+          <input 
+            id="guess-input" 
+            type="text" 
+            class="text-input" 
+            list="yo-kai-list" 
+            autocomplete="off"
+            placeholder="요괴 이름 입력..."
+          />
+          <datalist id="yo-kai-list"></datalist>
+          <ul id="suggestions" class="suggestions hidden"></ul>
+        </div>
+        <button type="submit" class="btn-primary" id="submit-btn">맞혀보기</button>
+      </form>
+    </section>
 
-  <section id="help" class="card" hidden>
-    <h3 id="help-h"></h3>
-    <p id="help-p1"></p>
-    <p id="help-p2"></p>
-    <p id="help-p3"></p>
-    <p id="help-p4"></p>
-  </section>
+    <!-- 게임 결과 -->
+    <section id="result-screen" class="card result-screen hidden">
+      <div class="result-content">
+        <h2 id="result-title" class="result-title"></h2>
+        <div id="result-number" class="result-number"></div>
+        <div class="result-badges">
+          <span id="badge-rank" class="badge"></span>
+          <span id="badge-tribe" class="badge"></span>
+          <span id="badge-attr" class="badge"></span>
+        </div>
+        <p id="result-name" class="result-name"></p>
+        <button id="play-again-btn" class="btn-primary">다시 하기</button>
+      </div>
+    </section>
 
-  <section id="pokedex" class="card">
-    <div class="cfg-row">
-      <h3 id="dex-title">요괴 도감</h3>
-      <input id="dex-search" class="text" type="search" placeholder="" />
-    </div>
-    <div id="dex" class="dex"></div>
-  </section>
-</main>
+    <!-- 도움말 -->
+    <section id="help-section" class="card help-section hidden">
+      <h3>게임 방법</h3>
+      <ol class="help-list">
+        <li>숨겨진 <strong>요괴 1마리</strong>를 <strong>도감번호, 부족, 속성, 랭크</strong> 힌트로 맞힙니다.</li>
+        <li>입력칸에 요괴 이름을 입력하고 "맞혀보기" 버튼을 누르세요.</li>
+        <li><strong>번호 칸의 화살표(▲▼)</strong>는 정답보다 앞/뒤 번호임을 알려줍니다.</li>
+        <li><strong>초록색 셀</strong>은 정답과 일치하는 정보입니다.</li>
+        <li><strong>다른 색상 셀</strong>은 게임에 존재하지만 틀린 정보입니다.</li>
+      </ol>
+    </section>
 
-<footer>
-  <span id="foot"></span>
-</footer>
+    <!-- 요괴 도감 -->
+    <section class="card dex-section">
+      <div class="dex-header">
+        <h3>요괴 도감</h3>
+        <input 
+          id="dex-search" 
+          type="search" 
+          class="text-input" 
+          placeholder="요괴 검색..."
+        />
+      </div>
+      <div id="dex-grid" class="dex-grid"></div>
+    </section>
+
+    <!-- 푸터 -->
+    <footer class="footer">
+      <p id="footer-text"></p>
+      <p class="footer-links">
+        <a href="https://github.com/spidychoipro/yokai-watchle" target="_blank">GitHub</a> • 
+        <a href="https://spidychoipro.github.io/yokai-watchle" target="_blank">Play</a>
+      </p>
+    </footer>
+  </main>
+</div>
 
 <script src="data.js"></script>
 <script src="app.js"></script>
