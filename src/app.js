@@ -3,45 +3,49 @@
 
   const DATA = window.YKW_DATA;
   const $ = (id) => document.getElementById(id);
+  const MODALS = ['help-modal', 'stats-modal', 'settings-modal'];
 
   // ---------- 다국어 ----------
   const I18N = {
     ko: {
       langName: 'EN',
-      modeDaily: '일일 도전',
-      modePractice: '연습',
-      modeDaily_desc: '매일 자정(KST)에 바뀌는 요괴를 맞혀보세요.',
-      modePractice_desc: '무제한으로 요괴를 맞혀보세요.',
-      rounds_txt: '라운드',
+      todayLine: '오늘의 요괴',
       newGame: '새 게임',
       submit: '맞혀보기',
       placeholder: '요괴 이름 입력...',
       win: '정답!',
-      lose: '정답 공개',
       playAgain: '다시 하기',
-      help: '게임 설명',
-      dexTitle: '요괴 도감',
-      dexSearch: '요괴 검색...',
-      caughtProgress: '포획 {n}/{m}',
+      guessCounter: '추측 {n}회',
+      share: '공유',
+      copied: '복사됨!',
       footer: '데이터: 요괴워치 도감',
+      help: '게임 설명',
+      helpTitle: '게임 방법',
+      helpLi1: '숨은 요괴를 이름으로 맞혀보세요.',
+      helpLi2: '제출할수록 정답과의 거리가 힌트로 드러나요. 횟수 제한은 없어요.',
+      helpEx1: '초록 칸 = 정답과 일치',
+      helpEx2: '색칠된 칸 = 다르지만 그 요괴의 실제 값이에요',
+      helpEx3: '▲▼ = 랭크가 정답보다 높거나 낮아요',
+      helpEx4: '맞히면 도감에 포획되고, 결과를 공유할 수 있어요',
       settingsH: '설정',
+      grpGeneral: '일반',
+      grpGame: '게임',
+      grpDex: '포획 도감',
       lblSound: '소리',
+      lblLang: '언어',
       lblHints: '힌트 표시',
       lblHintRank: '랭크',
       lblHintTribe: '부족',
       lblHintAttr: '속성',
       resetSettings: '기본값 복원',
       statsH: '통계',
-      stPlayed: '게임',
-      stWinrate: '승률',
-      stStreak: '연승',
+      stSolved: '해결',
+      stStreak: '연속',
       stBest: '최고',
       stDistTitle: '추측 분포',
-      stModeDailyNote: '일일 도전 기준 통계예요.',
-      stModePracticeNote: '연습 기준 통계예요.',
-      share: '공유',
-      copied: '복사됨!',
-      guessCounter: '추측 {n}/{m}',
+      stNote: '하루에 정답을 맞히면 1회로 기록돼요.',
+      dexSearch: '요괴 검색...',
+      caughtProgress: '포획 {n}/{m}',
       headNum: '№',
       headName: '요괴',
       headRank: '랭크',
@@ -51,40 +55,43 @@
     },
     en: {
       langName: '한국어',
-      modeDaily: 'Daily',
-      modePractice: 'Practice',
-      modeDaily_desc: 'New yo-kai every day at midnight (KST).',
-      modePractice_desc: 'Unlimited practice rounds.',
-      rounds_txt: 'Rounds',
+      todayLine: "Today's yo-kai",
       newGame: 'New Game',
       submit: 'Guess',
       placeholder: 'Type yo-kai name...',
       win: 'Correct!',
-      lose: 'Answer revealed',
       playAgain: 'Play Again',
-      help: 'How to Play',
-      dexTitle: 'Medallium',
-      dexSearch: 'Search yo-kai...',
-      caughtProgress: 'Caught {n}/{m}',
+      guessCounter: '{n} guess',
+      share: 'Share',
+      copied: 'Copied!',
       footer: 'Data: Yo-kai Watch Medallium',
+      help: 'How to Play',
+      helpTitle: 'How to Play',
+      helpLi1: 'Find the hidden yo-kai by name.',
+      helpLi2: 'Each guess reveals how close you are. There is no guess limit.',
+      helpEx1: 'Green cell = matches the answer',
+      helpEx2: 'Colored cell = differs, but shows the real value',
+      helpEx3: '▲▼ = rank is higher or lower than the answer',
+      helpEx4: 'Caught yo-kai are added to the Medallium. Share your results!',
       settingsH: 'Settings',
+      grpGeneral: 'General',
+      grpGame: 'Game',
+      grpDex: 'Medallium',
       lblSound: 'Sound',
+      lblLang: 'Language',
       lblHints: 'Show hints',
       lblHintRank: 'Rank',
       lblHintTribe: 'Tribe',
       lblHintAttr: 'Attr',
       resetSettings: 'Reset defaults',
       statsH: 'Stats',
-      stPlayed: 'Played',
-      stWinrate: 'Win rate',
+      stSolved: 'Solved',
       stStreak: 'Streak',
       stBest: 'Best',
       stDistTitle: 'Guess distribution',
-      stModeDailyNote: 'Stats for Daily.',
-      stModePracticeNote: 'Stats for Practice.',
-      share: 'Share',
-      copied: 'Copied!',
-      guessCounter: 'Guesses {n}/{m}',
+      stNote: 'One win is counted per day.',
+      dexSearch: 'Search yo-kai...',
+      caughtProgress: 'Caught {n}/{m}',
       headNum: '№',
       headName: 'Yo-kai',
       headRank: 'Rank',
@@ -94,7 +101,6 @@
     }
   };
 
-  const DAILY_LIMIT = 6;
   const RANKS = ['S', 'A', 'B', 'C', 'D', 'E'];
   const RANK_COLOR = {
     S: 'var(--rank-s)', A: 'var(--rank-a)', B: 'var(--rank-b)',
@@ -125,24 +131,18 @@
     };
   }
   function defaultStats() {
-    return {
-      daily: { won: 0, lost: 0, streak: 0, max: 0, dist: {} },
-      practice: { won: 0, lost: 0, streak: 0, max: 0 }
-    };
+    return { daily: { won: 0, lost: 0, streak: 0, max: 0, dist: {}, lastWinKey: '' } };
   }
 
   let state = {
     lang: safeGet('ykw-lang') || 'ko',
     gameId: 'ykw1',
     versionId: 'main',
-    mode: 'daily',
-    rounds: 10,
     roster: null,
     target: null,
     guesses: [],
     won: false,
     over: false,
-    limit: DAILY_LIMIT,
     settings: cloneSettings(DEFAULT_SETTINGS)
   };
 
@@ -153,19 +153,6 @@
       const p = JSON.parse(raw);
       if (p && p.hints) state.settings = cloneSettings(p);
     } catch (e) {}
-  })();
-
-  (function migrateStats() {
-    if (!safeGet('ykw-stats')) {
-      const st = defaultStats();
-      const pw = parseInt(safeGet('ykw-practice-wins') || '0', 10);
-      const pt = parseInt(safeGet('ykw-practice-total') || '0', 10);
-      if (pw || pt) {
-        st.practice.won = pw;
-        st.practice.lost = Math.max(0, pt - pw);
-      }
-      safeSet('ykw-stats', JSON.stringify(st));
-    }
   })();
 
   const T = (key) => I18N[state.lang][key] || key;
@@ -188,6 +175,11 @@
   function versionBy(game, id) { return game.versions.find((v) => v.id === id); }
   function roster() { return state.roster; }
   function entryName(e) { return state.lang === 'ko' ? (e.ko || e.en) : e.en; }
+  function gameName() { const g = gameById(state.gameId); return state.lang === 'ko' ? g.name.ko : g.name.en; }
+  function versionLabel(v) {
+    if (state.lang === 'ko') return v.label.ko;
+    return v.label.en;
+  }
   function dailyKey() {
     return 'ykw-daily-' + state.gameId + '-' + state.versionId + '-' + getTodayKST();
   }
@@ -254,7 +246,7 @@
     cv.classList.add('show');
     const ctx = cv.getContext('2d');
     if (!ctx) return;
-    const colors = ['#ffd54a', '#ffb347', '#4d9bff', '#ff5d6c', '#46c07b', '#ffffff'];
+    const colors = ['#ffd54a', '#ffb347', '#6aaa64', '#c9b458', '#4d9bff', '#ffffff'];
     const parts = [];
     for (let i = 0; i < 90; i++) {
       parts.push({
@@ -305,25 +297,20 @@
   function stats() {
     let s = null;
     try { s = JSON.parse(safeGet('ykw-stats')); } catch (e) {}
-    if (!s || !s.daily || !s.practice) s = defaultStats();
+    if (!s || !s.daily) s = defaultStats();
     return s;
   }
   function saveStats(s) { safeSet('ykw-stats', JSON.stringify(s)); }
-  function recordWin(mode, guessCount) {
+  function recordWin(guessCount) {
     const st = stats();
-    const m = st[mode];
+    const m = st.daily;
+    const key = dailyKey();
+    if (m.lastWinKey === key) return st;
     m.won++;
     m.streak++;
     if (m.streak > m.max) m.max = m.streak;
     if (guessCount) m.dist[String(guessCount)] = (m.dist[String(guessCount)] || 0) + 1;
-    saveStats(st);
-    return st;
-  }
-  function recordLoss(mode) {
-    const st = stats();
-    const m = st[mode];
-    m.lost++;
-    m.streak = 0;
+    m.lastWinKey = key;
     saveStats(st);
     return st;
   }
@@ -368,25 +355,18 @@
     const v = versionBy(g, state.versionId);
     if (!v) return;
     state.roster = v.list;
-    state.limit = state.mode === 'daily' ? DAILY_LIMIT : state.rounds;
-
-    if (state.mode === 'daily') {
-      state.target = dailyTarget();
-      const savedRaw = safeGet(dailyKey());
-      if (savedRaw) {
-        try {
-          const saved = JSON.parse(savedRaw);
-          state.guesses = (saved.guesses || []).filter((e) => e && typeof e.n === 'number');
-          state.won = !!saved.won;
-          state.over = state.won || state.guesses.length >= state.limit;
-        } catch (e) {
-          state.guesses = []; state.won = false; state.over = false;
-        }
-      } else {
+    state.target = dailyTarget();
+    const savedRaw = safeGet(dailyKey());
+    if (savedRaw) {
+      try {
+        const saved = JSON.parse(savedRaw);
+        state.guesses = (saved.guesses || []).filter((e) => e && typeof e.n === 'number');
+        state.won = !!saved.won;
+        state.over = state.won;
+      } catch (e) {
         state.guesses = []; state.won = false; state.over = false;
       }
     } else {
-      state.target = state.roster[Math.floor(Math.random() * state.roster.length)];
       state.guesses = []; state.won = false; state.over = false;
     }
 
@@ -404,16 +384,19 @@
   }
 
   function playAgain() {
-    if (state.mode === 'daily') {
-      try { localStorage.removeItem(dailyKey()); } catch (e) {}
-    }
+    try { localStorage.removeItem(dailyKey()); } catch (e) {}
     startGame();
   }
 
   function renderModeInfo() {
-    $('mode-info').textContent =
-      T(state.mode === 'daily' ? 'modeDaily_desc' : 'modePractice_desc') +
-      ' · ' + T('guessCounter').replace('{n}', String(state.guesses.length)).replace('{m}', String(state.limit));
+    const g = gameById(state.gameId);
+    let line = T('todayLine') + ' · ' + gameName();
+    if (g.versions.length > 1) line += ' · ' + versionLabel(versionBy(g, state.versionId));
+    line += ' · ' + T('guessCounter').replace('{n}', String(state.guesses.length));
+    $('mode-info').textContent = line;
+    if (state.over && !$('result-stats-line').textContent.match(/\d/)) {
+      $('result-stats-line').textContent = line;
+    }
   }
 
   function renderBoard() {
@@ -501,30 +484,23 @@
     $('suggestions').classList.add('hidden');
 
     if (hit.n === state.target.n) {
-      endGame(true);
+      endGame();
       return;
     }
     play('click');
-    if (state.guesses.length >= state.limit) {
-      endGame(false);
-      return;
-    }
     renderBoard();
     renderModeInfo();
     $('guess-input').focus();
   }
 
-  function endGame(won) {
-    state.won = won;
+  function endGame() {
+    state.won = true;
     state.over = true;
-    if (state.mode === 'daily') saveDaily();
-    if (won) {
-      recordWin(state.mode, state.guesses.length);
-      markCaught(state.gameId, state.target.n);
-    } else {
-      recordLoss(state.mode);
-    }
-    if (won) { spawnConfetti(); play('win'); } else play('wrong');
+    saveDaily();
+    recordWin(state.guesses.length);
+    markCaught(state.gameId, state.target.n);
+    spawnConfetti();
+    play('win');
     renderResult();
     renderDex();
   }
@@ -535,7 +511,7 @@
     $('result-screen').classList.remove('hidden');
 
     const title = $('result-title');
-    title.textContent = state.won ? T('win') : T('lose');
+    title.textContent = T('win');
     title.classList.remove('pop'); void title.offsetWidth; title.classList.add('pop');
 
     $('result-number').textContent = '#' + String(state.target.n).padStart(3, '0');
@@ -557,9 +533,7 @@
 
   // ---------- share ----------
   function shareText() {
-    const g = gameById(state.gameId);
-    const head = '요괴워치 즐 · ' + (state.lang === 'ko' ? g.name.ko : g.name.en) +
-      (state.mode === 'daily' ? ' (' + getTodayKST() + ')' : '');
+    const head = '요괴워치 즐 · ' + gameName() + ' (' + getTodayKST() + ')';
     const lines = [head];
     lines.push('#' + String(state.target.n).padStart(3, '0') + ' ' + entryName(state.target));
     const want = { rank: state.settings.hints.rank, tribe: state.settings.hints.tribe, attr: state.settings.hints.attr };
@@ -604,25 +578,22 @@
     $('hint-rank').checked = state.settings.hints.rank;
     $('hint-tribe').checked = state.settings.hints.tribe;
     $('hint-attr').checked = state.settings.hints.attr;
+    $('lang-toggle').checked = state.lang === 'en';
   }
 
   // ---------- stats panel ----------
   function renderStats() {
-    const st = stats();
-    const m = st[state.mode];
-    const played = m.won + m.lost;
-    $('st-played').textContent = played;
-    $('st-winrate').textContent = (played ? Math.round(m.won / played * 100) : 0) + '%';
+    const m = stats().daily;
+    $('st-played').textContent = m.won;
     $('st-streak').textContent = m.streak;
     $('st-best').textContent = m.max;
-    $('st-mode-note').textContent = T(state.mode === 'daily' ? 'stModeDailyNote' : 'stModePracticeNote');
 
     const box = $('st-dist');
     box.innerHTML = '';
     const dist = m.dist || {};
     let maxV = 1;
     for (const k in dist) if (+k > maxV) maxV = +k;
-    const maxCols = 10;
+    const maxCols = 15;
     for (let i = 1; i <= maxCols; i++) {
       const c = dist[String(i)] || 0;
       const row = document.createElement('div');
@@ -701,27 +672,6 @@
     });
 
     fillVersionSelect();
-
-    const mSel = $('mode-select');
-    mSel.innerHTML = '';
-    ['daily', 'practice'].forEach((m) => {
-      const o = document.createElement('option');
-      o.value = m;
-      o.textContent = T(m === 'daily' ? 'modeDaily' : 'modePractice');
-      if (m === state.mode) o.selected = true;
-      mSel.appendChild(o);
-    });
-
-    const rSel = $('round-select');
-    rSel.innerHTML = '';
-    [10, 50, 100].forEach((n) => {
-      const o = document.createElement('option');
-      o.value = n;
-      o.textContent = n + ' ' + T('rounds_txt');
-      if (n === state.rounds) o.selected = true;
-      rSel.appendChild(o);
-    });
-    rSel.hidden = state.mode !== 'practice';
   }
   function fillVersionSelect() {
     const vSel = $('version-select');
@@ -736,53 +686,69 @@
     });
   }
 
+  // ---------- modals ----------
+  function openModal(id) {
+    closeModals();
+    $(id).classList.remove('hidden');
+    $('backdrop').classList.add('show');
+  }
+  function closeModals() {
+    MODALS.forEach((id) => { const el = $(id); if (el) el.classList.add('hidden'); });
+    const b = $('backdrop');
+    if (b) b.classList.remove('show');
+  }
+
   // ---------- language ----------
   function applyLang() {
     document.documentElement.lang = state.lang === 'ko' ? 'ko' : 'en';
     $('lang-label').textContent = T('langName');
-    $('lang-toggle').checked = state.lang === 'en';
     $('new-game-btn').textContent = T('newGame');
     $('submit-btn').textContent = T('submit');
     $('guess-input').placeholder = T('placeholder');
     $('help-btn').title = T('help');
     $('settings-btn').title = T('settingsH');
     $('stats-btn').title = T('statsH');
-    $('dex-title').textContent = T('dexTitle');
-    $('dex-search').placeholder = T('dexSearch');
     $('footer-text').textContent = T('footer');
+
+    $('help-title').textContent = T('helpTitle');
+    $('help-li-1').textContent = T('helpLi1');
+    $('help-li-2').textContent = T('helpLi2');
+    $('help-ex-1').textContent = T('helpEx1');
+    $('help-ex-2').textContent = T('helpEx2');
+    $('help-ex-3').textContent = T('helpEx3');
+    $('help-ex-4').textContent = T('helpEx4');
+
     $('settings-title').textContent = T('settingsH');
+    $('grp-general').textContent = T('grpGeneral');
+    $('grp-game').textContent = T('grpGame');
+    $('grp-dex').textContent = T('grpDex');
     $('lbl-sound').textContent = T('lblSound');
+    $('lbl-lang').textContent = T('lblLang');
     $('lbl-hints').textContent = T('lblHints');
     $('lbl-hint-rank').textContent = T('lblHintRank');
     $('lbl-hint-tribe').textContent = T('lblHintTribe');
     $('lbl-hint-attr').textContent = T('lblHintAttr');
     $('reset-settings').textContent = T('resetSettings');
+    $('dex-search').placeholder = T('dexSearch');
+
     $('stats-title').textContent = T('statsH');
-    $('lbl-st-played').textContent = T('stPlayed');
-    $('lbl-st-winrate').textContent = T('stWinrate');
+    $('lbl-st-played').textContent = T('stSolved');
     $('lbl-st-streak').textContent = T('stStreak');
     $('lbl-st-best').textContent = T('stBest');
     $('st-dist-title').textContent = T('stDistTitle');
+    $('st-mode-note').textContent = T('stNote');
     $('share-btn').textContent = T('share');
+    $('play-again-btn').textContent = T('playAgain');
 
     const cells = document.querySelectorAll('.guess-header .col-num, .guess-header .col-name, .guess-header .col-rank, .guess-header .col-tribe, .guess-header .col-attr');
     const refs = { 'col-num': 'headNum', 'col-name': 'headName', 'col-rank': 'headRank', 'col-tribe': 'headTribe', 'col-attr': 'headAttr' };
-    cells.forEach((el) => {
-      el.textContent = T(refs[el.className]);
-    });
+    cells.forEach((el) => { el.textContent = T(refs[el.className]); });
 
     fillSelects();
     renderModeInfo();
   }
 
   // ---------- events ----------
-  function togglePanel(id) {
-    const el = $(id);
-    el.classList.toggle('hidden');
-    if (id === 'stats-panel' && !el.classList.contains('hidden')) renderStats();
-    if (id === 'settings-panel' && !el.classList.contains('hidden')) applySettingsUI();
-  }
-
   function bindEvents() {
     $('game-select').addEventListener('change', (e) => {
       const g = gameById(e.target.value);
@@ -795,17 +761,6 @@
 
     $('version-select').addEventListener('change', (e) => {
       state.versionId = e.target.value;
-      startGame();
-    });
-
-    $('mode-select').addEventListener('change', (e) => {
-      state.mode = e.target.value === 'daily' ? 'daily' : 'practice';
-      $('round-select').hidden = state.mode !== 'practice';
-      startGame();
-    });
-
-    $('round-select').addEventListener('change', (e) => {
-      state.rounds = parseInt(e.target.value, 10);
       startGame();
     });
 
@@ -831,9 +786,13 @@
     });
 
     $('dex-search').addEventListener('input', renderDex);
-    $('help-btn').addEventListener('click', () => $('help-section').classList.toggle('hidden'));
-    $('stats-btn').addEventListener('click', () => togglePanel('stats-panel'));
-    $('settings-btn').addEventListener('click', () => togglePanel('settings-panel'));
+    $('help-btn').addEventListener('click', () => openModal('help-modal'));
+    $('stats-btn').addEventListener('click', () => { renderStats(); openModal('stats-modal'); });
+    $('settings-btn').addEventListener('click', () => { applySettingsUI(); openModal('settings-modal'); });
+
+    document.querySelectorAll('.modal-close').forEach((b) => b.addEventListener('click', closeModals));
+    $('backdrop').addEventListener('click', (e) => { if (e.target === $('backdrop')) closeModals(); });
+    document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeModals(); });
 
     $('share-btn').addEventListener('click', () => { play('click'); doShare(); });
     $('play-again-btn').addEventListener('click', playAgain);

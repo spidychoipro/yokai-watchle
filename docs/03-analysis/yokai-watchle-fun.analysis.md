@@ -1,47 +1,45 @@
 # yokai-watchle-fun Analysis Document
 
-> **Summary**: 설계 대비 구현 갭 분석 (Check phase) — Rev 2: Copilot 리디자인 기반 포팅
+> **Summary**: 설계 대비 구현 갭 분석 (Check phase) — Rev 3: NYT 스타일 + 무제한 기회
 >
 > **Project**: yokai-watchle
-> **Version**: 2.1
+> **Version**: 3.0
 > **Date**: 2026-09-14
 > **Status**: Complete
 
-## 1. Design Items vs Implementation (Rev 2)
+## 1. Design Items vs Implementation (Rev 3)
 
-| # | Design Item (Rev 2) | Status | Evidence |
+| # | Design Item (Rev 3) | Status | Evidence |
 |---|---------------------|--------|----------|
-| 1 | 설정 패널: 소리/힌트 토글 + `ykw-settings` 저장 | Match | `saveSettings()`, `applySettingsUI()`, jsdom T6 |
-| 2 | 연습 라운드 선택 (10/50/100) `round-select` | Match | `startGame` Practice 분기, jsdom T8 |
-| 3 | 데일리 6회 제한 + `ykw-daily-{game}-{ver}-{KST}` 진도 저장 | Match | `dailyKey()`, `saveDaily()`, jsdom T1/T2/T3 |
-| 4 | 게임/버전 선택 복원 (3게임 7풀) + 셀렉트 전환 시 이어하기 | Match | `fillSelects()`, `fillVersionSelect()`, jsdom T9 |
-| 5 | per-pool 데일리 타깃 `hash(game\|ver\|KST) % len` | Match | `dailyTarget()`, jsdom T1 |
-| 6 | 힌트 열 토글 + 8 CSS 그리드 변형 | Match | `colClass()`, `applyCols()`, `cols-*`, jsdom T6 |
-| 7 | 컨페티 (canvas) + ctx 가드 | Match | `spawnConfetti()`, `.confetti`, jsdom T1 (show class 확인) |
-| 8 | 통계/연승/분포 (`ykw-stats`), 추측 분포 바 | Match | `recordWin/Loss`, `renderStats()`, jsdom T5 |
-| 9 | 결과 공유 (이모지 그리드 + execCommand fallback) | Match | `shareText()`, `doShare()`, `fallbackCopy()`, jsdom T2 |
-| 10 | 포획 도감 + 진행률 (`ykw-caught`) | Match | `markCaught()`, `renderDex()`, jsdom T1 |
-| 11 | 효과음 WebAudio + 토글 | Match | `initAudio()`, `SFX`, pointerdown/keydown 1회 활성화 |
-| 12 | i18n 전체 (설정/통계/도감 포함) KO/EN | Match | `I18N`, `applyLang()`, jsdom T7 |
-| 13 | Copilot `ykw-practice-wins/total` 마이그레이션 | Match | `migrateStats()` |
-| 14 | 새 게임/다시 하기 → 데일리 키 초기화 (재도전 허용) | Match | `playAgain()`, jsdom T3 |
-| 15 | 연습 재시작 시 랜덤 뉴타깃 | Match | `startGame` Practice 랜덤 분기, jsdom T8 |
-| 16 | 데일리 셀렉트 전환 시 이어하기 (키 보존) | Match | `startGame` Daily 분기, jsdom T9 |
+| 1 | NYT 헤더: 타이틀 + `? 📊 ⚙` 3아이콘, 상단 셀렉트 제거 | Match | `site-header`, `icon-btn`, jsdom T1 (선택 UI 부재 확인) |
+| 2 | 보드에 모드/라운드/새 게임 셀렉트 없음 | Match | index.html 구조, jsdom T1 |
+| 3 | 도감(검색+그리드) 메인 제거 → 설정 모달 이동 | Match | `settings-modal` 내 `dex-grid`, jsdom T1/T9 |
+| 4 | 도움말 모달 (예시 행 2개) | Match | `help-modal`, `help-example`, applyLang T8 |
+| 5 | 데일리 단일 모드 (연습/라운드 삭제) | Match | state에 mode/rounds 없음, jsdom T1 |
+| 6 | 무제한 기회 — 패배 상태 없음 | Match | `submitGuess` 한도 미검, jsdom T4 (12회+) |
+| 7 | 통계: 해결/연속/최고 + 추측 분포 | Match | `renderStats()` 3타일, jsdom T5 |
+| 8 | 1일 1회 스코어 (`lastWinKey` 기준) | Match | `recordWin()` 키 비교, jsdom T4 |
+| 9 | 언어 토글을 설정 모달로 이동 | Match | `settings-modal` 내 `lang-toggle`, jsdom T8 |
+| 10 | 설정/통계/도움말을 모달(backdrop+Esc+바깥클릭)로 | Match | `openModal/closeModals`, jsdom T6 |
+| 11 | 게임/버전 선택을 설정 모달에서 변경 + 진도 이어하기 | Match | `game-select`/`version-select` change → `startGame()`, jsdom T9 |
+| 12 | 포획 도감 + 진행률 (설정 내) | Match | `markCaught/`renderDex()`, jsdom T2 |
+| 13 | 컨페티·효과음·공유 유지 | Match | `spawnConfetti`, `SFX`, `doShare`, jsdom T2 |
+| 14 | i18n 도움말/설정/통계 확장 | Match | I18N 키 적용, jsdom T8 |
 
 ## 2. Gap Categories
 
 | Category | Count |
 |----------|-------|
-| Match | 16 |
+| Match | 14 |
 | Missing in Code | 0 |
 | Missing in Design | 0 |
 | Changed | 0 |
 
 ### Minor Deviations (의도적)
 
-- `shareText()` 헤더에 게임명/모드/날짜 포함 → 공유 정보 명확화
-- 데일리 목록 전환 시 같은 날 진도 이어하기 (기존 키 독립)
-- 도감 전체 노출 (Copilot의 100개 slice 제거)
+- 통계에서 승률 제거 (무제한 모드라 항상 100% → 무의미)
+- `shareText()` 헤더: `요괴워치 즐 · {게임명} (KST날짜)` 하고 정답 번호/주요 정보 포함
+- 힌트 열 숨김 시 그리드는 8종 CSS 클래스 유지 (Rev 2) — 모달 이동 없이 보드에만 적용
 
 ## 3. Quality Checks
 
@@ -50,10 +48,10 @@
 | `node --check src/app.js` | Pass |
 | 데이터 구조 일관성 (rank/tribe/attr, 3525 entries) | Pass |
 | I18N 키 KO/EN 일치 | Pass |
-| jsdom 스모크 테스트 9개 그룹 (승/패/설정/언어/연습/전환 등) | 70+ assertions Pass |
+| jsdom 스모크 10개 그룹 + 무제한 12회 검증 | 80+ assertions Pass |
 | 정적 서빙 (index/app/style/data) | 200 OK |
 
-**Match Rate: 16 / 16 = 100%**
+**Match Rate: 14 / 14 = 100%**
 
 ---
 
@@ -63,3 +61,4 @@
 |---------|------|---------|--------|
 | 1.0 | 2026-09-14 | Initial analysis (구 기반) | opencode |
 | 2.1 | 2026-09-14 | Rev 2: Copilot 베이스 포팅 반영 | opencode |
+| 3.0 | 2026-09-14 | Rev 3: NYT 스타일 + 무제한 기회 반영 | opencode |
