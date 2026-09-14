@@ -6,7 +6,10 @@
 <title>요괴워치 Watchle - 요괴 맞추기 게임</title>
 <meta name="description" content="요괴워치 캐릭터를 맞추는 Wordle 스타일 게임. 매일 새로운 요괴가 등장합니다!" />
 <meta name="theme-color" content="#0f1220" />
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='46' fill='%23ffe9a8'/><circle cx='50' cy='50' r='20' fill='%23fff'/></svg>" />
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='46' fill='%23ffd66b'/><circle cx='50' cy='50' r='38' fill='none' stroke='%23b98a2f' stroke-width='6'/><circle cx='50' cy='50' r='16' fill='%23fff'/></svg>" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Jua&display=swap" rel="stylesheet" />
 <link rel="stylesheet" href="style.css" />
 </head>
 <body>
@@ -16,8 +19,11 @@
     <div class="header-inner">
       <button id="help-btn" class="icon-btn" title="게임 설명" aria-label="Help">?</button>
       <div class="brand">
-        <h1 class="brand-title">요괴워치</h1>
-        <p class="brand-sub">Yo-kai Watchle</p>
+        <span class="medal" aria-hidden="true"><span class="medal-core">👻</span></span>
+        <div class="brand-text">
+          <h1 class="brand-title">요괴워치</h1>
+          <p class="brand-sub">YO-KAI WATCHLE ✦ DAILY</p>
+        </div>
       </div>
       <div class="header-actions">
         <button id="stats-btn" class="icon-btn" title="통계" aria-label="Stats">📊</button>
@@ -63,7 +69,7 @@
     <section id="result-screen" class="card result-screen hidden">
       <div class="result-content">
         <h2 id="result-title" class="result-title"></h2>
-        <div id="result-number" class="result-number"></div>
+        <div class="result-medal" aria-hidden="true"><span class="result-medal-core"><span id="result-number" class="result-medal-num"></span></span></div>
         <div class="result-badges">
           <span id="badge-rank" class="badge"></span>
           <span id="badge-tribe" class="badge"></span>

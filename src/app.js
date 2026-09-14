@@ -102,6 +102,8 @@
   };
 
   const RANKS = ['S', 'A', 'B', 'C', 'D', 'E'];
+  // 공식 한글판이 나오지 않은 시리즈는 영어 전용으로 표시
+  const ENGLISH_ONLY = { ykw3: true };
   const RANK_COLOR = {
     S: 'var(--rank-s)', A: 'var(--rank-a)', B: 'var(--rank-b)',
     C: 'var(--rank-c)', D: 'var(--rank-d)', E: 'var(--rank-e)'
@@ -174,11 +176,19 @@
   function gameById(id) { return DATA.games.find((g) => g.id === id); }
   function versionBy(game, id) { return game.versions.find((v) => v.id === id); }
   function roster() { return state.roster; }
-  function entryName(e) { return state.lang === 'ko' ? (e.ko || e.en) : e.en; }
-  function gameName() { const g = gameById(state.gameId); return state.lang === 'ko' ? g.name.ko : g.name.en; }
+  function isEnglishOnly() { return !!ENGLISH_ONLY[state.gameId]; }
+  function entryName(e) {
+    if (isEnglishOnly()) return e.en;
+    return state.lang === 'ko' ? (e.ko || e.en) : e.en;
+  }
+  function gameName() {
+    const g = gameById(state.gameId);
+    if (isEnglishOnly()) return g.name.en;
+    return state.lang === 'ko' ? g.name.ko : g.name.en;
+  }
   function versionLabel(v) {
-    if (state.lang === 'ko') return v.label.ko;
-    return v.label.en;
+    if (isEnglishOnly()) return v.label.en;
+    return state.lang === 'ko' ? v.label.ko : v.label.en;
   }
   function dailyKey() {
     return 'ykw-daily-' + state.gameId + '-' + state.versionId + '-' + getTodayKST();
@@ -393,6 +403,7 @@
     let line = T('todayLine') + ' · ' + gameName();
     if (g.versions.length > 1) line += ' · ' + versionLabel(versionBy(g, state.versionId));
     line += ' · ' + T('guessCounter').replace('{n}', String(state.guesses.length));
+    if (isEnglishOnly()) line += ' · EN';
     $('mode-info').textContent = line;
     if (state.over && !$('result-stats-line').textContent.match(/\d/)) {
       $('result-stats-line').textContent = line;
@@ -515,8 +526,9 @@
     title.classList.remove('pop'); void title.offsetWidth; title.classList.add('pop');
 
     $('result-number').textContent = '#' + String(state.target.n).padStart(3, '0');
-    $('result-name').textContent =
-      state.target.en + (state.target.ko && state.target.ko !== state.target.en ? ' / ' + state.target.ko : '');
+    $('result-name').textContent = isEnglishOnly()
+      ? state.target.en
+      : state.target.en + (state.target.ko && state.target.ko !== state.target.en ? ' / ' + state.target.ko : '');
 
     const badges = { rank: $('badge-rank'), tribe: $('badge-tribe'), attr: $('badge-attr') };
     badges.rank.textContent = state.target.rank ? rankLabel(state.target.rank) : T('unknown');

@@ -1,6 +1,6 @@
 # yokai-watchle-fun Analysis Document
 
-> **Summary**: 설계 대비 구현 갭 분석 (Check phase) — Rev 3: NYT 스타일 + 무제한 기회
+> **Summary**: 설계 대비 구현 갭 분석 (Check phase) — Rev 4: 메달 컨셉 리디자인 + ykw3 영어 전용
 >
 > **Project**: yokai-watchle
 > **Version**: 3.0
@@ -62,3 +62,4 @@
 | 1.0 | 2026-09-14 | Initial analysis (구 기반) | opencode |
 | 2.1 | 2026-09-14 | Rev 2: Copilot 베이스 포팅 반영 | opencode |
 | 3.0 | 2026-09-14 | Rev 3: NYT 스타일 + 무제한 기회 반영 | opencode |
+| 4.0 | 2026-09-14 | Rev 4: 메달 컨셉 리디자인 + ykw3 영어 전용 반영 | opencode |
