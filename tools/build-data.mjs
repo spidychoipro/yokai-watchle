@@ -1,6 +1,7 @@
 import { readFileSync, writeFileSync } from 'node:fs';
 
 const merged = JSON.parse(readFileSync('data/out/merged.json', 'utf8'));
+merged.ykwb = JSON.parse(readFileSync('data/out/blasters_kr.json', 'utf8'));
 
 const TRIBE_KO = {
   Brave: '용맹',
@@ -92,6 +93,15 @@ const GAMES = [
       { id: 's', label: { en: 'Sushi', ko: '스시' }, filter: (r) => r.excl === '' || r.excl === 'S' },
       { id: 't', label: { en: 'Tempura', ko: '텐푸라' }, filter: (r) => r.excl === '' || r.excl === 'T' },
       { id: 'sk', label: { en: 'Sukiyaki', ko: '스키야키' }, filter: (r) => true },
+    ],
+  },
+  {
+    id: 'ykwb',
+    name: { en: 'Yo-kai Watch Blasters', ko: '요괴워치 버스터즈' },
+    versions: [
+      { id: 'rc', label: { en: 'Red Cat Corps', ko: '적묘단' }, filter: (r) => r.excl === '' || r.excl === 'RCC' },
+      { id: 'wd', label: { en: 'White Dog Squad', ko: '백견대' }, filter: (r) => r.excl === '' || r.excl === 'WDS' },
+      { id: 'mrc', label: { en: 'Moon Rabbit Crew', ko: '월토조' }, filter: (r) => r.excl === '' || r.excl === 'MRC' },
     ],
   },
 ];

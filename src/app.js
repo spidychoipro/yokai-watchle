@@ -177,6 +177,8 @@
   function versionBy(game, id) { return game.versions.find((v) => v.id === id); }
   function roster() { return state.roster; }
   function isEnglishOnly() { return !!ENGLISH_ONLY[state.gameId]; }
+  // 요괴워치 3는 한국어판이 정발되지 않아 한글 UI에서는 선택 불가
+  function isYkw3Blocked() { return state.gameId === 'ykw3' && state.lang === 'ko'; }
   function entryName(e) {
     if (isEnglishOnly()) return e.en;
     return state.lang === 'ko' ? (e.ko || e.en) : e.en;
@@ -676,6 +678,7 @@
     const gSel = $('game-select');
     gSel.innerHTML = '';
     DATA.games.forEach((g) => {
+      if (g.id === 'ykw3' && state.lang === 'ko') return;
       const o = document.createElement('option');
       o.value = g.id;
       o.textContent = state.lang === 'ko' ? g.name.ko : g.name.en;
@@ -834,6 +837,11 @@
     $('lang-toggle').addEventListener('change', (e) => {
       state.lang = e.target.checked ? 'en' : 'ko';
       safeSet('ykw-lang', state.lang);
+      if (isYkw3Blocked()) {
+        state.gameId = 'ykw1';
+        state.versionId = 'main';
+        startGame();
+      }
       applyLang();
       if (state.over) renderResult(); else renderBoard();
       renderDex();

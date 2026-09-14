@@ -3,7 +3,7 @@
 > **Summary**: 재미 업그레이드 기능 설계 — 로컬 상태 설계, UI, 로직 흐름, 테스트 계획.
 >
 > **Project**: yokai-watchle
-> **Version**: 2.0
+> **Version**: 5.0
 > **Author**: opencode (bkit)
 > **Date**: 2026-09-14
 > **Status**: Approved
@@ -220,3 +220,4 @@ playClick/wrong/correct/win
 | 2.0 | 2026-09-14 | Rev 2: Copilot 베이스 포팅 | opencode |
 | 3.0 | 2026-09-14 | Rev 3: NYT 스타일 + 무제한 기회 | opencode |
 | 4.0 | 2026-09-14 | Rev 4: 메달 컨셉 리디자인 + ykw3 영어 전용 | opencode |
+| 5.0 | 2026-09-14 | Rev 5: 버스터즈(ykwb) 470종 추가 + 한글판 ykw3 선택 차단 + 빌드 파이프라인 확장 | opencode |

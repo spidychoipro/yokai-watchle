@@ -1,0 +1,4702 @@
+[
+ {
+  "n": 1,
+  "en": "Pandle",
+  "ko": "무",
+  "rank": "E",
+  "tribe": "Brave",
+  "attr": "Fire",
+  "excl": "RCC",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 2,
+  "en": "Undy",
+  "ko": "안",
+  "rank": "C",
+  "tribe": "Brave",
+  "attr": "Fire",
+  "excl": "RCC",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 3,
+  "en": "Tanbo",
+  "ko": "다",
+  "rank": "B",
+  "tribe": "Brave",
+  "attr": "Earth",
+  "excl": "",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 4,
+  "en": "Cutta-nah",
+  "ko": "해",
+  "rank": "E",
+  "tribe": "Brave",
+  "attr": "Wind",
+  "excl": "RCC",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 5,
+  "en": "Cutta-nah-nah",
+  "ko": "쑥",
+  "rank": "C",
+  "tribe": "Brave",
+  "attr": "Wind",
+  "excl": "RCC",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 6,
+  "en": "Slacka-slash",
+  "ko": "털",
+  "rank": "B",
+  "tribe": "Brave",
+  "attr": "Ice",
+  "excl": "",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 7,
+  "en": "Brushido",
+  "ko": "청",
+  "rank": "E",
+  "tribe": "Brave",
+  "attr": "Ice",
+  "excl": "",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 8,
+  "en": "Washogun",
+  "ko": "결",
+  "rank": "B",
+  "tribe": "Brave",
+  "attr": "Ice",
+  "excl": "",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 9,
+  "en": "Lie-in",
+  "ko": "태",
+  "rank": "E",
+  "tribe": "Brave",
+  "attr": "Ice",
+  "excl": "",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 10,
+  "en": "Lie-in Heart",
+  "ko": "만",
+  "rank": "A",
+  "tribe": "Brave",
+  "attr": "Ice",
+  "excl": "",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 11,
+  "en": "Hissfit",
+  "ko": "화",
+  "rank": "E",
+  "tribe": "Brave",
+  "attr": "Fire",
+  "excl": "RCC",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 12,
+  "en": "Zerberker",
+  "ko": "광",
+  "rank": "A",
+  "tribe": "Brave",
+  "attr": "Fire",
+  "excl": "RCC",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 13,
+  "en": "Snartle",
+  "ko": "겁",
+  "rank": "S",
+  "tribe": "Brave",
+  "attr": "Ice",
+  "excl": "",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 14,
+  "en": "Mochismo",
+  "ko": "떡",
+  "rank": "D",
+  "tribe": "Brave",
+  "attr": "Earth",
+  "excl": "",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 15,
+  "en": "Minochi",
+  "ko": "시",
+  "rank": "D",
+  "tribe": "Brave",
+  "attr": "Fire",
+  "excl": "RCC",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 16,
+  "en": "Tublappa",
+  "ko": "때",
+  "rank": "D",
+  "tribe": "Brave",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 17,
+  "en": "Slumberhog",
+  "ko": "잠",
+  "rank": "D",
+  "tribe": "Brave",
+  "attr": "Fire",
+  "excl": "",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 18,
+  "en": "Snortlehog",
+  "ko": "열",
+  "rank": "B",
+  "tribe": "Brave",
+  "attr": "Fire",
+  "excl": "",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 19,
+  "en": "Samureel",
+  "ko": "장",
+  "rank": "D",
+  "tribe": "Brave",
+  "attr": "Water",
+  "excl": "",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 20,
+  "en": "Time Keeler",
+  "ko": "싸",
+  "rank": "B",
+  "tribe": "Brave",
+  "attr": "Water",
+  "excl": "",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 21,
+  "en": "Slicenrice",
+  "ko": "주먹밥무사",
+  "rank": "D",
+  "tribe": "Brave",
+  "attr": "Restoration",
+  "excl": "WDS",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 22,
+  "en": "Flamurice",
+  "ko": "누",
+  "rank": "A",
+  "tribe": "Brave",
+  "attr": "Fire",
+  "excl": "WDS",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 23,
+  "en": "Helmsman",
+  "ko": "투",
+  "rank": "D",
+  "tribe": "Brave",
+  "attr": "Lightning",
+  "excl": "RCC",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 24,
+  "en": "Reuknight",
+  "ko": "환",
+  "rank": "A",
+  "tribe": "Brave",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 25,
+  "en": "Corptain",
+  "ko": "황",
+  "rank": "S",
+  "tribe": "Brave",
+  "attr": "Drain",
+  "excl": "RCC",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 26,
+  "en": "Mudmunch",
+  "ko": "논",
+  "rank": "C",
+  "tribe": "Brave",
+  "attr": "Earth",
+  "excl": "",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 27,
+  "en": "Sargeant Burly",
+  "ko": "빌",
+  "rank": "A",
+  "tribe": "Brave",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 28,
+  "en": "Blazion",
+  "ko": "타",
+  "rank": "C",
+  "tribe": "Brave",
+  "attr": "Fire",
+  "excl": "",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 29,
+  "en": "Quaken",
+  "ko": "이",
+  "rank": "B",
+  "tribe": "Brave",
+  "attr": "Earth",
+  "excl": "",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 30,
+  "en": "Siro",
+  "ko": "미",
+  "rank": "A",
+  "tribe": "Brave",
+  "attr": "Lightning",
+  "excl": "WDS",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 31,
+  "en": "Chansin",
+  "ko": "승",
+  "rank": "C",
+  "tribe": "Brave",
+  "attr": "Fire",
+  "excl": "",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 32,
+  "en": "Sheen",
+  "ko": "요",
+  "rank": "A",
+  "tribe": "Brave",
+  "attr": "Wind",
+  "excl": "",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 33,
+  "en": "Snee",
+  "ko": "요",
+  "rank": "A",
+  "tribe": "Brave",
+  "attr": "Drain",
+  "excl": "",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 34,
+  "en": "Gleam",
+  "ko": "요",
+  "rank": "S",
+  "tribe": "Brave",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 35,
+  "en": "Benkei",
+  "ko": "요",
+  "rank": "C",
+  "tribe": "Brave",
+  "attr": "Ice",
+  "excl": "WDS",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 36,
+  "en": "B3-NK1",
+  "ko": "사",
+  "rank": "B",
+  "tribe": "Brave",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 37,
+  "en": "Moximous N",
+  "ko": "요",
+  "rank": "B",
+  "tribe": "Brave",
+  "attr": "Wind",
+  "excl": "",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 38,
+  "en": "Moximous K",
+  "ko": "요",
+  "rank": "B",
+  "tribe": "Brave",
+  "attr": "Water",
+  "excl": "",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 39,
+  "en": "Hovernyan",
+  "ko": "부",
+  "rank": "B",
+  "tribe": "Brave",
+  "attr": "Wind",
+  "excl": "",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 40,
+  "en": "Machonyan",
+  "ko": "마",
+  "rank": "A",
+  "tribe": "Brave",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 41,
+  "en": "Sushiyama",
+  "ko": "왕",
+  "rank": "B",
+  "tribe": "Brave",
+  "attr": "Ice",
+  "excl": "WDS",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 42,
+  "en": "Kapunki",
+  "ko": "기",
+  "rank": "A",
+  "tribe": "Brave",
+  "attr": "Fire",
+  "excl": "RCC",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 43,
+  "en": "Beetler",
+  "ko": "사",
+  "rank": "B",
+  "tribe": "Brave",
+  "attr": "Earth",
+  "excl": "",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 44,
+  "en": "Beetall",
+  "ko": "사",
+  "rank": "S",
+  "tribe": "Brave",
+  "attr": "Earth",
+  "excl": "",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 45,
+  "en": "Cruncha",
+  "ko": "왕",
+  "rank": "S",
+  "tribe": "Brave",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 46,
+  "en": "Demuncher",
+  "ko": "도",
+  "rank": "S",
+  "tribe": "Brave",
+  "attr": "Earth",
+  "excl": "",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 47,
+  "en": "Devourer",
+  "ko": "명",
+  "rank": "S",
+  "tribe": "Brave",
+  "attr": "Drain",
+  "excl": "",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 48,
+  "en": "Illuminoct",
+  "ko": "황",
+  "rank": "S",
+  "tribe": "Brave",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "001 - 048 Brave"
+ },
+ {
+  "n": 49,
+  "en": "Brokenbrella",
+  "ko": "거",
+  "rank": "E",
+  "tribe": "Mysterious",
+  "attr": "Wind",
+  "excl": "",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 50,
+  "en": "Pittapatt",
+  "ko": "외",
+  "rank": "E",
+  "tribe": "Mysterious",
+  "attr": "Earth",
+  "excl": "",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 51,
+  "en": "Snotsolong",
+  "ko": "줄",
+  "rank": "E",
+  "tribe": "Mysterious",
+  "attr": "Water",
+  "excl": "",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 52,
+  "en": "Duchoo",
+  "ko": "고",
+  "rank": "D",
+  "tribe": "Mysterious",
+  "attr": "Ice",
+  "excl": "",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 53,
+  "en": "D'wanna",
+  "ko": "안",
+  "rank": "E",
+  "tribe": "Mysterious",
+  "attr": "Restoration",
+  "excl": "WDS",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 54,
+  "en": "N'more",
+  "ko": "하",
+  "rank": "C",
+  "tribe": "Mysterious",
+  "attr": "Restoration",
+  "excl": "WDS",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 55,
+  "en": "Q'wit",
+  "ko": "말",
+  "rank": "B",
+  "tribe": "Mysterious",
+  "attr": "Earth",
+  "excl": "",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 56,
+  "en": "Wazzat",
+  "ko": "아",
+  "rank": "E",
+  "tribe": "Mysterious",
+  "attr": "Wind",
+  "excl": "",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 57,
+  "en": "Houzzat",
+  "ko": "아",
+  "rank": "B",
+  "tribe": "Mysterious",
+  "attr": "Wind",
+  "excl": "",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 58,
+  "en": "Dummkap",
+  "ko": "멍",
+  "rank": "E",
+  "tribe": "Mysterious",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 59,
+  "en": "Faysoff",
+  "ko": "없",
+  "rank": "D",
+  "tribe": "Mysterious",
+  "attr": "Water",
+  "excl": "",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 60,
+  "en": "Snottle",
+  "ko": "코",
+  "rank": "D",
+  "tribe": "Mysterious",
+  "attr": "Drain",
+  "excl": "",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 61,
+  "en": "Lafalotta",
+  "ko": "웃",
+  "rank": "D",
+  "tribe": "Mysterious",
+  "attr": "Drain",
+  "excl": "",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 62,
+  "en": "Blips",
+  "ko": "퍼",
+  "rank": "C",
+  "tribe": "Mysterious",
+  "attr": "Drain",
+  "excl": "",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 63,
+  "en": "Tattletell",
+  "ko": "나",
+  "rank": "D",
+  "tribe": "Mysterious",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 64,
+  "en": "Tattlecast",
+  "ko": "까",
+  "rank": "B",
+  "tribe": "Mysterious",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 65,
+  "en": "Skranny",
+  "ko": "백",
+  "rank": "C",
+  "tribe": "Mysterious",
+  "attr": "Restoration",
+  "excl": "WDS",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 66,
+  "en": "Cupistol",
+  "ko": "인",
+  "rank": "D",
+  "tribe": "Mysterious",
+  "attr": "Wind",
+  "excl": "",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 67,
+  "en": "Casanuva",
+  "ko": "인",
+  "rank": "A",
+  "tribe": "Mysterious",
+  "attr": "Wind",
+  "excl": "",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 68,
+  "en": "Casanono",
+  "ko": "인",
+  "rank": "A",
+  "tribe": "Mysterious",
+  "attr": "Fire",
+  "excl": "WDS",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 69,
+  "en": "So-Sorree",
+  "ko": "일",
+  "rank": "D",
+  "tribe": "Mysterious",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 70,
+  "en": "Bowminos",
+  "ko": "엎",
+  "rank": "A",
+  "tribe": "Mysterious",
+  "attr": "Earth",
+  "excl": "",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 71,
+  "en": "Smogling",
+  "ko": "연",
+  "rank": "D",
+  "tribe": "Mysterious",
+  "attr": "Wind",
+  "excl": "",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 72,
+  "en": "Smogmella",
+  "ko": "연",
+  "rank": "A",
+  "tribe": "Mysterious",
+  "attr": "Wind",
+  "excl": "",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 73,
+  "en": "Signibble",
+  "ko": "냠",
+  "rank": "D",
+  "tribe": "Mysterious",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 74,
+  "en": "Signiton",
+  "ko": "전",
+  "rank": "A",
+  "tribe": "Mysterious",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 75,
+  "en": "Statiking",
+  "ko": "발",
+  "rank": "S",
+  "tribe": "Mysterious",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 76,
+  "en": "Master Oden",
+  "ko": "묵",
+  "rank": "A",
+  "tribe": "Mysterious",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 77,
+  "en": "Failian",
+  "ko": "뻥",
+  "rank": "C",
+  "tribe": "Mysterious",
+  "attr": "Ice",
+  "excl": "WDS",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 78,
+  "en": "Apelican",
+  "ko": "아",
+  "rank": "C",
+  "tribe": "Mysterious",
+  "attr": "Wind",
+  "excl": "",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 79,
+  "en": "Mirapo",
+  "ko": "운",
+  "rank": "C",
+  "tribe": "Mysterious",
+  "attr": "Drain",
+  "excl": "",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 80,
+  "en": "Miradox",
+  "ko": "삼",
+  "rank": "A",
+  "tribe": "Mysterious",
+  "attr": "Drain",
+  "excl": "",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 81,
+  "en": "Mircle",
+  "ko": "암",
+  "rank": "A",
+  "tribe": "Mysterious",
+  "attr": "Drain",
+  "excl": "",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 82,
+  "en": "Illoo",
+  "ko": "환",
+  "rank": "C",
+  "tribe": "Mysterious",
+  "attr": "Water",
+  "excl": "",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 83,
+  "en": "Elloo",
+  "ko": "아",
+  "rank": "C",
+  "tribe": "Mysterious",
+  "attr": "Ice",
+  "excl": "RCC",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 84,
+  "en": "Alloo",
+  "ko": "방",
+  "rank": "B",
+  "tribe": "Mysterious",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 85,
+  "en": "Espy",
+  "ko": "다",
+  "rank": "B",
+  "tribe": "Mysterious",
+  "attr": "Earth",
+  "excl": "",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 86,
+  "en": "Infour",
+  "ko": "네",
+  "rank": "B",
+  "tribe": "Mysterious",
+  "attr": "Drain",
+  "excl": "RCC",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 87,
+  "en": "Verygoodsir",
+  "ko": "베",
+  "rank": "B",
+  "tribe": "Mysterious",
+  "attr": "Fire",
+  "excl": "",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 88,
+  "en": "Tengu",
+  "ko": "풍",
+  "rank": "S",
+  "tribe": "Mysterious",
+  "attr": "Wind",
+  "excl": "",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 89,
+  "en": "Flengu",
+  "ko": "징",
+  "rank": "S",
+  "tribe": "Mysterious",
+  "attr": "Fire",
+  "excl": "RCC",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 90,
+  "en": "Kyubi",
+  "ko": "구",
+  "rank": "S",
+  "tribe": "Mysterious",
+  "attr": "Fire",
+  "excl": "",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 91,
+  "en": "Frostail",
+  "ko": "견",
+  "rank": "S",
+  "tribe": "Mysterious",
+  "attr": "Ice",
+  "excl": "",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 92,
+  "en": "Chymera",
+  "ko": "타",
+  "rank": "S",
+  "tribe": "Mysterious",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 93,
+  "en": "Kingmera",
+  "ko": "닌",
+  "rank": "S",
+  "tribe": "Mysterious",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "049 - 093 Mysterious"
+ },
+ {
+  "n": 94,
+  "en": "Terrorpotta",
+  "ko": "두",
+  "rank": "E",
+  "tribe": "Tough",
+  "attr": "Earth",
+  "excl": "",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 95,
+  "en": "Dulluma",
+  "ko": "힘",
+  "rank": "E",
+  "tribe": "Tough",
+  "attr": "Earth",
+  "excl": "RCC",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 96,
+  "en": "Darumacho",
+  "ko": "마",
+  "rank": "B",
+  "tribe": "Tough",
+  "attr": "Earth",
+  "excl": "RCC",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 97,
+  "en": "Goruma",
+  "ko": "고",
+  "rank": "B",
+  "tribe": "Tough",
+  "attr": "Wind",
+  "excl": "",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 98,
+  "en": "Wotchagot",
+  "ko": "부",
+  "rank": "E",
+  "tribe": "Tough",
+  "attr": "Ice",
+  "excl": "WDS",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 99,
+  "en": "Pride Shrimp",
+  "ko": "비",
+  "rank": "B",
+  "tribe": "Tough",
+  "attr": "Restoration",
+  "excl": "WDS",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 100,
+  "en": "No-Go Kart",
+  "ko": "헤",
+  "rank": "E",
+  "tribe": "Tough",
+  "attr": "Earth",
+  "excl": "RCC",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 101,
+  "en": "Mistank",
+  "ko": "길",
+  "rank": "B",
+  "tribe": "Tough",
+  "attr": "Earth",
+  "excl": "RCC",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 102,
+  "en": "Noway",
+  "ko": "무",
+  "rank": "E",
+  "tribe": "Tough",
+  "attr": "Earth",
+  "excl": "",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 103,
+  "en": "Impass",
+  "ko": "무",
+  "rank": "A",
+  "tribe": "Tough",
+  "attr": "Earth",
+  "excl": "",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 104,
+  "en": "Walldin",
+  "ko": "백",
+  "rank": "A",
+  "tribe": "Tough",
+  "attr": "Earth",
+  "excl": "WDS",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 105,
+  "en": "Roughraff",
+  "ko": "타",
+  "rank": "E",
+  "tribe": "Tough",
+  "attr": "Earth",
+  "excl": "",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 106,
+  "en": "Badude",
+  "ko": "요",
+  "rank": "B",
+  "tribe": "Tough",
+  "attr": "Earth",
+  "excl": "",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 107,
+  "en": "Bruff",
+  "ko": "요",
+  "rank": "A",
+  "tribe": "Tough",
+  "attr": "Earth",
+  "excl": "WDS",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 108,
+  "en": "Armsman",
+  "ko": "갑",
+  "rank": "D",
+  "tribe": "Tough",
+  "attr": "Ice",
+  "excl": "WDS",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 109,
+  "en": "Mimikin",
+  "ko": "따",
+  "rank": "D",
+  "tribe": "Tough",
+  "attr": "Ice",
+  "excl": "",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 110,
+  "en": "Blowkade",
+  "ko": "못",
+  "rank": "D",
+  "tribe": "Tough",
+  "attr": "Water",
+  "excl": "",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 111,
+  "en": "Ledballoon",
+  "ko": "무",
+  "rank": "C",
+  "tribe": "Tough",
+  "attr": "Water",
+  "excl": "RCC",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 112,
+  "en": "Sumodon",
+  "ko": "우",
+  "rank": "D",
+  "tribe": "Tough",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 113,
+  "en": "Yokozudon",
+  "ko": "우",
+  "rank": "B",
+  "tribe": "Tough",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 114,
+  "en": "Whateverest",
+  "ko": "그",
+  "rank": "D",
+  "tribe": "Tough",
+  "attr": "Fire",
+  "excl": "",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 115,
+  "en": "Whatuption",
+  "ko": "우",
+  "rank": "B",
+  "tribe": "Tough",
+  "attr": "Fire",
+  "excl": "",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 116,
+  "en": "Fidgephant",
+  "ko": "샌",
+  "rank": "D",
+  "tribe": "Tough",
+  "attr": "Water",
+  "excl": "",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 117,
+  "en": "Touphant",
+  "ko": "버",
+  "rank": "C",
+  "tribe": "Tough",
+  "attr": "Water",
+  "excl": "",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 118,
+  "en": "Enduriphant",
+  "ko": "참",
+  "rank": "A",
+  "tribe": "Tough",
+  "attr": "Water",
+  "excl": "",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 119,
+  "en": "Zappary",
+  "ko": "번",
+  "rank": "D",
+  "tribe": "Tough",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 120,
+  "en": "Frazzel",
+  "ko": "피",
+  "rank": "A",
+  "tribe": "Tough",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 121,
+  "en": "Swelton",
+  "ko": "더",
+  "rank": "C",
+  "tribe": "Tough",
+  "attr": "Fire",
+  "excl": "RCC",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 122,
+  "en": "Mad Mountain",
+  "ko": "설",
+  "rank": "C",
+  "tribe": "Tough",
+  "attr": "Ice",
+  "excl": "",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 123,
+  "en": "Lava Lord",
+  "ko": "화",
+  "rank": "B",
+  "tribe": "Tough",
+  "attr": "Lightning",
+  "excl": "RCC",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 124,
+  "en": "Castelius III",
+  "ko": "동",
+  "rank": "C",
+  "tribe": "Tough",
+  "attr": "Earth",
+  "excl": "",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 125,
+  "en": "Castelius II",
+  "ko": "은",
+  "rank": "B",
+  "tribe": "Tough",
+  "attr": "Ice",
+  "excl": "",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 126,
+  "en": "Castelius I",
+  "ko": "금",
+  "rank": "A",
+  "tribe": "Tough",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 127,
+  "en": "Castelius Max",
+  "ko": "백",
+  "rank": "S",
+  "tribe": "Tough",
+  "attr": "Wind",
+  "excl": "",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 128,
+  "en": "Rhinoggin",
+  "ko": "풍",
+  "rank": "B",
+  "tribe": "Tough",
+  "attr": "Earth",
+  "excl": "",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 129,
+  "en": "Rhinormous",
+  "ko": "풍",
+  "rank": "A",
+  "tribe": "Tough",
+  "attr": "Earth",
+  "excl": "",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 130,
+  "en": "Hornaplenty",
+  "ko": "왕",
+  "rank": "S",
+  "tribe": "Tough",
+  "attr": "Earth",
+  "excl": "",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 131,
+  "en": "Robonyan",
+  "ko": "로",
+  "rank": "A",
+  "tribe": "Tough",
+  "attr": "Ice",
+  "excl": "",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 132,
+  "en": "Goldenyan",
+  "ko": "골",
+  "rank": "S",
+  "tribe": "Tough",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 133,
+  "en": "Robonyan F",
+  "ko": "로",
+  "rank": "A",
+  "tribe": "Tough",
+  "attr": "Fire",
+  "excl": "",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 134,
+  "en": "Dromp",
+  "ko": "얼",
+  "rank": "A",
+  "tribe": "Tough",
+  "attr": "Earth",
+  "excl": "",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 135,
+  "en": "Swosh",
+  "ko": "바",
+  "rank": "S",
+  "tribe": "Tough",
+  "attr": "Water",
+  "excl": "WDS",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 136,
+  "en": "Toadal Dude",
+  "ko": "왕",
+  "rank": "S",
+  "tribe": "Tough",
+  "attr": "Water",
+  "excl": "",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 137,
+  "en": "Uber Geeko",
+  "ko": "왕",
+  "rank": "S",
+  "tribe": "Tough",
+  "attr": "Fire",
+  "excl": "",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 138,
+  "en": "Gargaros",
+  "ko": "빨",
+  "rank": "S",
+  "tribe": "Tough",
+  "attr": "Fire",
+  "excl": "RCC",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 139,
+  "en": "Ogralus",
+  "ko": "퍼",
+  "rank": "S",
+  "tribe": "Tough",
+  "attr": "Water",
+  "excl": "WDS",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 140,
+  "en": "Orcanos",
+  "ko": "껌",
+  "rank": "S",
+  "tribe": "Tough",
+  "attr": "Drain",
+  "excl": "",
+  "section": "094 - 140 Tough"
+ },
+ {
+  "n": 141,
+  "en": "Leggly",
+  "ko": "미",
+  "rank": "E",
+  "tribe": "Charming",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 142,
+  "en": "Dazzabel",
+  "ko": "멋",
+  "rank": "E",
+  "tribe": "Charming",
+  "attr": "Fire",
+  "excl": "WDS",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 143,
+  "en": "Rattelle",
+  "ko": "해",
+  "rank": "C",
+  "tribe": "Charming",
+  "attr": "Fire",
+  "excl": "WDS",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 144,
+  "en": "Skelebella",
+  "ko": "칼",
+  "rank": "B",
+  "tribe": "Charming",
+  "attr": "Water",
+  "excl": "RCC",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 145,
+  "en": "Cadin",
+  "ko": "무",
+  "rank": "E",
+  "tribe": "Charming",
+  "attr": "Wind",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 146,
+  "en": "Cadable",
+  "ko": "짱",
+  "rank": "C",
+  "tribe": "Charming",
+  "attr": "Wind",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 147,
+  "en": "Singcada",
+  "ko": "가",
+  "rank": "B",
+  "tribe": "Charming",
+  "attr": "Fire",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 148,
+  "en": "Pupsicle",
+  "ko": "오",
+  "rank": "E",
+  "tribe": "Charming",
+  "attr": "Ice",
+  "excl": "WDS",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 149,
+  "en": "Chilhuahua",
+  "ko": "오",
+  "rank": "A",
+  "tribe": "Charming",
+  "attr": "Ice",
+  "excl": "WDS",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 150,
+  "en": "Swelterrier",
+  "ko": "아",
+  "rank": "S",
+  "tribe": "Charming",
+  "attr": "Fire",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 151,
+  "en": "Jumbelina",
+  "ko": "뒤",
+  "rank": "D",
+  "tribe": "Charming",
+  "attr": "Ice",
+  "excl": "RCC",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 152,
+  "en": "Boyclops",
+  "ko": "외",
+  "rank": "D",
+  "tribe": "Charming",
+  "attr": "Ice",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 153,
+  "en": "Jibanyan",
+  "ko": "지",
+  "rank": "D",
+  "tribe": "Charming",
+  "attr": "Fire",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 154,
+  "en": "Jibanyan S",
+  "ko": "지",
+  "rank": "S",
+  "tribe": "Charming",
+  "attr": "Fire",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 155,
+  "en": "Oranyan",
+  "ko": "오렌지냥",
+  "rank": "B",
+  "tribe": "Charming",
+  "attr": "Lightning",
+  "excl": "RCC",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 156,
+  "en": "Kiwinyan",
+  "ko": "키위냥",
+  "rank": "B",
+  "tribe": "Charming",
+  "attr": "Earth",
+  "excl": "WDS",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 157,
+  "en": "Grapenyan",
+  "ko": "포도냥",
+  "rank": "B",
+  "tribe": "Charming",
+  "attr": "Water",
+  "excl": "WDS",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 158,
+  "en": "Strawbnyan",
+  "ko": "딸기냥",
+  "rank": "B",
+  "tribe": "Charming",
+  "attr": "Fire",
+  "excl": "RCC",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 159,
+  "en": "Watermelnyan",
+  "ko": "수박냥",
+  "rank": "A",
+  "tribe": "Charming",
+  "attr": "Wind",
+  "excl": "RCC",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 160,
+  "en": "Melonyan",
+  "ko": "멜론냥",
+  "rank": "A",
+  "tribe": "Charming",
+  "attr": "Ice",
+  "excl": "WDS",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 161,
+  "en": "Sapphinyan",
+  "ko": "사",
+  "rank": "A",
+  "tribe": "Charming",
+  "attr": "Water",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 162,
+  "en": "Emenyan",
+  "ko": "에",
+  "rank": "A",
+  "tribe": "Charming",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 163,
+  "en": "Rubinyan",
+  "ko": "루",
+  "rank": "A",
+  "tribe": "Charming",
+  "attr": "Fire",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 164,
+  "en": "Topanyan",
+  "ko": "토",
+  "rank": "A",
+  "tribe": "Charming",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 165,
+  "en": "Dianyan",
+  "ko": "다",
+  "rank": "A",
+  "tribe": "Charming",
+  "attr": "Ice",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 166,
+  "en": "Thornyan",
+  "ko": "가",
+  "rank": "B",
+  "tribe": "Charming",
+  "attr": "Wind",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 167,
+  "en": "Baddinyan",
+  "ko": "배",
+  "rank": "B",
+  "tribe": "Charming",
+  "attr": "Fire",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 168,
+  "en": "Buchinyan",
+  "ko": "위",
+  "rank": "A",
+  "tribe": "Charming",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 169,
+  "en": "Sailornyan",
+  "ko": "세",
+  "rank": "A",
+  "tribe": "Charming",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 170,
+  "en": "Wondernyan",
+  "ko": "원",
+  "rank": "B",
+  "tribe": "Charming",
+  "attr": "Drain",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 171,
+  "en": "Jetnyan",
+  "ko": "제",
+  "rank": "B",
+  "tribe": "Charming",
+  "attr": "Wind",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 172,
+  "en": "Rudy",
+  "ko": "야",
+  "rank": "C",
+  "tribe": "Charming",
+  "attr": "Fire",
+  "excl": "RCC",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 173,
+  "en": "Panja Pupil",
+  "ko": "풍",
+  "rank": "D",
+  "tribe": "Charming",
+  "attr": "Ice",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 174,
+  "en": "Panja Pro",
+  "ko": "풍",
+  "rank": "B",
+  "tribe": "Charming",
+  "attr": "Ice",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 175,
+  "en": "Walkappa",
+  "ko": "접",
+  "rank": "D",
+  "tribe": "Charming",
+  "attr": "Water",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 176,
+  "en": "Appak",
+  "ko": "방",
+  "rank": "A",
+  "tribe": "Charming",
+  "attr": "Water",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 177,
+  "en": "Supyo",
+  "ko": "서",
+  "rank": "A",
+  "tribe": "Charming",
+  "attr": "Water",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 178,
+  "en": "Robokapp",
+  "ko": "로",
+  "rank": "A",
+  "tribe": "Charming",
+  "attr": "Water",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 179,
+  "en": "Komasan",
+  "ko": "백",
+  "rank": "D",
+  "tribe": "Charming",
+  "attr": "Fire",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 180,
+  "en": "Komane",
+  "ko": "사",
+  "rank": "A",
+  "tribe": "Charming",
+  "attr": "Fire",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 181,
+  "en": "Komasan S",
+  "ko": "백",
+  "rank": "S",
+  "tribe": "Charming",
+  "attr": "Fire",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 182,
+  "en": "Komajiro",
+  "ko": "황",
+  "rank": "D",
+  "tribe": "Charming",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 183,
+  "en": "Komiger",
+  "ko": "호",
+  "rank": "A",
+  "tribe": "Charming",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 184,
+  "en": "Komajiro S",
+  "ko": "황",
+  "rank": "S",
+  "tribe": "Charming",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 185,
+  "en": "Robokoma",
+  "ko": "로",
+  "rank": "A",
+  "tribe": "Charming",
+  "attr": "Fire",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 186,
+  "en": "Jibakoma",
+  "ko": "지",
+  "rank": "A",
+  "tribe": "Charming",
+  "attr": "Fire",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 187,
+  "en": "Baku",
+  "ko": "맥",
+  "rank": "D",
+  "tribe": "Charming",
+  "attr": "Drain",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 188,
+  "en": "Bakulia",
+  "ko": "맥",
+  "rank": "B",
+  "tribe": "Charming",
+  "attr": "Drain",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 189,
+  "en": "Whapir",
+  "ko": "백",
+  "rank": "C",
+  "tribe": "Charming",
+  "attr": "Drain",
+  "excl": "WDS",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 190,
+  "en": "Drizzelda",
+  "ko": "우",
+  "rank": "C",
+  "tribe": "Charming",
+  "attr": "Water",
+  "excl": "WDS",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 191,
+  "en": "Nekidspeed",
+  "ko": "냅",
+  "rank": "C",
+  "tribe": "Charming",
+  "attr": "Ice",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 192,
+  "en": "Shmoopie",
+  "ko": "귀",
+  "rank": "C",
+  "tribe": "Charming",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 193,
+  "en": "Pinkipoo",
+  "ko": "사",
+  "rank": "B",
+  "tribe": "Charming",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 194,
+  "en": "Pookivil",
+  "ko": "음",
+  "rank": "A",
+  "tribe": "Charming",
+  "attr": "Drain",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 195,
+  "en": "Harry Barry",
+  "ko": "달",
+  "rank": "B",
+  "tribe": "Charming",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 196,
+  "en": "Frostina",
+  "ko": "설",
+  "rank": "B",
+  "tribe": "Charming",
+  "attr": "Ice",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 197,
+  "en": "Blizzaria",
+  "ko": "눈",
+  "rank": "S",
+  "tribe": "Charming",
+  "attr": "Ice",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 198,
+  "en": "Damona",
+  "ko": "백",
+  "rank": "S",
+  "tribe": "Charming",
+  "attr": "Ice",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 199,
+  "en": "Faux Kappa",
+  "ko": "접",
+  "rank": "A",
+  "tribe": "Charming",
+  "attr": "Water",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 200,
+  "en": "Tigappa",
+  "ko": "수",
+  "rank": "S",
+  "tribe": "Charming",
+  "attr": "Water",
+  "excl": "WDS",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 201,
+  "en": "Master Nyada",
+  "ko": "마",
+  "rank": "S",
+  "tribe": "Charming",
+  "attr": "Wind",
+  "excl": "",
+  "section": "141 - 201 Charming"
+ },
+ {
+  "n": 202,
+  "en": "Wantston",
+  "ko": "부",
+  "rank": "E",
+  "tribe": "Heartful",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "202 - 244 Heartful"
+ },
+ {
+  "n": 203,
+  "en": "Grubsnitch",
+  "ko": "자",
+  "rank": "D",
+  "tribe": "Heartful",
+  "attr": "Earth",
+  "excl": "",
+  "section": "202 - 244 Heartful"
+ },
+ {
+  "n": 204,
+  "en": "Wiglin",
+  "ko": "미",
+  "rank": "E",
+  "tribe": "Heartful",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "202 - 244 Heartful"
+ },
+ {
+  "n": 205,
+  "en": "Kelpacabana",
+  "ko": "미",
+  "rank": "C",
+  "tribe": "Heartful",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "202 - 244 Heartful"
+ },
+ {
+  "n": 206,
+  "en": "Steppa",
+  "ko": "다",
+  "rank": "E",
+  "tribe": "Heartful",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "202 - 244 Heartful"
+ },
+ {
+  "n": 207,
+  "en": "Rhyth",
+  "ko": "미",
+  "rank": "D",
+  "tribe": "Heartful",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "202 - 244 Heartful"
+ },
+ {
+  "n": 208,
+  "en": "Hungramps",
+  "ko": "공",
+  "rank": "E",
+  "tribe": "Heartful",
+  "attr": "Earth",
+  "excl": "",
+  "section": "202 - 244 Heartful"
+ },
+ {
+  "n": 209,
+  "en": "Hungorge",
+  "ko": "게",
+  "rank": "B",
+  "tribe": "Heartful",
+  "attr": "Drain",
+  "excl": "",
+  "section": "202 - 244 Heartful"
+ },
+ {
+  "n": 210,
+  "en": "Grainpa",
+  "ko": "쌀",
+  "rank": "B",
+  "tribe": "Heartful",
+  "attr": "Restoration",
+  "excl": "WDS",
+  "section": "202 - 244 Heartful"
+ },
+ {
+  "n": 211,
+  "en": "Robogramps",
+  "ko": "로",
+  "rank": "B",
+  "tribe": "Heartful",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "202 - 244 Heartful"
+ },
+ {
+  "n": 212,
+  "en": "Tongus",
+  "ko": "소",
+  "rank": "E",
+  "tribe": "Heartful",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "202 - 244 Heartful"
+ },
+ {
+  "n": 213,
+  "en": "Nurse Tongus",
+  "ko": "버",
+  "rank": "B",
+  "tribe": "Heartful",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "202 - 244 Heartful"
+ },
+ {
+  "n": 214,
+  "en": "Sandmeh",
+  "ko": "넘",
+  "rank": "E",
+  "tribe": "Heartful",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "202 - 244 Heartful"
+ },
+ {
+  "n": 215,
+  "en": "Mister Sandmeh",
+  "ko": "넘",
+  "rank": "B",
+  "tribe": "Heartful",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "202 - 244 Heartful"
+ },
+ {
+  "n": 216,
+  "en": "Pallysol",
+  "ko": "깽",
+  "rank": "E",
+  "tribe": "Heartful",
+  "attr": "Wind",
+  "excl": "",
+  "section": "202 - 244 Heartful"
+ },
+ {
+  "n": 217,
+  "en": "Scarasol",
+  "ko": "우",
+  "rank": "A",
+  "tribe": "Heartful",
+  "attr": "Earth",
+  "excl": "",
+  "section": "202 - 244 Heartful"
+ },
+ {
+  "n": 218,
+  "en": "Happycane",
+  "ko": "신",
+  "rank": "D",
+  "tribe": "Heartful",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "202 - 244 Heartful"
+ },
+ {
+  "n": 219,
+  "en": "Starrycane",
+  "ko": "두",
+  "rank": "B",
+  "tribe": "Heartful",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "202 - 244 Heartful"
+ },
+ {
+  "n": 220,
+  "en": "Lodo",
+  "ko": "거",
+  "rank": "D",
+  "tribe": "Heartful",
+  "attr": "Wind",
+  "excl": "",
+  "section": "202 - 244 Heartful"
+ },
+ {
+  "n": 221,
+  "en": "Supoor Hero",
+  "ko": "노",
+  "rank": "A",
+  "tribe": "Heartful",
+  "attr": "Wind",
+  "excl": "",
+  "section": "202 - 244 Heartful"
+ },
+ {
+  "n": 222,
+  "en": "Chippa",
+  "ko": "낙",
+  "rank": "C",
+  "tribe": "Heartful",
+  "attr": "Water",
+  "excl": "RCC",
+  "section": "202 - 244 Heartful"
+ },
+ {
+  "n": 223,
+  "en": "Gnomey",
+  "ko": "더",
+  "rank": "D",
+  "tribe": "Heartful",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "202 - 244 Heartful"
+ },
+ {
+  "n": 224,
+  "en": "High Gnomey",
+  "ko": "더",
+  "rank": "A",
+  "tribe": "Heartful",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "202 - 244 Heartful"
+ },
+ {
+  "n": 225,
+  "en": "Enerfly",
+  "ko": "조",
+  "rank": "D",
+  "tribe": "Heartful",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "202 - 244 Heartful"
+ },
+ {
+  "n": 226,
+  "en": "Enefly",
+  "ko": "끝",
+  "rank": "D",
+  "tribe": "Heartful",
+  "attr": "Drain",
+  "excl": "",
+  "section": "202 - 244 Heartful"
+ },
+ {
+  "n": 227,
+  "en": "Betterfly",
+  "ko": "최",
+  "rank": "A",
+  "tribe": "Heartful",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "202 - 244 Heartful"
+ },
+ {
+  "n": 228,
+  "en": "Peppillon",
+  "ko": "아",
+  "rank": "S",
+  "tribe": "Heartful",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "202 - 244 Heartful"
+ },
+ {
+  "n": 229,
+  "en": "Predictabull",
+  "ko": "우",
+  "rank": "D",
+  "tribe": "Heartful",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "202 - 244 Heartful"
+ },
+ {
+  "n": 230,
+  "en": "Smashibull",
+  "ko": "우",
+  "rank": "S",
+  "tribe": "Heartful",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "202 - 244 Heartful"
+ },
+ {
+  "n": 231,
+  "en": "Ray O' Light",
+  "ko": "쾌",
+  "rank": "C",
+  "tribe": "Heartful",
+  "attr": "Fire",
+  "excl": "RCC",
+  "section": "202 - 244 Heartful"
+ },
+ {
+  "n": 232,
+  "en": "Happierre",
+  "ko": "보",
+  "rank": "C",
+  "tribe": "Heartful",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "202 - 244 Heartful"
+ },
+ {
+  "n": 233,
+  "en": "Reversa",
+  "ko": "좌",
+  "rank": "A",
+  "tribe": "Heartful",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "202 - 244 Heartful"
+ },
+ {
+  "n": 234,
+  "en": "Reversette",
+  "ko": "막",
+  "rank": "A",
+  "tribe": "Heartful",
+  "attr": "Wind",
+  "excl": "",
+  "section": "202 - 244 Heartful"
+ },
+ {
+  "n": 235,
+  "en": "Ol' Saint Trick",
+  "ko": "산",
+  "rank": "B",
+  "tribe": "Heartful",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "202 - 244 Heartful"
+ },
+ {
+  "n": 236,
+  "en": "Ol' Fortune",
+  "ko": "자",
+  "rank": "B",
+  "tribe": "Heartful",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "202 - 244 Heartful"
+ },
+ {
+  "n": 237,
+  "en": "Rollen",
+  "ko": "사",
+  "rank": "B",
+  "tribe": "Heartful",
+  "attr": "Water",
+  "excl": "RCC",
+  "section": "202 - 244 Heartful"
+ },
+ {
+  "n": 238,
+  "en": "Dubbles",
+  "ko": "묘",
+  "rank": "A",
+  "tribe": "Heartful",
+  "attr": "Water",
+  "excl": "RCC",
+  "section": "202 - 244 Heartful"
+ },
+ {
+  "n": 239,
+  "en": "Papa Bolt",
+  "ko": "번",
+  "rank": "A",
+  "tribe": "Heartful",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "202 - 244 Heartful"
+ },
+ {
+  "n": 240,
+  "en": "Uncle Infinite",
+  "ko": "엎",
+  "rank": "S",
+  "tribe": "Heartful",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "202 - 244 Heartful"
+ },
+ {
+  "n": 241,
+  "en": "Mama Aura",
+  "ko": "보",
+  "rank": "A",
+  "tribe": "Heartful",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "202 - 244 Heartful"
+ },
+ {
+  "n": 242,
+  "en": "Auntie Heart",
+  "ko": "착",
+  "rank": "S",
+  "tribe": "Heartful",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "202 - 244 Heartful"
+ },
+ {
+  "n": 243,
+  "en": "Kyryn",
+  "ko": "기",
+  "rank": "S",
+  "tribe": "Heartful",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "202 - 244 Heartful"
+ },
+ {
+  "n": 244,
+  "en": "Unikirin",
+  "ko": "일",
+  "rank": "S",
+  "tribe": "Heartful",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "202 - 244 Heartful"
+ },
+ {
+  "n": 245,
+  "en": "Leadoni",
+  "ko": "길",
+  "rank": "E",
+  "tribe": "Shady",
+  "attr": "Ice",
+  "excl": "",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 246,
+  "en": "Mynimo",
+  "ko": "한",
+  "rank": "D",
+  "tribe": "Shady",
+  "attr": "Drain",
+  "excl": "",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 247,
+  "en": "Ake",
+  "ko": "결",
+  "rank": "E",
+  "tribe": "Shady",
+  "attr": "Earth",
+  "excl": "RCC",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 248,
+  "en": "Payn",
+  "ko": "결",
+  "rank": "C",
+  "tribe": "Shady",
+  "attr": "Earth",
+  "excl": "RCC",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 249,
+  "en": "Agon",
+  "ko": "요",
+  "rank": "B",
+  "tribe": "Shady",
+  "attr": "Earth",
+  "excl": "",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 250,
+  "en": "Wydeawake",
+  "ko": "날",
+  "rank": "E",
+  "tribe": "Shady",
+  "attr": "Lightning",
+  "excl": "WDS",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 251,
+  "en": "Allnyta",
+  "ko": "끝",
+  "rank": "B",
+  "tribe": "Shady",
+  "attr": "Lightning",
+  "excl": "WDS",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 252,
+  "en": "Herbiboy",
+  "ko": "초",
+  "rank": "E",
+  "tribe": "Shady",
+  "attr": "Water",
+  "excl": "",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 253,
+  "en": "Carniboy",
+  "ko": "육",
+  "rank": "B",
+  "tribe": "Shady",
+  "attr": "Fire",
+  "excl": "",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 254,
+  "en": "Negatibuzz",
+  "ko": "네",
+  "rank": "E",
+  "tribe": "Shady",
+  "attr": "Drain",
+  "excl": "WDS",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 255,
+  "en": "Moskevil",
+  "ko": "흑",
+  "rank": "C",
+  "tribe": "Shady",
+  "attr": "Drain",
+  "excl": "WDS",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 256,
+  "en": "Scritchy",
+  "ko": "근",
+  "rank": "A",
+  "tribe": "Shady",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 257,
+  "en": "Dimmy",
+  "ko": "안",
+  "rank": "E",
+  "tribe": "Shady",
+  "attr": "Wind",
+  "excl": "",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 258,
+  "en": "Blandon",
+  "ko": "못",
+  "rank": "B",
+  "tribe": "Shady",
+  "attr": "Wind",
+  "excl": "",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 259,
+  "en": "Nul",
+  "ko": "없",
+  "rank": "A",
+  "tribe": "Shady",
+  "attr": "Wind",
+  "excl": "WDS",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 260,
+  "en": "Suspicioni",
+  "ko": "불",
+  "rank": "D",
+  "tribe": "Shady",
+  "attr": "Water",
+  "excl": "WDS",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 261,
+  "en": "Tantroni",
+  "ko": "민",
+  "rank": "D",
+  "tribe": "Shady",
+  "attr": "Fire",
+  "excl": "",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 262,
+  "en": "Contrarioni",
+  "ko": "심",
+  "rank": "B",
+  "tribe": "Shady",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 263,
+  "en": "Grumpus Khan",
+  "ko": "괴",
+  "rank": "D",
+  "tribe": "Shady",
+  "attr": "Wind",
+  "excl": "",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 264,
+  "en": "Groupus Khan",
+  "ko": "불",
+  "rank": "B",
+  "tribe": "Shady",
+  "attr": "Wind",
+  "excl": "",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 265,
+  "en": "Hidabat",
+  "ko": "틀",
+  "rank": "D",
+  "tribe": "Shady",
+  "attr": "Wind",
+  "excl": "",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 266,
+  "en": "Abodabat",
+  "ko": "집",
+  "rank": "A",
+  "tribe": "Shady",
+  "attr": "Wind",
+  "excl": "",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 267,
+  "en": "Belfree",
+  "ko": "여",
+  "rank": "A",
+  "tribe": "Shady",
+  "attr": "Wind",
+  "excl": "RCC",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 268,
+  "en": "Yoink",
+  "ko": "날",
+  "rank": "D",
+  "tribe": "Shady",
+  "attr": "Drain",
+  "excl": "RCC",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 269,
+  "en": "Gimme",
+  "ko": "도",
+  "rank": "A",
+  "tribe": "Shady",
+  "attr": "Drain",
+  "excl": "RCC",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 270,
+  "en": "K'mon-K'mon",
+  "ko": "비",
+  "rank": "C",
+  "tribe": "Shady",
+  "attr": "Wind",
+  "excl": "",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 271,
+  "en": "Yoodooit",
+  "ko": "너",
+  "rank": "C",
+  "tribe": "Shady",
+  "attr": "Drain",
+  "excl": "RCC",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 272,
+  "en": "Count Zapaway",
+  "ko": "감",
+  "rank": "C",
+  "tribe": "Shady",
+  "attr": "Ice",
+  "excl": "",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 273,
+  "en": "Tyrat",
+  "ko": "짱",
+  "rank": "A",
+  "tribe": "Shady",
+  "attr": "Drain",
+  "excl": "",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 274,
+  "en": "Tengloom",
+  "ko": "음",
+  "rank": "C",
+  "tribe": "Shady",
+  "attr": "Wind",
+  "excl": "",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 275,
+  "en": "Nird",
+  "ko": "독",
+  "rank": "B",
+  "tribe": "Shady",
+  "attr": "Wind",
+  "excl": "RCC",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 276,
+  "en": "Snobetty",
+  "ko": "합",
+  "rank": "B",
+  "tribe": "Shady",
+  "attr": "Ice",
+  "excl": "",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 277,
+  "en": "Slimamander",
+  "ko": "삼",
+  "rank": "B",
+  "tribe": "Shady",
+  "attr": "Fire",
+  "excl": "",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 278,
+  "en": "Dracunyan",
+  "ko": "드",
+  "rank": "B",
+  "tribe": "Shady",
+  "attr": "Drain",
+  "excl": "",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 279,
+  "en": "Usapyon",
+  "ko": "우",
+  "rank": "B",
+  "tribe": "Shady",
+  "attr": "Ice",
+  "excl": "",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 280,
+  "en": "Usapyon Foot.",
+  "ko": "우사뿅 풋볼",
+  "rank": "B",
+  "tribe": "Shady",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 281,
+  "en": "Usapyon Scu.",
+  "ko": "우사뿅 스쿠버",
+  "rank": "B",
+  "tribe": "Shady",
+  "attr": "Water",
+  "excl": "",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 282,
+  "en": "Usapyon G.I.",
+  "ko": "우사뿅 G.I.",
+  "rank": "B",
+  "tribe": "Shady",
+  "attr": "Earth",
+  "excl": "",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 283,
+  "en": "Usapyon Rac.",
+  "ko": "우사뿅 레이서",
+  "rank": "B",
+  "tribe": "Shady",
+  "attr": "Wind",
+  "excl": "",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 284,
+  "en": "Negasus",
+  "ko": "민",
+  "rank": "A",
+  "tribe": "Shady",
+  "attr": "Wind",
+  "excl": "",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 285,
+  "en": "Neighfarious",
+  "ko": "악",
+  "rank": "A",
+  "tribe": "Shady",
+  "attr": "Drain",
+  "excl": "",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 286,
+  "en": "Timidevil",
+  "ko": "쫄",
+  "rank": "A",
+  "tribe": "Shady",
+  "attr": "Fire",
+  "excl": "",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 287,
+  "en": "Beelzebold",
+  "ko": "안",
+  "rank": "S",
+  "tribe": "Shady",
+  "attr": "Fire",
+  "excl": "",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 288,
+  "en": "Count Cavity",
+  "ko": "충",
+  "rank": "S",
+  "tribe": "Shady",
+  "attr": "Fire",
+  "excl": "",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 289,
+  "en": "Eyesoar",
+  "ko": "백",
+  "rank": "A",
+  "tribe": "Shady",
+  "attr": "Earth",
+  "excl": "",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 290,
+  "en": "Eyellure",
+  "ko": "보",
+  "rank": "S",
+  "tribe": "Shady",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 291,
+  "en": "Greesel",
+  "ko": "왕",
+  "rank": "S",
+  "tribe": "Shady",
+  "attr": "Fire",
+  "excl": "",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 292,
+  "en": "Awevil",
+  "ko": "악",
+  "rank": "S",
+  "tribe": "Shady",
+  "attr": "Water",
+  "excl": "",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 293,
+  "en": "Wobblewok",
+  "ko": "가",
+  "rank": "S",
+  "tribe": "Shady",
+  "attr": "Earth",
+  "excl": "",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 294,
+  "en": "Darkyubi",
+  "ko": "암",
+  "rank": "S",
+  "tribe": "Shady",
+  "attr": "Drain",
+  "excl": "",
+  "section": "245 - 294 Shady"
+ },
+ {
+  "n": 295,
+  "en": "Coughkoff",
+  "ko": "칼",
+  "rank": "E",
+  "tribe": "Eerie",
+  "attr": "Water",
+  "excl": "",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 296,
+  "en": "Hurchin",
+  "ko": "따",
+  "rank": "D",
+  "tribe": "Eerie",
+  "attr": "Ice",
+  "excl": "WDS",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 297,
+  "en": "Droplette",
+  "ko": "질",
+  "rank": "E",
+  "tribe": "Eerie",
+  "attr": "Water",
+  "excl": "",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 298,
+  "en": "Drizzle",
+  "ko": "쏟",
+  "rank": "B",
+  "tribe": "Eerie",
+  "attr": "Water",
+  "excl": "",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 299,
+  "en": "Slush",
+  "ko": "얼",
+  "rank": "E",
+  "tribe": "Eerie",
+  "attr": "Ice",
+  "excl": "WDS",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 300,
+  "en": "Alhail",
+  "ko": "꽁",
+  "rank": "B",
+  "tribe": "Eerie",
+  "attr": "Ice",
+  "excl": "WDS",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 301,
+  "en": "Gush",
+  "ko": "코",
+  "rank": "D",
+  "tribe": "Eerie",
+  "attr": "Fire",
+  "excl": "RCC",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 302,
+  "en": "Peckpocket",
+  "ko": "샘",
+  "rank": "E",
+  "tribe": "Eerie",
+  "attr": "Drain",
+  "excl": "RCC",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 303,
+  "en": "Robbinyu",
+  "ko": "뺏",
+  "rank": "B",
+  "tribe": "Eerie",
+  "attr": "Drain",
+  "excl": "RCC",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 304,
+  "en": "Rockabelly",
+  "ko": "배",
+  "rank": "D",
+  "tribe": "Eerie",
+  "attr": "Drain",
+  "excl": "",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 305,
+  "en": "Squeeky",
+  "ko": "소",
+  "rank": "E",
+  "tribe": "Eerie",
+  "attr": "Ice",
+  "excl": "",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 306,
+  "en": "Rawry",
+  "ko": "노",
+  "rank": "B",
+  "tribe": "Eerie",
+  "attr": "Ice",
+  "excl": "",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 307,
+  "en": "Buhu",
+  "ko": "슬",
+  "rank": "E",
+  "tribe": "Eerie",
+  "attr": "Wind",
+  "excl": "",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 308,
+  "en": "Flumpy",
+  "ko": "꼴",
+  "rank": "C",
+  "tribe": "Eerie",
+  "attr": "Wind",
+  "excl": "",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 309,
+  "en": "Skreek",
+  "ko": "사",
+  "rank": "A",
+  "tribe": "Eerie",
+  "attr": "Wind",
+  "excl": "",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 310,
+  "en": "Manjimutt",
+  "ko": "인",
+  "rank": "E",
+  "tribe": "Eerie",
+  "attr": "Fire",
+  "excl": "",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 311,
+  "en": "Multimutt",
+  "ko": "쌍",
+  "rank": "B",
+  "tribe": "Eerie",
+  "attr": "Fire",
+  "excl": "",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 312,
+  "en": "Sir Berus",
+  "ko": "삼",
+  "rank": "A",
+  "tribe": "Eerie",
+  "attr": "Earth",
+  "excl": "RCC",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 313,
+  "en": "Robomutt",
+  "ko": "로",
+  "rank": "B",
+  "tribe": "Eerie",
+  "attr": "Wind",
+  "excl": "",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 314,
+  "en": "Furgus",
+  "ko": "수",
+  "rank": "E",
+  "tribe": "Eerie",
+  "attr": "Earth",
+  "excl": "",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 315,
+  "en": "Furdinand",
+  "ko": "더",
+  "rank": "A",
+  "tribe": "Eerie",
+  "attr": "Earth",
+  "excl": "",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 316,
+  "en": "Nosirs",
+  "ko": "그",
+  "rank": "D",
+  "tribe": "Eerie",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 317,
+  "en": "Dismarelda",
+  "ko": "칙",
+  "rank": "D",
+  "tribe": "Eerie",
+  "attr": "Earth",
+  "excl": "",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 318,
+  "en": "Chatalie",
+  "ko": "뻥",
+  "rank": "D",
+  "tribe": "Eerie",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 319,
+  "en": "Nagatha",
+  "ko": "순",
+  "rank": "C",
+  "tribe": "Eerie",
+  "attr": "Drain",
+  "excl": "",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 320,
+  "en": "Danke Sand",
+  "ko": "땡",
+  "rank": "D",
+  "tribe": "Eerie",
+  "attr": "Earth",
+  "excl": "",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 321,
+  "en": "No Sandkyu",
+  "ko": "노",
+  "rank": "B",
+  "tribe": "Eerie",
+  "attr": "Earth",
+  "excl": "",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 322,
+  "en": "Papa Windbag",
+  "ko": "나",
+  "rank": "C",
+  "tribe": "Eerie",
+  "attr": "Lightning",
+  "excl": "WDS",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 323,
+  "en": "Ben Tover",
+  "ko": "뺀",
+  "rank": "C",
+  "tribe": "Eerie",
+  "attr": "Wind",
+  "excl": "",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 324,
+  "en": "Cheeksqueek",
+  "ko": "뽕",
+  "rank": "C",
+  "tribe": "Eerie",
+  "attr": "Ice",
+  "excl": "",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 325,
+  "en": "Cuttincheez",
+  "ko": "뽕",
+  "rank": "A",
+  "tribe": "Eerie",
+  "attr": "Ice",
+  "excl": "",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 326,
+  "en": "Toiletta",
+  "ko": "영",
+  "rank": "C",
+  "tribe": "Eerie",
+  "attr": "Drain",
+  "excl": "",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 327,
+  "en": "Foiletta",
+  "ko": "주",
+  "rank": "A",
+  "tribe": "Eerie",
+  "attr": "Drain",
+  "excl": "",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 328,
+  "en": "Sproink",
+  "ko": "온",
+  "rank": "B",
+  "tribe": "Eerie",
+  "attr": "Fire",
+  "excl": "",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 329,
+  "en": "Compunzer",
+  "ko": "황",
+  "rank": "A",
+  "tribe": "Eerie",
+  "attr": "Drain",
+  "excl": "",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 330,
+  "en": "Lamedian",
+  "ko": "실",
+  "rank": "A",
+  "tribe": "Eerie",
+  "attr": "Drain",
+  "excl": "",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 331,
+  "en": "Grumples",
+  "ko": "주",
+  "rank": "B",
+  "tribe": "Eerie",
+  "attr": "Drain",
+  "excl": "",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 332,
+  "en": "Everfore",
+  "ko": "불",
+  "rank": "S",
+  "tribe": "Eerie",
+  "attr": "Drain",
+  "excl": "",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 333,
+  "en": "Eterna",
+  "ko": "불",
+  "rank": "S",
+  "tribe": "Eerie",
+  "attr": "Drain",
+  "excl": "",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 334,
+  "en": "Darknyan",
+  "ko": "다",
+  "rank": "A",
+  "tribe": "Eerie",
+  "attr": "Wind",
+  "excl": "",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 335,
+  "en": "Insomni",
+  "ko": "못",
+  "rank": "A",
+  "tribe": "Eerie",
+  "attr": "Ice",
+  "excl": "WDS",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 336,
+  "en": "Sandi",
+  "ko": "못",
+  "rank": "S",
+  "tribe": "Eerie",
+  "attr": "Drain",
+  "excl": "RCC",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 337,
+  "en": "Arachnus",
+  "ko": "땅",
+  "rank": "S",
+  "tribe": "Eerie",
+  "attr": "Earth",
+  "excl": "",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 338,
+  "en": "Arachnia",
+  "ko": "독",
+  "rank": "S",
+  "tribe": "Eerie",
+  "attr": "Earth",
+  "excl": "",
+  "section": "295 - 338 Eerie"
+ },
+ {
+  "n": 339,
+  "en": "Cricky",
+  "ko": "목",
+  "rank": "E",
+  "tribe": "Slippery",
+  "attr": "Water",
+  "excl": "WDS",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 340,
+  "en": "Noko",
+  "ko": "럭",
+  "rank": "E",
+  "tribe": "Slippery",
+  "attr": "Earth",
+  "excl": "",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 341,
+  "en": "Bloominoko",
+  "ko": "해",
+  "rank": "A",
+  "tribe": "Slippery",
+  "attr": "Earth",
+  "excl": "",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 342,
+  "en": "Pandanoko",
+  "ko": "판",
+  "rank": "A",
+  "tribe": "Slippery",
+  "attr": "Ice",
+  "excl": "",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 343,
+  "en": "Robonoko",
+  "ko": "로",
+  "rank": "B",
+  "tribe": "Slippery",
+  "attr": "Earth",
+  "excl": "",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 344,
+  "en": "Snaggly",
+  "ko": "시",
+  "rank": "E",
+  "tribe": "Slippery",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 345,
+  "en": "Whinona",
+  "ko": "꼬",
+  "rank": "A",
+  "tribe": "Slippery",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 346,
+  "en": "Whisper",
+  "ko": "위",
+  "rank": "C",
+  "tribe": "Slippery",
+  "attr": "Drain",
+  "excl": "WDS",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 347,
+  "en": "Whispocrates",
+  "ko": "위",
+  "rank": "C",
+  "tribe": "Slippery",
+  "attr": "Drain",
+  "excl": "WDS",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 348,
+  "en": "Heheheel",
+  "ko": "깔",
+  "rank": "D",
+  "tribe": "Slippery",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 349,
+  "en": "Croonger",
+  "ko": "노",
+  "rank": "C",
+  "tribe": "Slippery",
+  "attr": "Drain",
+  "excl": "RCC",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 350,
+  "en": "Urnaconda",
+  "ko": "단",
+  "rank": "C",
+  "tribe": "Slippery",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 351,
+  "en": "Fishpicable",
+  "ko": "실",
+  "rank": "D",
+  "tribe": "Slippery",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 352,
+  "en": "Rageon",
+  "ko": "원",
+  "rank": "B",
+  "tribe": "Slippery",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 353,
+  "en": "Tunatic",
+  "ko": "발",
+  "rank": "A",
+  "tribe": "Slippery",
+  "attr": "Fire",
+  "excl": "RCC",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 354,
+  "en": "Takoyakid",
+  "ko": "문",
+  "rank": "D",
+  "tribe": "Slippery",
+  "attr": "Fire",
+  "excl": "",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 355,
+  "en": "Takoyaking",
+  "ko": "문",
+  "rank": "B",
+  "tribe": "Slippery",
+  "attr": "Fire",
+  "excl": "",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 356,
+  "en": "Flushback",
+  "ko": "기",
+  "rank": "D",
+  "tribe": "Slippery",
+  "attr": "Restoration",
+  "excl": "WDS",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 357,
+  "en": "Vacuumory",
+  "ko": "기",
+  "rank": "A",
+  "tribe": "Slippery",
+  "attr": "Restoration",
+  "excl": "WDS",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 358,
+  "en": "Irewig",
+  "ko": "화",
+  "rank": "D",
+  "tribe": "Slippery",
+  "attr": "Fire",
+  "excl": "RCC",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 359,
+  "en": "Firewig",
+  "ko": "열",
+  "rank": "A",
+  "tribe": "Slippery",
+  "attr": "Fire",
+  "excl": "RCC",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 360,
+  "en": "Draggie",
+  "ko": "용",
+  "rank": "D",
+  "tribe": "Slippery",
+  "attr": "Earth",
+  "excl": "",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 361,
+  "en": "Dragon Lord",
+  "ko": "신",
+  "rank": "S",
+  "tribe": "Slippery",
+  "attr": "Earth",
+  "excl": "",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 362,
+  "en": "Azure Dragon",
+  "ko": "청",
+  "rank": "S",
+  "tribe": "Slippery",
+  "attr": "Water",
+  "excl": "WDS",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 363,
+  "en": "Robodraggie",
+  "ko": "로",
+  "rank": "B",
+  "tribe": "Slippery",
+  "attr": "Fire",
+  "excl": "",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 364,
+  "en": "Mermaidyn",
+  "ko": "인",
+  "rank": "D",
+  "tribe": "Slippery",
+  "attr": "Water",
+  "excl": "",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 365,
+  "en": "Mermadonna",
+  "ko": "어",
+  "rank": "S",
+  "tribe": "Slippery",
+  "attr": "Water",
+  "excl": "",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 366,
+  "en": "Mermother",
+  "ko": "어",
+  "rank": "S",
+  "tribe": "Slippery",
+  "attr": "Water",
+  "excl": "",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 367,
+  "en": "Lady Longnek",
+  "ko": "뇨",
+  "rank": "C",
+  "tribe": "Slippery",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 368,
+  "en": "Daiz",
+  "ko": "때",
+  "rank": "C",
+  "tribe": "Slippery",
+  "attr": "Drain",
+  "excl": "",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 369,
+  "en": "Confuze",
+  "ko": "어",
+  "rank": "B",
+  "tribe": "Slippery",
+  "attr": "Drain",
+  "excl": "",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 370,
+  "en": "Chummer",
+  "ko": "꿀",
+  "rank": "C",
+  "tribe": "Slippery",
+  "attr": "Water",
+  "excl": "",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 371,
+  "en": "Shrook",
+  "ko": "서",
+  "rank": "B",
+  "tribe": "Slippery",
+  "attr": "Water",
+  "excl": "WDS",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 372,
+  "en": "Spenp",
+  "ko": "막",
+  "rank": "C",
+  "tribe": "Slippery",
+  "attr": "Wind",
+  "excl": "",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 373,
+  "en": "Almi",
+  "ko": "다",
+  "rank": "B",
+  "tribe": "Slippery",
+  "attr": "Water",
+  "excl": "RCC",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 374,
+  "en": "Babblong",
+  "ko": "긴",
+  "rank": "C",
+  "tribe": "Slippery",
+  "attr": "Water",
+  "excl": "",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 375,
+  "en": "Bananose",
+  "ko": "바",
+  "rank": "A",
+  "tribe": "Slippery",
+  "attr": "Water",
+  "excl": "",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 376,
+  "en": "Draaagin",
+  "ko": "보",
+  "rank": "B",
+  "tribe": "Slippery",
+  "attr": "Ice",
+  "excl": "WDS",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 377,
+  "en": "SV Snaggerjag",
+  "ko": "낚",
+  "rank": "B",
+  "tribe": "Slippery",
+  "attr": "Water",
+  "excl": "",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 378,
+  "en": "Copperled",
+  "ko": "지",
+  "rank": "B",
+  "tribe": "Slippery",
+  "attr": "Fire",
+  "excl": "",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 379,
+  "en": "Cynake",
+  "ko": "삐",
+  "rank": "B",
+  "tribe": "Slippery",
+  "attr": "Water",
+  "excl": "WDS",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 380,
+  "en": "Slitheref",
+  "ko": "살",
+  "rank": "A",
+  "tribe": "Slippery",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 381,
+  "en": "Venoct",
+  "ko": "이",
+  "rank": "S",
+  "tribe": "Slippery",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 382,
+  "en": "Shadow Venoct",
+  "ko": "블",
+  "rank": "S",
+  "tribe": "Slippery",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "339 - 382 Slippery"
+ },
+ {
+  "n": 383,
+  "en": "Shogunyan",
+  "ko": "무",
+  "rank": "S",
+  "tribe": "Brave",
+  "attr": "Wind",
+  "excl": "",
+  "section": "383 - 405 Legendary - Wicked Yo-kai"
+ },
+ {
+  "n": 384,
+  "en": "Komashura",
+  "ko": "수",
+  "rank": "S",
+  "tribe": "Mysterious",
+  "attr": "Fire",
+  "excl": "",
+  "section": "383 - 405 Legendary - Wicked Yo-kai"
+ },
+ {
+  "n": 385,
+  "en": "Gilgaros",
+  "ko": "도",
+  "rank": "S",
+  "tribe": "Tough",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "383 - 405 Legendary - Wicked Yo-kai"
+ },
+ {
+  "n": 386,
+  "en": "Spoilerina",
+  "ko": "까",
+  "rank": "S",
+  "tribe": "Charming",
+  "attr": "Wind",
+  "excl": "",
+  "section": "383 - 405 Legendary - Wicked Yo-kai"
+ },
+ {
+  "n": 387,
+  "en": "Elder Bloom",
+  "ko": "꽃",
+  "rank": "S",
+  "tribe": "Heartful",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "383 - 405 Legendary - Wicked Yo-kai"
+ },
+ {
+  "n": 388,
+  "en": "Poofessor",
+  "ko": "웅",
+  "rank": "S",
+  "tribe": "Shady",
+  "attr": "Drain",
+  "excl": "",
+  "section": "383 - 405 Legendary - Wicked Yo-kai"
+ },
+ {
+  "n": 389,
+  "en": "Dandoodle",
+  "ko": "얼",
+  "rank": "S",
+  "tribe": "Eerie",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "383 - 405 Legendary - Wicked Yo-kai"
+ },
+ {
+  "n": 390,
+  "en": "Slurpent",
+  "ko": "혀",
+  "rank": "S",
+  "tribe": "Slippery",
+  "attr": "Drain",
+  "excl": "",
+  "section": "383 - 405 Legendary - Wicked Yo-kai"
+ },
+ {
+  "n": 391,
+  "en": "Grublappa",
+  "ko": "때",
+  "rank": "C",
+  "tribe": "Wicked",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "383 - 405 Legendary - Wicked Yo-kai"
+ },
+ {
+  "n": 392,
+  "en": "Madmunch",
+  "ko": "논",
+  "rank": "B",
+  "tribe": "Wicked",
+  "attr": "Earth",
+  "excl": "",
+  "section": "383 - 405 Legendary - Wicked Yo-kai"
+ },
+ {
+  "n": 393,
+  "en": "Badsmella",
+  "ko": "연",
+  "rank": "A",
+  "tribe": "Wicked",
+  "attr": "Wind",
+  "excl": "",
+  "section": "383 - 405 Legendary - Wicked Yo-kai"
+ },
+ {
+  "n": 394,
+  "en": "Mad Kappa",
+  "ko": "접",
+  "rank": "A",
+  "tribe": "Wicked",
+  "attr": "Water",
+  "excl": "",
+  "section": "383 - 405 Legendary - Wicked Yo-kai"
+ },
+ {
+  "n": 395,
+  "en": "Shamasol",
+  "ko": "깽",
+  "rank": "D",
+  "tribe": "Wicked",
+  "attr": "Wind",
+  "excl": "",
+  "section": "383 - 405 Legendary - Wicked Yo-kai"
+ },
+ {
+  "n": 396,
+  "en": "Gnomine",
+  "ko": "더",
+  "rank": "C",
+  "tribe": "Wicked",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "383 - 405 Legendary - Wicked Yo-kai"
+ },
+ {
+  "n": 397,
+  "en": "Defectabull",
+  "ko": "우",
+  "rank": "C",
+  "tribe": "Wicked",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "383 - 405 Legendary - Wicked Yo-kai"
+ },
+ {
+  "n": 398,
+  "en": "Feargus",
+  "ko": "수",
+  "rank": "D",
+  "tribe": "Wicked",
+  "attr": "Earth",
+  "excl": "",
+  "section": "383 - 405 Legendary - Wicked Yo-kai"
+ },
+ {
+  "n": 399,
+  "en": "Scaremaiden",
+  "ko": "인",
+  "rank": "B",
+  "tribe": "Wicked",
+  "attr": "Water",
+  "excl": "",
+  "section": "383 - 405 Legendary - Wicked Yo-kai"
+ },
+ {
+  "n": 400,
+  "en": "Wrongnek",
+  "ko": "뇨",
+  "rank": "D",
+  "tribe": "Wicked",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "383 - 405 Legendary - Wicked Yo-kai"
+ },
+ {
+  "n": 401,
+  "en": "Unfairy",
+  "ko": "성",
+  "rank": "S",
+  "tribe": "Wicked",
+  "attr": "Drain",
+  "excl": "",
+  "section": "383 - 405 Legendary - Wicked Yo-kai"
+ },
+ {
+  "n": 402,
+  "en": "Unkaind",
+  "ko": "불",
+  "rank": "S",
+  "tribe": "Wicked",
+  "attr": "Water",
+  "excl": "",
+  "section": "383 - 405 Legendary - Wicked Yo-kai"
+ },
+ {
+  "n": 403,
+  "en": "Untidy",
+  "ko": "호",
+  "rank": "S",
+  "tribe": "Wicked",
+  "attr": "Earth",
+  "excl": "",
+  "section": "383 - 405 Legendary - Wicked Yo-kai"
+ },
+ {
+  "n": 404,
+  "en": "Unpleasant",
+  "ko": "어",
+  "rank": "S",
+  "tribe": "Wicked",
+  "attr": "Wind",
+  "excl": "",
+  "section": "383 - 405 Legendary - Wicked Yo-kai"
+ },
+ {
+  "n": 405,
+  "en": "Unkeen",
+  "ko": "파",
+  "rank": "S",
+  "tribe": "Wicked",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "383 - 405 Legendary - Wicked Yo-kai"
+ },
+ {
+  "n": 406,
+  "en": "Jibanyan B",
+  "ko": "지",
+  "rank": "B",
+  "tribe": "Charming",
+  "attr": "Fire",
+  "excl": "RCC",
+  "section": "406 - 413 Other Yo-kai"
+ },
+ {
+  "n": 407,
+  "en": "Komasan B",
+  "ko": "B",
+  "rank": "B",
+  "tribe": "Charming",
+  "attr": "Fire",
+  "excl": "WDS",
+  "section": "406 - 413 Other Yo-kai"
+ },
+ {
+  "n": 408,
+  "en": "Sir Nyansalot",
+  "ko": "냥",
+  "rank": "A",
+  "tribe": "Brave",
+  "attr": "Ice",
+  "excl": "WDS",
+  "section": "406 - 413 Other Yo-kai"
+ },
+ {
+  "n": 409,
+  "en": "Maginyan",
+  "ko": "매",
+  "rank": "A",
+  "tribe": "Mysterious",
+  "attr": "Fire",
+  "excl": "RCC",
+  "section": "406 - 413 Other Yo-kai"
+ },
+ {
+  "n": 410,
+  "en": "Momonyan",
+  "ko": "모",
+  "rank": "A",
+  "tribe": "Brave",
+  "attr": "Fire",
+  "excl": "",
+  "section": "406 - 413 Other Yo-kai"
+ },
+ {
+  "n": 411,
+  "en": "Puppynyan",
+  "ko": "퍼",
+  "rank": "B",
+  "tribe": "Tough",
+  "attr": "Earth",
+  "excl": "",
+  "section": "406 - 413 Other Yo-kai"
+ },
+ {
+  "n": 412,
+  "en": "Chimpanyan",
+  "ko": "침",
+  "rank": "B",
+  "tribe": "Charming",
+  "attr": "Lightning",
+  "excl": "",
+  "section": "406 - 413 Other Yo-kai"
+ },
+ {
+  "n": 413,
+  "en": "Pheasanyan",
+  "ko": "꿩",
+  "rank": "B",
+  "tribe": "Heartful",
+  "attr": "Restoration",
+  "excl": "",
+  "section": "406 - 413 Other Yo-kai"
+ },
+ {
+  "n": 414,
+  "en": "Sproink",
+  "ko": "온",
+  "rank": null,
+  "tribe": "Boss",
+  "attr": null,
+  "excl": "",
+  "section": "414 - 443 Boss Yo-kai"
+ },
+ {
+  "n": 415,
+  "en": "Hoggles",
+  "ko": "온",
+  "rank": null,
+  "tribe": "Boss",
+  "attr": null,
+  "excl": "",
+  "section": "414 - 443 Boss Yo-kai"
+ },
+ {
+  "n": 416,
+  "en": "Gutsy Bones",
+  "ko": "뽑",
+  "rank": null,
+  "tribe": "Boss",
+  "attr": null,
+  "excl": "",
+  "section": "414 - 443 Boss Yo-kai"
+ },
+ {
+  "n": 417,
+  "en": "Goldy Bones",
+  "ko": "뽑",
+  "rank": null,
+  "tribe": "Boss",
+  "attr": null,
+  "excl": "",
+  "section": "414 - 443 Boss Yo-kai"
+ },
+ {
+  "n": 418,
+  "en": "Glitzy Bones",
+  "ko": "다",
+  "rank": null,
+  "tribe": "Boss",
+  "attr": null,
+  "excl": "",
+  "section": "414 - 443 Boss Yo-kai"
+ },
+ {
+  "n": 419,
+  "en": "SV Snaggerjag",
+  "ko": "낚",
+  "rank": null,
+  "tribe": "Boss",
+  "attr": null,
+  "excl": "",
+  "section": "414 - 443 Boss Yo-kai"
+ },
+ {
+  "n": 420,
+  "en": "Styx Mk.VI",
+  "ko": "8",
+  "rank": null,
+  "tribe": "Boss",
+  "attr": null,
+  "excl": "",
+  "section": "414 - 443 Boss Yo-kai"
+ },
+ {
+  "n": 421,
+  "en": "Slimamander",
+  "ko": "삼",
+  "rank": null,
+  "tribe": "Boss",
+  "attr": null,
+  "excl": "",
+  "section": "414 - 443 Boss Yo-kai"
+ },
+ {
+  "n": 422,
+  "en": "Eyedra",
+  "ko": "삼",
+  "rank": null,
+  "tribe": "Boss",
+  "attr": null,
+  "excl": "",
+  "section": "414 - 443 Boss Yo-kai"
+ },
+ {
+  "n": 423,
+  "en": "Gargaros",
+  "ko": "빨",
+  "rank": null,
+  "tribe": "Boss",
+  "attr": null,
+  "excl": "",
+  "section": "414 - 443 Boss Yo-kai"
+ },
+ {
+  "n": 424,
+  "en": "Ogralus",
+  "ko": "퍼",
+  "rank": null,
+  "tribe": "Boss",
+  "attr": null,
+  "excl": "",
+  "section": "414 - 443 Boss Yo-kai"
+ },
+ {
+  "n": 425,
+  "en": "Orcanos",
+  "ko": "껌",
+  "rank": null,
+  "tribe": "Boss",
+  "attr": null,
+  "excl": "",
+  "section": "414 - 443 Boss Yo-kai"
+ },
+ {
+  "n": 426,
+  "en": "Demuncher",
+  "ko": "도",
+  "rank": null,
+  "tribe": "Boss",
+  "attr": null,
+  "excl": "",
+  "section": "414 - 443 Boss Yo-kai"
+ },
+ {
+  "n": 427,
+  "en": "Devourer",
+  "ko": "명",
+  "rank": null,
+  "tribe": "Boss",
+  "attr": null,
+  "excl": "",
+  "section": "414 - 443 Boss Yo-kai"
+ },
+ {
+  "n": 428,
+  "en": "Tattleterror",
+  "ko": "G",
+  "rank": null,
+  "tribe": "Boss",
+  "attr": null,
+  "excl": "",
+  "section": "414 - 443 Boss Yo-kai"
+ },
+ {
+  "n": 429,
+  "en": "Rubeus J",
+  "ko": "루",
+  "rank": null,
+  "tribe": "Boss",
+  "attr": null,
+  "excl": "",
+  "section": "414 - 443 Boss Yo-kai"
+ },
+ {
+  "n": 430,
+  "en": "Hardy Hound",
+  "ko": "하",
+  "rank": null,
+  "tribe": "Boss",
+  "attr": null,
+  "excl": "",
+  "section": "414 - 443 Boss Yo-kai"
+ },
+ {
+  "n": 431,
+  "en": "Wobblewok",
+  "ko": "가",
+  "rank": null,
+  "tribe": "Boss",
+  "attr": null,
+  "excl": "",
+  "section": "414 - 443 Boss Yo-kai"
+ },
+ {
+  "n": 432,
+  "en": "Mass Mutterer",
+  "ko": "매",
+  "rank": null,
+  "tribe": "Boss",
+  "attr": null,
+  "excl": "",
+  "section": "414 - 443 Boss Yo-kai"
+ },
+ {
+  "n": 433,
+  "en": "Whisped Cream",
+  "ko": "위스마시멜로맨",
+  "rank": null,
+  "tribe": "Boss",
+  "attr": null,
+  "excl": "",
+  "section": "414 - 443 Boss Yo-kai"
+ },
+ {
+  "n": 434,
+  "en": "Dame Dedtime",
+  "ko": "우",
+  "rank": null,
+  "tribe": "Boss",
+  "attr": null,
+  "excl": "",
+  "section": "414 - 443 Boss Yo-kai"
+ },
+ {
+  "n": 435,
+  "en": "Damona",
+  "ko": "백",
+  "rank": null,
+  "tribe": "Boss",
+  "attr": null,
+  "excl": "",
+  "section": "414 - 443 Boss Yo-kai"
+ },
+ {
+  "n": 436,
+  "en": "McKraken",
+  "ko": "오",
+  "rank": null,
+  "tribe": "Boss",
+  "attr": null,
+  "excl": "",
+  "section": "414 - 443 Boss Yo-kai"
+ },
+ {
+  "n": 437,
+  "en": "McKraken (2nd Form)",
+  "ko": "오징어회장님",
+  "rank": null,
+  "tribe": "Boss",
+  "attr": null,
+  "excl": "",
+  "section": "414 - 443 Boss Yo-kai"
+ },
+ {
+  "n": 438,
+  "en": "Kabuking",
+  "ko": "로",
+  "rank": null,
+  "tribe": "Boss",
+  "attr": null,
+  "excl": "",
+  "section": "414 - 443 Boss Yo-kai"
+ },
+ {
+  "n": 439,
+  "en": "Robonyan 28",
+  "ko": "로",
+  "rank": null,
+  "tribe": "Boss",
+  "attr": null,
+  "excl": "",
+  "section": "414 - 443 Boss Yo-kai"
+ },
+ {
+  "n": 440,
+  "en": "Kat Kraydel",
+  "ko": "실",
+  "rank": null,
+  "tribe": "Boss",
+  "attr": null,
+  "excl": "",
+  "section": "414 - 443 Boss Yo-kai"
+ },
+ {
+  "n": 441,
+  "en": "Hinozall",
+  "ko": "히",
+  "rank": null,
+  "tribe": "Boss",
+  "attr": null,
+  "excl": "",
+  "section": "414 - 443 Boss Yo-kai"
+ },
+ {
+  "n": 442,
+  "en": "Red Paws",
+  "ko": "적",
+  "rank": null,
+  "tribe": "Boss",
+  "attr": null,
+  "excl": "WDS",
+  "section": "414 - 443 Boss Yo-kai"
+ },
+ {
+  "n": 443,
+  "en": "Swirlious Omai",
+  "ko": "백",
+  "rank": null,
+  "tribe": "Boss",
+  "attr": null,
+  "excl": "RCC",
+  "section": "414 - 443 Boss Yo-kai"
+ },
+ {
+  "n": 444,
+  "en": "Bison Burly",
+  "ko": "빌",
+  "rank": "S",
+  "tribe": "Brave",
+  "attr": "Lightning",
+  "excl": "MRC",
+  "section": "444 - 458 Additional Yo-kai"
+ },
+ {
+  "n": 445,
+  "en": "Arachnevil",
+  "ko": "뿔",
+  "rank": "S",
+  "tribe": "Brave",
+  "attr": "Fire",
+  "excl": "MRC",
+  "section": "444 - 458 Additional Yo-kai"
+ },
+ {
+  "n": 446,
+  "en": "Toadal Demon",
+  "ko": "뿔",
+  "rank": "S",
+  "tribe": "Mysterious",
+  "attr": "Water",
+  "excl": "MRC",
+  "section": "444 - 458 Additional Yo-kai"
+ },
+ {
+  "n": 447,
+  "en": "Fuu 2",
+  "ko": "평",
+  "rank": "C",
+  "tribe": "Mysterious",
+  "attr": "Wind",
+  "excl": "MRC",
+  "section": "444 - 458 Additional Yo-kai"
+ },
+ {
+  "n": 448,
+  "en": "Kintaronyan",
+  "ko": "괴",
+  "rank": "A",
+  "tribe": "Tough",
+  "attr": "Earth",
+  "excl": "MRC",
+  "section": "444 - 458 Additional Yo-kai"
+ },
+ {
+  "n": 449,
+  "en": "Kabuking",
+  "ko": "로",
+  "rank": "S",
+  "tribe": "Tough",
+  "attr": "Lightning",
+  "excl": "MRC",
+  "section": "444 - 458 Additional Yo-kai"
+ },
+ {
+  "n": 450,
+  "en": "Rubeus J",
+  "ko": "루",
+  "rank": "A",
+  "tribe": "Charming",
+  "attr": "Fire",
+  "excl": "MRC",
+  "section": "444 - 458 Additional Yo-kai"
+ },
+ {
+  "n": 451,
+  "en": "Hardy Hound",
+  "ko": "하",
+  "rank": "A",
+  "tribe": "Charming",
+  "attr": "Ice",
+  "excl": "MRC",
+  "section": "444 - 458 Additional Yo-kai"
+ },
+ {
+  "n": 452,
+  "en": "Seaweed Sns.",
+  "ko": "해초선생님",
+  "rank": "C",
+  "tribe": "Heartful",
+  "attr": "Drain",
+  "excl": "MRC",
+  "section": "444 - 458 Additional Yo-kai"
+ },
+ {
+  "n": 453,
+  "en": "Odysseynyan",
+  "ko": "어",
+  "rank": "A",
+  "tribe": "Heartful",
+  "attr": "Restoration",
+  "excl": "MRC",
+  "section": "444 - 458 Additional Yo-kai"
+ },
+ {
+  "n": 454,
+  "en": "Gutsy Bones",
+  "ko": "뽑",
+  "rank": "A",
+  "tribe": "Shady",
+  "attr": "Wind",
+  "excl": "MRC",
+  "section": "444 - 458 Additional Yo-kai"
+ },
+ {
+  "n": 455,
+  "en": "Usapyon B",
+  "ko": "우",
+  "rank": "B",
+  "tribe": "Shady",
+  "attr": "Ice",
+  "excl": "MRC",
+  "section": "444 - 458 Additional Yo-kai"
+ },
+ {
+  "n": 456,
+  "en": "Drenchetta",
+  "ko": "침",
+  "rank": "C",
+  "tribe": "Eerie",
+  "attr": "Drain",
+  "excl": "MRC",
+  "section": "444 - 458 Additional Yo-kai"
+ },
+ {
+  "n": 457,
+  "en": "Starry Noko",
+  "ko": "외",
+  "rank": "B",
+  "tribe": "Slippery",
+  "attr": "Restoration",
+  "excl": "MRC",
+  "section": "444 - 458 Additional Yo-kai"
+ },
+ {
+  "n": 458,
+  "en": "Lord Enma",
+  "ko": "로",
+  "rank": "S",
+  "tribe": "Enma",
+  "attr": "Fire",
+  "excl": "MRC",
+  "section": "444 - 458 Additional Yo-kai"
+ },
+ {
+  "n": 459,
+  "en": "Captain Thunder",
+  "ko": "캡",
+  "rank": null,
+  "tribe": "Boss",
+  "attr": null,
+  "excl": "MRC",
+  "section": "459 - 470 New Boss Yo-kai"
+ },
+ {
+  "n": 460,
+  "en": "Captain Thunder (Serious Mode)",
+  "ko": "캡틴 썬더 진심",
+  "rank": null,
+  "tribe": "Boss",
+  "attr": null,
+  "excl": "MRC",
+  "section": "459 - 470 New Boss Yo-kai"
+ },
+ {
+  "n": 461,
+  "en": "Robonyan 3000",
+  "ko": "로",
+  "rank": null,
+  "tribe": "Boss",
+  "attr": null,
+  "excl": "MRC",
+  "section": "459 - 470 New Boss Yo-kai"
+ },
+ {
+  "n": 462,
+  "en": "Duke Drooly",
+  "ko": "나찰견왕",
+  "rank": null,
+  "tribe": "Boss",
+  "attr": null,
+  "excl": "MRC",
+  "section": "459 - 470 New Boss Yo-kai"
+ },
+ {
+  "n": 463,
+  "en": "Alicktokat",
+  "ko": "야차묘왕",
+  "rank": null,
+  "tribe": "Boss",
+  "attr": null,
+  "excl": "MRC",
+  "section": "459 - 470 New Boss Yo-kai"
+ },
+ {
+  "n": 464,
+  "en": "Zazel (Boss Form)",
+  "ko": "아수라",
+  "rank": null,
+  "tribe": "Boss",
+  "attr": null,
+  "excl": "MRC",
+  "section": "459 - 470 New Boss Yo-kai"
+ },
+ {
+  "n": 465,
+  "en": "Zazelmare",
+  "ko": "대",
+  "rank": null,
+  "tribe": "Boss",
+  "attr": null,
+  "excl": "MRC",
+  "section": "459 - 470 New Boss Yo-kai"
+ },
+ {
+  "n": 466,
+  "en": "Golden Claws",
+  "ko": "적",
+  "rank": null,
+  "tribe": "Boss",
+  "attr": null,
+  "excl": "MRC",
+  "section": "459 - 470 New Boss Yo-kai"
+ },
+ {
+  "n": 467,
+  "en": "Swirlious Gold",
+  "ko": "백",
+  "rank": null,
+  "tribe": "Boss",
+  "attr": null,
+  "excl": "MRC",
+  "section": "459 - 470 New Boss Yo-kai"
+ },
+ {
+  "n": 468,
+  "en": "Hinozall Awoken",
+  "ko": "히",
+  "rank": null,
+  "tribe": "Boss",
+  "attr": null,
+  "excl": "MRC",
+  "section": "459 - 470 New Boss Yo-kai"
+ },
+ {
+  "n": 469,
+  "en": "Shogun King",
+  "ko": "무",
+  "rank": null,
+  "tribe": "Boss",
+  "attr": null,
+  "excl": "MRC",
+  "section": "459 - 470 New Boss Yo-kai"
+ },
+ {
+  "n": 470,
+  "en": "Pink Emperor",
+  "ko": "핑크 엠페러",
+  "rank": null,
+  "tribe": "Boss",
+  "attr": null,
+  "excl": "MRC",
+  "section": "459 - 470 New Boss Yo-kai"
+ }
+]

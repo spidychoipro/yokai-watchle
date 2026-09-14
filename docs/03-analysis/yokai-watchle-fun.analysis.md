@@ -1,9 +1,9 @@
 # yokai-watchle-fun Analysis Document
 
-> **Summary**: 설계 대비 구현 갭 분석 (Check phase) — Rev 4: 메달 컨셉 리디자인 + ykw3 영어 전용
+> **Summary**: 설계 대비 구현 갭 분석 (Check phase) — Rev 4 메달 리디자인 + Rev 5 버스터즈 470종 & 한글판 ykw3 차단
 >
 > **Project**: yokai-watchle
-> **Version**: 3.0
+> **Version**: 5.0
 > **Date**: 2026-09-14
 > **Status**: Complete
 
@@ -26,6 +26,18 @@
 | 13 | 컨페티·효과음·공유 유지 | Match | `spawnConfetti`, `SFX`, `doShare`, jsdom T2 |
 | 14 | i18n 도움말/설정/통계 확장 | Match | I18N 키 적용, jsdom T8 |
 
+## Rev 5 (2026-09-14) — 버스터즈 + 한글판 ykw3 차단
+
+| # | Design Item | Status | Evidence |
+|---|-------------|--------|----------|
+| 15 | 버스터즈(ykwb) 470종 추가 — 적묘단/백견대/월토조 버전 | Match | `data/out/blasters.json`→`blasters_kr.json`(470/470 ko), build-data `ykwb` rc392/wd392/mrc368, jsdom T12 |
+| 16 | 나무위키 우회 실패 → 대체 소스(기존 kr_pairs+Fandom+websearch)로 한글명 100% | Match | `tools/blasters-kr.mjs` OVERRIDE 19건, matched 470/470 |
+| 17 | 한글판(ko)에서 ykw3 선택 불가 — 옵션 제거 + ykw3 중일 때 자동 폴백 | Match | `fillSelects()` 전용 조건 + `lang-toggle` fallback, jsdom T11 |
+| 18 | en에서는 ykw3 영어 전용 유지 (`ENGLISH_ONLY` 기존) | Match | `isEnglishOnly()` + `· EN` 배지, jsdom T11 |
+| 19 | 빌드 파이프라인 확장 (build-data.mjs에 ykwb 통합) | Match | `tools/build-data.mjs` GAMES + merged.ykwb 주입, `node build-data.mjs` 로그 |
+
+**Rev 5 Match Rate: 5/5 = 100%**
+
 ## 2. Gap Categories
 
 | Category | Count |
@@ -46,12 +58,12 @@
 | Check | Result |
 |-------|--------|
 | `node --check src/app.js` | Pass |
-| 데이터 구조 일관성 (rank/tribe/attr, 3525 entries) | Pass |
+| 데이터 구조 일관성 (rank/tribe/attr, 3525 + 470 entries) | Pass |
 | I18N 키 KO/EN 일치 | Pass |
-| jsdom 스모크 10개 그룹 + 무제한 12회 검증 | 80+ assertions Pass |
+| jsdom 스모크 13개 그룹 + 무제한 12회 검증 | 90+ assertions Pass |
 | 정적 서빙 (index/app/style/data) | 200 OK |
 
-**Match Rate: 14 / 14 = 100%**
+**Match Rate: Rev 3 14/14 = 100% · Rev 5 5/5 = 100%**
 
 ---
 
@@ -63,3 +75,4 @@
 | 2.1 | 2026-09-14 | Rev 2: Copilot 베이스 포팅 반영 | opencode |
 | 3.0 | 2026-09-14 | Rev 3: NYT 스타일 + 무제한 기회 반영 | opencode |
 | 4.0 | 2026-09-14 | Rev 4: 메달 컨셉 리디자인 + ykw3 영어 전용 반영 | opencode |
+| 5.0 | 2026-09-14 | Rev 5: 버스터즈(ykwb) 470종/적묘단·백견대·월토조 추가 + 한글판 ykw3 차단 반영 | opencode |
