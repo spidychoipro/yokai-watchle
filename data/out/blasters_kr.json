@@ -2,7 +2,7 @@
  {
   "n": 1,
   "en": "Pandle",
-  "ko": "무",
+  "ko": "무대꼬",
   "rank": "E",
   "tribe": "Brave",
   "attr": "Fire",
@@ -12,7 +12,7 @@
  {
   "n": 2,
   "en": "Undy",
-  "ko": "안",
+  "ko": "안꿈쩍",
   "rank": "C",
   "tribe": "Brave",
   "attr": "Fire",
@@ -22,7 +22,7 @@
  {
   "n": 3,
   "en": "Tanbo",
-  "ko": "다",
+  "ko": "다앞장",
   "rank": "B",
   "tribe": "Brave",
   "attr": "Earth",
@@ -32,7 +32,7 @@
  {
   "n": 4,
   "en": "Cutta-nah",
-  "ko": "해",
+  "ko": "해이칼",
   "rank": "E",
   "tribe": "Brave",
   "attr": "Wind",
@@ -42,7 +42,7 @@
  {
   "n": 5,
   "en": "Cutta-nah-nah",
-  "ko": "쑥",
+  "ko": "쑥대칼",
   "rank": "C",
   "tribe": "Brave",
   "attr": "Wind",
@@ -52,7 +52,7 @@
  {
   "n": 6,
   "en": "Slacka-slash",
-  "ko": "털",
+  "ko": "털레칼",
   "rank": "B",
   "tribe": "Brave",
   "attr": "Ice",
@@ -62,7 +62,7 @@
  {
   "n": 7,
   "en": "Brushido",
-  "ko": "청",
+  "ko": "청소병",
   "rank": "E",
   "tribe": "Brave",
   "attr": "Ice",
@@ -72,7 +72,7 @@
  {
   "n": 8,
   "en": "Washogun",
-  "ko": "결",
+  "ko": "결벽장군",
   "rank": "B",
   "tribe": "Brave",
   "attr": "Ice",
@@ -82,7 +82,7 @@
  {
   "n": 9,
   "en": "Lie-in",
-  "ko": "태",
+  "ko": "태사자",
   "rank": "E",
   "tribe": "Brave",
   "attr": "Ice",
@@ -92,7 +92,7 @@
  {
   "n": 10,
   "en": "Lie-in Heart",
-  "ko": "만",
+  "ko": "만성사자",
   "rank": "A",
   "tribe": "Brave",
   "attr": "Ice",
@@ -102,7 +102,7 @@
  {
   "n": 11,
   "en": "Hissfit",
-  "ko": "화",
+  "ko": "화나무사",
   "rank": "E",
   "tribe": "Brave",
   "attr": "Fire",
@@ -112,7 +112,7 @@
  {
   "n": 12,
   "en": "Zerberker",
-  "ko": "광",
+  "ko": "광귀",
   "rank": "A",
   "tribe": "Brave",
   "attr": "Fire",
@@ -122,7 +122,7 @@
  {
   "n": 13,
   "en": "Snartle",
-  "ko": "겁",
+  "ko": "겁주귀",
   "rank": "S",
   "tribe": "Brave",
   "attr": "Ice",
@@ -132,7 +132,7 @@
  {
   "n": 14,
   "en": "Mochismo",
-  "ko": "떡",
+  "ko": "떡강쇠",
   "rank": "D",
   "tribe": "Brave",
   "attr": "Earth",
@@ -142,7 +142,7 @@
  {
   "n": 15,
   "en": "Minochi",
-  "ko": "시",
+  "ko": "시기떡",
   "rank": "D",
   "tribe": "Brave",
   "attr": "Fire",
@@ -152,7 +152,7 @@
  {
   "n": 16,
   "en": "Tublappa",
-  "ko": "때",
+  "ko": "때쟁이",
   "rank": "D",
   "tribe": "Brave",
   "attr": "Lightning",
@@ -162,7 +162,7 @@
  {
   "n": 17,
   "en": "Slumberhog",
-  "ko": "잠",
+  "ko": "잠꿀돼지",
   "rank": "D",
   "tribe": "Brave",
   "attr": "Fire",
@@ -172,7 +172,7 @@
  {
   "n": 18,
   "en": "Snortlehog",
-  "ko": "열",
+  "ko": "열불돼지",
   "rank": "B",
   "tribe": "Brave",
   "attr": "Fire",
@@ -182,7 +182,7 @@
  {
   "n": 19,
   "en": "Samureel",
-  "ko": "장",
+  "ko": "장어무사",
   "rank": "D",
   "tribe": "Brave",
   "attr": "Water",
@@ -192,7 +192,7 @@
  {
   "n": 20,
   "en": "Time Keeler",
-  "ko": "싸",
+  "ko": "싸우장어",
   "rank": "B",
   "tribe": "Brave",
   "attr": "Water",
@@ -212,7 +212,7 @@
  {
   "n": 22,
   "en": "Flamurice",
-  "ko": "누",
+  "ko": "누룽지 무사",
   "rank": "A",
   "tribe": "Brave",
   "attr": "Fire",
@@ -222,7 +222,7 @@
  {
   "n": 23,
   "en": "Helmsman",
-  "ko": "투",
+  "ko": "투구귀신",
   "rank": "D",
   "tribe": "Brave",
   "attr": "Lightning",
@@ -232,7 +232,7 @@
  {
   "n": 24,
   "en": "Reuknight",
-  "ko": "환",
+  "ko": "환마장군",
   "rank": "A",
   "tribe": "Brave",
   "attr": "Lightning",
@@ -242,7 +242,7 @@
  {
   "n": 25,
   "en": "Corptain",
-  "ko": "황",
+  "ko": "황천대장군",
   "rank": "S",
   "tribe": "Brave",
   "attr": "Drain",
@@ -252,7 +252,7 @@
  {
   "n": 26,
   "en": "Mudmunch",
-  "ko": "논",
+  "ko": "논귀",
   "rank": "C",
   "tribe": "Brave",
   "attr": "Earth",
@@ -262,7 +262,7 @@
  {
   "n": 27,
   "en": "Sargeant Burly",
-  "ko": "빌",
+  "ko": "빌리 대장",
   "rank": "A",
   "tribe": "Brave",
   "attr": "Lightning",
@@ -272,7 +272,7 @@
  {
   "n": 28,
   "en": "Blazion",
-  "ko": "타",
+  "ko": "타올라이온",
   "rank": "C",
   "tribe": "Brave",
   "attr": "Fire",
@@ -282,7 +282,7 @@
  {
   "n": 29,
   "en": "Quaken",
-  "ko": "이",
+  "ko": "이글라이온",
   "rank": "B",
   "tribe": "Brave",
   "attr": "Earth",
@@ -292,7 +292,7 @@
  {
   "n": 30,
   "en": "Siro",
-  "ko": "미",
+  "ko": "미라클라이온",
   "rank": "A",
   "tribe": "Brave",
   "attr": "Lightning",
@@ -302,7 +302,7 @@
  {
   "n": 31,
   "en": "Chansin",
-  "ko": "승",
+  "ko": "승부사",
   "rank": "C",
   "tribe": "Brave",
   "attr": "Fire",
@@ -312,7 +312,7 @@
  {
   "n": 32,
   "en": "Sheen",
-  "ko": "요",
+  "ko": "요괴검사",
   "rank": "A",
   "tribe": "Brave",
   "attr": "Wind",
@@ -322,7 +322,7 @@
  {
   "n": 33,
   "en": "Snee",
-  "ko": "요",
+  "ko": "요괴마검사",
   "rank": "A",
   "tribe": "Brave",
   "attr": "Drain",
@@ -332,7 +332,7 @@
  {
   "n": 34,
   "en": "Gleam",
-  "ko": "요",
+  "ko": "요괴성검사",
   "rank": "S",
   "tribe": "Brave",
   "attr": "Lightning",
@@ -342,7 +342,7 @@
  {
   "n": 35,
   "en": "Benkei",
-  "ko": "요",
+  "ko": "요괴인",
   "rank": "C",
   "tribe": "Brave",
   "attr": "Ice",
@@ -352,7 +352,7 @@
  {
   "n": 36,
   "en": "B3-NK1",
-  "ko": "사",
+  "ko": "사이보그요괴인",
   "rank": "B",
   "tribe": "Brave",
   "attr": "Lightning",
@@ -362,7 +362,7 @@
  {
   "n": 37,
   "en": "Moximous N",
-  "ko": "요",
+  "ko": "요괴용사M",
   "rank": "B",
   "tribe": "Brave",
   "attr": "Wind",
@@ -372,7 +372,7 @@
  {
   "n": 38,
   "en": "Moximous K",
-  "ko": "요",
+  "ko": "요괴용사S",
   "rank": "B",
   "tribe": "Brave",
   "attr": "Water",
@@ -382,7 +382,7 @@
  {
   "n": 39,
   "en": "Hovernyan",
-  "ko": "부",
+  "ko": "부유냥",
   "rank": "B",
   "tribe": "Brave",
   "attr": "Wind",
@@ -392,7 +392,7 @@
  {
   "n": 40,
   "en": "Machonyan",
-  "ko": "마",
+  "ko": "마스크냥",
   "rank": "A",
   "tribe": "Brave",
   "attr": "Lightning",
@@ -402,7 +402,7 @@
  {
   "n": 41,
   "en": "Sushiyama",
-  "ko": "왕",
+  "ko": "왕대쪽",
   "rank": "B",
   "tribe": "Brave",
   "attr": "Ice",
@@ -412,7 +412,7 @@
  {
   "n": 42,
   "en": "Kapunki",
-  "ko": "기",
+  "ko": "기발하괴",
   "rank": "A",
   "tribe": "Brave",
   "attr": "Fire",
@@ -422,7 +422,7 @@
  {
   "n": 43,
   "en": "Beetler",
-  "ko": "사",
+  "ko": "사슴벌레무사",
   "rank": "B",
   "tribe": "Brave",
   "attr": "Earth",
@@ -432,7 +432,7 @@
  {
   "n": 44,
   "en": "Beetall",
-  "ko": "사",
+  "ko": "사슴벌레대장",
   "rank": "S",
   "tribe": "Brave",
   "attr": "Earth",
@@ -442,7 +442,7 @@
  {
   "n": 45,
   "en": "Cruncha",
-  "ko": "왕",
+  "ko": "왕사슴벌레신",
   "rank": "S",
   "tribe": "Brave",
   "attr": "Lightning",
@@ -452,7 +452,7 @@
  {
   "n": 46,
   "en": "Demuncher",
-  "ko": "도",
+  "ko": "도식귀",
   "rank": "S",
   "tribe": "Brave",
   "attr": "Earth",
@@ -462,7 +462,7 @@
  {
   "n": 47,
   "en": "Devourer",
-  "ko": "명",
+  "ko": "명식귀",
   "rank": "S",
   "tribe": "Brave",
   "attr": "Drain",
@@ -472,7 +472,7 @@
  {
   "n": 48,
   "en": "Illuminoct",
-  "ko": "황",
+  "ko": "황금이무기",
   "rank": "S",
   "tribe": "Brave",
   "attr": "Lightning",
@@ -482,7 +482,7 @@
  {
   "n": 49,
   "en": "Brokenbrella",
-  "ko": "거",
+  "ko": "거꾸로브렐러",
   "rank": "E",
   "tribe": "Mysterious",
   "attr": "Wind",
@@ -492,7 +492,7 @@
  {
   "n": 50,
   "en": "Pittapatt",
-  "ko": "외",
+  "ko": "외눈짚신",
   "rank": "E",
   "tribe": "Mysterious",
   "attr": "Earth",
@@ -502,7 +502,7 @@
  {
   "n": 51,
   "en": "Snotsolong",
-  "ko": "줄",
+  "ko": "줄줄새",
   "rank": "E",
   "tribe": "Mysterious",
   "attr": "Water",
@@ -512,7 +512,7 @@
  {
   "n": 52,
   "en": "Duchoo",
-  "ko": "고",
+  "ko": "고뿔덕",
   "rank": "D",
   "tribe": "Mysterious",
   "attr": "Ice",
@@ -522,7 +522,7 @@
  {
   "n": 53,
   "en": "D'wanna",
-  "ko": "안",
+  "ko": "안하겠승",
   "rank": "E",
   "tribe": "Mysterious",
   "attr": "Restoration",
@@ -532,7 +532,7 @@
  {
   "n": 54,
   "en": "N'more",
-  "ko": "하",
+  "ko": "하기싫승",
   "rank": "C",
   "tribe": "Mysterious",
   "attr": "Restoration",
@@ -542,7 +542,7 @@
  {
   "n": 55,
   "en": "Q'wit",
-  "ko": "말",
+  "ko": "말하기싫승",
   "rank": "B",
   "tribe": "Mysterious",
   "attr": "Earth",
@@ -552,7 +552,7 @@
  {
   "n": 56,
   "en": "Wazzat",
-  "ko": "아",
+  "ko": "아차모",
   "rank": "E",
   "tribe": "Mysterious",
   "attr": "Wind",
@@ -562,7 +562,7 @@
  {
   "n": 57,
   "en": "Houzzat",
-  "ko": "아",
+  "ko": "아차방",
   "rank": "B",
   "tribe": "Mysterious",
   "attr": "Wind",
@@ -572,7 +572,7 @@
  {
   "n": 58,
   "en": "Dummkap",
-  "ko": "멍",
+  "ko": "멍모자",
   "rank": "E",
   "tribe": "Mysterious",
   "attr": "Lightning",
@@ -582,7 +582,7 @@
  {
   "n": 59,
   "en": "Faysoff",
-  "ko": "없",
+  "ko": "없구리",
   "rank": "D",
   "tribe": "Mysterious",
   "attr": "Water",
@@ -592,7 +592,7 @@
  {
   "n": 60,
   "en": "Snottle",
-  "ko": "코",
+  "ko": "코파코파",
   "rank": "D",
   "tribe": "Mysterious",
   "attr": "Drain",
@@ -602,7 +602,7 @@
  {
   "n": 61,
   "en": "Lafalotta",
-  "ko": "웃",
+  "ko": "웃기자나",
   "rank": "D",
   "tribe": "Mysterious",
   "attr": "Drain",
@@ -612,7 +612,7 @@
  {
   "n": 62,
   "en": "Blips",
-  "ko": "퍼",
+  "ko": "퍼래퍼래",
   "rank": "C",
   "tribe": "Mysterious",
   "attr": "Drain",
@@ -622,7 +622,7 @@
  {
   "n": 63,
   "en": "Tattletell",
-  "ko": "나",
+  "ko": "나불할멈",
   "rank": "D",
   "tribe": "Mysterious",
   "attr": "Restoration",
@@ -632,7 +632,7 @@
  {
   "n": 64,
   "en": "Tattlecast",
-  "ko": "까",
+  "ko": "까발멈",
   "rank": "B",
   "tribe": "Mysterious",
   "attr": "Restoration",
@@ -642,7 +642,7 @@
  {
   "n": 65,
   "en": "Skranny",
-  "ko": "백",
+  "ko": "백골할멈",
   "rank": "C",
   "tribe": "Mysterious",
   "attr": "Restoration",
@@ -652,7 +652,7 @@
  {
   "n": 66,
   "en": "Cupistol",
-  "ko": "인",
+  "ko": "인기많총",
   "rank": "D",
   "tribe": "Mysterious",
   "attr": "Wind",
@@ -662,7 +662,7 @@
  {
   "n": 67,
   "en": "Casanuva",
-  "ko": "인",
+  "ko": "인기마누스",
   "rank": "A",
   "tribe": "Mysterious",
   "attr": "Wind",
@@ -672,7 +672,7 @@
  {
   "n": 68,
   "en": "Casanono",
-  "ko": "인",
+  "ko": "인기없스",
   "rank": "A",
   "tribe": "Mysterious",
   "attr": "Fire",
@@ -682,7 +682,7 @@
  {
   "n": 69,
   "en": "So-Sorree",
-  "ko": "일",
+  "ko": "일단미안",
   "rank": "D",
   "tribe": "Mysterious",
   "attr": "Lightning",
@@ -692,7 +692,7 @@
  {
   "n": 70,
   "en": "Bowminos",
-  "ko": "엎",
+  "ko": "엎드려송",
   "rank": "A",
   "tribe": "Mysterious",
   "attr": "Earth",
@@ -702,7 +702,7 @@
  {
   "n": 71,
   "en": "Smogling",
-  "ko": "연",
+  "ko": "연기살이",
   "rank": "D",
   "tribe": "Mysterious",
   "attr": "Wind",
@@ -712,7 +712,7 @@
  {
   "n": 72,
   "en": "Smogmella",
-  "ko": "연",
+  "ko": "연귀",
   "rank": "A",
   "tribe": "Mysterious",
   "attr": "Wind",
@@ -722,7 +722,7 @@
  {
   "n": 73,
   "en": "Signibble",
-  "ko": "냠",
+  "ko": "냠냠동자",
   "rank": "D",
   "tribe": "Mysterious",
   "attr": "Lightning",
@@ -732,7 +732,7 @@
  {
   "n": 74,
   "en": "Signiton",
-  "ko": "전",
+  "ko": "전파신",
   "rank": "A",
   "tribe": "Mysterious",
   "attr": "Lightning",
@@ -742,7 +742,7 @@
  {
   "n": 75,
   "en": "Statiking",
-  "ko": "발",
+  "ko": "발전신",
   "rank": "S",
   "tribe": "Mysterious",
   "attr": "Lightning",
@@ -752,7 +752,7 @@
  {
   "n": 76,
   "en": "Master Oden",
-  "ko": "묵",
+  "ko": "묵파신",
   "rank": "A",
   "tribe": "Mysterious",
   "attr": "Lightning",
@@ -762,7 +762,7 @@
  {
   "n": 77,
   "en": "Failian",
-  "ko": "뻥",
+  "ko": "뻥계인",
   "rank": "C",
   "tribe": "Mysterious",
   "attr": "Ice",
@@ -772,7 +772,7 @@
  {
   "n": 78,
   "en": "Apelican",
-  "ko": "아",
+  "ko": "아펠리칸",
   "rank": "C",
   "tribe": "Mysterious",
   "attr": "Wind",
@@ -782,7 +782,7 @@
  {
   "n": 79,
   "en": "Mirapo",
-  "ko": "운",
+  "ko": "운외경",
   "rank": "C",
   "tribe": "Mysterious",
   "attr": "Drain",
@@ -792,7 +792,7 @@
  {
   "n": 80,
   "en": "Miradox",
-  "ko": "삼",
+  "ko": "삼면운외경",
   "rank": "A",
   "tribe": "Mysterious",
   "attr": "Drain",
@@ -802,7 +802,7 @@
  {
   "n": 81,
   "en": "Mircle",
-  "ko": "암",
+  "ko": "암흑경",
   "rank": "A",
   "tribe": "Mysterious",
   "attr": "Drain",
@@ -812,7 +812,7 @@
  {
   "n": 82,
   "en": "Illoo",
-  "ko": "환",
+  "ko": "환상도사",
   "rank": "C",
   "tribe": "Mysterious",
   "attr": "Water",
@@ -822,7 +822,7 @@
  {
   "n": 83,
   "en": "Elloo",
-  "ko": "아",
+  "ko": "아랑도사",
   "rank": "C",
   "tribe": "Mysterious",
   "attr": "Ice",
@@ -832,7 +832,7 @@
  {
   "n": 84,
   "en": "Alloo",
-  "ko": "방",
+  "ko": "방랑도사",
   "rank": "B",
   "tribe": "Mysterious",
   "attr": "Lightning",
@@ -842,7 +842,7 @@
  {
   "n": 85,
   "en": "Espy",
-  "ko": "다",
+  "ko": "다알견",
   "rank": "B",
   "tribe": "Mysterious",
   "attr": "Earth",
@@ -852,7 +852,7 @@
  {
   "n": 86,
   "en": "Infour",
-  "ko": "네",
+  "ko": "네개눈",
   "rank": "B",
   "tribe": "Mysterious",
   "attr": "Drain",
@@ -862,7 +862,7 @@
  {
   "n": 87,
   "en": "Verygoodsir",
-  "ko": "베",
+  "ko": "베리굿서",
   "rank": "B",
   "tribe": "Mysterious",
   "attr": "Fire",
@@ -872,7 +872,7 @@
  {
   "n": 88,
   "en": "Tengu",
-  "ko": "풍",
+  "ko": "풍술사",
   "rank": "S",
   "tribe": "Mysterious",
   "attr": "Wind",
@@ -882,7 +882,7 @@
  {
   "n": 89,
   "en": "Flengu",
-  "ko": "징",
+  "ko": "징벌술사",
   "rank": "S",
   "tribe": "Mysterious",
   "attr": "Fire",
@@ -892,7 +892,7 @@
  {
   "n": 90,
   "en": "Kyubi",
-  "ko": "구",
+  "ko": "구미",
   "rank": "S",
   "tribe": "Mysterious",
   "attr": "Fire",
@@ -902,7 +902,7 @@
  {
   "n": 91,
   "en": "Frostail",
-  "ko": "견",
+  "ko": "견신",
   "rank": "S",
   "tribe": "Mysterious",
   "attr": "Ice",
@@ -912,7 +912,7 @@
  {
   "n": 92,
   "en": "Chymera",
-  "ko": "타",
+  "ko": "타이몽",
   "rank": "S",
   "tribe": "Mysterious",
   "attr": "Lightning",
@@ -922,7 +922,7 @@
  {
   "n": 93,
   "en": "Kingmera",
-  "ko": "닌",
+  "ko": "닌자몽",
   "rank": "S",
   "tribe": "Mysterious",
   "attr": "Lightning",
@@ -932,7 +932,7 @@
  {
   "n": 94,
   "en": "Terrorpotta",
-  "ko": "두",
+  "ko": "두근토기",
   "rank": "E",
   "tribe": "Tough",
   "attr": "Earth",
@@ -942,7 +942,7 @@
  {
   "n": 95,
   "en": "Dulluma",
-  "ko": "힘",
+  "ko": "힘없뚜기",
   "rank": "E",
   "tribe": "Tough",
   "attr": "Earth",
@@ -952,7 +952,7 @@
  {
   "n": 96,
   "en": "Darumacho",
-  "ko": "마",
+  "ko": "마초뚜기",
   "rank": "B",
   "tribe": "Tough",
   "attr": "Earth",
@@ -962,7 +962,7 @@
  {
   "n": 97,
   "en": "Goruma",
-  "ko": "고",
+  "ko": "고릴뚜기",
   "rank": "B",
   "tribe": "Tough",
   "attr": "Wind",
@@ -972,7 +972,7 @@
  {
   "n": 98,
   "en": "Wotchagot",
-  "ko": "부",
+  "ko": "부럽쌀",
   "rank": "E",
   "tribe": "Tough",
   "attr": "Ice",
@@ -982,7 +982,7 @@
  {
   "n": 99,
   "en": "Pride Shrimp",
-  "ko": "비",
+  "ko": "비싸동",
   "rank": "B",
   "tribe": "Tough",
   "attr": "Restoration",
@@ -992,7 +992,7 @@
  {
   "n": 100,
   "en": "No-Go Kart",
-  "ko": "헤",
+  "ko": "헤매차",
   "rank": "E",
   "tribe": "Tough",
   "attr": "Earth",
@@ -1002,7 +1002,7 @@
  {
   "n": 101,
   "en": "Mistank",
-  "ko": "길",
+  "ko": "길치탱",
   "rank": "B",
   "tribe": "Tough",
   "attr": "Earth",
@@ -1012,7 +1012,7 @@
  {
   "n": 102,
   "en": "Noway",
-  "ko": "무",
+  "ko": "무리담",
   "rank": "E",
   "tribe": "Tough",
   "attr": "Earth",
@@ -1022,7 +1022,7 @@
  {
   "n": 103,
   "en": "Impass",
-  "ko": "무",
+  "ko": "무리성",
   "rank": "A",
   "tribe": "Tough",
   "attr": "Earth",
@@ -1032,7 +1032,7 @@
  {
   "n": 104,
   "en": "Walldin",
-  "ko": "백",
+  "ko": "백성벽",
   "rank": "A",
   "tribe": "Tough",
   "attr": "Earth",
@@ -1042,7 +1042,7 @@
  {
   "n": 105,
   "en": "Roughraff",
-  "ko": "타",
+  "ko": "타라락",
   "rank": "E",
   "tribe": "Tough",
   "attr": "Earth",
@@ -1052,7 +1052,7 @@
  {
   "n": 106,
   "en": "Badude",
-  "ko": "요",
+  "ko": "요괴대장",
   "rank": "B",
   "tribe": "Tough",
   "attr": "Earth",
@@ -1062,7 +1062,7 @@
  {
   "n": 107,
   "en": "Bruff",
-  "ko": "요",
+  "ko": "요괴형님",
   "rank": "A",
   "tribe": "Tough",
   "attr": "Earth",
@@ -1072,7 +1072,7 @@
  {
   "n": 108,
   "en": "Armsman",
-  "ko": "갑",
+  "ko": "갑옷귀신",
   "rank": "D",
   "tribe": "Tough",
   "attr": "Ice",
@@ -1082,7 +1082,7 @@
  {
   "n": 109,
   "en": "Mimikin",
-  "ko": "따",
+  "ko": "따라해마네킹",
   "rank": "D",
   "tribe": "Tough",
   "attr": "Ice",
@@ -1092,7 +1092,7 @@
  {
   "n": 110,
   "en": "Blowkade",
-  "ko": "못",
+  "ko": "못가복",
   "rank": "D",
   "tribe": "Tough",
   "attr": "Water",
@@ -1102,7 +1102,7 @@
  {
   "n": 111,
   "en": "Ledballoon",
-  "ko": "무",
+  "ko": "무쇠못가복",
   "rank": "C",
   "tribe": "Tough",
   "attr": "Water",
@@ -1112,7 +1112,7 @@
  {
   "n": 112,
   "en": "Sumodon",
-  "ko": "우",
+  "ko": "우동씨름꾼",
   "rank": "D",
   "tribe": "Tough",
   "attr": "Restoration",
@@ -1122,7 +1122,7 @@
  {
   "n": 113,
   "en": "Yokozudon",
-  "ko": "우",
+  "ko": "우동천하장사",
   "rank": "B",
   "tribe": "Tough",
   "attr": "Restoration",
@@ -1132,7 +1132,7 @@
  {
   "n": 114,
   "en": "Whateverest",
-  "ko": "그",
+  "ko": "그래산",
   "rank": "D",
   "tribe": "Tough",
   "attr": "Fire",
@@ -1142,7 +1142,7 @@
  {
   "n": 115,
   "en": "Whatuption",
-  "ko": "우",
+  "ko": "우~화!산",
   "rank": "B",
   "tribe": "Tough",
   "attr": "Fire",
@@ -1152,7 +1152,7 @@
  {
   "n": 116,
   "en": "Fidgephant",
-  "ko": "샌",
+  "ko": "샌다끼리",
   "rank": "D",
   "tribe": "Tough",
   "attr": "Water",
@@ -1162,7 +1162,7 @@
  {
   "n": 117,
   "en": "Touphant",
-  "ko": "버",
+  "ko": "버티끼리",
   "rank": "C",
   "tribe": "Tough",
   "attr": "Water",
@@ -1172,7 +1172,7 @@
  {
   "n": 118,
   "en": "Enduriphant",
-  "ko": "참",
+  "ko": "참맘모스",
   "rank": "A",
   "tribe": "Tough",
   "attr": "Water",
@@ -1182,7 +1182,7 @@
  {
   "n": 119,
   "en": "Zappary",
-  "ko": "번",
+  "ko": "번개동자",
   "rank": "D",
   "tribe": "Tough",
   "attr": "Lightning",
@@ -1192,7 +1192,7 @@
  {
   "n": 120,
   "en": "Frazzel",
-  "ko": "피",
+  "ko": "피뢰신",
   "rank": "A",
   "tribe": "Tough",
   "attr": "Lightning",
@@ -1202,7 +1202,7 @@
  {
   "n": 121,
   "en": "Swelton",
-  "ko": "더",
+  "ko": "더위타귀",
   "rank": "C",
   "tribe": "Tough",
   "attr": "Fire",
@@ -1212,7 +1212,7 @@
  {
   "n": 122,
   "en": "Mad Mountain",
-  "ko": "설",
+  "ko": "설산씨름꾼",
   "rank": "C",
   "tribe": "Tough",
   "attr": "Ice",
@@ -1222,7 +1222,7 @@
  {
   "n": 123,
   "en": "Lava Lord",
-  "ko": "화",
+  "ko": "화산씨름꾼",
   "rank": "B",
   "tribe": "Tough",
   "attr": "Lightning",
@@ -1232,7 +1232,7 @@
  {
   "n": 124,
   "en": "Castelius III",
-  "ko": "동",
+  "ko": "동삼등",
   "rank": "C",
   "tribe": "Tough",
   "attr": "Earth",
@@ -1242,7 +1242,7 @@
  {
   "n": 125,
   "en": "Castelius II",
-  "ko": "은",
+  "ko": "은이등",
   "rank": "B",
   "tribe": "Tough",
   "attr": "Ice",
@@ -1252,7 +1252,7 @@
  {
   "n": 126,
   "en": "Castelius I",
-  "ko": "금",
+  "ko": "금일등",
   "rank": "A",
   "tribe": "Tough",
   "attr": "Lightning",
@@ -1262,7 +1262,7 @@
  {
   "n": 127,
   "en": "Castelius Max",
-  "ko": "백",
+  "ko": "백금등",
   "rank": "S",
   "tribe": "Tough",
   "attr": "Wind",
@@ -1272,7 +1272,7 @@
  {
   "n": 128,
   "en": "Rhinoggin",
-  "ko": "풍",
+  "ko": "풍뎅무사",
   "rank": "B",
   "tribe": "Tough",
   "attr": "Earth",
@@ -1282,7 +1282,7 @@
  {
   "n": 129,
   "en": "Rhinormous",
-  "ko": "풍",
+  "ko": "풍뎅무쌍",
   "rank": "A",
   "tribe": "Tough",
   "attr": "Earth",
@@ -1292,7 +1292,7 @@
  {
   "n": 130,
   "en": "Hornaplenty",
-  "ko": "왕",
+  "ko": "왕풍뎅신",
   "rank": "S",
   "tribe": "Tough",
   "attr": "Earth",
@@ -1302,7 +1302,7 @@
  {
   "n": 131,
   "en": "Robonyan",
-  "ko": "로",
+  "ko": "로보냥",
   "rank": "A",
   "tribe": "Tough",
   "attr": "Ice",
@@ -1312,7 +1312,7 @@
  {
   "n": 132,
   "en": "Goldenyan",
-  "ko": "골",
+  "ko": "골드냥",
   "rank": "S",
   "tribe": "Tough",
   "attr": "Lightning",
@@ -1322,7 +1322,7 @@
  {
   "n": 133,
   "en": "Robonyan F",
-  "ko": "로",
+  "ko": "로보냥F",
   "rank": "A",
   "tribe": "Tough",
   "attr": "Fire",
@@ -1332,7 +1332,7 @@
  {
   "n": 134,
   "en": "Dromp",
-  "ko": "얼",
+  "ko": "얼룩덜룩",
   "rank": "A",
   "tribe": "Tough",
   "attr": "Earth",
@@ -1342,7 +1342,7 @@
  {
   "n": 135,
   "en": "Swosh",
-  "ko": "바",
+  "ko": "바다허깨비",
   "rank": "S",
   "tribe": "Tough",
   "attr": "Water",
@@ -1352,7 +1352,7 @@
  {
   "n": 136,
   "en": "Toadal Dude",
-  "ko": "왕",
+  "ko": "왕두꺼비",
   "rank": "S",
   "tribe": "Tough",
   "attr": "Water",
@@ -1362,7 +1362,7 @@
  {
   "n": 137,
   "en": "Uber Geeko",
-  "ko": "왕",
+  "ko": "왕도마뱀",
   "rank": "S",
   "tribe": "Tough",
   "attr": "Fire",
@@ -1372,7 +1372,7 @@
  {
   "n": 138,
   "en": "Gargaros",
-  "ko": "빨",
+  "ko": "빨간도깨비",
   "rank": "S",
   "tribe": "Tough",
   "attr": "Fire",
@@ -1382,7 +1382,7 @@
  {
   "n": 139,
   "en": "Ogralus",
-  "ko": "퍼",
+  "ko": "퍼렁도깨비",
   "rank": "S",
   "tribe": "Tough",
   "attr": "Water",
@@ -1392,7 +1392,7 @@
  {
   "n": 140,
   "en": "Orcanos",
-  "ko": "껌",
+  "ko": "껌정도깨비",
   "rank": "S",
   "tribe": "Tough",
   "attr": "Drain",
@@ -1402,7 +1402,7 @@
  {
   "n": 141,
   "en": "Leggly",
-  "ko": "미",
+  "ko": "미각",
   "rank": "E",
   "tribe": "Charming",
   "attr": "Restoration",
@@ -1412,7 +1412,7 @@
  {
   "n": 142,
   "en": "Dazzabel",
-  "ko": "멋",
+  "ko": "멋골부인",
   "rank": "E",
   "tribe": "Charming",
   "attr": "Fire",
@@ -1422,7 +1422,7 @@
  {
   "n": 143,
   "en": "Rattelle",
-  "ko": "해",
+  "ko": "해골양",
   "rank": "C",
   "tribe": "Charming",
   "attr": "Fire",
@@ -1432,7 +1432,7 @@
  {
   "n": 144,
   "en": "Skelebella",
-  "ko": "칼",
+  "ko": "칼슘미인",
   "rank": "B",
   "tribe": "Charming",
   "attr": "Water",
@@ -1442,7 +1442,7 @@
  {
   "n": 145,
   "en": "Cadin",
-  "ko": "무",
+  "ko": "무사맴",
   "rank": "E",
   "tribe": "Charming",
   "attr": "Wind",
@@ -1452,7 +1452,7 @@
  {
   "n": 146,
   "en": "Cadable",
-  "ko": "짱",
+  "ko": "짱무사맴",
   "rank": "C",
   "tribe": "Charming",
   "attr": "Wind",
@@ -1462,7 +1462,7 @@
  {
   "n": 147,
   "en": "Singcada",
-  "ko": "가",
+  "ko": "가수무사맴",
   "rank": "B",
   "tribe": "Charming",
   "attr": "Fire",
@@ -1472,7 +1472,7 @@
  {
   "n": 148,
   "en": "Pupsicle",
-  "ko": "오",
+  "ko": "오들강지",
   "rank": "E",
   "tribe": "Charming",
   "attr": "Ice",
@@ -1482,7 +1482,7 @@
  {
   "n": 149,
   "en": "Chilhuahua",
-  "ko": "오",
+  "ko": "오들왕자",
   "rank": "A",
   "tribe": "Charming",
   "attr": "Ice",
@@ -1492,7 +1492,7 @@
  {
   "n": 150,
   "en": "Swelterrier",
-  "ko": "아",
+  "ko": "아더월월",
   "rank": "S",
   "tribe": "Charming",
   "attr": "Fire",
@@ -1502,7 +1502,7 @@
  {
   "n": 151,
   "en": "Jumbelina",
-  "ko": "뒤",
+  "ko": "뒤집얼",
   "rank": "D",
   "tribe": "Charming",
   "attr": "Ice",
@@ -1512,7 +1512,7 @@
  {
   "n": 152,
   "en": "Boyclops",
-  "ko": "외",
+  "ko": "외눈동자",
   "rank": "D",
   "tribe": "Charming",
   "attr": "Ice",
@@ -1522,7 +1522,7 @@
  {
   "n": 153,
   "en": "Jibanyan",
-  "ko": "지",
+  "ko": "지바냥",
   "rank": "D",
   "tribe": "Charming",
   "attr": "Fire",
@@ -1532,7 +1532,7 @@
  {
   "n": 154,
   "en": "Jibanyan S",
-  "ko": "지",
+  "ko": "지바냥S",
   "rank": "S",
   "tribe": "Charming",
   "attr": "Fire",
@@ -1602,7 +1602,7 @@
  {
   "n": 161,
   "en": "Sapphinyan",
-  "ko": "사",
+  "ko": "사파이냥",
   "rank": "A",
   "tribe": "Charming",
   "attr": "Water",
@@ -1612,7 +1612,7 @@
  {
   "n": 162,
   "en": "Emenyan",
-  "ko": "에",
+  "ko": "에메랄냥",
   "rank": "A",
   "tribe": "Charming",
   "attr": "Restoration",
@@ -1622,7 +1622,7 @@
  {
   "n": 163,
   "en": "Rubinyan",
-  "ko": "루",
+  "ko": "루비냥",
   "rank": "A",
   "tribe": "Charming",
   "attr": "Fire",
@@ -1632,7 +1632,7 @@
  {
   "n": 164,
   "en": "Topanyan",
-  "ko": "토",
+  "ko": "토파냥",
   "rank": "A",
   "tribe": "Charming",
   "attr": "Lightning",
@@ -1642,7 +1642,7 @@
  {
   "n": 165,
   "en": "Dianyan",
-  "ko": "다",
+  "ko": "다이아냥",
   "rank": "A",
   "tribe": "Charming",
   "attr": "Ice",
@@ -1652,7 +1652,7 @@
  {
   "n": 166,
   "en": "Thornyan",
-  "ko": "가",
+  "ko": "가시냥",
   "rank": "B",
   "tribe": "Charming",
   "attr": "Wind",
@@ -1662,7 +1662,7 @@
  {
   "n": 167,
   "en": "Baddinyan",
-  "ko": "배",
+  "ko": "배드냥",
   "rank": "B",
   "tribe": "Charming",
   "attr": "Fire",
@@ -1672,7 +1672,7 @@
  {
   "n": 168,
   "en": "Buchinyan",
-  "ko": "위",
+  "ko": "위스냥",
   "rank": "A",
   "tribe": "Charming",
   "attr": "Lightning",
@@ -1682,7 +1682,7 @@
  {
   "n": 169,
   "en": "Sailornyan",
-  "ko": "세",
+  "ko": "세일러냥",
   "rank": "A",
   "tribe": "Charming",
   "attr": "Restoration",
@@ -1692,7 +1692,7 @@
  {
   "n": 170,
   "en": "Wondernyan",
-  "ko": "원",
+  "ko": "원더냥",
   "rank": "B",
   "tribe": "Charming",
   "attr": "Drain",
@@ -1702,7 +1702,7 @@
  {
   "n": 171,
   "en": "Jetnyan",
-  "ko": "제",
+  "ko": "제트냥",
   "rank": "B",
   "tribe": "Charming",
   "attr": "Wind",
@@ -1712,7 +1712,7 @@
  {
   "n": 172,
   "en": "Rudy",
-  "ko": "야",
+  "ko": "야옹이",
   "rank": "C",
   "tribe": "Charming",
   "attr": "Fire",
@@ -1722,7 +1722,7 @@
  {
   "n": 173,
   "en": "Panja Pupil",
-  "ko": "풍",
+  "ko": "풍류판다",
   "rank": "D",
   "tribe": "Charming",
   "attr": "Ice",
@@ -1732,7 +1732,7 @@
  {
   "n": 174,
   "en": "Panja Pro",
-  "ko": "풍",
+  "ko": "풍류닌자판다",
   "rank": "B",
   "tribe": "Charming",
   "attr": "Ice",
@@ -1742,7 +1742,7 @@
  {
   "n": 175,
   "en": "Walkappa",
-  "ko": "접",
+  "ko": "접시거북",
   "rank": "D",
   "tribe": "Charming",
   "attr": "Water",
@@ -1752,7 +1752,7 @@
  {
   "n": 176,
   "en": "Appak",
-  "ko": "방",
+  "ko": "방랑거북",
   "rank": "A",
   "tribe": "Charming",
   "attr": "Water",
@@ -1762,7 +1762,7 @@
  {
   "n": 177,
   "en": "Supyo",
-  "ko": "서",
+  "ko": "서퍼거북",
   "rank": "A",
   "tribe": "Charming",
   "attr": "Water",
@@ -1772,7 +1772,7 @@
  {
   "n": 178,
   "en": "Robokapp",
-  "ko": "로",
+  "ko": "로보거북",
   "rank": "A",
   "tribe": "Charming",
   "attr": "Water",
@@ -1782,7 +1782,7 @@
  {
   "n": 179,
   "en": "Komasan",
-  "ko": "백",
+  "ko": "백멍이",
   "rank": "D",
   "tribe": "Charming",
   "attr": "Fire",
@@ -1792,7 +1792,7 @@
  {
   "n": 180,
   "en": "Komane",
-  "ko": "사",
+  "ko": "사자견",
   "rank": "A",
   "tribe": "Charming",
   "attr": "Fire",
@@ -1802,7 +1802,7 @@
  {
   "n": 181,
   "en": "Komasan S",
-  "ko": "백",
+  "ko": "백멍이S",
   "rank": "S",
   "tribe": "Charming",
   "attr": "Fire",
@@ -1812,7 +1812,7 @@
  {
   "n": 182,
   "en": "Komajiro",
-  "ko": "황",
+  "ko": "황멍이",
   "rank": "D",
   "tribe": "Charming",
   "attr": "Lightning",
@@ -1822,7 +1822,7 @@
  {
   "n": 183,
   "en": "Komiger",
-  "ko": "호",
+  "ko": "호랑견",
   "rank": "A",
   "tribe": "Charming",
   "attr": "Lightning",
@@ -1832,7 +1832,7 @@
  {
   "n": 184,
   "en": "Komajiro S",
-  "ko": "황",
+  "ko": "황멍이S",
   "rank": "S",
   "tribe": "Charming",
   "attr": "Lightning",
@@ -1842,7 +1842,7 @@
  {
   "n": 185,
   "en": "Robokoma",
-  "ko": "로",
+  "ko": "로보멍",
   "rank": "A",
   "tribe": "Charming",
   "attr": "Fire",
@@ -1852,7 +1852,7 @@
  {
   "n": 186,
   "en": "Jibakoma",
-  "ko": "지",
+  "ko": "지바멍",
   "rank": "A",
   "tribe": "Charming",
   "attr": "Fire",
@@ -1872,7 +1872,7 @@
  {
   "n": 188,
   "en": "Bakulia",
-  "ko": "맥",
+  "ko": "맥왕",
   "rank": "B",
   "tribe": "Charming",
   "attr": "Drain",
@@ -1892,7 +1892,7 @@
  {
   "n": 190,
   "en": "Drizzelda",
-  "ko": "우",
+  "ko": "우녀",
   "rank": "C",
   "tribe": "Charming",
   "attr": "Water",
@@ -1902,7 +1902,7 @@
  {
   "n": 191,
   "en": "Nekidspeed",
-  "ko": "냅",
+  "ko": "냅다신발",
   "rank": "C",
   "tribe": "Charming",
   "attr": "Ice",
@@ -1912,7 +1912,7 @@
  {
   "n": 192,
   "en": "Shmoopie",
-  "ko": "귀",
+  "ko": "귀욤개",
   "rank": "C",
   "tribe": "Charming",
   "attr": "Restoration",
@@ -1922,7 +1922,7 @@
  {
   "n": 193,
   "en": "Pinkipoo",
-  "ko": "사",
+  "ko": "사랑개",
   "rank": "B",
   "tribe": "Charming",
   "attr": "Restoration",
@@ -1932,7 +1932,7 @@
  {
   "n": 194,
   "en": "Pookivil",
-  "ko": "음",
+  "ko": "음흉개",
   "rank": "A",
   "tribe": "Charming",
   "attr": "Drain",
@@ -1942,7 +1942,7 @@
  {
   "n": 195,
   "en": "Harry Barry",
-  "ko": "달",
+  "ko": "달웅이",
   "rank": "B",
   "tribe": "Charming",
   "attr": "Restoration",
@@ -1952,7 +1952,7 @@
  {
   "n": 196,
   "en": "Frostina",
-  "ko": "설",
+  "ko": "설녀",
   "rank": "B",
   "tribe": "Charming",
   "attr": "Ice",
@@ -1962,7 +1962,7 @@
  {
   "n": 197,
   "en": "Blizzaria",
-  "ko": "눈",
+  "ko": "눈보라공주",
   "rank": "S",
   "tribe": "Charming",
   "attr": "Ice",
@@ -1972,7 +1972,7 @@
  {
   "n": 198,
   "en": "Damona",
-  "ko": "백",
+  "ko": "백귀공주",
   "rank": "S",
   "tribe": "Charming",
   "attr": "Ice",
@@ -1982,7 +1982,7 @@
  {
   "n": 199,
   "en": "Faux Kappa",
-  "ko": "접",
+  "ko": "접시부기",
   "rank": "A",
   "tribe": "Charming",
   "attr": "Water",
@@ -1992,7 +1992,7 @@
  {
   "n": 200,
   "en": "Tigappa",
-  "ko": "수",
+  "ko": "수범",
   "rank": "S",
   "tribe": "Charming",
   "attr": "Water",
@@ -2002,7 +2002,7 @@
  {
   "n": 201,
   "en": "Master Nyada",
-  "ko": "마",
+  "ko": "마스터냥",
   "rank": "S",
   "tribe": "Charming",
   "attr": "Wind",
@@ -2012,7 +2012,7 @@
  {
   "n": 202,
   "en": "Wantston",
-  "ko": "부",
+  "ko": "부러버",
   "rank": "E",
   "tribe": "Heartful",
   "attr": "Lightning",
@@ -2022,7 +2022,7 @@
  {
   "n": 203,
   "en": "Grubsnitch",
-  "ko": "자",
+  "ko": "자꾸손",
   "rank": "D",
   "tribe": "Heartful",
   "attr": "Earth",
@@ -2032,7 +2032,7 @@
  {
   "n": 204,
   "en": "Wiglin",
-  "ko": "미",
+  "ko": "미역군",
   "rank": "E",
   "tribe": "Heartful",
   "attr": "Restoration",
@@ -2042,7 +2042,7 @@
  {
   "n": 205,
   "en": "Kelpacabana",
-  "ko": "미",
+  "ko": "미역스타",
   "rank": "C",
   "tribe": "Heartful",
   "attr": "Restoration",
@@ -2052,7 +2052,7 @@
  {
   "n": 206,
   "en": "Steppa",
-  "ko": "다",
+  "ko": "다시마군",
   "rank": "E",
   "tribe": "Heartful",
   "attr": "Restoration",
@@ -2062,7 +2062,7 @@
  {
   "n": 207,
   "en": "Rhyth",
-  "ko": "미",
+  "ko": "미역뿌리양",
   "rank": "D",
   "tribe": "Heartful",
   "attr": "Restoration",
@@ -2072,7 +2072,7 @@
  {
   "n": 208,
   "en": "Hungramps",
-  "ko": "공",
+  "ko": "공복영감",
   "rank": "E",
   "tribe": "Heartful",
   "attr": "Earth",
@@ -2082,7 +2082,7 @@
  {
   "n": 209,
   "en": "Hungorge",
-  "ko": "게",
+  "ko": "게걸영감",
   "rank": "B",
   "tribe": "Heartful",
   "attr": "Drain",
@@ -2092,7 +2092,7 @@
  {
   "n": 210,
   "en": "Grainpa",
-  "ko": "쌀",
+  "ko": "쌀알영감",
   "rank": "B",
   "tribe": "Heartful",
   "attr": "Restoration",
@@ -2102,7 +2102,7 @@
  {
   "n": 211,
   "en": "Robogramps",
-  "ko": "로",
+  "ko": "로보영감",
   "rank": "B",
   "tribe": "Heartful",
   "attr": "Restoration",
@@ -2112,7 +2112,7 @@
  {
   "n": 212,
   "en": "Tongus",
-  "ko": "소",
+  "ko": "소독버섯",
   "rank": "E",
   "tribe": "Heartful",
   "attr": "Restoration",
@@ -2122,7 +2122,7 @@
  {
   "n": 213,
   "en": "Nurse Tongus",
-  "ko": "버",
+  "ko": "버섯간호사",
   "rank": "B",
   "tribe": "Heartful",
   "attr": "Restoration",
@@ -2132,7 +2132,7 @@
  {
   "n": 214,
   "en": "Sandmeh",
-  "ko": "넘",
+  "ko": "넘흙착해",
   "rank": "E",
   "tribe": "Heartful",
   "attr": "Restoration",
@@ -2142,7 +2142,7 @@
  {
   "n": 215,
   "en": "Mister Sandmeh",
-  "ko": "넘",
+  "ko": "넘흙착해사원",
   "rank": "B",
   "tribe": "Heartful",
   "attr": "Restoration",
@@ -2152,7 +2152,7 @@
  {
   "n": 216,
   "en": "Pallysol",
-  "ko": "깽",
+  "ko": "깽깽우산",
   "rank": "E",
   "tribe": "Heartful",
   "attr": "Wind",
@@ -2162,7 +2162,7 @@
  {
   "n": 217,
   "en": "Scarasol",
-  "ko": "우",
+  "ko": "우산마인",
   "rank": "A",
   "tribe": "Heartful",
   "attr": "Earth",
@@ -2172,7 +2172,7 @@
  {
   "n": 218,
   "en": "Happycane",
-  "ko": "신",
+  "ko": "신바람수수",
   "rank": "D",
   "tribe": "Heartful",
   "attr": "Restoration",
@@ -2182,7 +2182,7 @@
  {
   "n": 219,
   "en": "Starrycane",
-  "ko": "두",
+  "ko": "두근수수",
   "rank": "B",
   "tribe": "Heartful",
   "attr": "Restoration",
@@ -2192,7 +2192,7 @@
  {
   "n": 220,
   "en": "Lodo",
-  "ko": "거",
+  "ko": "거지동자",
   "rank": "D",
   "tribe": "Heartful",
   "attr": "Wind",
@@ -2202,7 +2202,7 @@
  {
   "n": 221,
   "en": "Supoor Hero",
-  "ko": "노",
+  "ko": "노머니라이더",
   "rank": "A",
   "tribe": "Heartful",
   "attr": "Wind",
@@ -2212,7 +2212,7 @@
  {
   "n": 222,
   "en": "Chippa",
-  "ko": "낙",
+  "ko": "낙천동자",
   "rank": "C",
   "tribe": "Heartful",
   "attr": "Water",
@@ -2222,7 +2222,7 @@
  {
   "n": 223,
   "en": "Gnomey",
-  "ko": "더",
+  "ko": "더부살이",
   "rank": "D",
   "tribe": "Heartful",
   "attr": "Restoration",
@@ -2232,7 +2232,7 @@
  {
   "n": 224,
   "en": "High Gnomey",
-  "ko": "더",
+  "ko": "더부살이신",
   "rank": "A",
   "tribe": "Heartful",
   "attr": "Restoration",
@@ -2242,7 +2242,7 @@
  {
   "n": 225,
   "en": "Enerfly",
-  "ko": "조",
+  "ko": "조아나비",
   "rank": "D",
   "tribe": "Heartful",
   "attr": "Restoration",
@@ -2252,7 +2252,7 @@
  {
   "n": 226,
   "en": "Enefly",
-  "ko": "끝",
+  "ko": "끝나비",
   "rank": "D",
   "tribe": "Heartful",
   "attr": "Drain",
@@ -2262,7 +2262,7 @@
  {
   "n": 227,
   "en": "Betterfly",
-  "ko": "최",
+  "ko": "최고나비",
   "rank": "A",
   "tribe": "Heartful",
   "attr": "Restoration",
@@ -2272,7 +2272,7 @@
  {
   "n": 228,
   "en": "Peppillon",
-  "ko": "아",
+  "ko": "아싸라나비",
   "rank": "S",
   "tribe": "Heartful",
   "attr": "Restoration",
@@ -2282,7 +2282,7 @@
  {
   "n": 229,
   "en": "Predictabull",
-  "ko": "우",
+  "ko": "우점이",
   "rank": "D",
   "tribe": "Heartful",
   "attr": "Restoration",
@@ -2292,7 +2292,7 @@
  {
   "n": 230,
   "en": "Smashibull",
-  "ko": "우",
+  "ko": "우점선생",
   "rank": "S",
   "tribe": "Heartful",
   "attr": "Restoration",
@@ -2302,7 +2302,7 @@
  {
   "n": 231,
   "en": "Ray O' Light",
-  "ko": "쾌",
+  "ko": "쾌청남",
   "rank": "C",
   "tribe": "Heartful",
   "attr": "Fire",
@@ -2312,7 +2312,7 @@
  {
   "n": 232,
   "en": "Happierre",
-  "ko": "보",
+  "ko": "보노보노",
   "rank": "C",
   "tribe": "Heartful",
   "attr": "Restoration",
@@ -2322,7 +2322,7 @@
  {
   "n": 233,
   "en": "Reversa",
-  "ko": "좌",
+  "ko": "좌절좌절",
   "rank": "A",
   "tribe": "Heartful",
   "attr": "Restoration",
@@ -2332,7 +2332,7 @@
  {
   "n": 234,
   "en": "Reversette",
-  "ko": "막",
+  "ko": "막막좌절",
   "rank": "A",
   "tribe": "Heartful",
   "attr": "Wind",
@@ -2342,7 +2342,7 @@
  {
   "n": 235,
   "en": "Ol' Saint Trick",
-  "ko": "산",
+  "ko": "산타클도사",
   "rank": "B",
   "tribe": "Heartful",
   "attr": "Restoration",
@@ -2352,7 +2352,7 @@
  {
   "n": 236,
   "en": "Ol' Fortune",
-  "ko": "자",
+  "ko": "자루영감",
   "rank": "B",
   "tribe": "Heartful",
   "attr": "Lightning",
@@ -2362,7 +2362,7 @@
  {
   "n": 237,
   "en": "Rollen",
-  "ko": "사",
+  "ko": "사이눈",
   "rank": "B",
   "tribe": "Heartful",
   "attr": "Water",
@@ -2372,7 +2372,7 @@
  {
   "n": 238,
   "en": "Dubbles",
-  "ko": "묘",
+  "ko": "묘해눈",
   "rank": "A",
   "tribe": "Heartful",
   "attr": "Water",
@@ -2382,7 +2382,7 @@
  {
   "n": 239,
   "en": "Papa Bolt",
-  "ko": "번",
+  "ko": "번개아빠",
   "rank": "A",
   "tribe": "Heartful",
   "attr": "Lightning",
@@ -2392,7 +2392,7 @@
  {
   "n": 240,
   "en": "Uncle Infinite",
-  "ko": "엎",
+  "ko": "엎어할배",
   "rank": "S",
   "tribe": "Heartful",
   "attr": "Lightning",
@@ -2402,7 +2402,7 @@
  {
   "n": 241,
   "en": "Mama Aura",
-  "ko": "보",
+  "ko": "보살엄니",
   "rank": "A",
   "tribe": "Heartful",
   "attr": "Restoration",
@@ -2412,7 +2412,7 @@
  {
   "n": 242,
   "en": "Auntie Heart",
-  "ko": "착",
+  "ko": "착한맘할매",
   "rank": "S",
   "tribe": "Heartful",
   "attr": "Restoration",
@@ -2422,7 +2422,7 @@
  {
   "n": 243,
   "en": "Kyryn",
-  "ko": "기",
+  "ko": "기린",
   "rank": "S",
   "tribe": "Heartful",
   "attr": "Restoration",
@@ -2432,7 +2432,7 @@
  {
   "n": 244,
   "en": "Unikirin",
-  "ko": "일",
+  "ko": "일각수",
   "rank": "S",
   "tribe": "Heartful",
   "attr": "Restoration",
@@ -2442,7 +2442,7 @@
  {
   "n": 245,
   "en": "Leadoni",
-  "ko": "길",
+  "ko": "길인도깨비",
   "rank": "E",
   "tribe": "Shady",
   "attr": "Ice",
@@ -2452,7 +2452,7 @@
  {
   "n": 246,
   "en": "Mynimo",
-  "ko": "한",
+  "ko": "한쪽편깨비",
   "rank": "D",
   "tribe": "Shady",
   "attr": "Drain",
@@ -2462,7 +2462,7 @@
  {
   "n": 247,
   "en": "Ake",
-  "ko": "결",
+  "ko": "결림동자",
   "rank": "E",
   "tribe": "Shady",
   "attr": "Earth",
@@ -2472,7 +2472,7 @@
  {
   "n": 248,
   "en": "Payn",
-  "ko": "결",
+  "ko": "결림두목",
   "rank": "C",
   "tribe": "Shady",
   "attr": "Earth",
@@ -2482,7 +2482,7 @@
  {
   "n": 249,
   "en": "Agon",
-  "ko": "요",
+  "ko": "요통두목",
   "rank": "B",
   "tribe": "Shady",
   "attr": "Earth",
@@ -2492,7 +2492,7 @@
  {
   "n": 250,
   "en": "Wydeawake",
-  "ko": "날",
+  "ko": "날밤",
   "rank": "E",
   "tribe": "Shady",
   "attr": "Lightning",
@@ -2502,7 +2502,7 @@
  {
   "n": 251,
   "en": "Allnyta",
-  "ko": "끝",
+  "ko": "끝장",
   "rank": "B",
   "tribe": "Shady",
   "attr": "Lightning",
@@ -2512,7 +2512,7 @@
  {
   "n": 252,
   "en": "Herbiboy",
-  "ko": "초",
+  "ko": "초식남",
   "rank": "E",
   "tribe": "Shady",
   "attr": "Water",
@@ -2522,7 +2522,7 @@
  {
   "n": 253,
   "en": "Carniboy",
-  "ko": "육",
+  "ko": "육식남",
   "rank": "B",
   "tribe": "Shady",
   "attr": "Fire",
@@ -2532,7 +2532,7 @@
  {
   "n": 254,
   "en": "Negatibuzz",
-  "ko": "네",
+  "ko": "네가티버즈",
   "rank": "E",
   "tribe": "Shady",
   "attr": "Drain",
@@ -2542,7 +2542,7 @@
  {
   "n": 255,
   "en": "Moskevil",
-  "ko": "흑",
+  "ko": "흑네가티붕",
   "rank": "C",
   "tribe": "Shady",
   "attr": "Drain",
@@ -2552,7 +2552,7 @@
  {
   "n": 256,
   "en": "Scritchy",
-  "ko": "근",
+  "ko": "근질근질",
   "rank": "A",
   "tribe": "Shady",
   "attr": "Lightning",
@@ -2562,7 +2562,7 @@
  {
   "n": 257,
   "en": "Dimmy",
-  "ko": "안",
+  "ko": "안띄림자",
   "rank": "E",
   "tribe": "Shady",
   "attr": "Wind",
@@ -2572,7 +2572,7 @@
  {
   "n": 258,
   "en": "Blandon",
-  "ko": "못",
+  "ko": "못채림자",
   "rank": "B",
   "tribe": "Shady",
   "attr": "Wind",
@@ -2582,7 +2582,7 @@
  {
   "n": 259,
   "en": "Nul",
-  "ko": "없",
+  "ko": "없지림자",
   "rank": "A",
   "tribe": "Shady",
   "attr": "Wind",
@@ -2592,7 +2592,7 @@
  {
   "n": 260,
   "en": "Suspicioni",
-  "ko": "불",
+  "ko": "불신도깨비",
   "rank": "D",
   "tribe": "Shady",
   "attr": "Water",
@@ -2602,7 +2602,7 @@
  {
   "n": 261,
   "en": "Tantroni",
-  "ko": "민",
+  "ko": "민폐도깨비",
   "rank": "D",
   "tribe": "Shady",
   "attr": "Fire",
@@ -2612,7 +2612,7 @@
  {
   "n": 262,
   "en": "Contrarioni",
-  "ko": "심",
+  "ko": "심술도깨비",
   "rank": "B",
   "tribe": "Shady",
   "attr": "Lightning",
@@ -2622,7 +2622,7 @@
  {
   "n": 263,
   "en": "Grumpus Khan",
-  "ko": "괴",
+  "ko": "괴팍양",
   "rank": "D",
   "tribe": "Shady",
   "attr": "Wind",
@@ -2632,7 +2632,7 @@
  {
   "n": 264,
   "en": "Groupus Khan",
-  "ko": "불",
+  "ko": "불만이양",
   "rank": "B",
   "tribe": "Shady",
   "attr": "Wind",
@@ -2642,7 +2642,7 @@
  {
   "n": 265,
   "en": "Hidabat",
-  "ko": "틀",
+  "ko": "틀어박쥐",
   "rank": "D",
   "tribe": "Shady",
   "attr": "Wind",
@@ -2652,7 +2652,7 @@
  {
   "n": 266,
   "en": "Abodabat",
-  "ko": "집",
+  "ko": "집박쥐",
   "rank": "A",
   "tribe": "Shady",
   "attr": "Wind",
@@ -2662,7 +2662,7 @@
  {
   "n": 267,
   "en": "Belfree",
-  "ko": "여",
+  "ko": "여관박쥐",
   "rank": "A",
   "tribe": "Shady",
   "attr": "Wind",
@@ -2672,7 +2672,7 @@
  {
   "n": 268,
   "en": "Yoink",
-  "ko": "날",
+  "ko": "날름보따리",
   "rank": "D",
   "tribe": "Shady",
   "attr": "Drain",
@@ -2682,7 +2682,7 @@
  {
   "n": 269,
   "en": "Gimme",
-  "ko": "도",
+  "ko": "도둑보따리",
   "rank": "A",
   "tribe": "Shady",
   "attr": "Drain",
@@ -2692,7 +2692,7 @@
  {
   "n": 270,
   "en": "K'mon-K'mon",
-  "ko": "비",
+  "ko": "비키비키",
   "rank": "C",
   "tribe": "Shady",
   "attr": "Wind",
@@ -2702,7 +2702,7 @@
  {
   "n": 271,
   "en": "Yoodooit",
-  "ko": "너",
+  "ko": "너해도사",
   "rank": "C",
   "tribe": "Shady",
   "attr": "Drain",
@@ -2712,7 +2712,7 @@
  {
   "n": 272,
   "en": "Count Zapaway",
-  "ko": "감",
+  "ko": "감추리",
   "rank": "C",
   "tribe": "Shady",
   "attr": "Ice",
@@ -2722,7 +2722,7 @@
  {
   "n": 273,
   "en": "Tyrat",
-  "ko": "짱",
+  "ko": "짱이쥐",
   "rank": "A",
   "tribe": "Shady",
   "attr": "Drain",
@@ -2732,7 +2732,7 @@
  {
   "n": 274,
   "en": "Tengloom",
-  "ko": "음",
+  "ko": "음침까마귀",
   "rank": "C",
   "tribe": "Shady",
   "attr": "Wind",
@@ -2742,7 +2742,7 @@
  {
   "n": 275,
   "en": "Nird",
-  "ko": "독",
+  "ko": "독서까마귀",
   "rank": "B",
   "tribe": "Shady",
   "attr": "Wind",
@@ -2752,7 +2752,7 @@
  {
   "n": 276,
   "en": "Snobetty",
-  "ko": "합",
+  "ko": "합리부인",
   "rank": "B",
   "tribe": "Shady",
   "attr": "Ice",
@@ -2762,7 +2762,7 @@
  {
   "n": 277,
   "en": "Slimamander",
-  "ko": "삼",
+  "ko": "삼두구렁이",
   "rank": "B",
   "tribe": "Shady",
   "attr": "Fire",
@@ -2772,7 +2772,7 @@
  {
   "n": 278,
   "en": "Dracunyan",
-  "ko": "드",
+  "ko": "드라큘냥",
   "rank": "B",
   "tribe": "Shady",
   "attr": "Drain",
@@ -2782,7 +2782,7 @@
  {
   "n": 279,
   "en": "Usapyon",
-  "ko": "우",
+  "ko": "우사뿅",
   "rank": "B",
   "tribe": "Shady",
   "attr": "Ice",
@@ -2832,7 +2832,7 @@
  {
   "n": 284,
   "en": "Negasus",
-  "ko": "민",
+  "ko": "민폐가수스",
   "rank": "A",
   "tribe": "Shady",
   "attr": "Wind",
@@ -2842,7 +2842,7 @@
  {
   "n": 285,
   "en": "Neighfarious",
-  "ko": "악",
+  "ko": "악말",
   "rank": "A",
   "tribe": "Shady",
   "attr": "Drain",
@@ -2852,7 +2852,7 @@
  {
   "n": 286,
   "en": "Timidevil",
-  "ko": "쫄",
+  "ko": "쫄데빌",
   "rank": "A",
   "tribe": "Shady",
   "attr": "Fire",
@@ -2862,7 +2862,7 @@
  {
   "n": 287,
   "en": "Beelzebold",
-  "ko": "안",
+  "ko": "안쫄데빌",
   "rank": "S",
   "tribe": "Shady",
   "attr": "Fire",
@@ -2872,7 +2872,7 @@
  {
   "n": 288,
   "en": "Count Cavity",
-  "ko": "충",
+  "ko": "충치백작",
   "rank": "S",
   "tribe": "Shady",
   "attr": "Fire",
@@ -2882,7 +2882,7 @@
  {
   "n": 289,
   "en": "Eyesoar",
-  "ko": "백",
+  "ko": "백안귀",
   "rank": "A",
   "tribe": "Shady",
   "attr": "Earth",
@@ -2892,7 +2892,7 @@
  {
   "n": 290,
   "en": "Eyellure",
-  "ko": "보",
+  "ko": "보석귀",
   "rank": "S",
   "tribe": "Shady",
   "attr": "Lightning",
@@ -2902,7 +2902,7 @@
  {
   "n": 291,
   "en": "Greesel",
-  "ko": "왕",
+  "ko": "왕고약",
   "rank": "S",
   "tribe": "Shady",
   "attr": "Fire",
@@ -2912,7 +2912,7 @@
  {
   "n": 292,
   "en": "Awevil",
-  "ko": "악",
+  "ko": "악중악",
   "rank": "S",
   "tribe": "Shady",
   "attr": "Water",
@@ -2922,7 +2922,7 @@
  {
   "n": 293,
   "en": "Wobblewok",
-  "ko": "가",
+  "ko": "가마가마",
   "rank": "S",
   "tribe": "Shady",
   "attr": "Earth",
@@ -2932,7 +2932,7 @@
  {
   "n": 294,
   "en": "Darkyubi",
-  "ko": "암",
+  "ko": "암흑구미",
   "rank": "S",
   "tribe": "Shady",
   "attr": "Drain",
@@ -2942,7 +2942,7 @@
  {
   "n": 295,
   "en": "Coughkoff",
-  "ko": "칼",
+  "ko": "칼칼송이",
   "rank": "E",
   "tribe": "Eerie",
   "attr": "Water",
@@ -2952,7 +2952,7 @@
  {
   "n": 296,
   "en": "Hurchin",
-  "ko": "따",
+  "ko": "따끔성게",
   "rank": "D",
   "tribe": "Eerie",
   "attr": "Ice",
@@ -2962,7 +2962,7 @@
  {
   "n": 297,
   "en": "Droplette",
-  "ko": "질",
+  "ko": "질척이",
   "rank": "E",
   "tribe": "Eerie",
   "attr": "Water",
@@ -2972,7 +2972,7 @@
  {
   "n": 298,
   "en": "Drizzle",
-  "ko": "쏟",
+  "ko": "쏟아비",
   "rank": "B",
   "tribe": "Eerie",
   "attr": "Water",
@@ -2982,7 +2982,7 @@
  {
   "n": 299,
   "en": "Slush",
-  "ko": "얼",
+  "ko": "얼갱이",
   "rank": "E",
   "tribe": "Eerie",
   "attr": "Ice",
@@ -2992,7 +2992,7 @@
  {
   "n": 300,
   "en": "Alhail",
-  "ko": "꽁",
+  "ko": "꽁꽁차",
   "rank": "B",
   "tribe": "Eerie",
   "attr": "Ice",
@@ -3002,7 +3002,7 @@
  {
   "n": 301,
   "en": "Gush",
-  "ko": "코",
+  "ko": "코에피",
   "rank": "D",
   "tribe": "Eerie",
   "attr": "Fire",
@@ -3012,7 +3012,7 @@
  {
   "n": 302,
   "en": "Peckpocket",
-  "ko": "샘",
+  "ko": "샘새",
   "rank": "E",
   "tribe": "Eerie",
   "attr": "Drain",
@@ -3022,7 +3022,7 @@
  {
   "n": 303,
   "en": "Robbinyu",
-  "ko": "뺏",
+  "ko": "뺏새",
   "rank": "B",
   "tribe": "Eerie",
   "attr": "Drain",
@@ -3032,7 +3032,7 @@
  {
   "n": 304,
   "en": "Rockabelly",
-  "ko": "배",
+  "ko": "배춤새",
   "rank": "D",
   "tribe": "Eerie",
   "attr": "Drain",
@@ -3042,7 +3042,7 @@
  {
   "n": 305,
   "en": "Squeeky",
-  "ko": "소",
+  "ko": "소리새",
   "rank": "E",
   "tribe": "Eerie",
   "attr": "Ice",
@@ -3052,7 +3052,7 @@
  {
   "n": 306,
   "en": "Rawry",
-  "ko": "노",
+  "ko": "노이즈라이더",
   "rank": "B",
   "tribe": "Eerie",
   "attr": "Ice",
@@ -3062,7 +3062,7 @@
  {
   "n": 307,
   "en": "Buhu",
-  "ko": "슬",
+  "ko": "슬피우새",
   "rank": "E",
   "tribe": "Eerie",
   "attr": "Wind",
@@ -3072,7 +3072,7 @@
  {
   "n": 308,
   "en": "Flumpy",
-  "ko": "꼴",
+  "ko": "꼴사납새",
   "rank": "C",
   "tribe": "Eerie",
   "attr": "Wind",
@@ -3082,7 +3082,7 @@
  {
   "n": 309,
   "en": "Skreek",
-  "ko": "사",
+  "ko": "사신조",
   "rank": "A",
   "tribe": "Eerie",
   "attr": "Wind",
@@ -3092,7 +3092,7 @@
  {
   "n": 310,
   "en": "Manjimutt",
-  "ko": "인",
+  "ko": "인면견",
   "rank": "E",
   "tribe": "Eerie",
   "attr": "Fire",
@@ -3102,7 +3102,7 @@
  {
   "n": 311,
   "en": "Multimutt",
-  "ko": "쌍",
+  "ko": "쌍두베로스",
   "rank": "B",
   "tribe": "Eerie",
   "attr": "Fire",
@@ -3112,7 +3112,7 @@
  {
   "n": 312,
   "en": "Sir Berus",
-  "ko": "삼",
+  "ko": "삼도견",
   "rank": "A",
   "tribe": "Eerie",
   "attr": "Earth",
@@ -3122,7 +3122,7 @@
  {
   "n": 313,
   "en": "Robomutt",
-  "ko": "로",
+  "ko": "로보면견",
   "rank": "B",
   "tribe": "Eerie",
   "attr": "Wind",
@@ -3132,7 +3132,7 @@
  {
   "n": 314,
   "en": "Furgus",
-  "ko": "수",
+  "ko": "수북털",
   "rank": "E",
   "tribe": "Eerie",
   "attr": "Earth",
@@ -3142,7 +3142,7 @@
  {
   "n": 315,
   "en": "Furdinand",
-  "ko": "더",
+  "ko": "더부룩털",
   "rank": "A",
   "tribe": "Eerie",
   "attr": "Earth",
@@ -3152,7 +3152,7 @@
  {
   "n": 316,
   "en": "Nosirs",
-  "ko": "그",
+  "ko": "그게아니야MEN",
   "rank": "D",
   "tribe": "Eerie",
   "attr": "Restoration",
@@ -3162,7 +3162,7 @@
  {
   "n": 317,
   "en": "Dismarelda",
-  "ko": "칙",
+  "ko": "칙칙하잔느",
   "rank": "D",
   "tribe": "Eerie",
   "attr": "Earth",
@@ -3172,7 +3172,7 @@
  {
   "n": 318,
   "en": "Chatalie",
-  "ko": "뻥",
+  "ko": "뻥녀",
   "rank": "D",
   "tribe": "Eerie",
   "attr": "Lightning",
@@ -3182,7 +3182,7 @@
  {
   "n": 319,
   "en": "Nagatha",
-  "ko": "순",
+  "ko": "순악질",
   "rank": "C",
   "tribe": "Eerie",
   "attr": "Drain",
@@ -3192,7 +3192,7 @@
  {
   "n": 320,
   "en": "Danke Sand",
-  "ko": "땡",
+  "ko": "땡산",
   "rank": "D",
   "tribe": "Eerie",
   "attr": "Earth",
@@ -3202,7 +3202,7 @@
  {
   "n": 321,
   "en": "No Sandkyu",
-  "ko": "노",
+  "ko": "노땡산",
   "rank": "B",
   "tribe": "Eerie",
   "attr": "Earth",
@@ -3212,7 +3212,7 @@
  {
   "n": 322,
   "en": "Papa Windbag",
-  "ko": "나",
+  "ko": "나으뜸영감",
   "rank": "C",
   "tribe": "Eerie",
   "attr": "Lightning",
@@ -3222,7 +3222,7 @@
  {
   "n": 323,
   "en": "Ben Tover",
-  "ko": "뺀",
+  "ko": "뺀질이",
   "rank": "C",
   "tribe": "Eerie",
   "attr": "Wind",
@@ -3232,7 +3232,7 @@
  {
   "n": 324,
   "en": "Cheeksqueek",
-  "ko": "뽕",
+  "ko": "뽕쟁이",
   "rank": "C",
   "tribe": "Eerie",
   "attr": "Ice",
@@ -3242,7 +3242,7 @@
  {
   "n": 325,
   "en": "Cuttincheez",
-  "ko": "뽕",
+  "ko": "뽕귀신",
   "rank": "A",
   "tribe": "Eerie",
   "attr": "Ice",
@@ -3252,7 +3252,7 @@
  {
   "n": 326,
   "en": "Toiletta",
-  "ko": "영",
+  "ko": "영희",
   "rank": "C",
   "tribe": "Eerie",
   "attr": "Drain",
@@ -3262,7 +3262,7 @@
  {
   "n": 327,
   "en": "Foiletta",
-  "ko": "주",
+  "ko": "주영희",
   "rank": "A",
   "tribe": "Eerie",
   "attr": "Drain",
@@ -3272,7 +3272,7 @@
  {
   "n": 328,
   "en": "Sproink",
-  "ko": "온",
+  "ko": "온천도니맨",
   "rank": "B",
   "tribe": "Eerie",
   "attr": "Fire",
@@ -3282,7 +3282,7 @@
  {
   "n": 329,
   "en": "Compunzer",
-  "ko": "황",
+  "ko": "황당꾼",
   "rank": "A",
   "tribe": "Eerie",
   "attr": "Drain",
@@ -3292,7 +3292,7 @@
  {
   "n": 330,
   "en": "Lamedian",
-  "ko": "실",
+  "ko": "실소꾼",
   "rank": "A",
   "tribe": "Eerie",
   "attr": "Drain",
@@ -3302,7 +3302,7 @@
  {
   "n": 331,
   "en": "Grumples",
-  "ko": "주",
+  "ko": "주름할멈",
   "rank": "B",
   "tribe": "Eerie",
   "attr": "Drain",
@@ -3312,7 +3312,7 @@
  {
   "n": 332,
   "en": "Everfore",
-  "ko": "불",
+  "ko": "불노아씨",
   "rank": "S",
   "tribe": "Eerie",
   "attr": "Drain",
@@ -3322,7 +3322,7 @@
  {
   "n": 333,
   "en": "Eterna",
-  "ko": "불",
+  "ko": "불사아씨",
   "rank": "S",
   "tribe": "Eerie",
   "attr": "Drain",
@@ -3332,7 +3332,7 @@
  {
   "n": 334,
   "en": "Darknyan",
-  "ko": "다",
+  "ko": "다크냥",
   "rank": "A",
   "tribe": "Eerie",
   "attr": "Wind",
@@ -3342,7 +3342,7 @@
  {
   "n": 335,
   "en": "Insomni",
-  "ko": "못",
+  "ko": "못자요",
   "rank": "A",
   "tribe": "Eerie",
   "attr": "Ice",
@@ -3352,7 +3352,7 @@
  {
   "n": 336,
   "en": "Sandi",
-  "ko": "못",
+  "ko": "못깨요",
   "rank": "S",
   "tribe": "Eerie",
   "attr": "Drain",
@@ -3362,7 +3362,7 @@
  {
   "n": 337,
   "en": "Arachnus",
-  "ko": "땅",
+  "ko": "땅거미",
   "rank": "S",
   "tribe": "Eerie",
   "attr": "Earth",
@@ -3372,7 +3372,7 @@
  {
   "n": 338,
   "en": "Arachnia",
-  "ko": "독",
+  "ko": "독거미",
   "rank": "S",
   "tribe": "Eerie",
   "attr": "Earth",
@@ -3382,7 +3382,7 @@
  {
   "n": 339,
   "en": "Cricky",
-  "ko": "목",
+  "ko": "목아파개굴",
   "rank": "E",
   "tribe": "Slippery",
   "attr": "Water",
@@ -3392,7 +3392,7 @@
  {
   "n": 340,
   "en": "Noko",
-  "ko": "럭",
+  "ko": "럭키스네이크",
   "rank": "E",
   "tribe": "Slippery",
   "attr": "Earth",
@@ -3402,7 +3402,7 @@
  {
   "n": 341,
   "en": "Bloominoko",
-  "ko": "해",
+  "ko": "해피드래곤",
   "rank": "A",
   "tribe": "Slippery",
   "attr": "Earth",
@@ -3412,7 +3412,7 @@
  {
   "n": 342,
   "en": "Pandanoko",
-  "ko": "판",
+  "ko": "판다스네이크",
   "rank": "A",
   "tribe": "Slippery",
   "attr": "Ice",
@@ -3422,7 +3422,7 @@
  {
   "n": 343,
   "en": "Robonoko",
-  "ko": "로",
+  "ko": "로보스네이크",
   "rank": "B",
   "tribe": "Slippery",
   "attr": "Earth",
@@ -3432,7 +3432,7 @@
  {
   "n": 344,
   "en": "Snaggly",
-  "ko": "시",
+  "ko": "시비비",
   "rank": "E",
   "tribe": "Slippery",
   "attr": "Lightning",
@@ -3442,7 +3442,7 @@
  {
   "n": 345,
   "en": "Whinona",
-  "ko": "꼬",
+  "ko": "꼬아걸",
   "rank": "A",
   "tribe": "Slippery",
   "attr": "Lightning",
@@ -3452,7 +3452,7 @@
  {
   "n": 346,
   "en": "Whisper",
-  "ko": "위",
+  "ko": "위스퍼",
   "rank": "C",
   "tribe": "Slippery",
   "attr": "Drain",
@@ -3462,7 +3462,7 @@
  {
   "n": 347,
   "en": "Whispocrates",
-  "ko": "위",
+  "ko": "위스풍",
   "rank": "C",
   "tribe": "Slippery",
   "attr": "Drain",
@@ -3472,7 +3472,7 @@
  {
   "n": 348,
   "en": "Heheheel",
-  "ko": "깔",
+  "ko": "깔깔곰치",
   "rank": "D",
   "tribe": "Slippery",
   "attr": "Restoration",
@@ -3482,7 +3482,7 @@
  {
   "n": 349,
   "en": "Croonger",
-  "ko": "노",
+  "ko": "노래장어",
   "rank": "C",
   "tribe": "Slippery",
   "attr": "Drain",
@@ -3492,7 +3492,7 @@
  {
   "n": 350,
   "en": "Urnaconda",
-  "ko": "단",
+  "ko": "단지큰뱀",
   "rank": "C",
   "tribe": "Slippery",
   "attr": "Lightning",
@@ -3502,7 +3502,7 @@
  {
   "n": 351,
   "en": "Fishpicable",
-  "ko": "실",
+  "ko": "실어실어",
   "rank": "D",
   "tribe": "Slippery",
   "attr": "Lightning",
@@ -3512,7 +3512,7 @@
  {
   "n": 352,
   "en": "Rageon",
-  "ko": "원",
+  "ko": "원망어",
   "rank": "B",
   "tribe": "Slippery",
   "attr": "Lightning",
@@ -3522,7 +3522,7 @@
  {
   "n": 353,
   "en": "Tunatic",
-  "ko": "발",
+  "ko": "발끈어",
   "rank": "A",
   "tribe": "Slippery",
   "attr": "Fire",
@@ -3532,7 +3532,7 @@
  {
   "n": 354,
   "en": "Takoyakid",
-  "ko": "문",
+  "ko": "문어깨비",
   "rank": "D",
   "tribe": "Slippery",
   "attr": "Fire",
@@ -3542,7 +3542,7 @@
  {
   "n": 355,
   "en": "Takoyaking",
-  "ko": "문",
+  "ko": "문어귀신",
   "rank": "B",
   "tribe": "Slippery",
   "attr": "Fire",
@@ -3552,7 +3552,7 @@
  {
   "n": 356,
   "en": "Flushback",
-  "ko": "기",
+  "ko": "기억났자라",
   "rank": "D",
   "tribe": "Slippery",
   "attr": "Restoration",
@@ -3562,7 +3562,7 @@
  {
   "n": 357,
   "en": "Vacuumory",
-  "ko": "기",
+  "ko": "기억신",
   "rank": "A",
   "tribe": "Slippery",
   "attr": "Restoration",
@@ -3572,7 +3572,7 @@
  {
   "n": 358,
   "en": "Irewig",
-  "ko": "화",
+  "ko": "화나지네",
   "rank": "D",
   "tribe": "Slippery",
   "attr": "Fire",
@@ -3582,7 +3582,7 @@
  {
   "n": 359,
   "en": "Firewig",
-  "ko": "열",
+  "ko": "열폭드래곤",
   "rank": "A",
   "tribe": "Slippery",
   "attr": "Fire",
@@ -3592,7 +3592,7 @@
  {
   "n": 360,
   "en": "Draggie",
-  "ko": "용",
+  "ko": "용용이",
   "rank": "D",
   "tribe": "Slippery",
   "attr": "Earth",
@@ -3602,7 +3602,7 @@
  {
   "n": 361,
   "en": "Dragon Lord",
-  "ko": "신",
+  "ko": "신룡",
   "rank": "S",
   "tribe": "Slippery",
   "attr": "Earth",
@@ -3612,7 +3612,7 @@
  {
   "n": 362,
   "en": "Azure Dragon",
-  "ko": "청",
+  "ko": "청룡",
   "rank": "S",
   "tribe": "Slippery",
   "attr": "Water",
@@ -3622,7 +3622,7 @@
  {
   "n": 363,
   "en": "Robodraggie",
-  "ko": "로",
+  "ko": "로보뇽",
   "rank": "B",
   "tribe": "Slippery",
   "attr": "Fire",
@@ -3632,7 +3632,7 @@
  {
   "n": 364,
   "en": "Mermaidyn",
-  "ko": "인",
+  "ko": "인어",
   "rank": "D",
   "tribe": "Slippery",
   "attr": "Water",
@@ -3642,7 +3642,7 @@
  {
   "n": 365,
   "en": "Mermadonna",
-  "ko": "어",
+  "ko": "어선녀",
   "rank": "S",
   "tribe": "Slippery",
   "attr": "Water",
@@ -3652,7 +3652,7 @@
  {
   "n": 366,
   "en": "Mermother",
-  "ko": "어",
+  "ko": "어신녀",
   "rank": "S",
   "tribe": "Slippery",
   "attr": "Water",
@@ -3662,7 +3662,7 @@
  {
   "n": 367,
   "en": "Lady Longnek",
-  "ko": "뇨",
+  "ko": "뇨롱이",
   "rank": "C",
   "tribe": "Slippery",
   "attr": "Restoration",
@@ -3672,7 +3672,7 @@
  {
   "n": 368,
   "en": "Daiz",
-  "ko": "때",
+  "ko": "때리멍",
   "rank": "C",
   "tribe": "Slippery",
   "attr": "Drain",
@@ -3682,7 +3682,7 @@
  {
   "n": 369,
   "en": "Confuze",
-  "ko": "어",
+  "ko": "어물어물",
   "rank": "B",
   "tribe": "Slippery",
   "attr": "Drain",
@@ -3692,7 +3692,7 @@
  {
   "n": 370,
   "en": "Chummer",
-  "ko": "꿀",
+  "ko": "꿀꺽죠스",
   "rank": "C",
   "tribe": "Slippery",
   "attr": "Water",
@@ -3702,7 +3702,7 @@
  {
   "n": 371,
   "en": "Shrook",
-  "ko": "서",
+  "ko": "서툴러죠스",
   "rank": "B",
   "tribe": "Slippery",
   "attr": "Water",
@@ -3712,7 +3712,7 @@
  {
   "n": 372,
   "en": "Spenp",
-  "ko": "막",
+  "ko": "막써조개",
   "rank": "C",
   "tribe": "Slippery",
   "attr": "Wind",
@@ -3722,7 +3722,7 @@
  {
   "n": 373,
   "en": "Almi",
-  "ko": "다",
+  "ko": "다내조개",
   "rank": "B",
   "tribe": "Slippery",
   "attr": "Water",
@@ -3732,7 +3732,7 @@
  {
   "n": 374,
   "en": "Babblong",
-  "ko": "긴",
+  "ko": "긴코",
   "rank": "C",
   "tribe": "Slippery",
   "attr": "Water",
@@ -3742,7 +3742,7 @@
  {
   "n": 375,
   "en": "Bananose",
-  "ko": "바",
+  "ko": "바나나코",
   "rank": "A",
   "tribe": "Slippery",
   "attr": "Water",
@@ -3752,7 +3752,7 @@
  {
   "n": 376,
   "en": "Draaagin",
-  "ko": "보",
+  "ko": "보류용",
   "rank": "B",
   "tribe": "Slippery",
   "attr": "Ice",
@@ -3762,7 +3762,7 @@
  {
   "n": 377,
   "en": "SV Snaggerjag",
-  "ko": "낚",
+  "ko": "낚신",
   "rank": "B",
   "tribe": "Slippery",
   "attr": "Water",
@@ -3772,7 +3772,7 @@
  {
   "n": 378,
   "en": "Copperled",
-  "ko": "지",
+  "ko": "지휘뱀",
   "rank": "B",
   "tribe": "Slippery",
   "attr": "Fire",
@@ -3782,7 +3782,7 @@
  {
   "n": 379,
   "en": "Cynake",
-  "ko": "삐",
+  "ko": "삐치뱀",
   "rank": "B",
   "tribe": "Slippery",
   "attr": "Water",
@@ -3792,7 +3792,7 @@
  {
   "n": 380,
   "en": "Slitheref",
-  "ko": "살",
+  "ko": "살모사심판",
   "rank": "A",
   "tribe": "Slippery",
   "attr": "Lightning",
@@ -3802,7 +3802,7 @@
  {
   "n": 381,
   "en": "Venoct",
-  "ko": "이",
+  "ko": "이무기",
   "rank": "S",
   "tribe": "Slippery",
   "attr": "Lightning",
@@ -3812,7 +3812,7 @@
  {
   "n": 382,
   "en": "Shadow Venoct",
-  "ko": "블",
+  "ko": "블랙이무기",
   "rank": "S",
   "tribe": "Slippery",
   "attr": "Restoration",
@@ -3822,7 +3822,7 @@
  {
   "n": 383,
   "en": "Shogunyan",
-  "ko": "무",
+  "ko": "무사냥",
   "rank": "S",
   "tribe": "Brave",
   "attr": "Wind",
@@ -3832,7 +3832,7 @@
  {
   "n": 384,
   "en": "Komashura",
-  "ko": "수",
+  "ko": "수라멍",
   "rank": "S",
   "tribe": "Mysterious",
   "attr": "Fire",
@@ -3842,7 +3842,7 @@
  {
   "n": 385,
   "en": "Gilgaros",
-  "ko": "도",
+  "ko": "도깨귀",
   "rank": "S",
   "tribe": "Tough",
   "attr": "Lightning",
@@ -3852,7 +3852,7 @@
  {
   "n": 386,
   "en": "Spoilerina",
-  "ko": "까",
+  "ko": "까발레리나",
   "rank": "S",
   "tribe": "Charming",
   "attr": "Wind",
@@ -3862,7 +3862,7 @@
  {
   "n": 387,
   "en": "Elder Bloom",
-  "ko": "꽃",
+  "ko": "꽃감",
   "rank": "S",
   "tribe": "Heartful",
   "attr": "Restoration",
@@ -3872,7 +3872,7 @@
  {
   "n": 388,
   "en": "Poofessor",
-  "ko": "웅",
+  "ko": "웅가",
   "rank": "S",
   "tribe": "Shady",
   "attr": "Drain",
@@ -3882,7 +3882,7 @@
  {
   "n": 389,
   "en": "Dandoodle",
-  "ko": "얼",
+  "ko": "얼짱견",
   "rank": "S",
   "tribe": "Eerie",
   "attr": "Restoration",
@@ -3892,7 +3892,7 @@
  {
   "n": 390,
   "en": "Slurpent",
-  "ko": "혀",
+  "ko": "혀팔사",
   "rank": "S",
   "tribe": "Slippery",
   "attr": "Drain",
@@ -3902,7 +3902,7 @@
  {
   "n": 391,
   "en": "Grublappa",
-  "ko": "때",
+  "ko": "때쟁이괴",
   "rank": "C",
   "tribe": "Wicked",
   "attr": "Lightning",
@@ -3912,7 +3912,7 @@
  {
   "n": 392,
   "en": "Madmunch",
-  "ko": "논",
+  "ko": "논귀괴",
   "rank": "B",
   "tribe": "Wicked",
   "attr": "Earth",
@@ -3922,7 +3922,7 @@
  {
   "n": 393,
   "en": "Badsmella",
-  "ko": "연",
+  "ko": "연귀괴",
   "rank": "A",
   "tribe": "Wicked",
   "attr": "Wind",
@@ -3932,7 +3932,7 @@
  {
   "n": 394,
   "en": "Mad Kappa",
-  "ko": "접",
+  "ko": "접시부기괴",
   "rank": "A",
   "tribe": "Wicked",
   "attr": "Water",
@@ -3942,7 +3942,7 @@
  {
   "n": 395,
   "en": "Shamasol",
-  "ko": "깽",
+  "ko": "깽깽우산괴",
   "rank": "D",
   "tribe": "Wicked",
   "attr": "Wind",
@@ -3952,7 +3952,7 @@
  {
   "n": 396,
   "en": "Gnomine",
-  "ko": "더",
+  "ko": "더부살이괴",
   "rank": "C",
   "tribe": "Wicked",
   "attr": "Restoration",
@@ -3962,7 +3962,7 @@
  {
   "n": 397,
   "en": "Defectabull",
-  "ko": "우",
+  "ko": "우점이괴",
   "rank": "C",
   "tribe": "Wicked",
   "attr": "Restoration",
@@ -3972,7 +3972,7 @@
  {
   "n": 398,
   "en": "Feargus",
-  "ko": "수",
+  "ko": "수북털괴",
   "rank": "D",
   "tribe": "Wicked",
   "attr": "Earth",
@@ -3982,7 +3982,7 @@
  {
   "n": 399,
   "en": "Scaremaiden",
-  "ko": "인",
+  "ko": "인어괴",
   "rank": "B",
   "tribe": "Wicked",
   "attr": "Water",
@@ -3992,7 +3992,7 @@
  {
   "n": 400,
   "en": "Wrongnek",
-  "ko": "뇨",
+  "ko": "뇨롱이괴",
   "rank": "D",
   "tribe": "Wicked",
   "attr": "Restoration",
@@ -4002,7 +4002,7 @@
  {
   "n": 401,
   "en": "Unfairy",
-  "ko": "성",
+  "ko": "성가시괴",
   "rank": "S",
   "tribe": "Wicked",
   "attr": "Drain",
@@ -4012,7 +4012,7 @@
  {
   "n": 402,
   "en": "Unkaind",
-  "ko": "불",
+  "ko": "불쾌하괴",
   "rank": "S",
   "tribe": "Wicked",
   "attr": "Water",
@@ -4022,7 +4022,7 @@
  {
   "n": 403,
   "en": "Untidy",
-  "ko": "호",
+  "ko": "호쾌하괴",
   "rank": "S",
   "tribe": "Wicked",
   "attr": "Earth",
@@ -4032,7 +4032,7 @@
  {
   "n": 404,
   "en": "Unpleasant",
-  "ko": "어",
+  "ko": "어렵괴",
   "rank": "S",
   "tribe": "Wicked",
   "attr": "Wind",
@@ -4042,7 +4042,7 @@
  {
   "n": 405,
   "en": "Unkeen",
-  "ko": "파",
+  "ko": "파괴",
   "rank": "S",
   "tribe": "Wicked",
   "attr": "Lightning",
@@ -4052,7 +4052,7 @@
  {
   "n": 406,
   "en": "Jibanyan B",
-  "ko": "지",
+  "ko": "지바냥B",
   "rank": "B",
   "tribe": "Charming",
   "attr": "Fire",
@@ -4062,7 +4062,7 @@
  {
   "n": 407,
   "en": "Komasan B",
-  "ko": "B",
+  "ko": "B백멍이",
   "rank": "B",
   "tribe": "Charming",
   "attr": "Fire",
@@ -4072,7 +4072,7 @@
  {
   "n": 408,
   "en": "Sir Nyansalot",
-  "ko": "냥",
+  "ko": "냥기사",
   "rank": "A",
   "tribe": "Brave",
   "attr": "Ice",
@@ -4082,7 +4082,7 @@
  {
   "n": 409,
   "en": "Maginyan",
-  "ko": "매",
+  "ko": "매지냥",
   "rank": "A",
   "tribe": "Mysterious",
   "attr": "Fire",
@@ -4092,7 +4092,7 @@
  {
   "n": 410,
   "en": "Momonyan",
-  "ko": "모",
+  "ko": "모모냥",
   "rank": "A",
   "tribe": "Brave",
   "attr": "Fire",
@@ -4102,7 +4102,7 @@
  {
   "n": 411,
   "en": "Puppynyan",
-  "ko": "퍼",
+  "ko": "퍼피냥",
   "rank": "B",
   "tribe": "Tough",
   "attr": "Earth",
@@ -4112,7 +4112,7 @@
  {
   "n": 412,
   "en": "Chimpanyan",
-  "ko": "침",
+  "ko": "침팬냥",
   "rank": "B",
   "tribe": "Charming",
   "attr": "Lightning",
@@ -4122,7 +4122,7 @@
  {
   "n": 413,
   "en": "Pheasanyan",
-  "ko": "꿩",
+  "ko": "꿩냥",
   "rank": "B",
   "tribe": "Heartful",
   "attr": "Restoration",
@@ -4132,7 +4132,7 @@
  {
   "n": 414,
   "en": "Sproink",
-  "ko": "온",
+  "ko": "온천도니맨",
   "rank": null,
   "tribe": "Boss",
   "attr": null,
@@ -4142,7 +4142,7 @@
  {
   "n": 415,
   "en": "Hoggles",
-  "ko": "온",
+  "ko": "온천흑도니맨",
   "rank": null,
   "tribe": "Boss",
   "attr": null,
@@ -4152,7 +4152,7 @@
  {
   "n": 416,
   "en": "Gutsy Bones",
-  "ko": "뽑",
+  "ko": "뽑기해골",
   "rank": null,
   "tribe": "Boss",
   "attr": null,
@@ -4162,7 +4162,7 @@
  {
   "n": 417,
   "en": "Goldy Bones",
-  "ko": "뽑",
+  "ko": "뽑기해골G",
   "rank": null,
   "tribe": "Boss",
   "attr": null,
@@ -4172,7 +4172,7 @@
  {
   "n": 418,
   "en": "Glitzy Bones",
-  "ko": "다",
+  "ko": "다이아뽑기해골",
   "rank": null,
   "tribe": "Boss",
   "attr": null,
@@ -4182,7 +4182,7 @@
  {
   "n": 419,
   "en": "SV Snaggerjag",
-  "ko": "낚",
+  "ko": "낚신",
   "rank": null,
   "tribe": "Boss",
   "attr": null,
@@ -4192,7 +4192,7 @@
  {
   "n": 420,
   "en": "Styx Mk.VI",
-  "ko": "8",
+  "ko": "8대 망령 낚신",
   "rank": null,
   "tribe": "Boss",
   "attr": null,
@@ -4202,7 +4202,7 @@
  {
   "n": 421,
   "en": "Slimamander",
-  "ko": "삼",
+  "ko": "삼두구렁이",
   "rank": null,
   "tribe": "Boss",
   "attr": null,
@@ -4212,7 +4212,7 @@
  {
   "n": 422,
   "en": "Eyedra",
-  "ko": "삼",
+  "ko": "삼두 도롱뇽",
   "rank": null,
   "tribe": "Boss",
   "attr": null,
@@ -4222,7 +4222,7 @@
  {
   "n": 423,
   "en": "Gargaros",
-  "ko": "빨",
+  "ko": "빨간도깨비",
   "rank": null,
   "tribe": "Boss",
   "attr": null,
@@ -4232,7 +4232,7 @@
  {
   "n": 424,
   "en": "Ogralus",
-  "ko": "퍼",
+  "ko": "퍼렁도깨비",
   "rank": null,
   "tribe": "Boss",
   "attr": null,
@@ -4242,7 +4242,7 @@
  {
   "n": 425,
   "en": "Orcanos",
-  "ko": "껌",
+  "ko": "껌정도깨비",
   "rank": null,
   "tribe": "Boss",
   "attr": null,
@@ -4252,7 +4252,7 @@
  {
   "n": 426,
   "en": "Demuncher",
-  "ko": "도",
+  "ko": "도식귀",
   "rank": null,
   "tribe": "Boss",
   "attr": null,
@@ -4262,7 +4262,7 @@
  {
   "n": 427,
   "en": "Devourer",
-  "ko": "명",
+  "ko": "명식귀",
   "rank": null,
   "tribe": "Boss",
   "attr": null,
@@ -4272,7 +4272,7 @@
  {
   "n": 428,
   "en": "Tattleterror",
-  "ko": "G",
+  "ko": "G(자이언트) 나불할멈",
   "rank": null,
   "tribe": "Boss",
   "attr": null,
@@ -4282,7 +4282,7 @@
  {
   "n": 429,
   "en": "Rubeus J",
-  "ko": "루",
+  "ko": "루베우스J",
   "rank": null,
   "tribe": "Boss",
   "attr": null,
@@ -4292,7 +4292,7 @@
  {
   "n": 430,
   "en": "Hardy Hound",
-  "ko": "하",
+  "ko": "하디하운드",
   "rank": null,
   "tribe": "Boss",
   "attr": null,
@@ -4302,7 +4302,7 @@
  {
   "n": 431,
   "en": "Wobblewok",
-  "ko": "가",
+  "ko": "가마가마",
   "rank": null,
   "tribe": "Boss",
   "attr": null,
@@ -4312,7 +4312,7 @@
  {
   "n": 432,
   "en": "Mass Mutterer",
-  "ko": "매",
+  "ko": "매스 머터러 (Mass Mutterer) ※",
   "rank": null,
   "tribe": "Boss",
   "attr": null,
@@ -4332,7 +4332,7 @@
  {
   "n": 434,
   "en": "Dame Dedtime",
-  "ko": "우",
+  "ko": "우파우파",
   "rank": null,
   "tribe": "Boss",
   "attr": null,
@@ -4342,7 +4342,7 @@
  {
   "n": 435,
   "en": "Damona",
-  "ko": "백",
+  "ko": "백귀공주",
   "rank": null,
   "tribe": "Boss",
   "attr": null,
@@ -4352,7 +4352,7 @@
  {
   "n": 436,
   "en": "McKraken",
-  "ko": "오",
+  "ko": "오징어회장님",
   "rank": null,
   "tribe": "Boss",
   "attr": null,
@@ -4372,7 +4372,7 @@
  {
   "n": 438,
   "en": "Kabuking",
-  "ko": "로",
+  "ko": "로이드가부",
   "rank": null,
   "tribe": "Boss",
   "attr": null,
@@ -4382,7 +4382,7 @@
  {
   "n": 439,
   "en": "Robonyan 28",
-  "ko": "로",
+  "ko": "로보냥 28 (Robonyan 28) ※",
   "rank": null,
   "tribe": "Boss",
   "attr": null,
@@ -4392,7 +4392,7 @@
  {
   "n": 440,
   "en": "Kat Kraydel",
-  "ko": "실",
+  "ko": "실뜨귀신",
   "rank": null,
   "tribe": "Boss",
   "attr": null,
@@ -4402,7 +4402,7 @@
  {
   "n": 441,
   "en": "Hinozall",
-  "ko": "히",
+  "ko": "히노졸",
   "rank": null,
   "tribe": "Boss",
   "attr": null,
@@ -4412,7 +4412,7 @@
  {
   "n": 442,
   "en": "Red Paws",
-  "ko": "적",
+  "ko": "적마묘",
   "rank": null,
   "tribe": "Boss",
   "attr": null,
@@ -4422,7 +4422,7 @@
  {
   "n": 443,
   "en": "Swirlious Omai",
-  "ko": "백",
+  "ko": "백사자",
   "rank": null,
   "tribe": "Boss",
   "attr": null,
@@ -4432,7 +4432,7 @@
  {
   "n": 444,
   "en": "Bison Burly",
-  "ko": "빌",
+  "ko": "빌리장군",
   "rank": "S",
   "tribe": "Brave",
   "attr": "Lightning",
@@ -4442,7 +4442,7 @@
  {
   "n": 445,
   "en": "Arachnevil",
-  "ko": "뿔",
+  "ko": "뿔거미",
   "rank": "S",
   "tribe": "Brave",
   "attr": "Fire",
@@ -4452,7 +4452,7 @@
  {
   "n": 446,
   "en": "Toadal Demon",
-  "ko": "뿔",
+  "ko": "뿔두꺼비",
   "rank": "S",
   "tribe": "Mysterious",
   "attr": "Water",
@@ -4462,7 +4462,7 @@
  {
   "n": 447,
   "en": "Fuu 2",
-  "ko": "평",
+  "ko": "평범2",
   "rank": "C",
   "tribe": "Mysterious",
   "attr": "Wind",
@@ -4472,7 +4472,7 @@
  {
   "n": 448,
   "en": "Kintaronyan",
-  "ko": "괴",
+  "ko": "괴력냥",
   "rank": "A",
   "tribe": "Tough",
   "attr": "Earth",
@@ -4482,7 +4482,7 @@
  {
   "n": 449,
   "en": "Kabuking",
-  "ko": "로",
+  "ko": "로이드가부",
   "rank": "S",
   "tribe": "Tough",
   "attr": "Lightning",
@@ -4492,7 +4492,7 @@
  {
   "n": 450,
   "en": "Rubeus J",
-  "ko": "루",
+  "ko": "루베우스J",
   "rank": "A",
   "tribe": "Charming",
   "attr": "Fire",
@@ -4502,7 +4502,7 @@
  {
   "n": 451,
   "en": "Hardy Hound",
-  "ko": "하",
+  "ko": "하디하운드",
   "rank": "A",
   "tribe": "Charming",
   "attr": "Ice",
@@ -4522,7 +4522,7 @@
  {
   "n": 453,
   "en": "Odysseynyan",
-  "ko": "어",
+  "ko": "어부냥",
   "rank": "A",
   "tribe": "Heartful",
   "attr": "Restoration",
@@ -4532,7 +4532,7 @@
  {
   "n": 454,
   "en": "Gutsy Bones",
-  "ko": "뽑",
+  "ko": "뽑기해골",
   "rank": "A",
   "tribe": "Shady",
   "attr": "Wind",
@@ -4542,7 +4542,7 @@
  {
   "n": 455,
   "en": "Usapyon B",
-  "ko": "우",
+  "ko": "우사뿅B",
   "rank": "B",
   "tribe": "Shady",
   "attr": "Ice",
@@ -4552,7 +4552,7 @@
  {
   "n": 456,
   "en": "Drenchetta",
-  "ko": "침",
+  "ko": "침울하잔느",
   "rank": "C",
   "tribe": "Eerie",
   "attr": "Drain",
@@ -4562,7 +4562,7 @@
  {
   "n": 457,
   "en": "Starry Noko",
-  "ko": "외",
+  "ko": "외계스네이크",
   "rank": "B",
   "tribe": "Slippery",
   "attr": "Restoration",
@@ -4572,7 +4572,7 @@
  {
   "n": 458,
   "en": "Lord Enma",
-  "ko": "로",
+  "ko": "로드엔마",
   "rank": "S",
   "tribe": "Enma",
   "attr": "Fire",
@@ -4582,7 +4582,7 @@
  {
   "n": 459,
   "en": "Captain Thunder",
-  "ko": "캡",
+  "ko": "캡틴 썬더",
   "rank": null,
   "tribe": "Boss",
   "attr": null,
@@ -4592,7 +4592,7 @@
  {
   "n": 460,
   "en": "Captain Thunder (Serious Mode)",
-  "ko": "캡틴 썬더 진심",
+  "ko": "캡틴 썬더",
   "rank": null,
   "tribe": "Boss",
   "attr": null,
@@ -4602,7 +4602,7 @@
  {
   "n": 461,
   "en": "Robonyan 3000",
-  "ko": "로",
+  "ko": "로보냥3000",
   "rank": null,
   "tribe": "Boss",
   "attr": null,
@@ -4642,7 +4642,7 @@
  {
   "n": 465,
   "en": "Zazelmare",
-  "ko": "대",
+  "ko": "대요마 수라견묘왕",
   "rank": null,
   "tribe": "Boss",
   "attr": null,
@@ -4652,7 +4652,7 @@
  {
   "n": 466,
   "en": "Golden Claws",
-  "ko": "적",
+  "ko": "적마묘골드",
   "rank": null,
   "tribe": "Boss",
   "attr": null,
@@ -4662,7 +4662,7 @@
  {
   "n": 467,
   "en": "Swirlious Gold",
-  "ko": "백",
+  "ko": "백사자골드",
   "rank": null,
   "tribe": "Boss",
   "attr": null,
@@ -4672,7 +4672,7 @@
  {
   "n": 468,
   "en": "Hinozall Awoken",
-  "ko": "히",
+  "ko": "히노졸 어워큰",
   "rank": null,
   "tribe": "Boss",
   "attr": null,
@@ -4682,7 +4682,7 @@
  {
   "n": 469,
   "en": "Shogun King",
-  "ko": "무",
+  "ko": "무사왕",
   "rank": null,
   "tribe": "Boss",
   "attr": null,

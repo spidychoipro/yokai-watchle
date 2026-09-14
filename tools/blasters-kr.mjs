@@ -61,9 +61,10 @@ const OVERRIDE = {
   'Usapyon G.I.': '우사뿅 G.I.',
   'Usapyon Rac.': '우사뿅 레이서',
   'Whisped Cream': '위스마시멜로맨',
+  'Captain Thunder': '캡틴 썬더',
   'McKraken (2nd Form)': '오징어회장님',
   'Seaweed Sns.': '해초선생님',
-  'Captain Thunder (Serious Mode)': '캡틴 썬더 진심',
+  'Captain Thunder (Serious Mode)': '캡틴 썬더',
   'Duke Drooly': '나찰견왕',
   'Alicktokat': '야차묘왕',
   'Zazel (Boss Form)': '아수라',
@@ -76,10 +77,7 @@ for (const r of rows) {
   let en = r.name.replace(/\u00a0/g, ' ');
   if (REPLACE[en]) en = REPLACE[en];
   let ko = OVERRIDE[en] || null;
-  if (!ko) {
-    const kos = enMap.get(normEn(en));
-    if (kos) ko = kos[0];
-  }
+  if (!ko) ko = enMap.get(normEn(en)) || null;
   if (!ko) unmatched.push(`${r.num}|${r.name}`);
   out.push({ n: r.num, en: en, ko: ko || '', rank: r.rank, tribe: r.tribe, attr: r.attr, excl: r.excl, section: r.section });
 }
