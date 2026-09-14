@@ -759,3 +759,138 @@ header {
     font-size: 12px;
   }
 }
+
+/* ========== GENERIC HIDDEN ========== */
+.hidden { display: none !important; }
+
+/* ========== GUESS COLUMN VARIANTS ========== */
+.guesses-container.cols-all .guess-header,
+.guesses-container.cols-all .guess-row { grid-template-columns: 50px 1fr 70px 100px 100px; }
+.guesses-container.cols-nr .guess-header,
+.guesses-container.cols-nr .guess-row { grid-template-columns: 50px 1fr 100px 100px; }
+.guesses-container.cols-nt .guess-header,
+.guesses-container.cols-nt .guess-row { grid-template-columns: 50px 1fr 70px 100px; }
+.guesses-container.cols-na .guess-header,
+.guesses-container.cols-na .guess-row { grid-template-columns: 50px 1fr 70px 100px; }
+.guesses-container.cols-nrt .guess-header,
+.guesses-container.cols-nrt .guess-row { grid-template-columns: 50px 1fr 100px; }
+.guesses-container.cols-nra .guess-header,
+.guesses-container.cols-nra .guess-row { grid-template-columns: 50px 1fr 100px; }
+.guesses-container.cols-nta .guess-header,
+.guesses-container.cols-nta .guess-row { grid-template-columns: 50px 1fr 70px; }
+.guesses-container.cols-name .guess-header,
+.guesses-container.cols-name .guess-row { grid-template-columns: 50px 1fr; }
+
+.guess-header .hide,
+.guess-row .hide { display: none; }
+.guess-row .col-num { font-size: 13px; white-space: nowrap; }
+.col-num.arrow-num { color: var(--accent-2); font-weight: 700; }
+.col-num.correct-num { color: var(--success); font-weight: 900; }
+.col-name { text-align: left !important; }
+
+/* ========== RESULT ACTIONS ========== */
+.result-actions { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; margin-top: 8px; }
+.result-actions .btn-primary { min-width: 140px; }
+
+/* ========== SETTINGS ========== */
+.set-row { display: flex; align-items: center; gap: 18px; padding: 6px 0; flex-wrap: wrap; }
+.set-label { color: var(--text-muted); font-size: 13px; }
+.set-switch { display: flex; align-items: center; gap: 12px; font-size: 14px; cursor: pointer; }
+.set-switch input { position: absolute; opacity: 0; width: 0; height: 0; }
+.switch-track {
+  width: 44px; height: 24px; background: var(--border-color); border-radius: 12px;
+  position: relative; transition: var(--transition); flex-shrink: 0;
+}
+.switch-track::after {
+  content: ""; position: absolute; top: 3px; left: 3px; width: 18px; height: 18px;
+  background: var(--text-primary); border-radius: 50%; transition: var(--transition);
+}
+.set-switch input:checked + .switch-track { background: var(--accent-2); }
+.set-switch input:checked + .switch-track::after { transform: translateX(20px); }
+.hints-row { gap: 16px; }
+.check-item { display: inline-flex; align-items: center; gap: 6px; cursor: pointer; font-size: 13px; }
+.check-item input { accent-color: var(--accent-2); }
+.btn-help.wide { width: auto; padding: 8px 16px; font-size: 13px; }
+
+/* ========== STATS ========== */
+.stat-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; margin: 14px 0; }
+.stat { background: var(--tertiary-bg); border: 1px solid var(--border-color); border-radius: 10px; padding: 12px 6px; text-align: center; }
+.stat b { display: block; font-size: 22px; color: var(--accent); }
+.stat span { font-size: 11px; color: var(--text-muted); }
+#stats-panel h4 { margin: 12px 0 6px; font-size: 13px; color: var(--text-muted); }
+.dist { max-width: 380px; margin: 0 auto; }
+.dist-row { display: flex; align-items: center; gap: 8px; margin: 4px 0; font-size: 12px; color: var(--text-muted); }
+.dist-n { width: 18px; text-align: right; }
+.dist-bar { flex: 1; height: 16px; background: var(--tertiary-bg); border-radius: 6px; overflow: hidden; }
+.dist-fill { height: 100%; background: linear-gradient(90deg, var(--accent-2), var(--success)); border-radius: 6px; }
+.dist-c { width: 24px; }
+#st-mode-note { margin-top: 10px; }
+
+/* ========== DEX PROGRESS ========== */
+.dex-progress {
+  height: 12px; background: var(--tertiary-bg); border: 1px solid var(--border-color);
+  border-radius: 999px; overflow: hidden; margin-bottom: 6px;
+}
+.dex-progress-bar {
+  height: 100%; background: linear-gradient(90deg, var(--accent) 0%, #ffb347 100%);
+  border-radius: 999px; transition: width 0.45s ease;
+}
+.dex-progress-label { display: block; color: var(--text-muted); font-size: 12px; margin-bottom: 10px; }
+.dex-item.caught { border-color: var(--success); background: rgba(70, 192, 123, 0.08); }
+.catch-mrk { color: var(--success); font-weight: 800; margin-right: 4px; }
+
+/* ========== ANIMATIONS ========== */
+@keyframes popIn {
+  0% { transform: scale(0.4); opacity: 0; }
+  60% { transform: scale(1.12); }
+  100% { transform: scale(1); opacity: 1; }
+}
+.pop { animation: popIn 0.5s ease; }
+
+/* ========== CONFETTI ========== */
+.confetti {
+  position: fixed; inset: 0; pointer-events: none; z-index: 999;
+  opacity: 0; transition: opacity 0.15s ease;
+}
+.confetti.show { opacity: 1; }
+
+/* ========== RESPONSIVE ADDITIONS ========== */
+@media (max-width: 768px) {
+  .guesses-container.cols-all .guess-header,
+  .guesses-container.cols-all .guess-row { grid-template-columns: 40px 1fr 60px 80px 80px; }
+  .guesses-container.cols-nr .guess-header,
+  .guesses-container.cols-nr .guess-row { grid-template-columns: 40px 1fr 80px 80px; }
+  .guesses-container.cols-nt .guess-header,
+  .guesses-container.cols-nt .guess-row { grid-template-columns: 40px 1fr 60px 80px; }
+  .guesses-container.cols-na .guess-header,
+  .guesses-container.cols-na .guess-row { grid-template-columns: 40px 1fr 60px 80px; }
+  .guesses-container.cols-nrt .guess-header,
+  .guesses-container.cols-nrt .guess-row { grid-template-columns: 40px 1fr 80px; }
+  .guesses-container.cols-nra .guess-header,
+  .guesses-container.cols-nra .guess-row { grid-template-columns: 40px 1fr 80px; }
+  .guesses-container.cols-nta .guess-header,
+  .guesses-container.cols-nta .guess-row { grid-template-columns: 40px 1fr 60px; }
+  .guesses-container.cols-name .guess-header,
+  .guesses-container.cols-name .guess-row { grid-template-columns: 40px 1fr; }
+}
+
+@media (max-width: 480px) {
+  .guesses-container.cols-all .guess-header,
+  .guesses-container.cols-all .guess-row { grid-template-columns: 35px 1fr 50px 65px 65px; }
+  .guesses-container.cols-nr .guess-header,
+  .guesses-container.cols-nr .guess-row { grid-template-columns: 35px 1fr 65px 65px; }
+  .guesses-container.cols-nt .guess-header,
+  .guesses-container.cols-nt .guess-row { grid-template-columns: 35px 1fr 50px 65px; }
+  .guesses-container.cols-na .guess-header,
+  .guesses-container.cols-na .guess-row { grid-template-columns: 35px 1fr 50px 65px; }
+  .guesses-container.cols-nrt .guess-header,
+  .guesses-container.cols-nrt .guess-row { grid-template-columns: 35px 1fr 65px; }
+  .guesses-container.cols-nra .guess-header,
+  .guesses-container.cols-nra .guess-row { grid-template-columns: 35px 1fr 65px; }
+  .guesses-container.cols-nta .guess-header,
+  .guesses-container.cols-nta .guess-row { grid-template-columns: 35px 1fr 50px; }
+  .guesses-container.cols-name .guess-header,
+  .guesses-container.cols-name .guess-row { grid-template-columns: 35px 1fr; }
+
+  .stat-grid { grid-template-columns: repeat(2, 1fr); }
+}

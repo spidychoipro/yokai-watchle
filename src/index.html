@@ -29,6 +29,8 @@
           <input type="checkbox" id="lang-toggle" />
           <span class="toggle-label" id="lang-label">EN</span>
         </label>
+        <button id="stats-btn" class="btn-help" title="통계">📊</button>
+        <button id="settings-btn" class="btn-help" title="설정">⚙</button>
         <button id="help-btn" class="btn-help" title="게임 설명">?</button>
       </div>
     </div>
@@ -41,6 +43,7 @@
         <select id="game-select" class="select-input"></select>
         <select id="version-select" class="select-input"></select>
         <select id="mode-select" class="select-input"></select>
+        <select id="round-select" class="select-input" hidden></select>
       </div>
       <div class="config-row">
         <span id="mode-info" class="mode-info"></span>
@@ -50,7 +53,7 @@
 
     <!-- 게임 보드 -->
     <section id="game-board" class="card game-board hidden">
-      <div id="guesses-container" class="guesses-container">
+      <div id="guesses-container" class="guesses-container cols-all">
         <div class="guess-header">
           <span class="col-num">№</span>
           <span class="col-name">요괴</span>
@@ -88,7 +91,10 @@
           <span id="badge-attr" class="badge"></span>
         </div>
         <p id="result-name" class="result-name"></p>
-        <button id="play-again-btn" class="btn-primary">다시 하기</button>
+        <div class="result-actions">
+          <button id="share-btn" class="btn-primary">공유</button>
+          <button id="play-again-btn" class="btn-primary">다시 하기</button>
+        </div>
       </div>
     </section>
 
@@ -99,15 +105,51 @@
         <li>숨겨진 <strong>요괴 1마리</strong>를 <strong>도감번호, 부족, 속성, 랭크</strong> 힌트로 맞힙니다.</li>
         <li>입력칸에 요괴 이름을 입력하고 "맞혀보기" 버튼을 누르세요.</li>
         <li><strong>번호 칸의 화살표(▲▼)</strong>는 정답보다 앞/뒤 번호임을 알려줍니다.</li>
-        <li><strong>초록색 셀</strong>은 정답과 일치하는 정보입니다.</li>
-        <li><strong>다른 색상 셀</strong>은 게임에 존재하지만 틀린 정보입니다.</li>
+        <li><strong>초록색</strong>은 정답과 일치하는 칸입니다.</li>
+        <li>같은 요괴를 재도전하고 싶으면 "새 게임" 버튼을 누르세요.</li>
+        <li>정답을 맞히면 요괴가 <strong>도감에 포획</strong>되고, 결과를 <strong>공유</strong>할 수 있어요!</li>
       </ol>
+    </section>
+
+    <!-- 설정 -->
+    <section id="settings-panel" class="card hidden">
+      <h3 id="settings-title">설정</h3>
+      <div class="set-row">
+        <label class="set-switch" for="sound">
+          <span id="lbl-sound">소리</span>
+          <input type="checkbox" id="sound" />
+          <span class="switch-track"></span>
+        </label>
+      </div>
+      <div class="set-row hints-row">
+        <span id="lbl-hints" class="set-label">힌트 표시</span>
+        <label class="check-item" for="hint-rank"><input type="checkbox" id="hint-rank" /> <span id="lbl-hint-rank">랭크</span></label>
+        <label class="check-item" for="hint-tribe"><input type="checkbox" id="hint-tribe" /> <span id="lbl-hint-tribe">부족</span></label>
+        <label class="check-item" for="hint-attr"><input type="checkbox" id="hint-attr" /> <span id="lbl-hint-attr">속성</span></label>
+      </div>
+      <div class="set-row">
+        <button id="reset-settings" class="btn-help wide">기본값 복원</button>
+      </div>
+    </section>
+
+    <!-- 통계 -->
+    <section id="stats-panel" class="card hidden">
+      <h3 id="stats-title">통계</h3>
+      <div class="stat-grid">
+        <div class="stat"><b id="st-played">0</b><span id="lbl-st-played">게임</span></div>
+        <div class="stat"><b id="st-winrate">0%</b><span id="lbl-st-winrate">승률</span></div>
+        <div class="stat"><b id="st-streak">0</b><span id="lbl-st-streak">연승</span></div>
+        <div class="stat"><b id="st-best">0</b><span id="lbl-st-best">최고</span></div>
+      </div>
+      <h4 id="st-dist-title">추측 분포</h4>
+      <div id="st-dist" class="dist"></div>
+      <p id="st-mode-note" class="mode-info"></p>
     </section>
 
     <!-- 요괴 도감 -->
     <section class="card dex-section">
       <div class="dex-header">
-        <h3>요괴 도감</h3>
+        <h3 id="dex-title">요괴 도감</h3>
         <input 
           id="dex-search" 
           type="search" 
@@ -115,6 +157,10 @@
           placeholder="요괴 검색..."
         />
       </div>
+      <div id="dex-progress" class="dex-progress" hidden>
+        <div id="dex-progress-bar" class="dex-progress-bar"></div>
+      </div>
+      <span id="dex-progress-label" class="dex-progress-label"></span>
       <div id="dex-grid" class="dex-grid"></div>
     </section>
 
@@ -128,6 +174,8 @@
     </footer>
   </main>
 </div>
+
+<canvas id="confetti" class="confetti"></canvas>
 
 <script src="data.js"></script>
 <script src="app.js"></script>
