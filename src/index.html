@@ -3,31 +3,104 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>요괴워치 Watchle - 요괴 맞추기 게임</title>
-<meta name="description" content="요괴워치 캐릭터를 맞추는 Wordle 스타일 게임. 매일 새로운 요괴가 등장합니다!" />
-<meta name="theme-color" content="#0f1220" />
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='46' fill='%23ffd66b'/><circle cx='50' cy='50' r='38' fill='none' stroke='%23b98a2f' stroke-width='6'/><circle cx='50' cy='50' r='16' fill='%23fff'/></svg>" />
+<title id="page-title">요괴워치 Watchle · 요괴 맞히기</title>
+<meta name="description" id="meta-desc" content="매일 정해진 요괴를 이름으로 맞히는 게임. 랭크·부족·속성 힌트로 요괴 도감을 완성해보세요." />
+<meta name="theme-color" content="#171033" />
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' y1='0' x2='0' y2='1'%3E%3Cstop offset='0' stop-color='%23b48cff'/%3E%3Cstop offset='1' stop-color='%236d4bc4'/%3E%3C/linearGradient%3E%3C/defs%3E%3Ccircle cx='50' cy='50' r='46' fill='%23ffc857' opacity='0.35'/%3E%3Ccircle cx='50' cy='57' r='27' fill='url(%23g)'/%3E%3Cpolygon points='38,12 30,32 52,28' fill='url(%23g)'/%3E%3Cpolygon points='62,12 70,32 48,28' fill='url(%23g)'/%3E%3Ccircle cx='41' cy='58' r='5' fill='%23ffc857'/%3E%3Ccircle cx='59' cy='58' r='5' fill='%23ffc857'/%3E%3C/svg%3E" />
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Jua&display=swap" rel="stylesheet" />
 <link rel="stylesheet" href="style.css" />
 </head>
 <body>
+<!-- 오리지널 마스코트 + UI 아이콘 SVG 스프라이트 -->
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none" aria-hidden="true">
+  <defs>
+    <linearGradient id="catBody" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#b48cff"/>
+      <stop offset="0.6" stop-color="#8a63ea"/>
+      <stop offset="1" stop-color="#5b3a9e"/>
+    </linearGradient>
+    <radialGradient id="catAura" cx="0.5" cy="0.45" r="0.72">
+      <stop offset="0" stop-color="#ffc857" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#ffc857" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <symbol id="i-cat" viewBox="0 0 100 100">
+    <circle cx="52" cy="48" r="46" fill="url(#catAura)"/>
+    <path d="M50 7 Q54 15 50 23 Q46 15 50 7 Z" fill="#ffc857"/>
+    <polygon points="38,12 30,32 52,28" fill="url(#catBody)"/>
+    <polygon points="62,12 70,32 48,28" fill="url(#catBody)"/>
+    <polygon points="38,17 33,29 46,29" fill="#ffc857"/>
+    <polygon points="62,17 67,29 54,29" fill="#ffc857"/>
+    <circle cx="50" cy="57" r="27" fill="url(#catBody)"/>
+    <path d="M32 64 C32 88 41 97 50 97 C59 97 68 88 68 64 C58 70 42 70 32 64 Z" fill="url(#catBody)"/>
+    <path d="M41 80 Q50 75.5 59 80 Q61.5 91 50 95 Q38.5 91 41 80 Z" fill="#e6dbff" opacity="0.35"/>
+    <path d="M45 87.5 Q50 91 55 87.5" fill="none" stroke="#ffc857" stroke-width="2.4" stroke-linecap="round"/>
+    <circle cx="40.5" cy="57" r="5.6" fill="#ffc857"/>
+    <circle cx="59.5" cy="57" r="5.6" fill="#ffc857"/>
+    <circle cx="42.5" cy="55.2" r="1.9" fill="#fff"/>
+    <circle cx="61.5" cy="55.2" r="1.9" fill="#fff"/>
+    <path d="M48.3 65.5 L51.7 65.5 L50 68 Z" fill="#ffc857"/>
+    <path d="M46 70 Q50 73.2 54 70" fill="none" stroke="#4b2f86" stroke-width="2.2" stroke-linecap="round"/>
+    <g stroke="#d9c7ff" stroke-width="2" stroke-linecap="round" opacity="0.9">
+      <path d="M25 59 L34 61"/>
+      <path d="M25 67 L34 64.5"/>
+      <path d="M75 59 L66 61"/>
+      <path d="M75 67 L66 64.5"/>
+    </g>
+    <circle cx="19" cy="20" r="2.3" fill="#ffc857"/>
+    <circle cx="80" cy="15" r="1.7" fill="#ffc857"/>
+    <circle cx="87" cy="40" r="2" fill="#ffc857" opacity="0.9"/>
+    <circle cx="15" cy="46" r="1.7" fill="#ffc857" opacity="0.8"/>
+    <circle cx="84" cy="60" r="1.5" fill="#b48cff"/>
+  </symbol>
+
+  <symbol id="i-spark" viewBox="0 0 24 24" fill="currentColor">
+    <path d="M12 2 L14 9.6 L21 12 L14 14.4 L12 22 L10 14.4 L3 12 L10 9.6 Z"/>
+  </symbol>
+
+  <symbol id="i-help" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="12" r="9.5"/>
+    <path d="M9.3 9.2 a2.9 2.9 0 0 1 5.7 1 c0 1.9 -2.7 2.6 -2.7 3.6"/>
+    <circle cx="12" cy="16.8" r="0.4" fill="currentColor"/>
+  </symbol>
+
+  <symbol id="i-stats" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M3 3v18h18"/>
+    <path d="M8.5 17v-6"/>
+    <path d="M13 17V7"/>
+    <path d="M17.5 17v-9"/>
+  </symbol>
+
+  <symbol id="i-gear" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="12" r="3.4" fill="currentColor" stroke="none"/>
+    <path d="M12 2.4 v3 M12 18.6 v3 M2.4 12 h3 M18.6 12 h3"/>
+    <path d="M5.2 5.2 l2.1 2.1 M16.7 16.7 l2.1 2.1 M18.8 5.2 l-2.1 2.1 M7.3 16.7 l-2.1 2.1"/>
+    <circle cx="12" cy="12" r="3.4"/>
+  </symbol>
+
+  <symbol id="i-close" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round">
+    <path d="M18 6 6 18 M6 6 18 18"/>
+  </symbol>
+</svg>
+
 <div class="layout">
 
   <header class="site-header">
     <div class="header-inner">
-      <button id="help-btn" class="icon-btn" title="게임 설명" aria-label="Help">?</button>
+      <button id="help-btn" class="icon-btn" title="게임 설명" aria-label="게임 설명"><svg class="ic" aria-hidden="true"><use href="#i-help"/></svg></button>
       <div class="brand">
-        <span class="medal" aria-hidden="true"><span class="medal-core">👻</span></span>
+        <span class="medal" aria-hidden="true"><span class="medal-core"><svg class="ic-medal"><use href="#i-cat"/></svg></span></span>
         <div class="brand-text">
           <h1 class="brand-title">요괴워치</h1>
-          <p class="brand-sub">YO-KAI WATCHLE ✦ DAILY</p>
+          <p class="brand-sub">YO-KAI WATCHLE <svg class="ic-spark" aria-hidden="true"><use href="#i-spark"/></svg> DAILY</p>
         </div>
       </div>
       <div class="header-actions">
-        <button id="stats-btn" class="icon-btn" title="통계" aria-label="Stats">📊</button>
-        <button id="settings-btn" class="icon-btn" title="설정" aria-label="Settings">⚙</button>
+        <button id="stats-btn" class="icon-btn" title="통계" aria-label="통계"><svg class="ic" aria-hidden="true"><use href="#i-stats"/></svg></button>
+        <button id="settings-btn" class="icon-btn" title="설정" aria-label="설정"><svg class="ic" aria-hidden="true"><use href="#i-gear"/></svg></button>
       </div>
     </div>
   </header>
@@ -69,7 +142,12 @@
     <section id="result-screen" class="card result-screen hidden">
       <div class="result-content">
         <h2 id="result-title" class="result-title"></h2>
-        <div class="result-medal" aria-hidden="true"><span class="result-medal-core"><span id="result-number" class="result-medal-num"></span></span></div>
+        <div class="result-medal" aria-hidden="true">
+          <span class="result-medal-core">
+            <svg class="ic-medal-lg"><use href="#i-cat"/></svg>
+            <span id="result-number" class="result-medal-num"></span>
+          </span>
+        </div>
         <div class="result-badges">
           <span id="badge-rank" class="badge"></span>
           <span id="badge-tribe" class="badge"></span>
@@ -99,7 +177,7 @@
 
 <!-- 도움말 -->
 <section id="help-modal" class="modal-panel hidden" role="dialog" aria-modal="true" aria-labelledby="help-title">
-  <button class="modal-close" aria-label="Close">×</button>
+  <button class="modal-close" aria-label="닫기"><svg class="ic ic-sm" aria-hidden="true"><use href="#i-close"/></svg></button>
   <h3 id="help-title">게임 방법</h3>
   <ol class="help-list">
     <li id="help-li-1"></li>
@@ -107,18 +185,18 @@
   </ol>
   <div class="help-example" aria-hidden="true">
     <div class="guess-row cols-all">
-      <span class="col-num arrow-num">▲ 142</span>
-      <span class="col-name">위스퍼</span>
-      <span class="col-rank"><span class="cell" style="background:#66c2e8;color:#04240f">D ▲</span></span>
-      <span class="col-tribe"><span class="cell" style="background:#7f5b44;color:#fff">초</span></span>
-      <span class="col-attr"><span class="cell correct">바람</span></span>
+      <span class="col-num arrow-num" id="help-ex-r1-num">▲ 142</span>
+      <span class="col-name" id="help-ex-r1-name">위스퍼</span>
+      <span class="col-rank"><span class="cell" id="help-ex-r1-rank" style="background:#8ab6ff;color:#04240f">D ▲</span></span>
+      <span class="col-tribe"><span class="cell" id="help-ex-r1-tribe" style="background:#8a63ea;color:#fff">불가사의</span></span>
+      <span class="col-attr"><span class="cell correct" id="help-ex-r1-attr">돌풍</span></span>
     </div>
     <div class="guess-row cols-all">
       <span class="col-num">✓</span>
-      <span class="col-name">지바냥</span>
-      <span class="col-rank"><span class="cell correct">C</span></span>
-      <span class="col-tribe"><span class="cell correct">충치</span></span>
-      <span class="col-attr"><span class="cell correct">바람</span></span>
+      <span class="col-name" id="help-ex-r2-name">지바냥</span>
+      <span class="col-rank"><span class="cell correct" id="help-ex-r2-rank">C</span></span>
+      <span class="col-tribe"><span class="cell correct" id="help-ex-r2-tribe">프리티</span></span>
+      <span class="col-attr"><span class="cell correct" id="help-ex-r2-attr">화염</span></span>
     </div>
   </div>
   <ul class="help-list" id="help-example-list">
@@ -131,7 +209,7 @@
 
 <!-- 통계 -->
 <section id="stats-modal" class="modal-panel hidden" role="dialog" aria-modal="true" aria-labelledby="stats-title">
-  <button class="modal-close" aria-label="Close">×</button>
+  <button class="modal-close" aria-label="닫기"><svg class="ic ic-sm" aria-hidden="true"><use href="#i-close"/></svg></button>
   <h3 id="stats-title">통계</h3>
   <div class="stat-grid">
     <div class="stat"><b id="st-played">0</b><span id="lbl-st-played">해결</span></div>
@@ -145,7 +223,7 @@
 
 <!-- 설정 -->
 <section id="settings-modal" class="modal-panel hidden" role="dialog" aria-modal="true" aria-labelledby="settings-title">
-  <button class="modal-close" aria-label="Close">×</button>
+  <button class="modal-close" aria-label="닫기"><svg class="ic ic-sm" aria-hidden="true"><use href="#i-close"/></svg></button>
   <h3 id="settings-title">설정</h3>
 
   <h4 id="grp-general">일반</h4>

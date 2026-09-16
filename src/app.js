@@ -8,7 +8,10 @@
   // ---------- 다국어 ----------
   const I18N = {
     ko: {
-      langName: 'EN',
+      langName: '한국어',
+      pageTitle: '요괴워치 Watchle · 요괴 맞히기',
+      pageDesc: '매일 정해진 요괴를 이름으로 맞히는 게임. 랭크·부족·속성 힌트로 요괴 도감을 완성해보세요.',
+      shareHead: '요괴워치 즐',
       todayLine: '오늘의 요괴',
       newGame: '새 게임',
       submit: '맞혀보기',
@@ -20,6 +23,8 @@
       copied: '복사됨!',
       footer: '데이터: 요괴워치 도감',
       help: '게임 설명',
+      helpAria: '게임 설명',
+      closeAria: '닫기',
       helpTitle: '게임 방법',
       helpLi1: '숨은 요괴를 이름으로 맞혀보세요.',
       helpLi2: '제출할수록 정답과의 거리가 힌트로 드러나요. 횟수 제한은 없어요.',
@@ -27,7 +32,16 @@
       helpEx2: '색칠된 칸 = 다르지만 그 요괴의 실제 값이에요',
       helpEx3: '▲▼ = 랭크가 정답보다 높거나 낮아요',
       helpEx4: '맞히면 도감에 포획되고, 결과를 공유할 수 있어요',
+      helpExR1Name: '위스퍼',
+      helpExR1Rank: 'D ▲',
+      helpExR1Tribe: '불가사의',
+      helpExR1Attr: '돌풍',
+      helpExR2Name: '지바냥',
+      helpExR2Rank: 'C',
+      helpExR2Tribe: '프리티',
+      helpExR2Attr: '화염',
       settingsH: '설정',
+      settingsAria: '설정',
       grpGeneral: '일반',
       grpGame: '게임',
       grpDex: '포획 도감',
@@ -39,6 +53,7 @@
       lblHintAttr: '속성',
       resetSettings: '기본값 복원',
       statsH: '통계',
+      statsAria: '통계',
       stSolved: '해결',
       stStreak: '연속',
       stBest: '최고',
@@ -54,7 +69,10 @@
       unknown: '?'
     },
     en: {
-      langName: '한국어',
+      langName: 'English',
+      pageTitle: 'Yo-kai Watchle · Daily Yo-kai Guess',
+      pageDesc: "Guess today's hidden yo-kai by name. Rank, tribe and attribute hints lead you through the Medallium.",
+      shareHead: 'Yo-kai Watchle',
       todayLine: "Today's yo-kai",
       newGame: 'New Game',
       submit: 'Guess',
@@ -66,6 +84,8 @@
       copied: 'Copied!',
       footer: 'Data: Yo-kai Watch Medallium',
       help: 'How to Play',
+      helpAria: 'How to play',
+      closeAria: 'Close',
       helpTitle: 'How to Play',
       helpLi1: 'Find the hidden yo-kai by name.',
       helpLi2: 'Each guess reveals how close you are. There is no guess limit.',
@@ -73,7 +93,16 @@
       helpEx2: 'Colored cell = differs, but shows the real value',
       helpEx3: '▲▼ = rank is higher or lower than the answer',
       helpEx4: 'Caught yo-kai are added to the Medallium. Share your results!',
+      helpExR1Name: 'Whisper',
+      helpExR1Rank: 'D ▲',
+      helpExR1Tribe: 'Mysterious',
+      helpExR1Attr: 'Wind',
+      helpExR2Name: 'Jibanyan',
+      helpExR2Rank: 'C',
+      helpExR2Tribe: 'Charming',
+      helpExR2Attr: 'Fire',
       settingsH: 'Settings',
+      settingsAria: 'Settings',
       grpGeneral: 'General',
       grpGame: 'Game',
       grpDex: 'Medallium',
@@ -85,6 +114,7 @@
       lblHintAttr: 'Attr',
       resetSettings: 'Reset defaults',
       statsH: 'Stats',
+      statsAria: 'Statistics',
       stSolved: 'Solved',
       stStreak: 'Streak',
       stBest: 'Best',
@@ -258,7 +288,7 @@
     cv.classList.add('show');
     const ctx = cv.getContext('2d');
     if (!ctx) return;
-    const colors = ['#ffd54a', '#ffb347', '#6aaa64', '#c9b458', '#4d9bff', '#ffffff'];
+    const colors = ['#ffc857', '#ffb347', '#a78bfa', '#6fdcb0', '#c9b458', '#b48cff', '#ffffff'];
     const parts = [];
     for (let i = 0; i < 90; i++) {
       parts.push({
@@ -412,17 +442,20 @@
     }
   }
 
+  let freshRow = false;
   function renderBoard() {
     const container = $('guesses-container');
     while (container.children.length > 1) container.removeChild(container.lastChild);
-    state.guesses.forEach(renderGuessRow);
+    state.guesses.forEach((g, i) => renderGuessRow(g, i));
+    freshRow = false;
     applyCols();
   }
 
-  function renderGuessRow(guess) {
+  function renderGuessRow(guess, idx) {
     const container = $('guesses-container');
     const row = document.createElement('div');
     row.className = 'guess-row';
+    if (freshRow && idx === state.guesses.length - 1) row.classList.add('row-fresh');
 
     const num = document.createElement('span');
     num.className = 'col-num';
@@ -500,6 +533,7 @@
       endGame();
       return;
     }
+    freshRow = true;
     play('click');
     renderBoard();
     renderModeInfo();
@@ -547,7 +581,7 @@
 
   // ---------- share ----------
   function shareText() {
-    const head = '요괴워치 즐 · ' + gameName() + ' (' + getTodayKST() + ')';
+    const head = T('shareHead') + ' · ' + gameName() + ' (' + getTodayKST() + ')';
     const lines = [head];
     lines.push('#' + String(state.target.n).padStart(3, '0') + ' ' + entryName(state.target));
     const want = { rank: state.settings.hints.rank, tribe: state.settings.hints.tribe, attr: state.settings.hints.attr };
@@ -695,7 +729,9 @@
     g.versions.forEach((v) => {
       const o = document.createElement('option');
       o.value = v.id;
-      o.textContent = g.versions.length > 1 ? v.label.ko + ' · ' + v.label.en : v.label.ko;
+      o.textContent = state.lang === 'ko'
+        ? (g.versions.length > 1 ? v.label.ko + ' · ' + v.label.en : v.label.ko)
+        : v.label.en;
       if (v.id === state.versionId) o.selected = true;
       vSel.appendChild(o);
     });
@@ -716,6 +752,8 @@
   // ---------- language ----------
   function applyLang() {
     document.documentElement.lang = state.lang === 'ko' ? 'ko' : 'en';
+    document.title = T('pageTitle');
+    $('meta-desc').content = T('pageDesc');
     $('lang-label').textContent = T('langName');
     $('new-game-btn').textContent = T('newGame');
     $('submit-btn').textContent = T('submit');
@@ -724,6 +762,10 @@
     $('settings-btn').title = T('settingsH');
     $('stats-btn').title = T('statsH');
     $('footer-text').textContent = T('footer');
+    $('help-btn').setAttribute('aria-label', T('helpAria'));
+    $('stats-btn').setAttribute('aria-label', T('statsAria'));
+    $('settings-btn').setAttribute('aria-label', T('settingsAria'));
+    document.querySelectorAll('.modal-close').forEach((b) => b.setAttribute('aria-label', T('closeAria')));
 
     $('help-title').textContent = T('helpTitle');
     $('help-li-1').textContent = T('helpLi1');
@@ -732,6 +774,14 @@
     $('help-ex-2').textContent = T('helpEx2');
     $('help-ex-3').textContent = T('helpEx3');
     $('help-ex-4').textContent = T('helpEx4');
+    $('help-ex-r1-name').textContent = T('helpExR1Name');
+    $('help-ex-r1-rank').textContent = T('helpExR1Rank');
+    $('help-ex-r1-tribe').textContent = T('helpExR1Tribe');
+    $('help-ex-r1-attr').textContent = T('helpExR1Attr');
+    $('help-ex-r2-name').textContent = T('helpExR2Name');
+    $('help-ex-r2-rank').textContent = T('helpExR2Rank');
+    $('help-ex-r2-tribe').textContent = T('helpExR2Tribe');
+    $('help-ex-r2-attr').textContent = T('helpExR2Attr');
 
     $('settings-title').textContent = T('settingsH');
     $('grp-general').textContent = T('grpGeneral');

@@ -1,148 +1,96 @@
-# 妖怪Watchle - 요괴워치 워들 🎮
+# 요괴워치 Watchle
 
-<div align="center">
+매일 정해진 요괴 한 마리를 **이름으로** 맞히는 게임. 정답을 맞힌 뒤에 요괴의 랭크·부족·속성 힌트가 공개되고, 맞힐수록 실제 값과 점점 가까워집니다.
 
-![Yokai Watchle](https://img.shields.io/badge/Game-Yokai%20Watch-red)
-![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
-![CSS](https://img.shields.io/badge/Style-CSS-blue)
-![Python](https://img.shields.io/badge/Backend-Python-green)
-![HTML](https://img.shields.io/badge/Markup-HTML-orange)
+[게임 시작](https://spidychoipro.github.io/yokai-watchle/) · [GitHub](https://github.com/spidychoipro/yokai-watchle) · [English README](./README.md)
 
-**요괴워치 테마의 Wordle 게임**
+## 게임 방식
 
-[🎮 게임 시작하기](https://spidychoipro.github.io/yokai-watchle/) | [📖 English Guide](./README.md) | [GitHub](https://github.com/spidychoipro/yokai-watchle)
+요괴 이름을 직접 입력합니다. 요괴워치 시리즈 정발판 이름(한글)과 영어 이름 모두 인식합니다.
 
-</div>
+- 요괴 **랭크** — 정답보다 높은지 낮은지 ▲/▼로 표시
+- **부족 / 속성** — 틀려도 그 요괴의 실제 값을 색칠된 칸으로 보여줌
+- 맞히면 초록색으로 표시되고, 게임이 끝납니다
+- 추측 횟수 제한은 없습니다. 매일 자정(KST)에 다른 요괴가 출현합니다.
 
----
+한국의 정식 발매가 없던 **요괴워치 3**는 영어 UI에서만 선택할 수 있게 막아뒀습니다.
 
-## 📖 개요
+## 스크린샷
 
-**요괴워치 워들**은 인기 있는 단어 맞추기 게임 **Wordle**에 **요괴워치(Yokai Watch)** 테마를 입힌 웹 게임입니다.
+![오늘의 요괴 보드](assets/screenshot-board.png)
 
-플레이어는 5글자 영어 단어를 6번 시도하여 맞혀야 합니다. 각 추측 후에 타일의 색상이 정답과의 유사성을 나타냅니다.
+![플레이 중 추측](assets/screenshot-gameplay.png)
 
-매일 새로운 단어가 업데이트됩니다!
+![정답! 메달과 컨페티](assets/screenshot-result.png)
 
----
+![설정 — KR/EN 전환](assets/screenshot-settings-ko.png)
 
-## 🎮 게임 규칙
+행이 추가될 때 카드가 뒤집히고, 정답 칸은 빛나는 스윕 효과가 지나갑니다. 우측 상단 버튼은 연결된 웹폰트(`Black Han Sans`)와 별도로, 아이콘은 전부 인라인 SVG입니다.
 
-- 🎯 **목표**: 6번의 시도로 정답 단어를 맞추세요
-- 🟩 **초록색**: 올바른 위치의 올바른 글자
-- 🟨 **노란색**: 단어에 있지만 잘못된 위치의 글자
-- ⬜ **회색**: 단어에 없는 글자
+## 플레이 가능한 도감
 
----
+데이터에 구축된 roster를 기준으로 게임/버전을 고를 수 있습니다.
 
-## ✨ 주요 기능
+| 게임 | 버전 | 수록 수 |
+|------|------|---------|
+| 요괴워치 1 | 본편 | 245 |
+| 요괴워치 2 | 본편 · 본편 2 · 본편 3 | 405 |
+| 요괴워치 3 | 영어 전용 | 662 |
+| 요괴워치 버스터즈 | 적묘단 · 백견대 · 월토조 | 392 · 392 · 368 |
 
-- 🎨 **요괴워치 테마**: 캐릭터와 색상으로 테마를 입힌 인터페이스
-- 📱 **반응형 디자인**: 모바일, 태블릿, 데스크톱에서 모두 플레이 가능
-- 🔄 **매일 새로운 단어**: 일일 챌린지 시스템
-- 📊 **통계**: 승리 기록 및 연승 추적
-- ⌨️ **키보드 지원**: 온스크린 키보드 또는 실제 키보드로 플레이
+## 동작하는 기능
 
----
+- **오늘의 요괴**: 날짜(KST)별로 대상이 결정되어 자정에 바뀝니다.
+- **힌트 설정**: 랭크·부족·속성 칸을 각각 켜고 끌 수 있습니다.
+- **포획 도감**: 맞힌 요괴가 설정 탭의 도감에 수집됩니다. 진행률이 표시되고 검색됩니다.
+- **통계**: 해결 수·연속·최고 연승과 추측 분포. 하루 정답은 1회만 집계됩니다.
+- **공유**: 텍스트 형식(🟩🟨⬜)으로 결과를 공유합니다.
+- **효과음**: WebAudio 기반 합성음(클릭·오답·승리), 설정에서 끌 수 있습니다.
+- **EN/KO**: UI·게임 데이터(이름·부족·속성) 모두 번역됩니다. 한국 정발이 없는 시리즈는 영어 표기만 노출됩니다.
+- **마스코트**: 요괴워치 IP를 직접 쓰지 않기 위해 "고양이 요괴" 실루엣의 오리지널 마스코트를 SVG로 직접 그리고, 헤더 메달·결과 화면·파비콘에 통일해서 사용합니다.
 
-## 🛠 기술 스택
+## 데이터는 어떻게 만들었나
 
-| 기술 | 비율 | 설명 |
-|------|------|------|
-| **JavaScript** | 74.7% | 게임 로직 및 상호작용 |
-| **CSS** | 10.7% | 스타일링 및 반응형 디자인 |
-| **Python** | 9.4% | 백엔드 (선택사항) |
-| **HTML** | 5.2% | 마크업 구조 |
+게임에 쓰이는 이름 데이터는 전부 스크립트로 수집·병합했습니다.
 
----
+- **영문/로스터**: Fandom의 Medallium Number 목록을 `tools/fetch-fandom.py`·`tools/scrape.mjs`로 긁어 원문 그대로 `data/raw/`에 저장
+- **한글 이름**: 나무위키 기반 자료(`data/namu/`) + `tools/parse-namu.py`·`tools/merge-kr.mjs`로 `kr_pairs.json` 구축
+- **검증/병합**: `tools/check-pairs.mjs`, `tools/merge-final.mjs`로 패어 검증 후 `build-data.mjs`가 `src/data.js`(단일 파일)를 재생성. 그 과정에서 `tools/compare-names.mjs`로 가지를 확인
+- **버스터즈**(Rev 5): Fandom raw를 `tools/blasters-parse.mjs`로 파싱해 470종 → `tools/blasters-kr.mjs`가 한글명 470/470 매핑
 
-## 🚀 시작하기
+외부 라이브러리 의존성은 없고, 빌드 산출물인 `src/data.js`를 정적 페이지가 그대로 읽습니다.
 
-### 온라인 플레이
-간단하게 브라우저에서 플레이하세요:
-👉 **[요괴워치 워들 플레이](https://spidychoipro.github.io/yokai-watchle/)**
-
-### 로컬 설치
-
-```bash
-# 저장소 클론
-git clone https://github.com/spidychoipro/yokai-watchle.git
-
-# 디렉토리 이동
-cd yokai-watchle
-
-# 로컬 서버에서 실행
-# 옵션 1: VS Code Live Server 확장 프로그램 사용
-# 옵션 2: Python 내장 서버 사용
-python -m http.server 8000
-# 그 후 http://localhost:8000 방문
-```
-
----
-
-## 📁 프로젝트 구조
+## 레포 구조
 
 ```
 yokai-watchle/
-├── index.html          # 메인 HTML 파일
-├── style.css           # 스타일시트
-├── script.js           # 게임 로직
-├── README.md           # 영문 문서
-├── README_KO.md        # 한글 문서
-└── assets/             # 이미지 및 리소스
+├── src/                 # 게임 본체 (index.html + style.css + app.js + data.js)
+├── data/                # 수집 원본·중간 산출물 (raw / namu / out)
+├── tools/               # 데이터 수집·병합·검증 스크립트 (js / py)
+├── assets/              # README 스크린샷
+└── docs/                # PDCA 작업 문서 (plan / design / analysis / report)
 ```
 
----
+## 로컬에서 실행
 
-## 🎨 커스터마이징
+별도 빌드 없이 `src/`를 정적 서빙하면 됩니다.
 
-### 단어 목록 변경
-`script.js` 파일에서 `wordList` 배열을 수정하여 게임에서 사용할 단어를 변경할 수 있습니다.
+```bash
+cd src
+python -m http.server 8000
+# http://localhost:8000
+```
 
-### 색상 테마 변경
-`style.css` 파일에서 CSS 변수를 수정하여 요괴워치 테마의 색상을 커스터마이징할 수 있습니다.
+`src/data.js`를 다시 만들 때만 `tools/`의 파이프라인을 실행하면 됩니다.
 
-### 새로운 기능 추가
-- [ ] 리더보드
-- [ ] 난이도 선택
-- [ ] 다국어 지원
-- [ ] 효과음
+## 연혁
 
----
+- **Rev 1** — 최초 버전: NYT 스타일 단어 맞추기 프로토타입
+- **Rev 2~3** — 통계·공유·컨페티·효과음·도감·게임/버전 선택·언어 토글 추가
+- **Rev 4** — "AI가 급조한 느낌" 지적 후 메달 컨셉 리디자인(골드 타이틀·별하늘 배경·스티커 카드) + 요괴워치 3를 영어 전용으로
+- **Rev 5** — 요괴워치 버스터즈(적묘단/백견대/월토조) 데이터 추가, 한글판에서 요괴워치 3 선택 차단
+- **Rev 6** — 인라인 SVG 아이콘 세트와 오리지널 고양이 요괴 마스코트, 보라-금색 테마 팔레트, 타일 뒤집기·정답 반짝임 애니메이션, EN/KO 번역 보완
 
-## 🐛 버그 리포트 및 제안
+## 라이선스
 
-버그를 발견했거나 개선 아이디어가 있으신가요?
-[GitHub Issues](https://github.com/spidychoipro/yokai-watchle/issues)에서 이슈를 등록해주세요.
-
----
-
-## 📝 라이선스
-
-이 프로젝트는 오픈소스이며 MIT 라이선스 하에 배포됩니다.
-
----
-
-## 🙏 감사의 말
-
-- **Wordle** - 원본 게임에 대한 감사
-- **Yokai Watch** - 테마 영감 제공
-- **모든 플레이어들** - 피드백과 지원
-
----
-
-## 📧 연락처
-
-질문이나 피드백이 있으시면:
-- 🔗 GitHub: [@spidychoipro](https://github.com/spidychoipro)
-- 💬 [Issues](https://github.com/spidychoipro/yokai-watchle/issues)
-
----
-
-<div align="center">
-
-**즐거운 게임 되세요! 🎮✨**
-
-❤️ spidychoipro가 만들었습니다
-
-</div>
+요괴워치 관련 명칭·캐릭터는 Level-5의 재산입니다. 이 프로젝트는 비공식 팬 프로젝트이며 README 이미지의 마스코트는 요괴워치 소재를 직접 쓰지 않은 오리지널 도안입니다. MIT 라이선스로 배포됩니다.

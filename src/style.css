@@ -1,24 +1,31 @@
 /* ============================================================
    Yo-kai Watchle — 메달 컨셉 팬 디자인
-   딥 네이비 밤하늘 + 금색 메달 + 통통한 스티커 카드
+   보랏빛 밤 + 금빛 메달 + 통통한 스티커 카드
    ============================================================ */
 
 :root {
-  --bg: #0b1226;
-  --bg-elev: #141d38;
-  --bg-soft: #0f1730;
-  --stroke: #2d3a66;
-  --stroke-soft: #3a4a7c;
-  --text-primary: #f4f6ff;
-  --text-muted: #9aa7c9;
-  --gold: #ffd66b;
-  --gold-deep: #e29b2f;
-  --gold-grad: linear-gradient(180deg, #ffe9a8, #f6c150 60%, #efab2f);
-  --coral: #ff6a5c;
-  --mint: #53c58a;
-  --sky: #5aa9ff;
-  --success: #53c58a;
-  --shadow-hard: 0 10px 0 #070b18;
+  --bg: #171033;            /* 보라빛 심야 */
+  --bg-elev: #221549;       /* 카드 고저 */
+  --bg-soft: #1b1038;       /* 행 배경 */
+  --stroke: #43307a;        /* 마법 윤곽 */
+  --stroke-soft: #5a41a8;
+  --text-primary: #f6f2ff;
+  --text-muted: #b9aee0;
+  --gold: #ffc857;
+  --gold-deep: #e69b2e;
+  --gold-grad: linear-gradient(180deg, #fff0bd, #ffc857 55%, #f0a02e);
+  --violet: #a78bfa;
+  --coral: #ff7d6b;
+  --mint: #6fdcb0;
+  --sky: #8ab6ff;
+  --success: #6fdcb0;
+  --shadow-hard: 0 10px 0 #0c0720;
+  --rank-s: #ff7a6b;
+  --rank-a: #ffb347;
+  --rank-b: #ffd66b;
+  --rank-c: #6fdcb0;
+  --rank-d: #8ab6ff;
+  --rank-e: #b9aee0;
   --font-title: 'Black Han Sans', 'Jua', 'Malgun Gothic', sans-serif;
   --transition: 0.18s ease;
 }
@@ -30,19 +37,28 @@ html, body { height: 100%; }
 body {
   background: var(--bg);
   background-image:
-    radial-gradient(1.5px 1.5px at 12% 22%, rgba(255, 255, 255, 0.55) 50%, transparent 50%),
-    radial-gradient(1px 1px at 78% 12%, rgba(255, 214, 107, 0.6) 50%, transparent 50%),
-    radial-gradient(1.5px 1.5px at 88% 70%, rgba(255, 255, 255, 0.4) 50%, transparent 50%),
-    radial-gradient(2px 2px at 30% 78%, rgba(90, 169, 255, 0.5) 50%, transparent 50%),
-    radial-gradient(1px 1px at 60% 40%, rgba(255, 255, 255, 0.35) 50%, transparent 50%),
-    radial-gradient(2px 2px at 42% 8%, rgba(255, 106, 92, 0.45) 50%, transparent 50%),
-    radial-gradient(1px 1px at 94% 46%, rgba(255, 255, 255, 0.4) 50%, transparent 50%),
-    radial-gradient(1.5px 1.5px at 6% 52%, rgba(255, 214, 107, 0.5) 50%, transparent 50%);
+    radial-gradient(1.5px 1.5px at 12% 22%, rgba(246, 242, 255, 0.6) 50%, transparent 50%),
+    radial-gradient(1px 1px at 78% 12%, rgba(255, 200, 87, 0.65) 50%, transparent 50%),
+    radial-gradient(1.5px 1.5px at 88% 70%, rgba(246, 242, 255, 0.45) 50%, transparent 50%),
+    radial-gradient(2px 2px at 30% 78%, rgba(138, 182, 255, 0.5) 50%, transparent 50%),
+    radial-gradient(1px 1px at 60% 40%, rgba(246, 242, 255, 0.4) 50%, transparent 50%),
+    radial-gradient(2px 2px at 42% 8%, rgba(255, 125, 107, 0.45) 50%, transparent 50%),
+    radial-gradient(1px 1px at 94% 46%, rgba(246, 242, 255, 0.45) 50%, transparent 50%),
+    radial-gradient(1.5px 1.5px at 6% 52%, rgba(167, 138, 250, 0.55) 50%, transparent 50%);
   background-repeat: repeat;
   color: var(--text-primary);
   font-family: 'Apple SD Gothic Neo', 'Malgun Gothic', 'NanumGothic', Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   user-select: none;
+}
+
+body::before {
+  content: "";
+  position: fixed; inset: 0; z-index: -1; pointer-events: none;
+  background:
+    radial-gradient(900px 480px at 85% -8%, rgba(138, 99, 234, 0.30), transparent 62%),
+    radial-gradient(700px 420px at 0% 106%, rgba(255, 200, 87, 0.13), transparent 60%),
+    radial-gradient(520px 320px at 52% 45%, rgba(167, 138, 250, 0.10), transparent 65%);
 }
 
 button { font: inherit; color: inherit; background: none; border: none; cursor: pointer; }
@@ -57,7 +73,7 @@ a { color: inherit; }
 .header-inner { display: flex; align-items: center; justify-content: space-between; gap: 6px; }
 
 .icon-btn {
-  width: 44px; height: 44px; font-size: 19px; border-radius: 50%;
+  width: 44px; height: 44px; border-radius: 50%;
   display: inline-flex; align-items: center; justify-content: center;
   background: var(--bg-elev);
   border: 2px solid var(--stroke);
@@ -65,27 +81,34 @@ a { color: inherit; }
   transition: var(--transition);
   flex-shrink: 0;
 }
-.icon-btn:hover { color: var(--gold); border-color: var(--gold-deep); transform: translateY(-2px); }
+.icon-btn:hover { color: var(--gold); border-color: var(--gold-deep); transform: translateY(-2px); box-shadow: 0 0 14px rgba(255, 200, 87, 0.28); }
+.icon-btn:active { transform: translateY(1px); }
+
+.ic { width: 20px; height: 20px; display: block; }
+.ic-sm { width: 16px; height: 16px; }
+.ic-spark { width: 10px; height: 10px; display: inline-block; vertical-align: baseline; color: var(--gold); }
 
 .brand { display: flex; align-items: center; gap: 10px; flex: 1; justify-content: center; }
 
 /* Yo-kai 메달 */
 .medal {
   width: 54px; height: 54px; border-radius: 50%;
-  background: conic-gradient(from 215deg, #ffd66b, #f49b3e, #ff8a5c, #ffd66b, #f6b53f, #ffd66b);
+  background: conic-gradient(from 215deg, #ffc857, #f49b3e, #ff8a5c, #ffc857, #f6b53f, #ffc857);
   box-shadow:
     0 0 0 3px var(--bg),
     0 0 0 5px var(--gold-deep),
-    0 6px 0 5px #060a18;
+    0 6px 0 5px #0b0619;
   display: grid; place-items: center;
   flex-shrink: 0;
 }
 .medal-core {
   width: 38px; height: 38px; border-radius: 50%;
-  background: radial-gradient(circle at 35% 28%, #ffffff, #eef3ff 75%);
-  box-shadow: inset 0 -2px 6px rgba(0, 0, 0, 0.15);
-  display: grid; place-items: center; font-size: 21px; line-height: 1;
+  background: radial-gradient(circle at 35% 28%, #ffffff, #efe7ff 75%);
+  box-shadow: inset 0 -2px 6px rgba(0, 0, 0, 0.18);
+  display: grid; place-items: center;
+  overflow: hidden;
 }
+.medal-core .ic-medal { width: 34px; height: 34px; display: block; }
 .brand-text { text-align: left; }
 .brand-title {
   font-family: var(--font-title);
@@ -115,7 +138,12 @@ a { color: inherit; }
   color: var(--text-muted); font-size: 13px; text-align: center;
   margin-bottom: 14px; letter-spacing: 0.01em;
 }
-.mode-info::before { content: '✦ '; color: var(--gold); }
+.mode-info::before {
+  content: "";
+  display: inline-block; width: 10px; height: 10px; margin-right: 4px;
+  vertical-align: -1px;
+  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23ffc857'%3E%3Cpath d='M12 2 L14 9.6 L21 12 L14 14.4 L12 22 L10 14.4 L3 12 L10 9.6 Z'/%3E%3C/svg%3E") no-repeat center / contain;
+}
 
 /* ---------- Guess table ---------- */
 .guesses-container { display: flex; flex-direction: column; gap: 8px; margin-bottom: 18px; }
@@ -157,11 +185,34 @@ a { color: inherit; }
   padding: 7px 6px;
 }
 
+/* 새 추측 행 등장 (슬라이드 + 밀착 팝) */
+.guess-row.row-fresh { animation: rowIn 0.34s cubic-bezier(0.2, 0.9, 0.3, 1.15); }
+@keyframes rowIn {
+  0% { opacity: 0; transform: translateY(16px) scale(0.97); }
+  100% { opacity: 1; transform: none; }
+}
+/* 정답 칸 카드 뒤집기 */
+.row-fresh .cell { animation: cellFlip 0.45s ease both; transform-origin: 50% 50%; }
+.row-fresh .col-rank .cell { animation-delay: 0.08s; }
+.row-fresh .col-tribe .cell { animation-delay: 0.16s; }
+.row-fresh .col-attr .cell { animation-delay: 0.24s; }
+@keyframes cellFlip {
+  0% { transform: perspective(320px) rotateX(-92deg); opacity: 0; }
+  100% { transform: perspective(320px) rotateX(0deg); opacity: 1; }
+}
+
 .col-num { text-align: center; }
 .col-num.arrow-num {
   color: var(--gold); font-weight: 800; font-size: 13px; white-space: nowrap;
 }
-.col-num.correct-num { color: var(--success); font-weight: 900; }
+.col-num.correct-num {
+  color: var(--success); font-weight: 900;
+  animation: numGlow 1.6s ease-in-out infinite;
+}
+@keyframes numGlow {
+  0%, 100% { text-shadow: 0 0 4px rgba(111, 220, 176, 0.65); }
+  50% { color: #b4ffe0; text-shadow: 0 0 15px rgba(111, 220, 176, 0.95); }
+}
 .col-rank, .col-tribe, .col-attr { text-align: center; }
 .col-name { font-weight: 600; font-size: 14px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 
@@ -172,7 +223,18 @@ a { color: inherit; }
   border: 1.5px solid rgba(255, 255, 255, 0.55);
   box-shadow: 0 3px 0 rgba(0, 0, 0, 0.28);
 }
-.cell.correct { background: var(--success); border-color: #eaffef; }
+.cell.correct {
+  position: relative; overflow: hidden;
+  background: var(--success); border-color: #eaffef;
+}
+.cell.correct::after {
+  content: ""; position: absolute; top: 0; left: 0; height: 100%; width: 55%;
+  background: linear-gradient(115deg, transparent, rgba(255, 255, 255, 0.85), transparent);
+  transform: translateX(-150%) skewX(-15deg);
+  animation: shineSweep 1.1s ease 0.45s both;
+  pointer-events: none;
+}
+@keyframes shineSweep { to { transform: translateX(350%) skewX(-15deg); } }
 .cell.hint { background: var(--bg); border-color: var(--stroke); color: var(--text-muted); }
 @keyframes shake {
   0%, 100% { transform: translateX(0); }
@@ -231,20 +293,31 @@ a { color: inherit; }
 
 /* 결과 메달 */
 .result-medal {
-  width: 96px; height: 96px; border-radius: 50%;
+  width: 110px; height: 110px; border-radius: 50%;
   margin: 6px auto 14px;
-  background: conic-gradient(from 215deg, #ffd66b, #f49b3e, #ff8a5c, #ffd66b, #f6b53f, #ffd66b);
-  box-shadow: 0 0 0 4px var(--bg), 0 0 0 6px var(--gold-deep), 0 8px 0 #060a18;
+  background: conic-gradient(from 215deg, #ffc857, #f49b3e, #ff8a5c, #ffc857, #f6b53f, #ffc857);
+  box-shadow:
+    0 0 0 4px var(--bg),
+    0 0 0 6px var(--gold-deep),
+    0 0 26px rgba(255, 200, 87, 0.35),
+    0 8px 0 #0b0619;
   display: grid; place-items: center;
+  animation: medalBob 3s ease-in-out infinite;
+}
+@keyframes medalBob {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-6px); }
 }
 .result-medal-core {
-  width: 74px; height: 74px; border-radius: 50%;
-  background: radial-gradient(circle at 35% 28%, #ffffff, #eef3ff 75%);
-  box-shadow: inset 0 -3px 8px rgba(0, 0, 0, 0.18);
-  display: grid; place-items: center;
+  width: 88px; height: 88px; border-radius: 50%;
+  background: radial-gradient(circle at 35% 28%, #ffffff, #efe7ff 78%);
+  box-shadow: inset 0 -3px 8px rgba(0, 0, 0, 0.2);
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  gap: 1px; overflow: hidden;
 }
+.result-medal-core .ic-medal-lg { width: 52px; height: 52px; display: block; }
 .result-medal-num {
-  font-family: var(--font-title); font-size: 26px; color: #25130a; line-height: 1;
+  font-family: var(--font-title); font-size: 17px; color: #37205c; line-height: 1;
 }
 .result-title {
   font-family: var(--font-title); font-size: 30px; font-weight: 400;
@@ -290,6 +363,11 @@ a { color: inherit; }
   box-shadow: var(--shadow-hard), 0 18px 50px rgba(0, 0, 0, 0.5);
   padding: 26px 26px 30px; z-index: 60;
   border-top: 5px solid var(--gold-grad);
+  animation: modalIn 0.24s ease;
+}
+@keyframes modalIn {
+  from { opacity: 0; transform: translate(-50%, -56%) scale(0.96); }
+  to { opacity: 1; transform: translate(-50%, -52%); }
 }
 .modal-panel h3 {
   font-family: var(--font-title); font-size: 24px; font-weight: 400;
@@ -406,6 +484,17 @@ a { color: inherit; }
 }
 .confetti.show { opacity: 1; }
 
+/* ---------- Reduced motion ---------- */
+@media (prefers-reduced-motion: reduce) {
+  .guess-row.row-fresh, .row-fresh .cell, .cell.correct::after,
+  .col-num.correct-num, .result-medal, .modal-panel, .pop,
+  .medal-core .ic-medal, .btn-primary, .icon-btn {
+    animation: none !important;
+    box-shadow: none !important;
+    transition: none !important;
+  }
+}
+
 /* ---------- Responsive ---------- */
 @media (max-width: 768px) {
   .guesses-container.cols-all .guess-header,
@@ -428,7 +517,8 @@ a { color: inherit; }
 
 @media (max-width: 480px) {
   .medal { width: 44px; height: 44px; }
-  .medal-core { width: 30px; height: 30px; font-size: 16px; }
+  .medal-core { width: 30px; height: 30px; }
+  .medal-core .ic-medal { width: 27px; height: 27px; }
   .brand-title { font-size: 22px; }
   .brand-sub { letter-spacing: 0.22em; }
   .guesses-container.cols-all .guess-header,
