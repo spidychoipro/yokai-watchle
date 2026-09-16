@@ -47,6 +47,10 @@
       grpDex: '포획 도감',
       lblSound: '소리',
       lblLang: '언어',
+      lblMode: '모드',
+      segDaily: '일일 도전',
+      segPractice: '연습 모드',
+      practiceMode: '연습 모드',
       lblHints: '힌트 표시',
       lblHintRank: '랭크',
       lblHintTribe: '부족',
@@ -108,6 +112,10 @@
       grpDex: 'Medallium',
       lblSound: 'Sound',
       lblLang: 'Language',
+      lblMode: 'Mode',
+      segDaily: 'Daily',
+      segPractice: 'Practice',
+      practiceMode: 'Practice',
       lblHints: 'Show hints',
       lblHintRank: 'Rank',
       lblHintTribe: 'Tribe',
@@ -166,6 +174,7 @@
 
   let state = {
     lang: safeGet('ykw-lang') || 'ko',
+    mode: safeGet('ykw-mode') === 'practice' ? 'practice' : 'daily',
     gameId: 'ykw1',
     versionId: 'main',
     roster: null,
@@ -389,8 +398,10 @@
     const v = versionBy(g, state.versionId);
     if (!v) return;
     state.roster = v.list;
-    state.target = dailyTarget();
-    const savedRaw = safeGet(dailyKey());
+    state.target = state.mode === 'practice'
+      ? state.roster[Math.floor(Math.random() * state.roster.length)]
+      : dailyTarget();
+    const savedRaw = state.mode === 'daily' ? safeGet(dailyKey()) : null;
     if (savedRaw) {
       try {
         const saved = JSON.parse(savedRaw);
@@ -418,13 +429,13 @@
   }
 
   function playAgain() {
-    try { localStorage.removeItem(dailyKey()); } catch (e) {}
+    if (state.mode === 'daily') { try { localStorage.removeItem(dailyKey()); } catch (e) {} }
     startGame();
   }
 
   function renderModeInfo() {
     const g = gameById(state.gameId);
-    let line = T('todayLine') + ' · ' + gameName();
+    let line = (state.mode === 'practice' ? T('practiceMode') : T('todayLine')) + ' · ' + gameName();
     if (g.versions.length > 1) line += ' · ' + versionLabel(versionBy(g, state.versionId));
     line += ' · ' + T('guessCounter').replace('{n}', String(state.guesses.length));
     $('mode-info').textContent = line;
@@ -534,9 +545,11 @@
   function endGame() {
     state.won = true;
     state.over = true;
-    saveDaily();
-    recordWin(state.guesses.length);
-    markCaught(state.gameId, state.target.n);
+    if (state.mode === 'daily') {
+      saveDaily();
+      recordWin(state.guesses.length);
+      markCaught(state.gameId, state.target.n);
+    }
     spawnConfetti();
     play('win');
     renderResult();
@@ -618,6 +631,9 @@
     $('hint-tribe').checked = state.settings.hints.tribe;
     $('hint-attr').checked = state.settings.hints.attr;
     $('lang-toggle').checked = state.lang === 'en';
+    document.querySelectorAll('#mode-seg .seg-btn').forEach((b) => {
+      b.classList.toggle('active', b.dataset.mode === state.mode);
+    });
   }
 
   // ---------- stats panel ----------
@@ -779,6 +795,9 @@
     $('grp-dex').textContent = T('grpDex');
     $('lbl-sound').textContent = T('lblSound');
     $('lbl-lang').textContent = T('lblLang');
+    $('lbl-mode').textContent = T('lblMode');
+    $('seg-daily').textContent = T('segDaily');
+    $('seg-practice').textContent = T('segPractice');
     $('lbl-hints').textContent = T('lblHints');
     $('lbl-hint-rank').textContent = T('lblHintRank');
     $('lbl-hint-tribe').textContent = T('lblHintTribe');
@@ -805,6 +824,17 @@
 
   // ---------- events ----------
   function bindEvents() {
+    document.querySelectorAll('#mode-seg .seg-btn').forEach((b) => {
+      b.addEventListener('click', () => {
+        if (state.mode === b.dataset.mode) return;
+        state.mode = b.dataset.mode;
+        safeSet('ykw-mode', state.mode);
+        applySettingsUI();
+        play('click');
+        startGame();
+      });
+    });
+
     $('game-select').addEventListener('change', (e) => {
       const g = gameById(e.target.value);
       if (!g) return;
