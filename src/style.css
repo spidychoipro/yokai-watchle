@@ -381,7 +381,10 @@ a { color: inherit; }
   position: absolute; top: 14px; right: 14px; width: 34px; height: 34px;
   font-size: 20px; line-height: 1; color: var(--text-muted);
   border: 2px solid var(--stroke); border-radius: 50%;
+  display: inline-flex; align-items: center; justify-content: center;
+  background: var(--bg-soft);
 }
+.modal-close .ic-sm { width: 14px; height: 14px; }
 .modal-close:hover { color: var(--gold); border-color: var(--gold-deep); }
 
 /* ---------- Help ---------- */
