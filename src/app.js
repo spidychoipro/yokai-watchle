@@ -132,8 +132,6 @@
   };
 
   const RANKS = ['S', 'A', 'B', 'C', 'D', 'E'];
-  // 공식 한글판이 나오지 않은 시리즈는 영어 전용으로 표시
-  const ENGLISH_ONLY = { ykw3: true };
   const RANK_COLOR = {
     S: 'var(--rank-s)', A: 'var(--rank-a)', B: 'var(--rank-b)',
     C: 'var(--rank-c)', D: 'var(--rank-d)', E: 'var(--rank-e)'
@@ -206,20 +204,14 @@
   function gameById(id) { return DATA.games.find((g) => g.id === id); }
   function versionBy(game, id) { return game.versions.find((v) => v.id === id); }
   function roster() { return state.roster; }
-  function isEnglishOnly() { return !!ENGLISH_ONLY[state.gameId]; }
-  // 요괴워치 3는 한국어판이 정발되지 않아 한글 UI에서는 선택 불가
-  function isYkw3Blocked() { return state.gameId === 'ykw3' && state.lang === 'ko'; }
   function entryName(e) {
-    if (isEnglishOnly()) return e.en;
     return state.lang === 'ko' ? (e.ko || e.en) : e.en;
   }
   function gameName() {
     const g = gameById(state.gameId);
-    if (isEnglishOnly()) return g.name.en;
     return state.lang === 'ko' ? g.name.ko : g.name.en;
   }
   function versionLabel(v) {
-    if (isEnglishOnly()) return v.label.en;
     return state.lang === 'ko' ? v.label.ko : v.label.en;
   }
   function dailyKey() {
@@ -435,7 +427,6 @@
     let line = T('todayLine') + ' · ' + gameName();
     if (g.versions.length > 1) line += ' · ' + versionLabel(versionBy(g, state.versionId));
     line += ' · ' + T('guessCounter').replace('{n}', String(state.guesses.length));
-    if (isEnglishOnly()) line += ' · EN';
     $('mode-info').textContent = line;
     if (state.over && !$('result-stats-line').textContent.match(/\d/)) {
       $('result-stats-line').textContent = line;
@@ -562,8 +553,8 @@
     title.classList.remove('pop'); void title.offsetWidth; title.classList.add('pop');
 
     $('result-number').textContent = '#' + String(state.target.n).padStart(3, '0');
-    $('result-name').textContent = isEnglishOnly()
-      ? state.target.en
+    $('result-name').textContent = state.lang === 'ko'
+      ? (state.target.ko || state.target.en) + (state.target.en && state.target.en !== state.target.ko ? ' / ' + state.target.en : '')
       : state.target.en + (state.target.ko && state.target.ko !== state.target.en ? ' / ' + state.target.ko : '');
 
     const badges = { rank: $('badge-rank'), tribe: $('badge-tribe'), attr: $('badge-attr') };
@@ -712,7 +703,6 @@
     const gSel = $('game-select');
     gSel.innerHTML = '';
     DATA.games.forEach((g) => {
-      if (g.id === 'ykw3' && state.lang === 'ko') return;
       const o = document.createElement('option');
       o.value = g.id;
       o.textContent = state.lang === 'ko' ? g.name.ko : g.name.en;
@@ -887,11 +877,6 @@
     $('lang-toggle').addEventListener('change', (e) => {
       state.lang = e.target.checked ? 'en' : 'ko';
       safeSet('ykw-lang', state.lang);
-      if (isYkw3Blocked()) {
-        state.gameId = 'ykw1';
-        state.versionId = 'main';
-        startGame();
-      }
       applyLang();
       if (state.over) renderResult(); else renderBoard();
       renderDex();
