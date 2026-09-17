@@ -417,6 +417,7 @@
       renderBoard();
     }
     $('guess-input').value = '';
+    $('suggestions').classList.add('hidden');
     if (!state.over && !$('backdrop').classList.contains('show')) $('guess-input').focus();
     $('new-game-btn').hidden = state.mode === 'daily';
     renderModeInfo();
@@ -520,10 +521,11 @@
       play('wrong');
       return;
     }
-    if (state.guesses.some((g) => g.n === hit.n)) { input.value = ''; return; }
+    if (state.guesses.some((g) => g.n === hit.n)) { input.value = ''; $('suggestions').classList.add('hidden'); return; }
 
     state.guesses.push(hit);
     input.value = '';
+    $('suggestions').classList.add('hidden');
 
     if (hit.n === state.target.n) {
       endGame();
@@ -823,6 +825,23 @@
     $('new-game-btn').addEventListener('click', playAgain);
 
     $('guess-form').addEventListener('submit', (e) => { e.preventDefault(); submitGuess(); });
+    $('guess-input').addEventListener('input', () => suggest($('guess-input').value));
+    $('guess-input').addEventListener('keydown', (e) => {
+      if (e.key === 'ArrowDown' || e.key === 'ArrowUp') {
+        const lis = $('suggestions').querySelectorAll('li');
+        let idx = -1;
+        lis.forEach((li, i) => { if (li.classList.contains('highlighted')) idx = i; });
+        if (lis.length) {
+          e.preventDefault();
+          const next = e.key === 'ArrowDown' ? (idx + 1) % lis.length : (idx - 1 + lis.length) % lis.length;
+          lis.forEach((li) => li.classList.remove('highlighted'));
+          lis[next].classList.add('highlighted');
+        }
+      } else if (e.key === 'Enter') {
+        const sel = $('suggestions').querySelector('li.highlighted');
+        if (sel) { e.preventDefault(); sel.click(); }
+      } else if (e.key === 'Escape') { $('suggestions').classList.add('hidden'); }
+    });
 
     $('help-btn').addEventListener('click', () => openModal('help-modal'));
     $('stats-btn').addEventListener('click', () => { renderStats(); openModal('stats-modal'); });
@@ -866,6 +885,28 @@
 
     document.addEventListener('pointerdown', initAudio, { once: true });
     document.addEventListener('keydown', initAudio, { once: true });
+  }
+
+  // ---------- suggestions ----------
+  function suggest(q) {
+    const val = normalize(q);
+    const ul = $('suggestions');
+    if (!val) { ul.classList.add('hidden'); return; }
+    const matches = roster()
+      .filter((y) => normalize(y.en).includes(val) || (y.ko && normalize(y.ko).includes(val)))
+      .slice(0, 8);
+    ul.innerHTML = '';
+    matches.forEach((y) => {
+      const li = document.createElement('li');
+      li.textContent = '#' + String(y.n).padStart(3, '0') + ' ' + entryName(y);
+      li.addEventListener('click', () => {
+        $('guess-input').value = entryName(y);
+        ul.classList.add('hidden');
+        submitGuess();
+      });
+      ul.appendChild(li);
+    });
+    ul.classList.toggle('hidden', matches.length === 0);
   }
 
   // ---------- init ----------

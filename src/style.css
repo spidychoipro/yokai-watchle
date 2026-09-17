@@ -328,6 +328,17 @@ a { color: inherit; }
 .text-input:focus { border-color: var(--gold-deep); }
 .text-input::placeholder { color: #7f8cb3; }
 
+.suggestions {
+  position: absolute; top: calc(100% + 8px); left: 0; right: 0; z-index: 20;
+  background: var(--bg-elev); border: 2px solid var(--stroke);
+  border-radius: 16px; box-shadow: 0 10px 0 var(--ink-shadow);
+  max-height: 280px; overflow-y: auto; list-style: none; padding: 6px;
+}
+.suggestions li {
+  padding: 9px 14px; font-size: 14px; cursor: pointer; border-radius: 10px;
+}
+.suggestions li:hover, .suggestions li.highlighted { background: var(--bg-soft); color: var(--gold); }
+
 .btn-primary {
   padding: 13px 20px; border-radius: 999px;
   background: var(--gold-grad); color: #25130a;
@@ -638,6 +649,8 @@ a { color: inherit; }
 
   .guess-header { font-size: 9px; letter-spacing: 0.12em; padding: 0 2px 5px; }
   .guess-form .text-input { padding: 12px 14px; font-size: 16px; }
+  .suggestions { max-height: 200px; }
+  .suggestions li { padding: 8px 12px; font-size: 13px; }
   .btn-primary { padding: 12px 16px; }
   .text-input::placeholder { font-size: 14px; }
 

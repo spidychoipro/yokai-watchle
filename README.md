@@ -105,6 +105,7 @@ You only need to run the `tools/` pipeline when regenerating `src/data.js`.
 - **Rev 6.7.1** — the header "DAILY" badge now switches to "PRACTICE" in practice mode, the board chip rows have "Game / Version" labels, and the "New Game" button only appears in practice mode (the daily challenge is once per day at midnight KST)
 - **Rev 6.7.2** — moved the game/version picker back into Settings (as segmented chips matching Theme/Mode, labeled Game/Version) so the board stays clean
 - **Rev 6.7.3** — restored the game/version picker to dropdowns (selects) and made the boxes taller on mobile for easier tapping. While the Settings modal is open (switching mode/game/version) the guess input is no longer focused, so the mobile keyboard stops popping up
+- **Rev 6.7.4** — restored the name autocomplete while typing: up to 8 matching yo-kai names show as candidates, navigable with arrows and selectable with Enter (or tap); Esc closes the list. The list auto-hides after a guess is submitted or a new game starts
 
 ## License
 
