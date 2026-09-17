@@ -49,7 +49,6 @@
       settingsAria: '설정',
       grpGeneral: '일반',
       grpGame: '게임',
-      grpDex: '포획 도감',
       lblSound: '소리',
       lblLang: '언어',
       lblMode: '모드',
@@ -68,8 +67,6 @@
       stBest: '최고',
       stDistTitle: '추측 분포',
       stNote: '하루에 정답을 맞히면 1회로 기록돼요.',
-      dexSearch: '요괴 검색...',
-      caughtProgress: '포획 {n}/{m}',
       headNum: '№',
       headName: '요괴',
       headRank: '랭크',
@@ -119,7 +116,6 @@
       settingsAria: 'Settings',
       grpGeneral: 'General',
       grpGame: 'Game',
-      grpDex: 'Medallium',
       lblSound: 'Sound',
       lblLang: 'Language',
       lblMode: 'Mode',
@@ -138,8 +134,6 @@
       stBest: 'Best',
       stDistTitle: 'Guess distribution',
       stNote: 'One win is counted per day.',
-      dexSearch: 'Search yo-kai...',
-      caughtProgress: 'Caught {n}/{m}',
       headNum: '№',
       headName: 'Yo-kai',
       headRank: 'Rank',
@@ -231,9 +225,6 @@
   function gameName() {
     const g = gameById(state.gameId);
     return state.lang === 'ko' ? g.name.ko : g.name.en;
-  }
-  function versionLabel(v) {
-    return state.lang === 'ko' ? v.label.ko : v.label.en;
   }
   function dailyKey() {
     return 'ykw-daily-' + state.gameId + '-' + state.versionId + '-' + getTodayKST();
@@ -370,19 +361,6 @@
     return st;
   }
 
-  // ---------- caught ----------
-  function caughtSet() {
-    try { const o = JSON.parse(safeGet('ykw-caught')); return o && typeof o === 'object' ? o : {}; } catch (e) { return {}; }
-  }
-  function caughtNums(gameId) { return caughtSet()[gameId] || []; }
-  function markCaught(gameId, n) {
-    const c = caughtSet();
-    const arr = c[gameId] || [];
-    if (arr.indexOf(n) === -1) arr.push(n);
-    c[gameId] = arr;
-    safeSet('ykw-caught', JSON.stringify(c));
-  }
-
   // ---------- board rendering ----------
   function colClass() {
     const r = state.settings.hints.rank, t = state.settings.hints.tribe, a = state.settings.hints.attr;
@@ -437,7 +415,6 @@
     $('guess-input').value = '';
     if (!state.over) $('guess-input').focus();
     renderModeInfo();
-    renderDex();
   }
 
   function playAgain() {
@@ -446,9 +423,7 @@
   }
 
   function renderModeInfo() {
-    const g = gameById(state.gameId);
-    let line = (state.mode === 'practice' ? T('practiceMode') : T('todayLine')) + ' · ' + gameName();
-    if (g.versions.length > 1) line += ' · ' + versionLabel(versionBy(g, state.versionId));
+    let line = (state.mode === 'practice' ? T('practiceMode') : T('todayLine'));
     line += ' · ' + T('guessCounter').replace('{n}', String(state.guesses.length));
     $('mode-info').textContent = line;
     if (state.over && !$('result-stats-line').textContent.match(/\d/)) {
@@ -541,7 +516,6 @@
 
     state.guesses.push(hit);
     input.value = '';
-    $('suggestions').classList.add('hidden');
 
     if (hit.n === state.target.n) {
       endGame();
@@ -560,12 +534,10 @@
     if (state.mode === 'daily') {
       saveDaily();
       recordWin(state.guesses.length);
-      markCaught(state.gameId, state.target.n);
     }
     spawnConfetti();
     play('win');
     renderResult();
-    renderDex();
   }
 
   // ---------- result ----------
@@ -683,86 +655,36 @@
     }
   }
 
-  // ---------- dex ----------
-  function renderDex() {
-    const list = state.roster || [];
-    const q = normalize($('dex-search').value);
-    let filtered = list;
-    if (q) filtered = list.filter((y) => normalize(y.en).includes(q) || (y.ko && normalize(y.ko).includes(q)));
-
-    const caught = caughtNums(state.gameId);
-    const inRoster = caught.filter((n) => list.some((e) => e.n === n));
-    const prog = $('dex-progress');
-    if (list.length) {
-      prog.hidden = false;
-      $('dex-progress-bar').style.width = Math.round(inRoster.length / list.length * 100) + '%';
-      $('dex-progress-label').textContent =
-        T('caughtProgress').replace('{n}', String(inRoster.length)).replace('{m}', String(list.length));
-    } else {
-      prog.hidden = true;
-      $('dex-progress-label').textContent = '';
-    }
-
-    const grid = $('dex-grid');
-    grid.innerHTML = '';
-    filtered.forEach((yo) => {
-      const item = document.createElement('div');
-      item.className = 'dex-item' + (inRoster.indexOf(yo.n) !== -1 ? ' caught' : '');
-
-      const num = document.createElement('span');
-      num.className = 'dex-num';
-      num.textContent = '#' + String(yo.n).padStart(3, '0');
-
-      const name = document.createElement('div');
-      name.style.flex = '1';
-
-      const koName = document.createElement('div');
-      koName.className = 'dex-name';
-      koName.innerHTML = (inRoster.indexOf(yo.n) !== -1 ? '<span class="catch-mrk">✓</span>' : '') +
-        escapeHtml(entryName(yo));
-
-      const info = document.createElement('div');
-      info.className = 'dex-info';
-      info.textContent = (yo.rank || '?') + ' • ' + (yo.tribe ? tribeLabel(yo.tribe) : '?') + ' • ' + (yo.attr ? attrLabel(yo.attr) : '?');
-
-      name.appendChild(koName);
-      name.appendChild(info);
-
-      item.appendChild(num);
-      item.appendChild(name);
-      grid.appendChild(item);
-    });
-  }
-  function escapeHtml(s) {
-    return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-  }
-
-  // ---------- selects ----------
-  function fillSelects() {
-    const gSel = $('game-select');
-    gSel.innerHTML = '';
+  // ---------- game / version chips ----------
+  function fillSegs() {
+    const gSeg = $('game-seg');
+    gSeg.innerHTML = '';
     DATA.games.forEach((g) => {
       if (state.lang === 'ko' && !KO_LOCALIZED_GAMES.has(g.id)) return;
-      const o = document.createElement('option');
-      o.value = g.id;
-      o.textContent = state.lang === 'ko' ? g.name.ko : g.name.en;
-      if (g.id === state.gameId) o.selected = true;
-      gSel.appendChild(o);
+      const b = document.createElement('button');
+      b.type = 'button';
+      b.className = 'seg-btn' + (g.id === state.gameId ? ' active' : '');
+      b.dataset.game = g.id;
+      b.textContent = state.lang === 'ko' ? g.name.ko : g.name.en;
+      gSeg.appendChild(b);
     });
 
-    fillVersionSelect();
-  }
-  function fillVersionSelect() {
-    const vSel = $('version-select');
-    vSel.innerHTML = '';
+    const vSeg = $('version-seg');
+    vSeg.innerHTML = '';
     const g = gameById(state.gameId);
-    g.versions.forEach((v) => {
-      const o = document.createElement('option');
-      o.value = v.id;
-      o.textContent = state.lang === 'ko' ? v.label.ko : v.label.en;
-      if (v.id === state.versionId) o.selected = true;
-      vSel.appendChild(o);
-    });
+    if (g.versions.length > 1) {
+      vSeg.hidden = false;
+      g.versions.forEach((v) => {
+        const b = document.createElement('button');
+        b.type = 'button';
+        b.className = 'seg-btn' + (v.id === state.versionId ? ' active' : '');
+        b.dataset.version = v.id;
+        b.textContent = state.lang === 'ko' ? v.label.ko : v.label.en;
+        vSeg.appendChild(b);
+      });
+    } else {
+      vSeg.hidden = true;
+    }
   }
 
   // ---------- modals ----------
@@ -819,7 +741,6 @@
     $('settings-title').textContent = T('settingsH');
     $('grp-general').textContent = T('grpGeneral');
     $('grp-game').textContent = T('grpGame');
-    $('grp-dex').textContent = T('grpDex');
     $('lbl-sound').textContent = T('lblSound');
     $('lbl-lang').textContent = T('lblLang');
     $('lbl-mode').textContent = T('lblMode');
@@ -830,7 +751,6 @@
     $('lbl-hint-tribe').textContent = T('lblHintTribe');
     $('lbl-hint-attr').textContent = T('lblHintAttr');
     $('reset-settings').textContent = T('resetSettings');
-    $('dex-search').placeholder = T('dexSearch');
 
     $('stats-title').textContent = T('statsH');
     $('lbl-st-played').textContent = T('stSolved');
@@ -848,11 +768,11 @@
     if (state.lang === 'ko' && state.gameId === 'ykw3') {
       state.gameId = 'ykw1';
       state.versionId = 'main';
-      fillSelects();
+      fillSegs();
       startGame();
       return;
     }
-    fillSelects();
+    fillSegs();
     renderModeInfo();
   }
 
@@ -880,42 +800,31 @@
       });
     });
 
-    $('game-select').addEventListener('change', (e) => {
-      const g = gameById(e.target.value);
+    $('game-seg').addEventListener('click', (e) => {
+      const b = e.target.closest('.seg-btn');
+      if (!b || !b.dataset.game || b.dataset.game === state.gameId) return;
+      const g = gameById(b.dataset.game);
       if (!g) return;
       state.gameId = g.id;
       state.versionId = g.versions[0].id;
-      fillVersionSelect();
+      play('click');
+      fillSegs();
       startGame();
     });
 
-    $('version-select').addEventListener('change', (e) => {
-      state.versionId = e.target.value;
+    $('version-seg').addEventListener('click', (e) => {
+      const b = e.target.closest('.seg-btn');
+      if (!b || !b.dataset.version || b.dataset.version === state.versionId) return;
+      state.versionId = b.dataset.version;
+      play('click');
+      fillSegs();
       startGame();
     });
 
     $('new-game-btn').addEventListener('click', playAgain);
 
     $('guess-form').addEventListener('submit', (e) => { e.preventDefault(); submitGuess(); });
-    $('guess-input').addEventListener('input', () => suggest($('guess-input').value));
-    $('guess-input').addEventListener('keydown', (e) => {
-      if (e.key === 'ArrowDown' || e.key === 'ArrowUp') {
-        const lis = $('suggestions').querySelectorAll('li');
-        let idx = -1;
-        lis.forEach((li, i) => { if (li.classList.contains('highlighted')) idx = i; });
-        if (lis.length) {
-          e.preventDefault();
-          const next = e.key === 'ArrowDown' ? (idx + 1) % lis.length : (idx - 1 + lis.length) % lis.length;
-          lis.forEach((li) => li.classList.remove('highlighted'));
-          lis[next].classList.add('highlighted');
-        }
-      } else if (e.key === 'Enter') {
-        const sel = $('suggestions').querySelector('li.highlighted');
-        if (sel) { e.preventDefault(); sel.click(); }
-      } else if (e.key === 'Escape') { $('suggestions').classList.add('hidden'); }
-    });
 
-    $('dex-search').addEventListener('input', renderDex);
     $('help-btn').addEventListener('click', () => openModal('help-modal'));
     $('stats-btn').addEventListener('click', () => { renderStats(); openModal('stats-modal'); });
     $('settings-btn').addEventListener('click', () => { applySettingsUI(); openModal('settings-modal'); });
@@ -954,34 +863,10 @@
       safeSet('ykw-lang', state.lang);
       applyLang();
       if (state.over) renderResult(); else renderBoard();
-      renderDex();
     });
 
     document.addEventListener('pointerdown', initAudio, { once: true });
     document.addEventListener('keydown', initAudio, { once: true });
-  }
-
-  // ---------- suggestions ----------
-  function suggest(q) {
-    const val = normalize(q);
-    const ul = $('suggestions');
-    if (!val) { ul.classList.add('hidden'); return; }
-    const list = roster();
-    const matches = list
-      .filter((y) => normalize(y.en).includes(val) || (y.ko && normalize(y.ko).includes(val)))
-      .slice(0, 8);
-    ul.innerHTML = '';
-    matches.forEach((y) => {
-      const li = document.createElement('li');
-      li.textContent = '#' + String(y.n).padStart(3, '0') + ' ' + entryName(y);
-      li.addEventListener('click', () => {
-        $('guess-input').value = entryName(y);
-        ul.classList.add('hidden');
-        submitGuess();
-      });
-      ul.appendChild(li);
-    });
-    ul.classList.toggle('hidden', matches.length === 0);
   }
 
   // ---------- init ----------

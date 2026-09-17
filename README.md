@@ -44,8 +44,8 @@ Yo-kai Watch 3 was never officially released in Korea, so the Korean UI does not
 
 - **Today's yo-kai**: the target is tied to the KST date and changes at midnight.
 - **Hint toggles**: rank, tribe and attribute columns can each be turned on or off.
-- **Practice mode**: free-play against a random yo-kai from the current game/version. Wins and losses never touch the daily stats or the collection dex.
-- **Collection dex**: caught yo-kai are collected in the settings tab with progress and search.
+- **Practice mode**: free-play against a random yo-kai from the current game/version. Wins and losses never touch the daily stats.
+- **Game & version picker**: segmented chips sit on the board; the version row appears only when the selected game has multiple versions (Yo-kai Watch 3 is hidden in the Korean UI).
 - **Statistics**: solved count, streak, best streak and the guess distribution. Winning the daily challenge counts once per day.
 - **Share**: results are shared as text (🟩🟨⬜).
 - **Sound effects**: WebAudio-synthesized sounds (click / wrong / win), toggleable in settings.
@@ -101,6 +101,7 @@ You only need to run the `tools/` pipeline when regenerating `src/data.js`.
 - **Rev 6.4** — Auto/Light/Dark theme that follows the device by default, localized brand title and game-select labels, corrected rank arrows, and help examples verified against the real DB entries
 - **Rev 6.5** — Yo-kai Watch 3 blocked again in the Korean build (no official Korean release, with a forced switch to Yo-kai Watch when toggling to Korean); long Korean select labels like "요괴워치 버스터즈" no longer clip or crowd the chevron on narrow screens; rosters cross-checked against the raw medallium sources
 - **Rev 6.6** — mobile optimization: a wider name column with tighter cards, header and cells for 320–400px screens (Korean names no longer clipped), stacked game/version selects on phones, and tap-highlight / double-tap-zoom prevention; the PC layout is unchanged
+- **Rev 6.7** — moved game/version selection from settings to segmented chips on the board, removed the collection dex and the name autocomplete (no in-game yo-kai lookup), and simplified mode-info
 
 ## License
 

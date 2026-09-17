@@ -110,6 +110,10 @@
 
     <!-- 게임 보드 -->
     <section id="game-board" class="card game-board">
+      <div class="game-bar" id="game-bar">
+        <div class="seg seg-board" id="game-seg" role="group" aria-label="Game"></div>
+        <div class="seg seg-board" id="version-seg" role="group" aria-label="Version"></div>
+      </div>
       <p id="mode-info" class="mode-info"></p>
       <div id="guesses-container" class="guesses-container cols-all">
         <div class="guess-header">
@@ -127,12 +131,9 @@
             id="guess-input"
             type="text"
             class="text-input"
-            list="yo-kai-list"
             autocomplete="off"
             placeholder="요괴 이름 입력..."
           />
-          <datalist id="yo-kai-list"></datalist>
-          <ul id="suggestions" class="suggestions hidden"></ul>
         </div>
         <button type="submit" class="btn-primary" id="submit-btn">맞혀보기</button>
       </form>
@@ -267,18 +268,6 @@
       <button type="button" class="seg-btn" data-mode="practice"><span id="seg-practice">연습 모드</span></button>
     </div>
   </div>
-  <div class="set-row sel-row">
-    <select id="game-select" class="select-input"></select>
-    <select id="version-select" class="select-input"></select>
-  </div>
-
-  <h4 id="grp-dex">포획 도감</h4>
-  <input id="dex-search" type="search" class="text-input" placeholder="요괴 검색..." />
-  <div id="dex-progress" class="dex-progress" hidden>
-    <div id="dex-progress-bar" class="dex-progress-bar"></div>
-  </div>
-  <span id="dex-progress-label" class="dex-progress-label"></span>
-  <div id="dex-grid" class="dex-grid"></div>
 </section>
 
 <canvas id="confetti" class="confetti"></canvas>
