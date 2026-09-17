@@ -306,6 +306,14 @@ a { color: inherit; }
 }
 @keyframes shineSweep { to { transform: translateX(350%) skewX(-15deg); } }
 .cell.hint { background: var(--bg); border-color: var(--stroke); color: var(--text-muted); }
+.cell.wrong {
+  background: var(--bg-soft);
+  border-color: var(--stroke-soft);
+  color: var(--text-muted);
+  text-decoration: line-through;
+  opacity: 0.92;
+}
+.cell.wrong::after { content: " ✕"; font-weight: 800; text-decoration: none; }
 @keyframes shake {
   0%, 100% { transform: translateX(0); }
   20% { transform: translateX(-7px); }
