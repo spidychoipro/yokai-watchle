@@ -498,8 +498,23 @@ a { color: inherit; }
   border-color: var(--gold-deep); box-shadow: 0 3px 0 #9c6a1a;
 }
 
-/* 게임/버전 선택 칩 (설정) */
-#version-seg-row[hidden] { display: none; }
+.select-input {
+  flex: 1; min-width: 0; height: 44px;
+  padding: 0 34px 0 16px;
+  background: var(--bg-soft); color: var(--text-primary);
+  border: 2px solid var(--stroke); border-radius: 999px; outline: none;
+  cursor: pointer;
+  text-align: left;
+  font-size: 14px;
+  -moz-appearance: none; -webkit-appearance: none; appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23b9aee0' stroke-width='2.4' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-size: 13px auto;
+  background-position: right 15px center;
+}
+.select-input:hover { border-color: var(--stroke-soft); }
+.select-input:focus { border-color: var(--gold-deep); box-shadow: 0 0 0 3px rgba(255, 200, 87, 0.18); }
+.select-input option { background: var(--bg-elev); color: var(--text-primary); }
 #new-game-btn[hidden] { display: none; }
 
 /* ---------- Stats ---------- */
@@ -633,6 +648,8 @@ a { color: inherit; }
 
   .modal-panel { padding: 18px 16px 22px; }
   .stat b { font-size: 24px; }
+  /* 게임/버전 select — 모바일에서 터치 편하도록 상자 높이를 위아래로 확장 */
+  .select-input { height: 52px; padding: 0 40px 0 16px; font-size: 16px; }
 }
 
 @media (max-width: 340px) {

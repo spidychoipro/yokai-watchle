@@ -417,7 +417,7 @@
       renderBoard();
     }
     $('guess-input').value = '';
-    if (!state.over) $('guess-input').focus();
+    if (!state.over && !$('backdrop').classList.contains('show')) $('guess-input').focus();
     $('new-game-btn').hidden = state.mode === 'daily';
     renderModeInfo();
   }
@@ -663,37 +663,32 @@
     }
   }
 
-  // ---------- game / version chips ----------
-  function fillSegs() {
-    const gSeg = $('game-seg');
-    gSeg.innerHTML = '';
+  // ---------- game / version selects ----------
+  function fillSelects() {
+    const gSel = $('game-select');
+    gSel.innerHTML = '';
     DATA.games.forEach((g) => {
       if (state.lang === 'ko' && !KO_LOCALIZED_GAMES.has(g.id)) return;
-      const b = document.createElement('button');
-      b.type = 'button';
-      b.className = 'seg-btn' + (g.id === state.gameId ? ' active' : '');
-      b.dataset.game = g.id;
-      b.textContent = state.lang === 'ko' ? g.name.ko : g.name.en;
-      gSeg.appendChild(b);
+      const o = document.createElement('option');
+      o.value = g.id;
+      o.textContent = state.lang === 'ko' ? g.name.ko : g.name.en;
+      if (g.id === state.gameId) o.selected = true;
+      gSel.appendChild(o);
     });
 
-    const vSeg = $('version-seg');
-    const vRow = $('version-seg-row');
-    vSeg.innerHTML = '';
+    fillVersionSelect();
+  }
+  function fillVersionSelect() {
+    const vSel = $('version-select');
+    vSel.innerHTML = '';
     const g = gameById(state.gameId);
-    if (g.versions.length > 1) {
-      vRow.hidden = false;
-      g.versions.forEach((v) => {
-        const b = document.createElement('button');
-        b.type = 'button';
-        b.className = 'seg-btn' + (v.id === state.versionId ? ' active' : '');
-        b.dataset.version = v.id;
-        b.textContent = state.lang === 'ko' ? v.label.ko : v.label.en;
-        vSeg.appendChild(b);
-      });
-    } else {
-      vRow.hidden = true;
-    }
+    g.versions.forEach((v) => {
+      const o = document.createElement('option');
+      o.value = v.id;
+      o.textContent = state.lang === 'ko' ? v.label.ko : v.label.en;
+      if (v.id === state.versionId) o.selected = true;
+      vSel.appendChild(o);
+    });
   }
 
   // ---------- modals ----------
@@ -760,8 +755,8 @@
     $('lbl-hint-tribe').textContent = T('lblHintTribe');
     $('lbl-hint-attr').textContent = T('lblHintAttr');
     $('reset-settings').textContent = T('resetSettings');
-    $('game-seg-label').textContent = T('lblGame');
-    $('version-seg-label').textContent = T('lblVersion');
+    $('lbl-game').textContent = T('lblGame');
+    $('lbl-version').textContent = T('lblVersion');
 
     $('stats-title').textContent = T('statsH');
     $('lbl-st-played').textContent = T('stSolved');
@@ -779,11 +774,11 @@
     if (state.lang === 'ko' && state.gameId === 'ykw3') {
       state.gameId = 'ykw1';
       state.versionId = 'main';
-      fillSegs();
+      fillSelects();
       startGame();
       return;
     }
-    fillSegs();
+    fillSelects();
     renderModeInfo();
   }
 
@@ -811,24 +806,17 @@
       });
     });
 
-    $('game-seg').addEventListener('click', (e) => {
-      const b = e.target.closest('.seg-btn');
-      if (!b || !b.dataset.game || b.dataset.game === state.gameId) return;
-      const g = gameById(b.dataset.game);
+    $('game-select').addEventListener('change', (e) => {
+      const g = gameById(e.target.value);
       if (!g) return;
       state.gameId = g.id;
       state.versionId = g.versions[0].id;
-      play('click');
-      fillSegs();
+      fillVersionSelect();
       startGame();
     });
 
-    $('version-seg').addEventListener('click', (e) => {
-      const b = e.target.closest('.seg-btn');
-      if (!b || !b.dataset.version || b.dataset.version === state.versionId) return;
-      state.versionId = b.dataset.version;
-      play('click');
-      fillSegs();
+    $('version-select').addEventListener('change', (e) => {
+      state.versionId = e.target.value;
       startGame();
     });
 

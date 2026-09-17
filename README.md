@@ -45,7 +45,7 @@ Yo-kai Watch 3 was never officially released in Korea, so the Korean UI does not
 - **Today's yo-kai**: the target is tied to the KST date and changes at midnight.
 - **Hint toggles**: rank, tribe and attribute columns can each be turned on or off.
 - **Practice mode**: free-play against a random yo-kai from the current game/version. Wins and losses never touch the daily stats.
-- **Game & version picker**: segmented chips sit on the board; the version row appears only when the selected game has multiple versions (Yo-kai Watch 3 is hidden in the Korean UI).
+- **Game & version picker**: dropdowns in Settings (labels Game / Version); on mobile the boxes are a bit taller for easier tapping. A game with a single version shows just that one option.
 - **Statistics**: solved count, streak, best streak and the guess distribution. Winning the daily challenge counts once per day.
 - **Share**: results are shared as text (🟩🟨⬜).
 - **Sound effects**: WebAudio-synthesized sounds (click / wrong / win), toggleable in settings.
@@ -104,6 +104,7 @@ You only need to run the `tools/` pipeline when regenerating `src/data.js`.
 - **Rev 6.7** — moved game/version selection from settings to segmented chips on the board, removed the collection dex and the name autocomplete (no in-game yo-kai lookup), and simplified mode-info
 - **Rev 6.7.1** — the header "DAILY" badge now switches to "PRACTICE" in practice mode, the board chip rows have "Game / Version" labels, and the "New Game" button only appears in practice mode (the daily challenge is once per day at midnight KST)
 - **Rev 6.7.2** — moved the game/version picker back into Settings (as segmented chips matching Theme/Mode, labeled Game/Version) so the board stays clean
+- **Rev 6.7.3** — restored the game/version picker to dropdowns (selects) and made the boxes taller on mobile for easier tapping. While the Settings modal is open (switching mode/game/version) the guess input is no longer focused, so the mobile keyboard stops popping up
 
 ## License
 
