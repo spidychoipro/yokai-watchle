@@ -498,14 +498,8 @@ a { color: inherit; }
   border-color: var(--gold-deep); box-shadow: 0 3px 0 #9c6a1a;
 }
 
-/* 게임/버전 선택 칩 (보드 상단) */
-.game-bar { display: flex; flex-direction: column; gap: 6px; margin-bottom: 12px; }
-.chip-row { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
-.chip-row[hidden] { display: none; }
-.chip-label { font-size: 11px; font-weight: 700; letter-spacing: 0.14em; color: var(--text-muted); }
-.seg-board { justify-content: center; }
-.seg-board .seg-btn { padding: 7px 14px; font-size: 12px; }
-#version-seg[hidden] { display: none; }
+/* 게임/버전 선택 칩 (설정) */
+#version-seg-row[hidden] { display: none; }
 #new-game-btn[hidden] { display: none; }
 
 /* ---------- Stats ---------- */
@@ -631,7 +625,6 @@ a { color: inherit; }
   .guess-form .text-input { padding: 12px 14px; font-size: 16px; }
   .btn-primary { padding: 12px 16px; }
   .text-input::placeholder { font-size: 14px; }
-  .seg-board .seg-btn { padding: 6px 10px; font-size: 11px; }
 
   .result-medal { width: 92px; height: 92px; }
   .result-medal-core { width: 72px; height: 72px; }

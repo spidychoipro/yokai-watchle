@@ -678,7 +678,7 @@
     });
 
     const vSeg = $('version-seg');
-    const vRow = $('version-row');
+    const vRow = $('version-seg-row');
     vSeg.innerHTML = '';
     const g = gameById(state.gameId);
     if (g.versions.length > 1) {

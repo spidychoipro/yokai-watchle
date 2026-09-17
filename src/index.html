@@ -110,16 +110,6 @@
 
     <!-- 게임 보드 -->
     <section id="game-board" class="card game-board">
-      <div class="game-bar" id="game-bar">
-        <div class="chip-row">
-          <span class="chip-label" id="game-seg-label">게임</span>
-          <div class="seg seg-board" id="game-seg" role="group" aria-label="Game"></div>
-        </div>
-        <div class="chip-row" id="version-row">
-          <span class="chip-label" id="version-seg-label">버전</span>
-          <div class="seg seg-board" id="version-seg" role="group" aria-label="Version"></div>
-        </div>
-      </div>
       <p id="mode-info" class="mode-info"></p>
       <div id="guesses-container" class="guesses-container cols-all">
         <div class="guess-header">
@@ -273,6 +263,14 @@
       <button type="button" class="seg-btn active" data-mode="daily"><span id="seg-daily">일일 도전</span></button>
       <button type="button" class="seg-btn" data-mode="practice"><span id="seg-practice">연습 모드</span></button>
     </div>
+  </div>
+  <div class="set-row">
+    <span id="game-seg-label" class="set-label">게임</span>
+    <div class="seg" id="game-seg" role="group" aria-label="Game"></div>
+  </div>
+  <div class="set-row" id="version-seg-row">
+    <span id="version-seg-label" class="set-label">버전</span>
+    <div class="seg" id="version-seg" role="group" aria-label="Version"></div>
   </div>
 </section>
 
