@@ -19,6 +19,8 @@
       shareHead: '요괴워치 즐',
       todayLine: '오늘의 요괴',
       newGame: '새 게임',
+      lblGame: '게임',
+      lblVersion: '버전',
       submit: '맞혀보기',
       placeholder: '요괴 이름 입력...',
       win: '정답!',
@@ -86,6 +88,8 @@
       shareHead: 'Yo-kai Watchle',
       todayLine: "Today's yo-kai",
       newGame: 'New Game',
+      lblGame: 'Game',
+      lblVersion: 'Version',
       submit: 'Guess',
       placeholder: 'Type yo-kai name...',
       win: 'Correct!',
@@ -414,6 +418,7 @@
     }
     $('guess-input').value = '';
     if (!state.over) $('guess-input').focus();
+    $('new-game-btn').hidden = state.mode === 'daily';
     renderModeInfo();
   }
 
@@ -423,9 +428,12 @@
   }
 
   function renderModeInfo() {
-    let line = (state.mode === 'practice' ? T('practiceMode') : T('todayLine'));
+    const practice = state.mode === 'practice';
+    let line = (practice ? T('practiceMode') : T('todayLine'));
     line += ' · ' + T('guessCounter').replace('{n}', String(state.guesses.length));
     $('mode-info').textContent = line;
+    const bm = $('brand-mode');
+    if (bm) bm.textContent = practice ? 'PRACTICE' : 'DAILY';
     if (state.over && !$('result-stats-line').textContent.match(/\d/)) {
       $('result-stats-line').textContent = line;
     }
@@ -670,10 +678,11 @@
     });
 
     const vSeg = $('version-seg');
+    const vRow = $('version-row');
     vSeg.innerHTML = '';
     const g = gameById(state.gameId);
     if (g.versions.length > 1) {
-      vSeg.hidden = false;
+      vRow.hidden = false;
       g.versions.forEach((v) => {
         const b = document.createElement('button');
         b.type = 'button';
@@ -683,7 +692,7 @@
         vSeg.appendChild(b);
       });
     } else {
-      vSeg.hidden = true;
+      vRow.hidden = true;
     }
   }
 
@@ -751,6 +760,8 @@
     $('lbl-hint-tribe').textContent = T('lblHintTribe');
     $('lbl-hint-attr').textContent = T('lblHintAttr');
     $('reset-settings').textContent = T('resetSettings');
+    $('game-seg-label').textContent = T('lblGame');
+    $('version-seg-label').textContent = T('lblVersion');
 
     $('stats-title').textContent = T('statsH');
     $('lbl-st-played').textContent = T('stSolved');

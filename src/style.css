@@ -499,10 +499,14 @@ a { color: inherit; }
 }
 
 /* 게임/버전 선택 칩 (보드 상단) */
-.game-bar { display: flex; flex-direction: column; gap: 8px; margin-bottom: 12px; }
+.game-bar { display: flex; flex-direction: column; gap: 6px; margin-bottom: 12px; }
+.chip-row { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+.chip-row[hidden] { display: none; }
+.chip-label { font-size: 11px; font-weight: 700; letter-spacing: 0.14em; color: var(--text-muted); }
 .seg-board { justify-content: center; }
 .seg-board .seg-btn { padding: 7px 14px; font-size: 12px; }
 #version-seg[hidden] { display: none; }
+#new-game-btn[hidden] { display: none; }
 
 /* ---------- Stats ---------- */
 .stat-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin: 12px 0 6px; }

@@ -96,7 +96,7 @@
         <span class="medal" aria-hidden="true"><span class="medal-core"><svg class="ic-medal"><use href="#i-cat"/></svg></span></span>
         <div class="brand-text">
           <h1 class="brand-title" id="brand-title">요괴워치</h1>
-          <p class="brand-sub">YO-KAI WATCHLE <svg class="ic-spark" aria-hidden="true"><use href="#i-spark"/></svg> DAILY</p>
+          <p class="brand-sub">YO-KAI WATCHLE <svg class="ic-spark" aria-hidden="true"><use href="#i-spark"/></svg> <span id="brand-mode">DAILY</span></p>
         </div>
       </div>
       <div class="header-actions">
@@ -111,8 +111,14 @@
     <!-- 게임 보드 -->
     <section id="game-board" class="card game-board">
       <div class="game-bar" id="game-bar">
-        <div class="seg seg-board" id="game-seg" role="group" aria-label="Game"></div>
-        <div class="seg seg-board" id="version-seg" role="group" aria-label="Version"></div>
+        <div class="chip-row">
+          <span class="chip-label" id="game-seg-label">게임</span>
+          <div class="seg seg-board" id="game-seg" role="group" aria-label="Game"></div>
+        </div>
+        <div class="chip-row" id="version-row">
+          <span class="chip-label" id="version-seg-label">버전</span>
+          <div class="seg seg-board" id="version-seg" role="group" aria-label="Version"></div>
+        </div>
       </div>
       <p id="mode-info" class="mode-info"></p>
       <div id="guesses-container" class="guesses-container cols-all">
