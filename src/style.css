@@ -121,6 +121,8 @@ body {
   font-family: 'Apple SD Gothic Neo', 'Malgun Gothic', 'NanumGothic', Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   user-select: none;
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
 }
 
 body::before {
@@ -631,4 +633,79 @@ a { color: inherit; }
   .guesses-container.cols-name .guess-row { grid-template-columns: 36px 1fr; }
   .cell { padding: 4px 8px; font-size: 11px; min-width: 28px; }
   .sel-row { flex-direction: column; align-items: stretch; gap: 8px; }
+}
+
+/* ---------- 좁은 휴대폰 (320~400px) 전용 ---------- */
+@media (max-width: 400px) {
+  .layout { padding: 0 10px 16px; }
+  .site-header { padding: 12px 0 10px; margin-bottom: 14px; }
+  .medal { width: 46px; height: 46px; }
+  .medal-core { width: 32px; height: 32px; }
+  .medal-core .ic-medal { width: 28px; height: 28px; }
+  .brand-title { font-size: 24px; }
+  .brand { gap: 8px; }
+  .icon-btn { width: 40px; height: 40px; }
+
+  .card { padding: 14px 10px; border-radius: 16px; }
+  .mode-info { font-size: 12px; }
+
+  /* 추측 행 — 이름 열 비중을 늘려 한글 이름이 잘리지 않게 */
+  .guesses-container.cols-all .guess-header,
+  .guesses-container.cols-all .guess-row { grid-template-columns: 30px 1fr 42px 58px 58px; }
+  .guesses-container.cols-nr .guess-header,
+  .guesses-container.cols-nr .guess-row { grid-template-columns: 30px 1fr 58px 58px; }
+  .guesses-container.cols-nt .guess-header,
+  .guesses-container.cols-nt .guess-row { grid-template-columns: 30px 1fr 42px 58px; }
+  .guesses-container.cols-na .guess-header,
+  .guesses-container.cols-na .guess-row { grid-template-columns: 30px 1fr 42px 58px; }
+  .guesses-container.cols-nrt .guess-header,
+  .guesses-container.cols-nrt .guess-row { grid-template-columns: 30px 1fr 58px; }
+  .guesses-container.cols-nra .guess-header,
+  .guesses-container.cols-nra .guess-row { grid-template-columns: 30px 1fr 58px; }
+  .guesses-container.cols-nta .guess-header,
+  .guesses-container.cols-nta .guess-row { grid-template-columns: 30px 1fr 42px; }
+  .guesses-container.cols-name .guess-header,
+  .guesses-container.cols-name .guess-row { grid-template-columns: 30px 1fr; }
+
+  .guess-row { padding: 6px 4px; border-radius: 12px; }
+  .col-name { font-size: 13px; }
+  .cell { padding: 5px 6px; font-size: 11px; }
+  .col-num.arrow-num { font-size: 12px; }
+
+  .guess-header { font-size: 9px; letter-spacing: 0.12em; padding: 0 2px 5px; }
+  .guess-form .text-input { padding: 12px 14px; font-size: 16px; }
+  .btn-primary { padding: 12px 16px; }
+  .text-input::placeholder { font-size: 14px; }
+
+  .suggestions { max-height: 200px; }
+  .suggestions li { padding: 8px 12px; font-size: 13px; }
+
+  .result-medal { width: 92px; height: 92px; }
+  .result-medal-core { width: 72px; height: 72px; }
+  .result-medal-core .ic-medal-lg { width: 44px; height: 44px; }
+  .result-title { font-size: 26px; }
+
+  .modal-panel { padding: 18px 16px 22px; }
+  .stat b { font-size: 24px; }
+}
+
+@media (max-width: 340px) {
+  .guesses-container.cols-all .guess-header,
+  .guesses-container.cols-all .guess-row { grid-template-columns: 26px 1fr 38px 54px 54px; }
+  .guesses-container.cols-nr .guess-header,
+  .guesses-container.cols-nr .guess-row { grid-template-columns: 26px 1fr 54px 54px; }
+  .guesses-container.cols-nt .guess-header,
+  .guesses-container.cols-nt .guess-row { grid-template-columns: 26px 1fr 38px 54px; }
+  .guesses-container.cols-na .guess-header,
+  .guesses-container.cols-na .guess-row { grid-template-columns: 26px 1fr 38px 54px; }
+  .guesses-container.cols-nrt .guess-header,
+  .guesses-container.cols-nrt .guess-row { grid-template-columns: 26px 1fr 54px; }
+  .guesses-container.cols-nra .guess-header,
+  .guesses-container.cols-nra .guess-row { grid-template-columns: 26px 1fr 54px; }
+  .guesses-container.cols-nta .guess-header,
+  .guesses-container.cols-nta .guess-row { grid-template-columns: 26px 1fr 38px; }
+  .guesses-container.cols-name .guess-header,
+  .guesses-container.cols-name .guess-row { grid-template-columns: 26px 1fr; }
+  .cell { padding: 4px 5px; }
+  .mode-info { letter-spacing: 0; }
 }

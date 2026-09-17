@@ -100,6 +100,7 @@ You only need to run the `tools/` pipeline when regenerating `src/data.js`.
 - **Rev 6.3** — practice mode (daily stats untouched) and aligned settings selects; header top padding so the medal logo is never clipped
 - **Rev 6.4** — Auto/Light/Dark theme that follows the device by default, localized brand title and game-select labels, corrected rank arrows, and help examples verified against the real DB entries
 - **Rev 6.5** — Yo-kai Watch 3 blocked again in the Korean build (no official Korean release, with a forced switch to Yo-kai Watch when toggling to Korean); long Korean select labels like "요괴워치 버스터즈" no longer clip or crowd the chevron on narrow screens; rosters cross-checked against the raw medallium sources
+- **Rev 6.6** — mobile optimization: a wider name column with tighter cards, header and cells for 320–400px screens (Korean names no longer clipped), stacked game/version selects on phones, and tap-highlight / double-tap-zoom prevention; the PC layout is unchanged
 
 ## License
 
