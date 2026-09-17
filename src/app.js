@@ -150,6 +150,7 @@
   };
 
   const RANKS = ['S', 'A', 'B', 'C', 'D', 'E'];
+  const KO_LOCALIZED_GAMES = new Set(['ykw1', 'ykw2', 'ykwb']);
   const RANK_COLOR = {
     S: 'var(--rank-s)', A: 'var(--rank-a)', B: 'var(--rank-b)',
     C: 'var(--rank-c)', D: 'var(--rank-d)', E: 'var(--rank-e)'
@@ -741,6 +742,7 @@
     const gSel = $('game-select');
     gSel.innerHTML = '';
     DATA.games.forEach((g) => {
+      if (state.lang === 'ko' && !KO_LOCALIZED_GAMES.has(g.id)) return;
       const o = document.createElement('option');
       o.value = g.id;
       o.textContent = state.lang === 'ko' ? g.name.ko : g.name.en;
@@ -843,6 +845,13 @@
     const refs = { 'col-num': 'headNum', 'col-name': 'headName', 'col-rank': 'headRank', 'col-tribe': 'headTribe', 'col-attr': 'headAttr' };
     cells.forEach((el) => { el.textContent = T(refs[el.className]); });
 
+    if (state.lang === 'ko' && state.gameId === 'ykw3') {
+      state.gameId = 'ykw1';
+      state.versionId = 'main';
+      fillSelects();
+      startGame();
+      return;
+    }
     fillSelects();
     renderModeInfo();
   }

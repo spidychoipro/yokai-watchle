@@ -35,8 +35,10 @@ Pick a game and version based on the data-driven roster.
 |------|----------|---------|
 | Yo-kai Watch | Main | 245 |
 | Yo-kai Watch 2 | Main · Main 2 · Main 3 | 405 |
-| Yo-kai Watch 3 | Sushi · Tempura · Sukiyaki | 662 |
+| Yo-kai Watch 3 (EN only) | Sushi · Tempura · Sukiyaki | 662 |
 | Yo-kai Watch Busters | Red Cat · White Dog · Moon Rabbit | 392 · 392 · 368 |
+
+Yo-kai Watch 3 was never officially released in Korea, so the Korean UI does not offer it — it is only selectable in English.
 
 ## Features
 
@@ -48,6 +50,7 @@ Pick a game and version based on the data-driven roster.
 - **Share**: results are shared as text (🟩🟨⬜).
 - **Sound effects**: WebAudio-synthesized sounds (click / wrong / win), toggleable in settings.
 - **EN/KO**: both the UI and the game data (names, tribes, attributes) are translated; any series shows Korean or English names depending on your language setting.
+- **Game availability per language**: Yo-kai Watch 3 (no official Korean release) is only offered in the English UI and auto-switches to Yo-kai Watch if you toggle to Korean.
 - **Light / dark theme**: follows your device by default, with Auto / Light / Dark in settings.
 - **Mascot**: an original "cat yo-kai" silhouette drawn as SVG (no Yo-kai Watch IP), used consistently in the header medal, result screen and favicon.
 
@@ -95,6 +98,8 @@ You only need to run the `tools/` pipeline when regenerating `src/data.js`.
 - **Rev 6.1** — Yo-kai Watch 3 re-enabled in Korean: the dataset has Korean names for all 662 entries
 - **Rev 6.2** — a real 16-tooth gear icon and centered modal close buttons
 - **Rev 6.3** — practice mode (daily stats untouched) and aligned settings selects; header top padding so the medal logo is never clipped
+- **Rev 6.4** — Auto/Light/Dark theme that follows the device by default, localized brand title and game-select labels, corrected rank arrows, and help examples verified against the real DB entries
+- **Rev 6.5** — Yo-kai Watch 3 blocked again in the Korean build (no official Korean release, with a forced switch to Yo-kai Watch when toggling to Korean); long Korean select labels like "요괴워치 버스터즈" no longer clip or crowd the chevron on narrow screens; rosters cross-checked against the raw medallium sources
 
 ## License
 
