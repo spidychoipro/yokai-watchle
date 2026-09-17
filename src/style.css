@@ -20,6 +20,21 @@
   --sky: #8ab6ff;
   --success: #6fdcb0;
   --shadow-hard: 0 10px 0 #0c0720;
+  --ink-shadow: #0b0619;
+  --cell-bg: var(--bg);
+  --star-bg:
+    radial-gradient(1.5px 1.5px at 12% 22%, rgba(246, 242, 255, 0.6) 50%, transparent 50%),
+    radial-gradient(1px 1px at 78% 12%, rgba(255, 200, 87, 0.65) 50%, transparent 50%),
+    radial-gradient(1.5px 1.5px at 88% 70%, rgba(246, 242, 255, 0.45) 50%, transparent 50%),
+    radial-gradient(2px 2px at 30% 78%, rgba(138, 182, 255, 0.5) 50%, transparent 50%),
+    radial-gradient(1px 1px at 60% 40%, rgba(246, 242, 255, 0.4) 50%, transparent 50%),
+    radial-gradient(2px 2px at 42% 8%, rgba(255, 125, 107, 0.45) 50%, transparent 50%),
+    radial-gradient(1px 1px at 94% 46%, rgba(246, 242, 255, 0.45) 50%, transparent 50%),
+    radial-gradient(1.5px 1.5px at 6% 52%, rgba(167, 138, 250, 0.55) 50%, transparent 50%);
+  --glow-bg:
+    radial-gradient(900px 480px at 85% -8%, rgba(138, 99, 234, 0.30), transparent 62%),
+    radial-gradient(700px 420px at 0% 106%, rgba(255, 200, 87, 0.13), transparent 60%),
+    radial-gradient(520px 320px at 52% 45%, rgba(167, 138, 250, 0.10), transparent 65%);
   --rank-s: #ff7a6b;
   --rank-a: #ffb347;
   --rank-b: #ffd66b;
@@ -30,21 +45,77 @@
   --transition: 0.18s ease;
 }
 
+/* 라이트 테마 — 수동 선택 */
+:root[data-theme="light"] {
+  --bg: #fbf3e4;
+  --bg-elev: #ffffff;
+  --bg-soft: #f6ecd7;
+  --stroke: #e0cfa8;
+  --stroke-soft: #cab98f;
+  --text-primary: #3a2e22;
+  --text-muted: #8a7b64;
+  --gold: #d99a1f;
+  --gold-deep: #b97a12;
+  --gold-grad: linear-gradient(180deg, #ffe2a0, #f5ae4a 55%, #d98a1f);
+  --success: #2f9e6f;
+  --shadow-hard: 0 10px 0 #e3d3ac;
+  --ink-shadow: #e0cfa5;
+  --cell-bg: #7a5fd0;
+  --star-bg:
+    radial-gradient(1.5px 1.5px at 12% 22%, rgba(122, 95, 208, 0.30) 50%, transparent 50%),
+    radial-gradient(1px 1px at 78% 12%, rgba(217, 154, 31, 0.55) 50%, transparent 50%),
+    radial-gradient(1.5px 1.5px at 88% 70%, rgba(122, 95, 208, 0.24) 50%, transparent 50%),
+    radial-gradient(2px 2px at 30% 78%, rgba(77, 141, 240, 0.35) 50%, transparent 50%),
+    radial-gradient(1px 1px at 60% 40%, rgba(122, 95, 208, 0.22) 50%, transparent 50%),
+    radial-gradient(2px 2px at 42% 8%, rgba(224, 101, 79, 0.30) 50%, transparent 50%),
+    radial-gradient(1px 1px at 94% 46%, rgba(122, 95, 208, 0.22) 50%, transparent 50%),
+    radial-gradient(1.5px 1.5px at 6% 52%, rgba(217, 154, 31, 0.40) 50%, transparent 50%);
+  --glow-bg:
+    radial-gradient(900px 480px at 85% -8%, rgba(255, 200, 87, 0.40), transparent 62%),
+    radial-gradient(700px 420px at 0% 106%, rgba(122, 95, 208, 0.16), transparent 60%),
+    radial-gradient(520px 320px at 52% 45%, rgba(217, 154, 31, 0.12), transparent 65%);
+}
+
+/* 시스템 모드 — 기기가 라이트면 자동으로 적용 */
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) {
+    --bg: #fbf3e4;
+    --bg-elev: #ffffff;
+    --bg-soft: #f6ecd7;
+    --stroke: #e0cfa8;
+    --stroke-soft: #cab98f;
+    --text-primary: #3a2e22;
+    --text-muted: #8a7b64;
+    --gold: #d99a1f;
+    --gold-deep: #b97a12;
+    --gold-grad: linear-gradient(180deg, #ffe2a0, #f5ae4a 55%, #d98a1f);
+    --success: #2f9e6f;
+    --shadow-hard: 0 10px 0 #e3d3ac;
+    --ink-shadow: #e0cfa5;
+    --cell-bg: #7a5fd0;
+    --star-bg:
+      radial-gradient(1.5px 1.5px at 12% 22%, rgba(122, 95, 208, 0.30) 50%, transparent 50%),
+      radial-gradient(1px 1px at 78% 12%, rgba(217, 154, 31, 0.55) 50%, transparent 50%),
+      radial-gradient(1.5px 1.5px at 88% 70%, rgba(122, 95, 208, 0.24) 50%, transparent 50%),
+      radial-gradient(2px 2px at 30% 78%, rgba(77, 141, 240, 0.35) 50%, transparent 50%),
+      radial-gradient(1px 1px at 60% 40%, rgba(122, 95, 208, 0.22) 50%, transparent 50%),
+      radial-gradient(2px 2px at 42% 8%, rgba(224, 101, 79, 0.30) 50%, transparent 50%),
+      radial-gradient(1px 1px at 94% 46%, rgba(122, 95, 208, 0.22) 50%, transparent 50%),
+      radial-gradient(1.5px 1.5px at 6% 52%, rgba(217, 154, 31, 0.40) 50%, transparent 50%);
+    --glow-bg:
+      radial-gradient(900px 480px at 85% -8%, rgba(255, 200, 87, 0.40), transparent 62%),
+      radial-gradient(700px 420px at 0% 106%, rgba(122, 95, 208, 0.16), transparent 60%),
+      radial-gradient(520px 320px at 52% 45%, rgba(217, 154, 31, 0.12), transparent 65%);
+  }
+}
+
 * { box-sizing: border-box; margin: 0; padding: 0; }
 
 html, body { height: 100%; }
 
 body {
   background: var(--bg);
-  background-image:
-    radial-gradient(1.5px 1.5px at 12% 22%, rgba(246, 242, 255, 0.6) 50%, transparent 50%),
-    radial-gradient(1px 1px at 78% 12%, rgba(255, 200, 87, 0.65) 50%, transparent 50%),
-    radial-gradient(1.5px 1.5px at 88% 70%, rgba(246, 242, 255, 0.45) 50%, transparent 50%),
-    radial-gradient(2px 2px at 30% 78%, rgba(138, 182, 255, 0.5) 50%, transparent 50%),
-    radial-gradient(1px 1px at 60% 40%, rgba(246, 242, 255, 0.4) 50%, transparent 50%),
-    radial-gradient(2px 2px at 42% 8%, rgba(255, 125, 107, 0.45) 50%, transparent 50%),
-    radial-gradient(1px 1px at 94% 46%, rgba(246, 242, 255, 0.45) 50%, transparent 50%),
-    radial-gradient(1.5px 1.5px at 6% 52%, rgba(167, 138, 250, 0.55) 50%, transparent 50%);
+  background-image: var(--star-bg);
   background-repeat: repeat;
   color: var(--text-primary);
   font-family: 'Apple SD Gothic Neo', 'Malgun Gothic', 'NanumGothic', Arial, sans-serif;
@@ -55,10 +126,7 @@ body {
 body::before {
   content: "";
   position: fixed; inset: 0; z-index: -1; pointer-events: none;
-  background:
-    radial-gradient(900px 480px at 85% -8%, rgba(138, 99, 234, 0.30), transparent 62%),
-    radial-gradient(700px 420px at 0% 106%, rgba(255, 200, 87, 0.13), transparent 60%),
-    radial-gradient(520px 320px at 52% 45%, rgba(167, 138, 250, 0.10), transparent 65%);
+  background: var(--glow-bg);
 }
 
 button { font: inherit; color: inherit; background: none; border: none; cursor: pointer; }
@@ -97,7 +165,7 @@ a { color: inherit; }
   box-shadow:
     0 0 0 3px var(--bg),
     0 0 0 5px var(--gold-deep),
-    0 6px 0 5px #0b0619;
+    0 6px 0 5px var(--ink-shadow);
   display: grid; place-items: center;
   flex-shrink: 0;
 }
@@ -219,7 +287,7 @@ a { color: inherit; }
 .cell {
   display: inline-block; min-width: 32px;
   padding: 5px 10px; border-radius: 999px; font-size: 12px; font-weight: 700;
-  color: #fff; background: var(--bg);
+  color: #fff; background: var(--cell-bg);
   border: 1.5px solid rgba(255, 255, 255, 0.55);
   box-shadow: 0 3px 0 rgba(0, 0, 0, 0.28);
 }
@@ -261,7 +329,7 @@ a { color: inherit; }
 .suggestions {
   position: absolute; top: calc(100% + 8px); left: 0; right: 0; z-index: 20;
   background: var(--bg-elev); border: 2px solid var(--stroke);
-  border-radius: 16px; box-shadow: 0 10px 0 #070b18;
+  border-radius: 16px; box-shadow: 0 10px 0 var(--ink-shadow);
   max-height: 280px; overflow-y: auto; list-style: none; padding: 6px;
 }
 .suggestions li {
@@ -300,7 +368,7 @@ a { color: inherit; }
     0 0 0 4px var(--bg),
     0 0 0 6px var(--gold-deep),
     0 0 26px rgba(255, 200, 87, 0.35),
-    0 8px 0 #0b0619;
+    0 8px 0 var(--ink-shadow);
   display: grid; place-items: center;
   animation: medalBob 3s ease-in-out infinite;
 }

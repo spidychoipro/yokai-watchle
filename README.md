@@ -48,6 +48,7 @@ Pick a game and version based on the data-driven roster.
 - **Share**: results are shared as text (🟩🟨⬜).
 - **Sound effects**: WebAudio-synthesized sounds (click / wrong / win), toggleable in settings.
 - **EN/KO**: both the UI and the game data (names, tribes, attributes) are translated; any series shows Korean or English names depending on your language setting.
+- **Light / dark theme**: follows your device by default, with Auto / Light / Dark in settings.
 - **Mascot**: an original "cat yo-kai" silhouette drawn as SVG (no Yo-kai Watch IP), used consistently in the header medal, result screen and favicon.
 
 ## How the data was built

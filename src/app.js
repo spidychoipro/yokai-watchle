@@ -8,7 +8,12 @@
   // ---------- 다국어 ----------
   const I18N = {
     ko: {
+      brandTitle: '요괴워치',
       langName: '한국어',
+      lblTheme: '테마',
+      segThemeSystem: '자동',
+      segThemeLight: '라이트',
+      segThemeDark: '다크',
       pageTitle: '요괴워치 Watchle · 요괴 맞히기',
       pageDesc: '매일 정해진 요괴를 이름으로 맞히는 게임. 랭크·부족·속성 힌트로 요괴 도감을 완성해보세요.',
       shareHead: '요괴워치 즐',
@@ -30,14 +35,14 @@
       helpLi2: '제출할수록 정답과의 거리가 힌트로 드러나요. 횟수 제한은 없어요.',
       helpEx1: '초록 칸 = 정답과 일치',
       helpEx2: '색칠된 칸 = 다르지만 그 요괴의 실제 값이에요',
-      helpEx3: '▲▼ = 랭크가 정답보다 높거나 낮아요',
+      helpEx3: '▲▼ = 정답보다 낮으면 ▲, 높으면 ▼ (번호·랭크)',
       helpEx4: '맞히면 도감에 포획되고, 결과를 공유할 수 있어요',
-      helpExR1Name: '위스퍼',
-      helpExR1Rank: 'D ▲',
-      helpExR1Tribe: '불가사의',
-      helpExR1Attr: '돌풍',
+      helpExR1Name: '무대꼬',
+      helpExR1Rank: 'E ▲',
+      helpExR1Tribe: '용맹',
+      helpExR1Attr: '화염',
       helpExR2Name: '지바냥',
-      helpExR2Rank: 'C',
+      helpExR2Rank: 'D',
       helpExR2Tribe: '프리티',
       helpExR2Attr: '화염',
       settingsH: '설정',
@@ -73,7 +78,12 @@
       unknown: '?'
     },
     en: {
+      brandTitle: 'YO-KAI WATCH',
       langName: 'English',
+      lblTheme: 'Theme',
+      segThemeSystem: 'Auto',
+      segThemeLight: 'Light',
+      segThemeDark: 'Dark',
       pageTitle: 'Yo-kai Watchle · Daily Yo-kai Guess',
       pageDesc: "Guess today's hidden yo-kai by name. Rank, tribe and attribute hints lead you through the Medallium.",
       shareHead: 'Yo-kai Watchle',
@@ -95,14 +105,14 @@
       helpLi2: 'Each guess reveals how close you are. There is no guess limit.',
       helpEx1: 'Green cell = matches the answer',
       helpEx2: 'Colored cell = differs, but shows the real value',
-      helpEx3: '▲▼ = rank is higher or lower than the answer',
+      helpEx3: '▲▼ = ▲ below the answer, ▼ above (number & rank)',
       helpEx4: 'Caught yo-kai are added to the Medallium. Share your results!',
-      helpExR1Name: 'Whisper',
-      helpExR1Rank: 'D ▲',
-      helpExR1Tribe: 'Mysterious',
-      helpExR1Attr: 'Wind',
+      helpExR1Name: 'Pandle',
+      helpExR1Rank: 'E ▲',
+      helpExR1Tribe: 'Brave',
+      helpExR1Attr: 'Fire',
       helpExR2Name: 'Jibanyan',
-      helpExR2Rank: 'C',
+      helpExR2Rank: 'D',
       helpExR2Tribe: 'Charming',
       helpExR2Attr: 'Fire',
       settingsH: 'Settings',
@@ -174,6 +184,7 @@
 
   let state = {
     lang: safeGet('ykw-lang') || 'ko',
+    theme: safeGet('ykw-theme') || 'system',
     mode: safeGet('ykw-mode') === 'practice' ? 'practice' : 'daily',
     gameId: 'ykw1',
     versionId: 'main',
@@ -496,7 +507,7 @@
         chip.style.color = '#000';
       }
       if (k === 'rank' && !ok) {
-        const arrow = rankCompare(guess.rank, state.target.rank) > 0 ? ' ▼' : ' ▲';
+        const arrow = rankCompare(guess.rank, state.target.rank) > 0 ? ' ▲' : ' ▼';
         chip.textContent = v + arrow;
       } else {
         chip.textContent = k === 'rank' ? v : (k === 'tribe' ? tribeLabel(v) : attrLabel(v));
@@ -634,7 +645,18 @@
     document.querySelectorAll('#mode-seg .seg-btn').forEach((b) => {
       b.classList.toggle('active', b.dataset.mode === state.mode);
     });
+    document.querySelectorAll('#theme-seg .seg-btn').forEach((b) => {
+      b.classList.toggle('active', b.dataset.theme === state.theme);
+    });
   }
+
+  function applyTheme() {
+    document.documentElement.dataset.theme = state.theme;
+    const dark = state.theme === 'dark' || (state.theme === 'system' && !getPrefersLight().matches);
+    const tc = $('theme-color');
+    if (tc) tc.content = dark ? '#171033' : '#fbf3e4';
+  }
+  const getPrefersLight = () => window.matchMedia('(prefers-color-scheme: light)');
 
   // ---------- stats panel ----------
   function renderStats() {
@@ -735,9 +757,7 @@
     g.versions.forEach((v) => {
       const o = document.createElement('option');
       o.value = v.id;
-      o.textContent = state.lang === 'ko'
-        ? (g.versions.length > 1 ? v.label.ko + ' · ' + v.label.en : v.label.ko)
-        : v.label.en;
+      o.textContent = state.lang === 'ko' ? v.label.ko : v.label.en;
       if (v.id === state.versionId) o.selected = true;
       vSel.appendChild(o);
     });
@@ -761,6 +781,11 @@
     document.title = T('pageTitle');
     $('meta-desc').content = T('pageDesc');
     $('lang-label').textContent = T('langName');
+    $('brand-title').textContent = T('brandTitle');
+    $('lbl-theme').textContent = T('lblTheme');
+    $('seg-theme-system').textContent = T('segThemeSystem');
+    $('seg-theme-light').textContent = T('segThemeLight');
+    $('seg-theme-dark').textContent = T('segThemeDark');
     $('new-game-btn').textContent = T('newGame');
     $('submit-btn').textContent = T('submit');
     $('guess-input').placeholder = T('placeholder');
@@ -824,6 +849,17 @@
 
   // ---------- events ----------
   function bindEvents() {
+    document.querySelectorAll('#theme-seg .seg-btn').forEach((b) => {
+      b.addEventListener('click', () => {
+        if (state.theme === b.dataset.theme) return;
+        state.theme = b.dataset.theme;
+        safeSet('ykw-theme', state.theme);
+        applyTheme();
+        applySettingsUI();
+        play('click');
+      });
+    });
+
     document.querySelectorAll('#mode-seg .seg-btn').forEach((b) => {
       b.addEventListener('click', () => {
         if (state.mode === b.dataset.mode) return;
@@ -943,8 +979,12 @@
   function init() {
     bindEvents();
     applyLang();
+    applyTheme();
     applySettingsUI();
     startGame();
+    getPrefersLight().addEventListener('change', () => {
+      if (state.theme === 'system') applyTheme();
+    });
   }
 
   window.addEventListener('load', init);

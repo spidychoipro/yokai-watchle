@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title id="page-title">요괴워치 Watchle · 요괴 맞히기</title>
 <meta name="description" id="meta-desc" content="매일 정해진 요괴를 이름으로 맞히는 게임. 랭크·부족·속성 힌트로 요괴 도감을 완성해보세요." />
-<meta name="theme-color" content="#171033" />
+<meta name="theme-color" content="#171033" id="theme-color" />
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' y1='0' x2='0' y2='1'%3E%3Cstop offset='0' stop-color='%23b48cff'/%3E%3Cstop offset='1' stop-color='%236d4bc4'/%3E%3C/linearGradient%3E%3C/defs%3E%3Ccircle cx='50' cy='50' r='46' fill='%23ffc857' opacity='0.35'/%3E%3Ccircle cx='50' cy='57' r='27' fill='url(%23g)'/%3E%3Cpolygon points='38,12 30,32 52,28' fill='url(%23g)'/%3E%3Cpolygon points='62,12 70,32 48,28' fill='url(%23g)'/%3E%3Ccircle cx='41' cy='58' r='5' fill='%23ffc857'/%3E%3Ccircle cx='59' cy='58' r='5' fill='%23ffc857'/%3E%3C/svg%3E" />
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -95,7 +95,7 @@
       <div class="brand">
         <span class="medal" aria-hidden="true"><span class="medal-core"><svg class="ic-medal"><use href="#i-cat"/></svg></span></span>
         <div class="brand-text">
-          <h1 class="brand-title">요괴워치</h1>
+          <h1 class="brand-title" id="brand-title">요괴워치</h1>
           <p class="brand-sub">YO-KAI WATCHLE <svg class="ic-spark" aria-hidden="true"><use href="#i-spark"/></svg> DAILY</p>
         </div>
       </div>
@@ -186,16 +186,16 @@
   </ol>
   <div class="help-example" aria-hidden="true">
     <div class="guess-row cols-all">
-      <span class="col-num arrow-num" id="help-ex-r1-num">▲ 142</span>
-      <span class="col-name" id="help-ex-r1-name">위스퍼</span>
-      <span class="col-rank"><span class="cell" id="help-ex-r1-rank" style="background:#8ab6ff;color:#04240f">D ▲</span></span>
-      <span class="col-tribe"><span class="cell" id="help-ex-r1-tribe" style="background:#8a63ea;color:#fff">불가사의</span></span>
-      <span class="col-attr"><span class="cell correct" id="help-ex-r1-attr">돌풍</span></span>
+      <span class="col-num arrow-num" id="help-ex-r1-num">▲ 1</span>
+      <span class="col-name" id="help-ex-r1-name">무대꼬</span>
+      <span class="col-rank"><span class="cell" id="help-ex-r1-rank" style="background:var(--rank-e);color:#000">E ▲</span></span>
+      <span class="col-tribe"><span class="cell" id="help-ex-r1-tribe" style="background:#49d46e;color:#000">용맹</span></span>
+      <span class="col-attr"><span class="cell correct" id="help-ex-r1-attr">화염</span></span>
     </div>
     <div class="guess-row cols-all">
       <span class="col-num">✓</span>
       <span class="col-name" id="help-ex-r2-name">지바냥</span>
-      <span class="col-rank"><span class="cell correct" id="help-ex-r2-rank">C</span></span>
+      <span class="col-rank"><span class="cell correct" id="help-ex-r2-rank">D</span></span>
       <span class="col-tribe"><span class="cell correct" id="help-ex-r2-tribe">프리티</span></span>
       <span class="col-attr"><span class="cell correct" id="help-ex-r2-attr">화염</span></span>
     </div>
@@ -240,6 +240,14 @@
       <input type="checkbox" id="lang-toggle" />
       <span class="switch-track"></span>
     </label>
+  </div>
+  <div class="set-row">
+    <span id="lbl-theme" class="set-label">테마</span>
+    <div class="seg" id="theme-seg" role="group" aria-label="Theme">
+      <button type="button" class="seg-btn active" data-theme="system"><span id="seg-theme-system">자동</span></button>
+      <button type="button" class="seg-btn" data-theme="light"><span id="seg-theme-light">라이트</span></button>
+      <button type="button" class="seg-btn" data-theme="dark"><span id="seg-theme-dark">다크</span></button>
+    </div>
   </div>
   <div class="set-row hints-row">
     <span id="lbl-hints" class="set-label">힌트 표시</span>
