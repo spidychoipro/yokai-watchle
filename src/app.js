@@ -528,7 +528,7 @@
     input.value = '';
     $('suggestions').classList.add('hidden');
 
-    if (['rank', 'tribe', 'attr'].every((k) => hit[k] === state.target[k])) {
+    if (hit.n === state.target.n) {
       endGame();
       return;
     }
