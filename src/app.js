@@ -487,7 +487,11 @@
       chip.className = 'cell';
       const ok = v === state.target[k];
       if (ok) chip.className += ' correct';
-      else chip.className += ' wrong';
+      else {
+        chip.className += ' wrong';
+        chip.style.background = k === 'rank' ? RANK_COLOR[v] : (k === 'tribe' ? TRIBE_COLOR[v] : ATTR_COLOR[v]);
+        chip.style.color = '#000';
+      }
       if (k === 'rank' && !ok) {
         const arrow = rankCompare(guess.rank, state.target.rank) > 0 ? ' ▲' : ' ▼';
         chip.textContent = v + arrow;
@@ -524,7 +528,7 @@
     input.value = '';
     $('suggestions').classList.add('hidden');
 
-    if (hit.n === state.target.n) {
+    if (['rank', 'tribe', 'attr'].every((k) => hit[k] === state.target[k])) {
       endGame();
       return;
     }

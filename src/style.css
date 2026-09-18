@@ -310,8 +310,7 @@ a { color: inherit; }
   background: var(--bg-soft);
   border-color: var(--stroke-soft);
   color: var(--text-muted);
-  text-decoration: line-through;
-  opacity: 0.92;
+  opacity: 1;
 }
 .cell.wrong::after { content: " ✕"; font-weight: 800; text-decoration: none; }
 @keyframes shake {
