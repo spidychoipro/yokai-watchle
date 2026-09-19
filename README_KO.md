@@ -69,7 +69,7 @@
 
 ```
 yokai-watchle/
-├── src/                 # 게임 본체 (index.html + style.css + app.js + data.js)
+├── src/                 # 게임 본체 (index.html + style.css + data.js + js/ 네이티브 ES 모듈)
 ├── data/                # 수집 원본·중간 산출물 (raw / namu / out)
 ├── tools/               # 데이터 수집·병합·검증 스크립트 (js / py)
 ├── assets/              # README 스크린샷
@@ -106,6 +106,9 @@ python -m http.server 8000
 - **Rev 6.7.2** — 게임/버전 선택부를 다시 설정으로 이동(테마/모드와 같은 세그먼트 칩, '게임/버전' 라벨)해 보드를 깔끔하게 유지
 - **Rev 6.7.3** — 게임/버전 선택을 드롭다운(select)으로 복원, 모바일에서는 상자 높이를 위아래로 늘려 터치 편의성 개선. 설정(모드·게임·버전 전환)을 조작하는 동안 입력칸에 포커스가 가지 않아 모바일 키보드가 뜨지 않도록 수정
 - **Rev 6.7.4** — 입력 중 이름/별명 후보 목록(자동완성) 복원. 입력하면 최대 8명까지 표시되고, 화살표로 이동·Enter/탭으로 선택, Esc로 닫기. 추측 추가·게임 시작 시 목록이 자동으로 닫힘
+- **Rev 7** — 코드 리모델: 926줄 단일 `app.js`를 네이티브 ES 모듈(`src/js/`)로 분리(빌드·외부 의존성·배포 파이프라인·localStorage 호환 무변경). 하루 이상 건너뛰면 연속 기록이 초기화되도록 스트릭 버그 수정, `applyLang` 테이블화로 번역 누락 방지(누락 시 콘솔 경고), 초기 로딩 시 언어 플래시 완화, 자동완성을 접두어 일치 우선으로 정렬
+- **Rev 7.1** — 보안 하드닝: 인라인 스크립트 제거(전 스크립트 `'self'`만 허용)·CSP(script-src 'self', object/media/worker none, base-uri/form-action 제한, upgrade-insecure-requests)·Permissions-Policy(카메라/마이크/위치 등 차단)·Referrer-Policy(엄격). 외부 링크에 `rel="noopener noreferrer"` 추가, `target="_blank"` 역탭나빙 차단. 데이터는 `JSON.stringify` 생성·`textContent` 렌더라 주입 경로 없음, 저장 시크릿 없음
+- **Rev 7.2** — 추측 보드 UX 개선: 추측이 늘어나도 화면이 비대해지지 않도록 보드에 최대 높이(최소 46vh·460px)와 내부 스크롤을 추가하고, 새 추측 행이 생기면 맨 아래로 자동 스크롤되게 함. 게임 복귀 시에도 최신 추측 위치로 시작. 헤더 행은 스크롤 중에도 항상 위에 고정되어 열 구분이 유지됨
 
 ## 라이선스
 

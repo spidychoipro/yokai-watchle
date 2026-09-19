@@ -69,7 +69,7 @@ There are no external runtime dependencies; the static page reads the build arti
 
 ```
 yokai-watchle/
-├── src/                 # the game (index.html + style.css + app.js + data.js)
+├── src/                 # the game (index.html + style.css + data.js + js/ native ES modules)
 ├── data/                # raw sources and intermediate output (raw / namu / out)
 ├── tools/               # data collection / merge / validation scripts (js / py)
 ├── assets/              # README screenshots
@@ -106,6 +106,9 @@ You only need to run the `tools/` pipeline when regenerating `src/data.js`.
 - **Rev 6.7.2** — moved the game/version picker back into Settings (as segmented chips matching Theme/Mode, labeled Game/Version) so the board stays clean
 - **Rev 6.7.3** — restored the game/version picker to dropdowns (selects) and made the boxes taller on mobile for easier tapping. While the Settings modal is open (switching mode/game/version) the guess input is no longer focused, so the mobile keyboard stops popping up
 - **Rev 6.7.4** — restored the name autocomplete while typing: up to 8 matching yo-kai names show as candidates, navigable with arrows and selectable with Enter (or tap); Esc closes the list. The list auto-hides after a guess is submitted or a new game starts
+- **Rev 7** — code remodel: the 926-line single `app.js` was split into native ES modules under `src/js/` (no build step, no external deps; deploy pipeline and localStorage keys unchanged). Fixed a streak bug where the streak never reset after a missed day (now based on KST consecutive days), tabularized `applyLang` so translation keys can't drift silently (warns on console on missing keys), reduced the language flash at first paint, and ranked autocomplete results by prefix-first match
+- **Rev 7.1** — security hardening: removed the inline script (all scripts are `'self'`), added a Content-Security-Policy (script-src 'self', object/media/worker none, restricted base-uri and form-action, upgrade-insecure-requests), a Permissions-Policy that blocks camera/microphone/geolocation etc., and a strict Referrer-Policy. External links now carry `rel="noopener noreferrer"` to prevent reverse tabnabbing. The data file is produced with `JSON.stringify` and all rendering uses `textContent`, so there is no injection path; the repo contains no stored secrets
+- **Rev 7.2** — guess-board UX: the board now has a max height (46vh capped at 460px) with internal scrolling so the page no longer grows unbounded as guesses pile up (no more Ctrl-mouse-wheel zoom-out), auto-scrolls to the newest row on each guess and when resuming, and keeps the column header sticky while scrolling
 
 ## License
 

@@ -216,12 +216,29 @@ a { color: inherit; }
 }
 
 /* ---------- Guess table ---------- */
-.guesses-container { display: flex; flex-direction: column; gap: 8px; margin-bottom: 18px; }
+.guesses-container {
+  display: flex; flex-direction: column; gap: 8px; margin-bottom: 18px;
+  max-height: min(46vh, 460px);
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  scroll-behavior: smooth;
+  scrollbar-width: thin;
+  scrollbar-color: var(--stroke-soft) transparent;
+  padding-right: 2px;
+}
+.guesses-container::-webkit-scrollbar { width: 10px; }
+.guesses-container::-webkit-scrollbar-thumb {
+  background: var(--stroke-soft); border-radius: 999px;
+  border: 2px solid var(--bg-elev);
+}
+.guesses-container::-webkit-scrollbar-track { background: transparent; }
 
 .guess-header, .guess-row {
   display: grid; align-items: center; width: 100%;
 }
 .guess-header {
+  position: sticky; top: 0; z-index: 1;
+  background: var(--bg-elev);
   color: var(--text-muted); font-size: 10px; letter-spacing: 0.18em;
   text-transform: uppercase;
   padding: 0 6px 6px; border-bottom: 1px dashed var(--stroke);
