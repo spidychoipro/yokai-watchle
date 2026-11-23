@@ -14,6 +14,15 @@ import { renderBoard, markFreshRow, renderResult, renderModeInfo } from './board
 const MODALS = ['help-modal', 'stats-modal', 'settings-modal'];
 const T = (key) => t(state.lang, key);
 
+function setFeedback(msg) {
+  const el = $('guess-feedback');
+  if (el) el.textContent = msg || '';
+}
+function canReset(msg) {
+  if (!state.guesses.length) return true;
+  return window.confirm(msg);
+}
+
 // ---------- game flow ----------
 function startGame() {
   const g = gameById(state.gameId);
@@ -46,13 +55,17 @@ function startGame() {
 renderBoard({ toBottom: state.guesses.length > 0 });
   }
   $('guess-input').value = '';
+  setFeedback('');
   $('suggestions').classList.add('hidden');
+  $('guess-input').setAttribute('aria-expanded', 'false');
+  $('guess-input').removeAttribute('aria-activedescendant');
   if (!state.over && !$('backdrop').classList.contains('show')) $('guess-input').focus();
   $('new-game-btn').hidden = state.mode === 'daily';
   renderModeInfo();
 }
 
 function playAgain() {
+  if (state.mode === 'practice' && !canReset(T('confirmNewGame'))) return;
   if (state.mode === 'daily') { try { localStorage.removeItem(dailyKey()); } catch (e) {} }
   startGame();
 }
@@ -65,18 +78,34 @@ function submitGuess() {
   if (state.over) return;
   const input = $('guess-input');
   const raw = normalize(input.value);
-  if (!raw) return;
+  if (!raw) {
+    setFeedback(T('emptyName'));
+    input.focus();
+    return;
+  }
   const hit = roster().find((y) => normalize(y.en) === raw || (y.ko && normalize(y.ko) === raw));
   if (!hit) {
+    setFeedback(T('invalidName'));
     input.classList.remove('shake'); void input.offsetWidth; input.classList.add('shake');
     play('wrong');
     return;
   }
-  if (state.guesses.some((g) => g.n === hit.n)) { input.value = ''; $('suggestions').classList.add('hidden'); return; }
+  if (state.guesses.some((g) => g.n === hit.n)) {
+    setFeedback(T('duplicateGuess'));
+    input.value = '';
+    $('suggestions').classList.add('hidden');
+    input.setAttribute('aria-expanded', 'false');
+    input.removeAttribute('aria-activedescendant');
+    play('wrong');
+    return;
+  }
 
+  setFeedback('');
   state.guesses.push(hit);
   input.value = '';
   $('suggestions').classList.add('hidden');
+  input.setAttribute('aria-expanded', 'false');
+  input.removeAttribute('aria-activedescendant');
 
   if (hit.n === state.target.n) {
     endGame();
@@ -193,15 +222,26 @@ function fillVersionSelect() {
 }
 
 // ---------- modals ----------
+let openModalId = null;
+let lastFocused = null;
+
 function openModal(id) {
   closeModals();
+  lastFocused = document.activeElement;
+  openModalId = id;
   $(id).classList.remove('hidden');
   $('backdrop').classList.add('show');
+  const first = $(id).querySelector('button, [href], input, select, [tabindex]:not([tabindex="-1"])');
+  if (first) first.focus();
 }
 function closeModals() {
   MODALS.forEach((id) => { const el = $(id); if (el) el.classList.add('hidden'); });
   const b = $('backdrop');
   if (b) b.classList.remove('show');
+  const wasOpen = openModalId;
+  openModalId = null;
+  if (wasOpen && lastFocused && document.contains(lastFocused)) lastFocused.focus();
+  lastFocused = null;
 }
 
 // ---------- language ----------
@@ -239,6 +279,8 @@ function applyLang() {
   LANG_TEXTS.forEach(([id, key]) => { const el = $(id); if (el) el.textContent = T(key); });
 
   $('guess-input').placeholder = T('placeholder');
+  $('guess-input').setAttribute('aria-label', T('guessLabel'));
+  $('suggestions').setAttribute('aria-label', T('suggestLabel'));
 
   Object.keys(LANG_TITLES).forEach((id) => { $(id).title = T(LANG_TITLES[id]); });
   Object.keys(LANG_ARIAS).forEach((id) => { $(id).setAttribute('aria-label', T(LANG_ARIAS[id])); });
@@ -263,7 +305,13 @@ function applyLang() {
 function suggest(q) {
   const val = normalize(q);
   const ul = $('suggestions');
-  if (!val) { ul.classList.add('hidden'); return; }
+  const input = $('guess-input');
+  if (!val) {
+    ul.classList.add('hidden');
+    input.setAttribute('aria-expanded', 'false');
+    input.removeAttribute('aria-activedescendant');
+    return;
+  }
   const matches = roster()
     .map((y) => {
       const iEn = normalize(y.en).indexOf(val);
@@ -276,17 +324,25 @@ function suggest(q) {
     .slice(0, 8)
     .map((m) => m.y);
   ul.innerHTML = '';
-  matches.forEach((y) => {
+  matches.forEach((y, i) => {
     const li = document.createElement('li');
+    li.id = 'suggestion-' + i;
+    li.setAttribute('role', 'option');
+    li.setAttribute('aria-selected', 'false');
     li.textContent = '#' + String(y.n).padStart(3, '0') + ' ' + entryName(y);
     li.addEventListener('click', () => {
-      $('guess-input').value = entryName(y);
+      input.value = entryName(y);
       ul.classList.add('hidden');
+      input.setAttribute('aria-expanded', 'false');
+      input.removeAttribute('aria-activedescendant');
       submitGuess();
     });
     ul.appendChild(li);
   });
-  ul.classList.toggle('hidden', matches.length === 0);
+  const open = matches.length > 0;
+  ul.classList.toggle('hidden', !open);
+  input.setAttribute('aria-expanded', String(open));
+  if (!open) input.removeAttribute('aria-activedescendant');
 }
 
 // ---------- events ----------
@@ -305,6 +361,7 @@ function bindEvents() {
   document.querySelectorAll('#mode-seg .seg-btn').forEach((b) => {
     b.addEventListener('click', () => {
       if (state.mode === b.dataset.mode) return;
+      if (!canReset(T('confirmSwitch'))) return;
       state.mode = b.dataset.mode;
       safeSet('ykw-mode', state.mode);
       applySettingsUI();
@@ -316,6 +373,7 @@ function bindEvents() {
   $('game-select').addEventListener('change', (e) => {
     const g = gameById(e.target.value);
     if (!g) return;
+    if (!canReset(T('confirmSwitch'))) { fillSelects(); return; }
     state.gameId = g.id;
     state.versionId = g.versions[0].id;
     fillVersionSelect();
@@ -323,6 +381,7 @@ function bindEvents() {
   });
 
   $('version-select').addEventListener('change', (e) => {
+    if (!canReset(T('confirmSwitch'))) { fillVersionSelect(); return; }
     state.versionId = e.target.value;
     startGame();
   });
@@ -330,7 +389,10 @@ function bindEvents() {
   $('new-game-btn').addEventListener('click', playAgain);
 
   $('guess-form').addEventListener('submit', (e) => { e.preventDefault(); submitGuess(); });
-  $('guess-input').addEventListener('input', () => suggest($('guess-input').value));
+  $('guess-input').addEventListener('input', () => {
+    setFeedback('');
+    suggest($('guess-input').value);
+  });
   $('guess-input').addEventListener('keydown', (e) => {
     if (e.key === 'ArrowDown' || e.key === 'ArrowUp') {
       const lis = $('suggestions').querySelectorAll('li');
@@ -339,13 +401,17 @@ function bindEvents() {
       if (lis.length) {
         e.preventDefault();
         const next = e.key === 'ArrowDown' ? (idx + 1) % lis.length : (idx - 1 + lis.length) % lis.length;
-        lis.forEach((li) => li.classList.remove('highlighted'));
+        lis.forEach((li, i) => {
+          li.classList.remove('highlighted');
+          li.setAttribute('aria-selected', String(i === next));
+        });
         lis[next].classList.add('highlighted');
+        $('guess-input').setAttribute('aria-activedescendant', lis[next].id);
       }
     } else if (e.key === 'Enter') {
       const sel = $('suggestions').querySelector('li.highlighted');
       if (sel) { e.preventDefault(); sel.click(); }
-    } else if (e.key === 'Escape') { $('suggestions').classList.add('hidden'); }
+    }
   });
 
   $('help-btn').addEventListener('click', () => openModal('help-modal'));
@@ -354,7 +420,24 @@ function bindEvents() {
 
   document.querySelectorAll('.modal-close').forEach((b) => b.addEventListener('click', closeModals));
   $('backdrop').addEventListener('click', (e) => { if (e.target === $('backdrop')) closeModals(); });
-  document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeModals(); });
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') {
+      const ul = $('suggestions');
+      if (!ul.classList.contains('hidden')) {
+        ul.classList.add('hidden');
+        $('guess-input').setAttribute('aria-expanded', 'false');
+        $('guess-input').removeAttribute('aria-activedescendant');
+      } else closeModals();
+      return;
+    }
+    if (e.key !== 'Tab' || !openModalId) return;
+    const panel = $(openModalId);
+    const focusables = Array.from(panel.querySelectorAll('button:not([disabled]), [href], input:not([disabled]), select:not([disabled]), [tabindex]:not([tabindex="-1"])'));
+    if (!focusables.length) return;
+    const first = focusables[0], last = focusables[focusables.length - 1];
+    if (e.shiftKey && document.activeElement === first) { e.preventDefault(); last.focus(); }
+    else if (!e.shiftKey && document.activeElement === last) { e.preventDefault(); first.focus(); }
+  });
 
   $('share-btn').addEventListener('click', () => { play('click'); doShare(); });
   $('play-again-btn').addEventListener('click', playAgain);
@@ -382,6 +465,7 @@ function bindEvents() {
   });
 
   $('lang-toggle').addEventListener('change', (e) => {
+    if (!canReset(T('confirmSwitch'))) { e.target.checked = state.lang === 'en'; return; }
     state.lang = e.target.checked ? 'en' : 'ko';
     safeSet('ykw-lang', state.lang);
     applyLang();
