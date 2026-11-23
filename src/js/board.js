@@ -129,7 +129,8 @@ export function renderResult() {
 export function renderModeInfo() {
   const practice = state.mode === 'practice';
   let line = (practice ? T('practiceMode') : T('todayLine'));
-  line += ' · ' + T('guessCounter').replace('{n}', String(state.guesses.length));
+  const countKey = state.guesses.length === 1 ? 'guessCounterOne' : 'guessCounter';
+  line += ' · ' + T(countKey).replace('{n}', String(state.guesses.length));
   $('mode-info').textContent = line;
   const bm = $('brand-mode');
   if (bm) bm.textContent = practice ? 'PRACTICE' : 'DAILY';

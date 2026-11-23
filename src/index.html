@@ -132,12 +132,18 @@
             type="text"
             class="text-input"
             autocomplete="off"
+            role="combobox"
+            aria-autocomplete="list"
+            aria-expanded="false"
+            aria-controls="suggestions"
+            aria-describedby="guess-feedback"
             placeholder="요괴 이름 입력..."
           />
-          <ul id="suggestions" class="suggestions hidden"></ul>
+          <ul id="suggestions" class="suggestions hidden" role="listbox"></ul>
         </div>
         <button type="submit" class="btn-primary" id="submit-btn">맞혀보기</button>
       </form>
+      <p id="guess-feedback" class="guess-feedback" role="status" aria-live="polite"></p>
       <button id="new-game-btn" class="link-btn">새 게임</button>
     </section>
 
